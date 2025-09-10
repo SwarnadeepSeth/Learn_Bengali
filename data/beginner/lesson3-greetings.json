@@ -1,0 +1,31 @@
+{
+  "id": "lesson3-greetings",
+  "title": "Essential Greetings",
+  "category": "beginner",
+  "description": "Basic greetings and polite expressions",
+  "type": "phrase_learning",
+  "total_items": 15,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "নমস্কার", "english": "Hello", "phonetic": "Namaskar", "pronunciation_guide": "Naw-mosh-kar", "audio_tip": "Say with a slight bow", "category": "greetings" },
+    { "bengali": "শুভ সকাল", "english": "Good morning", "phonetic": "Shubho shokal", "pronunciation_guide": "Shub-ho sho-kal", "audio_tip": "Used until about 10 AM", "category": "greetings" },
+    { "bengali": "ধন্যবাদ", "english": "Thank you", "phonetic": "Dhonnobad", "pronunciation_guide": "Dhon-no-bad", "audio_tip": "Essential for polite conversation", "category": "politeness" },
+    { "bengali": "হ্যাঁ", "english": "Yes", "phonetic": "Hya", "pronunciation_guide": "Hya", "audio_tip": "Short and sharp pronunciation", "category": "basic" },
+    { "bengali": "না", "english": "No", "phonetic": "Na", "pronunciation_guide": "Na", "audio_tip": "Simple and clear", "category": "basic" },
+    { "bengali": "দয়া করে", "english": "Please", "phonetic": "Doya kore", "pronunciation_guide": "Doy-a ko-re", "audio_tip": "Used to make polite requests", "category": "politeness" },
+    { "bengali": "মাফ করবেন", "english": "Sorry/Excuse me", "phonetic": "Maaf korben", "pronunciation_guide": "Maaf kor-ben", "audio_tip": "Formal way to apologize", "category": "politeness" },
+    { "bengali": "আমার নাম...", "english": "My name is...", "phonetic": "Amar naam...", "pronunciation_guide": "A-mar nam...", "audio_tip": "Follow with your name", "category": "introduction" },
+    { "bengali": "আপনি কেমন আছেন?", "english": "How are you?", "phonetic": "Apni kemon achhen?", "pronunciation_guide": "Ap-ni ke-mon ach-hen?", "audio_tip": "Formal way to ask", "category": "conversation" },
+    { "bengali": "আমি ভালো আছি", "english": "I am fine", "phonetic": "Ami bhalo achhi", "pronunciation_guide": "A-mi bha-lo ach-hi", "audio_tip": "Common response", "category": "conversation" },
+    { "bengali": "জল", "english": "Water", "phonetic": "Jol", "pronunciation_guide": "Jol", "audio_tip": "Essential word for travelers", "category": "basic_needs" },
+    { "bengali": "খাবার", "english": "Food", "phonetic": "Khabar", "pronunciation_guide": "Kha-bar", "audio_tip": "General word for food", "category": "basic_needs" },
+    { "bengali": "আমি বুঝতে পারছি না", "english": "I don't understand", "phonetic": "Ami bujhte parchi na", "pronunciation_guide": "A-mi buj-te par-chi na", "audio_tip": "Very useful for beginners", "category": "communication" },
+    { "bengali": "আপনি কি ইংরেজি বলেন?", "english": "Do you speak English?", "phonetic": "Apni ki Ingreji bolen?", "pronunciation_guide": "Ap-ni ki In-gre-ji bo-len?", "audio_tip": "Helpful when struggling", "category": "communication" },
+    { "bengali": "ভাত", "english": "Rice", "phonetic": "Bhat", "pronunciation_guide": "Bhat", "audio_tip": "Staple food in Bengali cuisine", "category": "food" }
+  ],
+  "quiz_questions": [
+    { "question": "How do you say 'Hello' in Bengali?", "options": ["ধন্যবাদ (Dhonnobad)", "নমস্কার (Namaskar)", "মাফ করবেন (Maaf korben)", "শুভ সকাল (Shubho shokal)"], "correct_answer": 1, "explanation": "'নমস্কার' (Namaskar) is the common way to say hello in Bengali", "bengali_focus": "নমস্কার", "phonetic_focus": "Namaskar" },
+    { "question": "What is the Bengali word for 'Thank you'?", "options": ["নমস্কার (Namaskar)", "ধন্যবাদ (Dhonnobad)", "দয়া করে (Doya kore)", "মাফ করবেন (Maaf korben)"], "correct_answer": 1, "explanation": "'ধন্যবাদ' (Dhonnobad) means 'thank you' in Bengali", "bengali_focus": "ধন্যবাদ", "phonetic_focus": "Dhonnobad" },
+    { "question": "How do you say 'Good morning' in Bengali?", "options": ["শুভ রাত্রি (Shubho ratri)", "শুভ সন্ধ্যা (Shubho shondha)", "শুভ সকাল (Shubho shokal)", "নমস্কার (Namaskar)"], "correct_answer": 2, "explanation": "'শুভ সকাল' (Shubho shokal) means 'good morning' in Bengali", "bengali_focus": "শুভ সকাল", "phonetic_focus": "Shubho shokal" }
+  ]
+}

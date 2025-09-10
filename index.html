@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn Bengali - Interactive Language Learning</title>
+    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="styles/components.css">
+    <link rel="stylesheet" href="styles/responsive.css">
+</head>
+<body>
+    <div id="app">
+        <!-- Home Screen -->
+        <div id="home-screen" class="screen active">
+            <div class="container">
+                <header class="app-header">
+                    <h1 class="app-title">Learn Bengali</h1>
+                    <p class="app-subtitle">Master Bengali script and conversation step by step</p>
+                </header>
+
+                <div class="categories-container">
+                    <!-- Categories will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Category Screen -->
+        <div id="category-screen" class="screen">
+            <div class="container">
+                <header class="screen-header">
+                    <button class="back-button" id="back-to-home">← Home</button>
+                    <div class="breadcrumb">
+                        <span class="category-name"></span>
+                    </div>
+                </header>
+
+                <div class="lessons-container">
+                    <h2 class="section-title">Lessons</h2>
+                    <div class="lessons-grid" id="lessons-grid">
+                        <!-- Lessons will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Teaching Screen -->
+        <div id="teaching-screen" class="screen">
+            <div class="container">
+                <header class="screen-header">
+                    <button class="back-button" id="back-to-category">← Lessons</button>
+                    <div class="breadcrumb">
+                        <span class="category-name"></span> > <span class="lesson-name"></span>
+                    </div>
+                </header>
+
+                <div class="lesson-container">
+                    <div class="lesson-progress">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="lesson-progress-fill"></div>
+                        </div>
+                        <span class="progress-text" id="lesson-progress-text">0 / 0</span>
+                    </div>
+
+                    <div class="teaching-card" id="teaching-card">
+                        <!-- Teaching content will be populated here -->
+                    </div>
+
+                    <div class="navigation-buttons">
+                        <button class="nav-button" id="prev-button" disabled>Previous</button>
+                        <button class="nav-button primary" id="next-button">Next</button>
+                        <button class="nav-button success" id="quiz-button" style="display: none;">Take Quiz</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen">
+            <div class="container">
+                <header class="screen-header">
+                    <button class="back-button" id="back-to-lesson">← Back to Lesson</button>
+                    <div class="breadcrumb">
+                        <span class="category-name"></span> > <span class="lesson-name"></span> > Quiz
+                    </div>
+                </header>
+
+                <div class="quiz-container">
+                    <div class="quiz-progress">
+                        <div class="progress-bar">
+                            <div class="progress-fill" id="quiz-progress-fill"></div>
+                        </div>
+                        <span class="progress-text" id="quiz-progress-text">Question 0 / 0</span>
+                    </div>
+
+                    <div class="quiz-card" id="quiz-card">
+                        <!-- Quiz content will be populated here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Loading Screen -->
+        <div id="loading-screen" class="screen">
+            <div class="loading-container">
+                <div class="loading-spinner"></div>
+                <p>Loading lesson...</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- JavaScript Files - Order is important -->
+    <script src="js/utils.js"></script>
+    <script src="js/lessonLoader.js"></script>
+    <script src="js/components.js"></script>
+    <script src="js/navigation.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

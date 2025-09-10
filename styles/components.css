@@ -1,0 +1,378 @@
+/* Component Styles - Bengali Learning App */
+
+/* Lessons Grid */
+.section-title {
+  font-size: 2rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-xl);
+  text-align: center;
+}
+
+.lessons-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: var(--spacing-lg);
+  margin-bottom: var(--spacing-2xl);
+}
+
+/* Lesson Cards */
+.lesson-card {
+  background: var(--color-surface);
+  border-radius: var(--border-radius-lg);
+  padding: var(--spacing-lg);
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 1px solid var(--color-border);
+  position: relative;
+}
+
+.lesson-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--color-primary);
+}
+
+.lesson-card.completed::before {
+  content: "✓";
+  position: absolute;
+  top: var(--spacing-md);
+  right: var(--spacing-md);
+  background: var(--color-success);
+  color: white;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+.lesson-title {
+  font-size: 1.3rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-sm);
+}
+
+.lesson-description {
+  color: var(--color-text-muted);
+  font-size: 0.9rem;
+  margin-bottom: var(--spacing-md);
+  line-height: 1.5;
+}
+
+.lesson-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  font-size: 0.8rem;
+  color: var(--color-text-muted);
+}
+
+.lesson-items {
+  background: var(--color-background);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius);
+}
+
+.lesson-time {
+  background: var(--color-primary);
+  color: white;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border-radius: var(--border-radius);
+}
+
+/* Teaching Content */
+.lesson-container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.lesson-progress {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-md);
+  background: var(--color-surface);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.lesson-progress .progress-bar {
+  width: 200px;
+  height: 12px;
+}
+
+.teaching-card {
+  background: var(--color-surface);
+  border-radius: var(--border-radius-lg);
+  padding: var(--spacing-2xl);
+  box-shadow: var(--shadow-lg);
+  text-align: center;
+  margin-bottom: var(--spacing-xl);
+  border: 2px solid var(--color-border);
+  transition: all 0.3s ease;
+}
+
+.teaching-card:hover {
+  border-color: var(--color-primary);
+}
+
+.teaching-bengali {
+  font-family: var(--font-family-bengali);
+  font-size: 4rem;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-lg);
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.teaching-bengali:hover {
+  transform: scale(1.05);
+}
+
+.teaching-english {
+  font-size: 1.5rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+}
+
+.teaching-phonetic {
+  font-size: 1.8rem;
+  color: var(--color-primary);
+  font-style: italic;
+  margin-bottom: var(--spacing-lg);
+  font-weight: 500;
+}
+
+.teaching-guide {
+  font-size: 1.1rem;
+  color: var(--color-text-muted);
+  margin-bottom: var(--spacing-sm);
+}
+
+.teaching-tip {
+  font-size: 0.9rem;
+  color: var(--color-secondary);
+  background: rgba(16, 185, 129, 0.1);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-radius: var(--border-radius);
+  border-left: 4px solid var(--color-secondary);
+}
+
+.teaching-number {
+  font-size: 1.2rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-sm);
+  font-weight: 600;
+}
+
+/* Navigation Buttons */
+.navigation-buttons {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-top: var(--spacing-xl);
+}
+
+.nav-button {
+  padding: var(--spacing-md) var(--spacing-xl);
+  border: 1px solid var(--color-border);
+  border-radius: var(--border-radius);
+  background: var(--color-surface);
+  color: var(--color-text);
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  min-width: 120px;
+}
+
+.nav-button:hover:not(:disabled) {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow);
+}
+
+.nav-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.nav-button.primary {
+  background: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.nav-button.primary:hover:not(:disabled) {
+  background: var(--color-primary-dark);
+  border-color: var(--color-primary-dark);
+}
+
+.nav-button.success {
+  background: var(--color-success);
+  color: white;
+  border-color: var(--color-success);
+}
+
+.nav-button.success:hover:not(:disabled) {
+  background: var(--color-secondary);
+  border-color: var(--color-secondary);
+}
+
+/* Quiz Components */
+.quiz-container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.quiz-progress {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-xl);
+  padding: var(--spacing-md);
+  background: var(--color-surface);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow);
+}
+
+.quiz-progress .progress-bar {
+  width: 250px;
+  height: 12px;
+}
+
+.quiz-card {
+  background: var(--color-surface);
+  border-radius: var(--border-radius-lg);
+  padding: var(--spacing-2xl);
+  box-shadow: var(--shadow-lg);
+  margin-bottom: var(--spacing-xl);
+  border: 2px solid var(--color-border);
+}
+
+.quiz-question {
+  font-size: 1.3rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-xl);
+  text-align: center;
+  line-height: 1.5;
+}
+
+.quiz-bengali-focus {
+  font-family: var(--font-family-bengali);
+  font-size: 2rem;
+  color: var(--color-primary);
+  font-weight: bold;
+}
+
+.quiz-phonetic-focus {
+  color: var(--color-primary);
+  font-style: italic;
+  font-weight: 500;
+}
+
+.quiz-options {
+  display: grid;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-xl);
+}
+
+.quiz-option {
+  padding: var(--spacing-lg);
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  background: var(--color-surface);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 1.1rem;
+  text-align: left;
+}
+
+.quiz-option:hover {
+  border-color: var(--color-primary);
+  background: rgba(37, 99, 235, 0.05);
+}
+
+.quiz-option.selected {
+  border-color: var(--color-primary);
+  background: rgba(37, 99, 235, 0.1);
+}
+
+.quiz-option.correct {
+  border-color: var(--color-success);
+  background: rgba(16, 185, 129, 0.1);
+  color: var(--color-success);
+}
+
+.quiz-option.incorrect {
+  border-color: var(--color-danger);
+  background: rgba(220, 38, 38, 0.1);
+  color: var(--color-danger);
+}
+
+.quiz-option.disabled {
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.quiz-feedback {
+  background: var(--color-background);
+  padding: var(--spacing-lg);
+  border-radius: var(--border-radius);
+  margin-bottom: var(--spacing-lg);
+  border-left: 4px solid var(--color-success);
+}
+
+.quiz-feedback.incorrect {
+  border-left-color: var(--color-danger);
+}
+
+.quiz-explanation {
+  color: var(--color-text-muted);
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.quiz-results {
+  text-align: center;
+  padding: var(--spacing-2xl);
+  background: var(--color-surface);
+  border-radius: var(--border-radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+
+.quiz-score {
+  font-size: 3rem;
+  font-weight: bold;
+  color: var(--color-success);
+  margin-bottom: var(--spacing-md);
+}
+
+.quiz-percentage {
+  font-size: 2rem;
+  color: var(--color-primary);
+  margin-bottom: var(--spacing-md);
+}
+
+.quiz-message {
+  font-size: 1.2rem;
+  color: var(--color-text);
+  margin-bottom: var(--spacing-xl);
+}
+
+.quiz-actions {
+  display: flex;
+  justify-content: center;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}

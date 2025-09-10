@@ -1,0 +1,26 @@
+{
+  "id": "lesson1-vowels",
+  "title": "Bengali Vowels",
+  "category": "beginner",
+  "description": "Learn the 10 fundamental Bengali vowel sounds",
+  "type": "script_learning",
+  "total_items": 10,
+  "estimated_time": "15 minutes",
+  "teaching_content": [
+    { "bengali": "অ", "english": "a", "phonetic": "o", "pronunciation_guide": "like 'o' in 'hot'", "audio_tip": "similar to 'a' in 'call'" },
+    { "bengali": "আ", "english": "aa", "phonetic": "aa", "pronunciation_guide": "like 'a' in 'father'", "audio_tip": "long 'aa' sound" },
+    { "bengali": "ই", "english": "i", "phonetic": "i", "pronunciation_guide": "like 'i' in 'machine'", "audio_tip": "short 'i' sound" },
+    { "bengali": "ঈ", "english": "ii", "phonetic": "ii", "pronunciation_guide": "longer 'i' sound", "audio_tip": "extended 'i'" },
+    { "bengali": "উ", "english": "u", "phonetic": "u", "pronunciation_guide": "like 'u' in 'put'", "audio_tip": "short 'u' sound" },
+    { "bengali": "ঊ", "english": "uu", "phonetic": "uu", "pronunciation_guide": "longer 'u' sound", "audio_tip": "extended 'u'" },
+    { "bengali": "এ", "english": "e", "phonetic": "e", "pronunciation_guide": "like 'e' in 'bed'", "audio_tip": "clear 'e' sound" },
+    { "bengali": "ঐ", "english": "oi", "phonetic": "oi", "pronunciation_guide": "like 'oy' in 'boy'", "audio_tip": "diphthong sound" },
+    { "bengali": "ও", "english": "o", "phonetic": "o", "pronunciation_guide": "like 'o' in 'go'", "audio_tip": "clear 'o' sound" },
+    { "bengali": "ঔ", "english": "ou", "phonetic": "ou", "pronunciation_guide": "like 'ow' in 'cow'", "audio_tip": "diphthong sound" }
+  ],
+  "quiz_questions": [
+    { "question": "What does the Bengali letter 'অ' sound like?", "options": ["Like 'a' in father", "Like 'o' in hot", "Like 'e' in bed", "Like 'i' in machine"], "correct_answer": 1, "explanation": "The letter 'অ' makes an 'o' sound similar to the 'a' in 'call' or 'o' in 'hot'", "bengali_focus": "অ", "phonetic_focus": "o" },
+    { "question": "Which Bengali vowel represents the long 'aa' sound?", "options": ["অ (o)", "আ (aa)", "ই (i)", "উ (u)"], "correct_answer": 1, "explanation": "'আ' represents the long 'aa' sound like 'a' in 'father'", "bengali_focus": "আ", "phonetic_focus": "aa" },
+    { "question": "How do you write the 'i' sound in Bengali?", "options": ["অ (o)", "আ (aa)", "ই (i)", "এ (e)"], "correct_answer": 2, "explanation": "'ই' represents the 'i' sound like in 'machine'", "bengali_focus": "ই", "phonetic_focus": "i" }
+  ]
+}

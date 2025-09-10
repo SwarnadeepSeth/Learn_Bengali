@@ -1,0 +1,26 @@
+{
+  "id": "lesson4-numbers",
+  "title": "Numbers 1-10",
+  "category": "beginner",
+  "description": "Learn to count in Bengali",
+  "type": "number_learning",
+  "total_items": 10,
+  "estimated_time": "10 minutes",
+  "teaching_content": [
+    { "number": 1, "bengali": "এক", "english": "One", "phonetic": "ek", "pronunciation_guide": "ek", "audio_tip": "Short and clear" },
+    { "number": 2, "bengali": "দুই", "english": "Two", "phonetic": "dui", "pronunciation_guide": "du-i", "audio_tip": "Two syllables" },
+    { "number": 3, "bengali": "তিন", "english": "Three", "phonetic": "tin", "pronunciation_guide": "tin", "audio_tip": "Like 'teen' but shorter" },
+    { "number": 4, "bengali": "চার", "english": "Four", "phonetic": "char", "pronunciation_guide": "char", "audio_tip": "Like 'char' in charcoal" },
+    { "number": 5, "bengali": "পাঁচ", "english": "Five", "phonetic": "panch", "pronunciation_guide": "panch", "audio_tip": "Like 'punch' but softer" },
+    { "number": 6, "bengali": "ছয়", "english": "Six", "phonetic": "choy", "pronunciation_guide": "choy", "audio_tip": "Like 'choice' without 'ce'" },
+    { "number": 7, "bengali": "সাত", "english": "Seven", "phonetic": "saat", "pronunciation_guide": "saat", "audio_tip": "Long 'a' sound" },
+    { "number": 8, "bengali": "আট", "english": "Eight", "phonetic": "aat", "pronunciation_guide": "aat", "audio_tip": "Long 'a' sound" },
+    { "number": 9, "bengali": "নয়", "english": "Nine", "phonetic": "noy", "pronunciation_guide": "noy", "audio_tip": "Like 'no' + 'y'" },
+    { "number": 10, "bengali": "দশ", "english": "Ten", "phonetic": "dosh", "pronunciation_guide": "dosh", "audio_tip": "Like 'dash' with 'o'" }
+  ],
+  "quiz_questions": [
+    { "question": "How do you write the number '1' in Bengali?", "options": ["দুই (dui)", "এক (ek)", "তিন (tin)", "চার (char)"], "correct_answer": 1, "explanation": "'এক' (ek) means 'one' in Bengali", "bengali_focus": "এক", "phonetic_focus": "ek" },
+    { "question": "What number does 'পাঁচ' (panch) represent?", "options": ["3", "4", "5", "6"], "correct_answer": 2, "explanation": "'পাঁচ' (panch) means 'five' in Bengali", "bengali_focus": "পাঁচ", "phonetic_focus": "panch" },
+    { "question": "How do you say 'ten' in Bengali?", "options": ["নয় (noy)", "দশ (dosh)", "আট (aat)", "সাত (saat)"], "correct_answer": 1, "explanation": "'দশ' (dosh) means 'ten' in Bengali", "bengali_focus": "দশ", "phonetic_focus": "dosh" }
+  ]
+}

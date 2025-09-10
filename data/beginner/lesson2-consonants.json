@@ -1,0 +1,36 @@
+{
+  "id": "lesson2-consonants",
+  "title": "Bengali Consonants",
+  "category": "beginner",
+  "description": "Master 20 essential consonant sounds",
+  "type": "script_learning",
+  "total_items": 20,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    { "bengali": "ক", "english": "ka", "phonetic": "ko", "pronunciation_guide": "like 'k' in 'kite'", "audio_tip": "hard 'k' sound" },
+    { "bengali": "খ", "english": "kha", "phonetic": "kho", "pronunciation_guide": "aspirated 'k' sound", "audio_tip": "breathy 'k'" },
+    { "bengali": "গ", "english": "ga", "phonetic": "go", "pronunciation_guide": "like 'g' in 'go'", "audio_tip": "hard 'g' sound" },
+    { "bengali": "ঘ", "english": "gha", "phonetic": "gho", "pronunciation_guide": "aspirated 'g' sound", "audio_tip": "breathy 'g'" },
+    { "bengali": "চ", "english": "cha", "phonetic": "cho", "pronunciation_guide": "like 'ch' in 'chair'", "audio_tip": "soft 'ch' sound" },
+    { "bengali": "জ", "english": "ja", "phonetic": "jo", "pronunciation_guide": "like 'j' in 'jar'", "audio_tip": "soft 'j' sound" },
+    { "bengali": "ট", "english": "ta", "phonetic": "To", "pronunciation_guide": "retroflex 't' sound", "audio_tip": "tongue curled back" },
+    { "bengali": "ড", "english": "da", "phonetic": "Do", "pronunciation_guide": "retroflex 'd' sound", "audio_tip": "tongue curled back" },
+    { "bengali": "ত", "english": "ta", "phonetic": "to", "pronunciation_guide": "dental 't' sound", "audio_tip": "tongue on teeth" },
+    { "bengali": "দ", "english": "da", "phonetic": "do", "pronunciation_guide": "dental 'd' sound", "audio_tip": "tongue on teeth" },
+    { "bengali": "ন", "english": "na", "phonetic": "no", "pronunciation_guide": "like 'n' in 'name'", "audio_tip": "clear 'n' sound" },
+    { "bengali": "প", "english": "pa", "phonetic": "po", "pronunciation_guide": "like 'p' in 'pen'", "audio_tip": "hard 'p' sound" },
+    { "bengali": "ব", "english": "ba", "phonetic": "bo", "pronunciation_guide": "like 'b' in 'bat'", "audio_tip": "soft 'b' sound" },
+    { "bengali": "ম", "english": "ma", "phonetic": "mo", "pronunciation_guide": "like 'm' in 'mother'", "audio_tip": "nasal 'm' sound" },
+    { "bengali": "য", "english": "ya", "phonetic": "jo", "pronunciation_guide": "like 'j' in 'yes'", "audio_tip": "soft 'y/j' sound" },
+    { "bengali": "র", "english": "ra", "phonetic": "ro", "pronunciation_guide": "like 'r' in 'red'", "audio_tip": "rolled 'r' sound" },
+    { "bengali": "ল", "english": "la", "phonetic": "lo", "pronunciation_guide": "like 'l' in 'love'", "audio_tip": "clear 'l' sound" },
+    { "bengali": "শ", "english": "sha", "phonetic": "sho", "pronunciation_guide": "like 'sh' in 'shoe'", "audio_tip": "soft 'sh' sound" },
+    { "bengali": "স", "english": "sa", "phonetic": "so", "pronunciation_guide": "like 's' in 'sun'", "audio_tip": "clear 's' sound" },
+    { "bengali": "হ", "english": "ha", "phonetic": "ho", "pronunciation_guide": "like 'h' in 'house'", "audio_tip": "breathy 'h' sound" }
+  ],
+  "quiz_questions": [
+    { "question": "Which Bengali consonant makes the 'k' sound?", "options": ["গ (go)", "ক (ko)", "চ (cho)", "জ (jo)"], "correct_answer": 1, "explanation": "'ক' makes the hard 'k' sound like in 'kite'", "bengali_focus": "ক", "phonetic_focus": "ko" },
+    { "question": "What is the Bengali letter for the 'sh' sound?", "options": ["স (so)", "শ (sho)", "হ (ho)", "র (ro)"], "correct_answer": 1, "explanation": "'শ' makes the 'sh' sound like in 'shoe'", "bengali_focus": "শ", "phonetic_focus": "sho" },
+    { "question": "Which letter represents the 'm' sound in Bengali?", "options": ["ন (no)", "ম (mo)", "ল (lo)", "র (ro)"], "correct_answer": 1, "explanation": "'ম' represents the 'm' sound like in 'mother'", "bengali_focus": "ম", "phonetic_focus": "mo" }
+  ]
+}

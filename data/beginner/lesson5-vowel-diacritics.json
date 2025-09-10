@@ -1,0 +1,35 @@
+{
+  "id": "lesson5-vowel-diacritics",
+  "title": "Vowel Diacritics (Kar)",
+  "category": "beginner",
+  "description": "Learn how to combine vowels with consonants using diacritic marks.",
+  "type": "script_learning",
+  "total_items": 12,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    { "bengali": "ক + আ = কা", "english": "k + aa = kaa", "phonetic": "ka", "pronunciation_guide": "The 'আ' vowel becomes the 'া' symbol (akar).", "audio_tip": "As in 'car'" },
+    { "bengali": "ক + ই = কি", "english": "k + i = ki", "phonetic": "ki", "pronunciation_guide": "The 'ই' vowel becomes the 'ি' symbol (ikar).", "audio_tip": "As in 'key'" },
+    { "bengali": "ক + ঈ = কী", "english": "k + ii = kii", "phonetic": "kii", "pronunciation_guide": "The 'ঈ' vowel becomes the 'ী' symbol (dirgho-ikar).", "audio_tip": "A longer 'ee' sound" },
+    { "bengali": "ক + উ = কু", "english": "k + u = ku", "phonetic": "ku", "pronunciation_guide": "The 'উ' vowel becomes the 'ু' symbol (ukar).", "audio_tip": "As in 'coo'" },
+    { "bengali": "ক + ঊ = কূ", "english": "k + uu = kuu", "phonetic": "kuu", "pronunciation_guide": "The 'ঊ' vowel becomes the 'ূ' symbol (dirgho-ukar).", "audio_tip": "A longer 'oo' sound" },
+    { "bengali": "ক + এ = কে", "english": "k + e = ke", "phonetic": "ke", "pronunciation_guide": "The 'এ' vowel becomes the 'ে' symbol (ekar).", "audio_tip": "As in 'kay'" },
+    { "bengali": "ক + ঐ = কৈ", "english": "k + oi = koi", "phonetic": "koi", "pronunciation_guide": "The 'ঐ' vowel becomes the 'ৈ' symbol (oikar).", "audio_tip": "As in 'coy'" },
+    { "bengali": "ক + ও = কো", "english": "k + o = ko", "phonetic": "ko", "pronunciation_guide": "The 'ও' vowel becomes the 'ো' symbol (okar).", "audio_tip": "As in 'go'" },
+    { "bengali": "ক + ঔ = কৌ", "english": "k + ou = kou", "phonetic": "kou", "pronunciation_guide": "The 'ঔ' vowel becomes the 'ৌ' symbol (oukar).", "audio_tip": "As in 'cow'" },
+    { "bengali": "ম + আ = মা", "english": "m + aa = maa", "phonetic": "ma", "pronunciation_guide": "Example: 'মা' means 'mother'.", "audio_tip": "Combining 'm' with 'aa'" },
+    { "bengali": "ব + আ + ব + আ = বাবা", "english": "b + aa + b + aa = baba", "phonetic": "baba", "pronunciation_guide": "Example: 'বাবা' means 'father'.", "audio_tip": "Combining consonants and vowels" },
+    { "bengali": "ন + ঈ + ল = নীল", "english": "n + ii + l = niil", "phonetic": "neel", "pronunciation_guide": "Example: 'নীল' means 'blue'.", "audio_tip": "Vowel sign in the middle" }
+  ],
+  "quiz_questions": [
+    { "question": "What does the combination 'ম + আ' form in Bengali?", "options": ["মি", "মা", "মে", "মো"], "correct_answer": 1, "explanation": "The 'আ' vowel adds the 'া' (akar) symbol, forming 'মা' (ma)." },
+    { "question": "Which vowel sign is used for the 'ই' (i) sound?", "options": ["া", "ি", "ী", "ু"], "correct_answer": 1, "explanation": "The 'ি' (ikar) symbol represents the short 'i' sound." },
+    { "question": "How would you write 'ni' (as in 'tin') in Bengali, using the consonant 'ন'?", "options": ["না", "নী", "নি", "নে"], "correct_answer": 2, "explanation": "'ন' (n) combined with the 'ই' vowel sign ('ি') becomes 'নি'." },
+    { "question": "The word 'কে' (ke) is a combination of 'ক' and which vowel sign?", "options": ["ে (ekar)", "ৈ (oikar)", "ো (okar)", "ৌ (oukar)"], "correct_answer": 0, "explanation": "'কে' is formed by adding the 'ে' (ekar) sign to 'ক'." },
+    { "question": "What is the long 'ee' vowel sign?", "options": ["ি", "ী", "ু", "ূ"], "correct_answer": 1, "explanation": "The 'ী' (dirgho-ikar) represents the long 'ee' sound, as in 'নীল' (blue)." },
+    { "question": "Which of these means 'father'?", "options": ["মামা", "কাকা", "বাবা", "দাদা"], "correct_answer": 2, "explanation": "'বাবা' (baba) means father, combining 'ব' with the 'া' vowel sign twice." },
+    { "question": "What is the resulting sound of 'প + উ'?", "options": ["Pa", "Pi", "Pe", "Pu"], "correct_answer": 3, "explanation": "Adding the 'ু' (ukar) sign for 'উ' to 'প' creates 'পু' (pu)." },
+    { "question": "The vowel sign 'ো' (okar) corresponds to which vowel?", "options": ["এ", "ঐ", "ও", "ঔ"], "correct_answer": 2, "explanation": "The 'ো' sign is the diacritic form of the vowel 'ও'." },
+    { "question": "How do you write 'tu' (as in 'tuba') using the consonant 'ত'?", "options": ["তা", "তি", "তু", "তূ"], "correct_answer": 2, "explanation": "'ত' combined with the short 'u' vowel sign 'ু' becomes 'তু'." },
+    { "question": "Which combination forms the word 'নীল' (blue)?", "options": ["ন + ই + ল", "ন + ঈ + ল", "ন + আ + ল", "ন + উ + ল"], "correct_answer": 1, "explanation": "'নীল' (neel) uses the long vowel 'ঈ', which becomes the 'ী' sign." }
+  ]
+}

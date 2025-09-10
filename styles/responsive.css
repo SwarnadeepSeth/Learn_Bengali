@@ -1,0 +1,245 @@
+/* Responsive Styles - Bengali Learning App */
+
+/* Tablet Styles */
+@media (max-width: 1024px) {
+  .container {
+    padding: var(--spacing-md);
+  }
+
+  .app-title {
+    font-size: 2.5rem;
+  }
+
+  .categories-container {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: var(--spacing-lg);
+  }
+
+  .lessons-grid {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  .teaching-bengali {
+    font-size: 3.5rem;
+  }
+}
+
+/* Mobile Styles */
+@media (max-width: 768px) {
+  .container {
+    padding: var(--spacing-sm);
+  }
+
+  .app-title {
+    font-size: 2rem;
+  }
+
+  .app-subtitle {
+    font-size: 1rem;
+  }
+
+  .categories-container {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-md);
+  }
+
+  .category-card {
+    padding: var(--spacing-lg);
+  }
+
+  .category-icon {
+    font-size: 2.5rem;
+  }
+
+  .category-card h2 {
+    font-size: 1.5rem;
+  }
+
+  .lessons-grid {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-md);
+  }
+
+  .lesson-card {
+    padding: var(--spacing-md);
+  }
+
+  .screen-header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--spacing-sm);
+  }
+
+  .breadcrumb {
+    font-size: 1rem;
+  }
+
+  .teaching-card {
+    padding: var(--spacing-xl);
+  }
+
+  .teaching-bengali {
+    font-size: 3rem;
+  }
+
+  .teaching-english {
+    font-size: 1.3rem;
+  }
+
+  .teaching-phonetic {
+    font-size: 1.5rem;
+  }
+
+  .navigation-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .nav-button {
+    width: 100%;
+    max-width: 200px;
+  }
+
+  .quiz-card {
+    padding: var(--spacing-xl);
+  }
+
+  .quiz-question {
+    font-size: 1.1rem;
+  }
+
+  .quiz-option {
+    padding: var(--spacing-md);
+    font-size: 1rem;
+  }
+
+  .lesson-progress .progress-bar,
+  .quiz-progress .progress-bar {
+    width: 150px;
+  }
+
+  .quiz-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .quiz-actions .nav-button {
+    width: 100%;
+    max-width: 200px;
+  }
+}
+
+/* Small Mobile Styles */
+@media (max-width: 480px) {
+  .app-title {
+    font-size: 1.8rem;
+  }
+
+  .category-card {
+    padding: var(--spacing-md);
+  }
+
+  .category-header {
+    flex-direction: column;
+    text-align: center;
+    gap: var(--spacing-sm);
+  }
+
+  .category-icon {
+    font-size: 2rem;
+    margin-right: 0;
+  }
+
+  .category-meta {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .progress-indicator {
+    justify-content: center;
+  }
+
+  .teaching-bengali {
+    font-size: 2.5rem;
+  }
+
+  .teaching-card {
+    padding: var(--spacing-lg);
+  }
+
+  .quiz-card {
+    padding: var(--spacing-lg);
+  }
+
+  .lesson-progress .progress-bar,
+  .quiz-progress .progress-bar {
+    width: 120px;
+  }
+}
+
+/* Print Styles */
+@media print {
+  .back-button,
+  .navigation-buttons,
+  .quiz-actions {
+    display: none;
+  }
+
+  .screen {
+    display: block !important;
+  }
+
+  .teaching-card,
+  .quiz-card {
+    box-shadow: none;
+    border: 1px solid #ccc;
+  }
+}
+
+/* Dark Mode Support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-background: #111827;
+    --color-surface: #1f2937;
+    --color-text: #f9fafb;
+    --color-text-muted: #9ca3af;
+    --color-border: #374151;
+  }
+
+  .loading-spinner {
+    border-color: var(--color-border);
+    border-top-color: var(--color-primary);
+  }
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+  :root {
+    --color-primary: #0066cc;
+    --color-text: #000000;
+    --color-border: #666666;
+  }
+
+  .teaching-card,
+  .quiz-card,
+  .category-card,
+  .lesson-card {
+    border-width: 2px;
+  }
+}
+
+/* Reduced Motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+
+  .loading-spinner {
+    animation: none;
+  }
+}
