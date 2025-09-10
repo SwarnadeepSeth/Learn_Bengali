@@ -1,0 +1,38 @@
+{
+  "id": "lesson6-common-nouns",
+  "title": "Common Nouns",
+  "category": "beginner",
+  "description": "Learn the Bengali names for everyday objects, people, and places.",
+  "type": "phrase_learning",
+  "total_items": 15,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "ঘর", "english": "House / Room", "phonetic": "Ghor", "pronunciation_guide": "ghor", "category": "Places" },
+    { "bengali": "বাড়ি", "english": "Home / House", "phonetic": "Bari", "pronunciation_guide": "baa-ri", "category": "Places" },
+    { "bengali": "ছেলে", "english": "Boy", "phonetic": "Chhele", "pronunciation_guide": "chhe-le", "category": "People" },
+    { "bengali": "মেয়ে", "english": "Girl", "phonetic": "Meye", "pronunciation_guide": "me-ye", "category": "People" },
+    { "bengali": "বই", "english": "Book", "phonetic": "Boi", "pronunciation_guide": "bo-i", "category": "Objects" },
+    { "bengali": "কলম", "english": "Pen", "phonetic": "Kolom", "pronunciation_guide": "ko-lom", "category": "Objects" },
+    { "bengali": "টেবিল", "english": "Table", "phonetic": "Tebil", "pronunciation_guide": "te-bil", "category": "Objects" },
+    { "bengali": "চেয়ার", "english": "Chair", "phonetic": "Cheyar", "pronunciation_guide": "che-yar", "category": "Objects" },
+    { "bengali": "স্কুল", "english": "School", "phonetic": "Skul", "pronunciation_guide": "school", "category": "Places" },
+    { "bengali": "রাস্তা", "english": "Road / Street", "phonetic": "Rasta", "pronunciation_guide": "ras-ta", "category": "Places" },
+    { "bengali": "বাবা", "english": "Father", "phonetic": "Baba", "pronunciation_guide": "ba-ba", "category": "People" },
+    { "bengali": "মা", "english": "Mother", "phonetic": "Ma", "pronunciation_guide": "ma", "category": "People" },
+    { "bengali": "ভাত", "english": "Rice", "phonetic": "Bhaat", "pronunciation_guide": "bhaat", "category": "Food" },
+    { "bengali": "জল", "english": "Water", "phonetic": "Jol", "pronunciation_guide": "jol", "category": "Food" },
+    { "bengali": "কাজ", "english": "Work", "phonetic": "Kaaj", "pronunciation_guide": "kaaj", "category": "Concept" }
+  ],
+  "quiz_questions": [
+    { "question": "What is the Bengali word for 'Book'?", "options": ["কলম (Kolom)", "বই (Boi)", "ঘর (Ghor)", "জল (Jol)"], "correct_answer": 1, "explanation": "'বই' (Boi) means book." },
+    { "question": "The word 'ছেলে' (Chhele) means what in English?", "options": ["Girl", "Man", "Boy", "Father"], "correct_answer": 2, "explanation": "'ছেলে' (Chhele) means boy." },
+    { "question": "Which of these is a place?", "options": ["বই (Boi)", "স্কুল (Skul)", "কলম (Kolom)", "ভাত (Bhaat)"], "correct_answer": 1, "explanation": "'স্কুল' (Skul) means school, which is a place." },
+    { "question": "How do you say 'Water' in Bengali?", "options": ["জল (Jol)", "ভাত (Bhaat)", "কাজ (Kaaj)", "ঘর (Ghor)"], "correct_answer": 0, "explanation": "'জল' (Jol) is the word for water." },
+    { "question": "What does 'রাস্তা' (Rasta) mean?", "options": ["Home", "Room", "Road", "School"], "correct_answer": 2, "explanation": "'রাস্তা' (Rasta) means road or street." },
+    { "question": "Which word means 'Pen'?", "options": ["টেবিল (Tebil)", "চেয়ার (Cheyar)", "বই (Boi)", "কলম (Kolom)"], "correct_answer": 3, "explanation": "'কলম' (Kolom) is the Bengali word for pen." },
+    { "question": "The word 'মা' (Ma) refers to which person?", "options": ["Father", "Mother", "Sister", "Brother"], "correct_answer": 1, "explanation": "'মা' (Ma) is the word for mother." },
+    { "question": "What is the meaning of 'বাড়ি' (Bari)?", "options": ["Work", "Room", "Home", "Book"], "correct_answer": 2, "explanation": "'বাড়ি' (Bari) means home or house." },
+    { "question": "Which of these is a type of food?", "options": ["কাজ (Kaaj)", "ভাত (Bhaat)", "ঘর (Ghor)", "মেয়ে (Meye)"], "correct_answer": 1, "explanation": "'ভাত' (Bhaat) means rice, which is a food." },
+    { "question": "How do you say 'Girl' in Bengali?", "options": ["ছেলে (Chhele)", "বাবা (Baba)", "মেয়ে (Meye)", "মা (Ma)"], "correct_answer": 2, "explanation": "'মেয়ে' (Meye) is the word for girl." }
+  ]
+}

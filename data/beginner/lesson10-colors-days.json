@@ -1,0 +1,38 @@
+{
+  "id": "lesson10-colors-days",
+  "title": "Colors & Days of the Week",
+  "category": "beginner",
+  "description": "Learn the names of basic colors and the seven days of the week.",
+  "type": "phrase_learning",
+  "total_items": 15,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "লাল", "english": "Red", "phonetic": "Lal", "category": "Color" },
+    { "bengali": "নীল", "english": "Blue", "phonetic": "Neel", "category": "Color" },
+    { "bengali": "সবুজ", "english": "Green", "phonetic": "Shobuj", "category": "Color" },
+    { "bengali": "হলুদ", "english": "Yellow", "phonetic": "Holud", "category": "Color" },
+    { "bengali": "কালো", "english": "Black", "phonetic": "Kalo", "category": "Color" },
+    { "bengali": "সাদা", "english": "White", "phonetic": "Shada", "category": "Color" },
+    { "bengali": "রবিবার", "english": "Sunday", "phonetic": "Robibar", "category": "Day" },
+    { "bengali": "সোমবার", "english": "Monday", "phonetic": "Shombar", "category": "Day" },
+    { "bengali": "মঙ্গলবার", "english": "Tuesday", "phonetic": "Mongolbar", "category": "Day" },
+    { "bengali": "বুধবার", "english": "Wednesday", "phonetic": "Budhbar", "category": "Day" },
+    { "bengali": "বৃহস্পতিবার", "english": "Thursday", "phonetic": "Brihoshpotibar", "category": "Day" },
+    { "bengali": "শুক্রবার", "english": "Friday", "phonetic": "Shukrobar", "category": "Day" },
+    { "bengali": "শনিবার", "english": "Saturday", "phonetic": "Shonibar", "category": "Day" },
+    { "bengali": "রং", "english": "Color", "phonetic": "Rong", "note": "The word for color itself." },
+    { "bengali": "দিন", "english": "Day", "phonetic": "Din", "note": "The word for day itself." }
+  ],
+  "quiz_questions": [
+    { "question": "What is the Bengali word for 'Red'?", "options": ["নীল (Neel)", "লাল (Lal)", "সবুজ (Shobuj)", "হলুদ (Holud)"], "correct_answer": 1, "explanation": "'লাল' (Lal) means red." },
+    { "question": "The color 'Green' is called what in Bengali?", "options": ["কালো (Kalo)", "সাদা (Shada)", "সবুজ (Shobuj)", "লাল (Lal)"], "correct_answer": 2, "explanation": "'সবুজ' (Shobuj) is the word for green." },
+    { "question": "Which day is 'সোমবার' (Shombar)?", "options": ["Sunday", "Monday", "Tuesday", "Wednesday"], "correct_answer": 1, "explanation": "'সোমবার' (Shombar) is Monday." },
+    { "question": "How do you say 'Friday' in Bengali?", "options": ["শনিবার (Shonibar)", "বৃহস্পতিবার (Brihoshpotibar)", "শুক্রবার (Shukrobar)", "রবিবার (Robibar)"], "correct_answer": 2, "explanation": "'শুক্রবার' (Shukrobar) is Friday." },
+    { "question": "What does 'কালো' (Kalo) mean?", "options": ["White", "Yellow", "Blue", "Black"], "correct_answer": 3, "explanation": "'কালো' (Kalo) is the color black." },
+    { "question": "Which color is 'নীল' (Neel)?", "options": ["Blue", "Red", "Green", "Yellow"], "correct_answer": 0, "explanation": "'নীল' (Neel) is the word for blue." },
+    { "question": "What is the last day of the week, 'Saturday'?", "options": ["রবিবার (Robibar)", "সোমবার (Shombar)", "শনিবার (Shonibar)", "শুক্রবার (Shukrobar)"], "correct_answer": 2, "explanation": "'শনিবার' (Shonibar) is Saturday." },
+    { "question": "The word 'হলুদ' (Holud) refers to which color?", "options": ["White", "Black", "Yellow", "Green"], "correct_answer": 2, "explanation": "'হলুদ' (Holud) means yellow." },
+    { "question": "Which of these means 'Tuesday'?", "options": ["বুধবার (Budhbar)", "মঙ্গলবার (Mongolbar)", "সোমবার (Shombar)", "বৃহস্পতিবার (Brihoshpotibar)"], "correct_answer": 1, "explanation": "'মঙ্গলবার' (Mongolbar) is Tuesday." },
+    { "question": "How do you say 'White' in Bengali?", "options": ["রং (Rong)", "দিন (Din)", "কালো (Kalo)", "সাদা (Shada)"], "correct_answer": 3, "explanation": "'সাদা' (Shada) is the word for white." }
+  ]
+}

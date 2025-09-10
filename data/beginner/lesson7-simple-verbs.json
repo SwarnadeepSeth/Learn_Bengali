@@ -1,0 +1,35 @@
+{
+  "id": "lesson7-simple-verbs",
+  "title": "Simple Verbs & Actions",
+  "category": "beginner",
+  "description": "Learn basic verbs to describe everyday actions.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "খাওয়া", "english": "To eat", "phonetic": "Khaoa", "pronunciation_guide": "kha-wa", "example": "আমি ভাত খাই (Ami bhat khai) - I eat rice." },
+    { "bengali": "যাওয়া", "english": "To go", "phonetic": "Jaoa", "pronunciation_guide": "ja-wa", "example": "আমি স্কুলে যাই (Ami skule jai) - I go to school." },
+    { "bengali": "আসা", "english": "To come", "phonetic": "Asha", "pronunciation_guide": "aa-sha", "example": "তুমি আসো (Tumi asho) - You come." },
+    { "bengali": "করা", "english": "To do", "phonetic": "Kora", "pronunciation_guide": "ko-ra", "example": "আমি কাজ করি (Ami kaaj kori) - I do work." },
+    { "bengali": "পড়া", "english": "To read / To study", "phonetic": "Pora", "pronunciation_guide": "po-ra", "example": "সে বই পড়ে (She boi poṛe) - He/She reads a book." },
+    { "bengali": "লেখা", "english": "To write", "phonetic": "Lekha", "pronunciation_guide": "le-kha", "example": "আমি লিখি (Ami likhi) - I write." },
+    { "bengali": "দেখা", "english": "To see / To watch", "phonetic": "Dekha", "pronunciation_guide": "de-kha", "example": "আমরা দেখি (Amra dekhi) - We see." },
+    { "bengali": "বলা", "english": "To say / To tell", "phonetic": "Bola", "pronunciation_guide": "bo-la", "example": "সে বলে (She bole) - He/She says." },
+    { "bengali": "শোনা", "english": "To hear / To listen", "phonetic": "Shona", "pronunciation_guide": "sho-na", "example": "আমি শুনি (Ami shuni) - I listen." },
+    { "bengali": "ঘুমানো", "english": "To sleep", "phonetic": "Ghumano", "pronunciation_guide": "ghu-ma-no", "example": "ছেলেটি ঘুমায় (Chheleti ghumay) - The boy sleeps." },
+    { "bengali": "বসা", "english": "To sit", "phonetic": "Bosha", "pronunciation_guide": "bo-sha", "example": "এখানে বসো (Ekhane bosho) - Sit here." },
+    { "bengali": "চলা", "english": "To walk", "phonetic": "Chola", "pronunciation_guide": "cho-la", "example": "আমি চলি (Ami choli) - I walk." }
+  ],
+  "quiz_questions": [
+    { "question": "What is the Bengali verb for 'To eat'?", "options": ["যাওয়া (Jaoa)", "খাওয়া (Khaoa)", "করা (Kora)", "পড়া (Pora)"], "correct_answer": 1, "explanation": "'খাওয়া' (Khaoa) means to eat." },
+    { "question": "The verb 'পড়া' (Pora) can mean 'To read' or what else?", "options": ["To write", "To see", "To study", "To sleep"], "correct_answer": 2, "explanation": "'পড়া' (Pora) means both to read and to study." },
+    { "question": "How do you say 'To go' in Bengali?", "options": ["আসা (Asha)", "যাওয়া (Jaoa)", "বসা (Bosha)", "চলা (Chola)"], "correct_answer": 1, "explanation": "'যাওয়া' (Jaoa) is the verb for to go." },
+    { "question": "Which verb means 'To do'?", "options": ["করা (Kora)", "বলা (Bola)", "শোনা (Shona)", "লেখা (Lekha)"], "correct_answer": 0, "explanation": "'করা' (Kora) means to do, as in 'কাজ করি' (do work)." },
+    { "question": "What action does 'ঘুমানো' (Ghumano) describe?", "options": ["To walk", "To sit", "To see", "To sleep"], "correct_answer": 3, "explanation": "'ঘুমানো' (Ghumano) is the verb for to sleep." },
+    { "question": "The sentence 'আমি লিখি' (Ami likhi) means 'I write'. What is the root verb for 'To write'?", "options": ["পড়া (Pora)", "লেখা (Lekha)", "দেখা (Dekha)", "বলা (Bola)"], "correct_answer": 1, "explanation": "The root verb is 'লেখা' (Lekha)." },
+    { "question": "What is the meaning of 'আসা' (Asha)?", "options": ["To come", "To go", "To sit", "To say"], "correct_answer": 0, "explanation": "'আসা' (Asha) means to come." },
+    { "question": "Which verb would you use to describe the action of listening to music?", "options": ["দেখা (Dekha)", "বলা (Bola)", "শোনা (Shona)", "করা (Kora)"], "correct_answer": 2, "explanation": "'শোনা' (Shona) means to hear or to listen." },
+    { "question": "The verb 'বসা' (Bosha) means what?", "options": ["To walk", "To sleep", "To sit", "To come"], "correct_answer": 2, "explanation": "'বসা' (Bosha) means to sit." },
+    { "question": "What is the Bengali verb for 'To see'?", "options": ["চলা (Chola)", "দেখা (Dekha)", "লেখা (Lekha)", "পড়া (Pora)"], "correct_answer": 1, "explanation": "'দেখা' (Dekha) means to see or to watch." }
+  ]
+}

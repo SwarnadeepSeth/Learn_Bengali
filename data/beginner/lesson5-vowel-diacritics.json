@@ -21,15 +21,15 @@
     { "bengali": "ন + ঈ + ল = নীল", "english": "n + ii + l = niil", "phonetic": "neel", "pronunciation_guide": "Example: 'নীল' means 'blue'.", "audio_tip": "Vowel sign in the middle" }
   ],
   "quiz_questions": [
-    { "question": "What does the combination 'ম + আ' form in Bengali?", "options": ["মি", "মা", "মে", "মো"], "correct_answer": 1, "explanation": "The 'আ' vowel adds the 'া' (akar) symbol, forming 'মা' (ma)." },
+    { "question": "What does the combination 'ম + আ' form in Bengali?", "options": ["মি (mi)", "মা (ma)", "মে (me)", "মো (mo)"], "correct_answer": 1, "explanation": "The 'আ' vowel adds the 'া' (akar) symbol, forming 'মা' (ma)." },
     { "question": "Which vowel sign is used for the 'ই' (i) sound?", "options": ["া", "ি", "ী", "ু"], "correct_answer": 1, "explanation": "The 'ি' (ikar) symbol represents the short 'i' sound." },
-    { "question": "How would you write 'ni' (as in 'tin') in Bengali, using the consonant 'ন'?", "options": ["না", "নী", "নি", "নে"], "correct_answer": 2, "explanation": "'ন' (n) combined with the 'ই' vowel sign ('ি') becomes 'নি'." },
+    { "question": "How would you write 'ni' (as in 'tin') in Bengali, using the consonant 'ন'?", "options": ["না (na)", "নী (nii)", "নি (ni)", "নে (ne)"], "correct_answer": 2, "explanation": "'ন' (n) combined with the 'ই' vowel sign ('ি') becomes 'নি'." },
     { "question": "The word 'কে' (ke) is a combination of 'ক' and which vowel sign?", "options": ["ে (ekar)", "ৈ (oikar)", "ো (okar)", "ৌ (oukar)"], "correct_answer": 0, "explanation": "'কে' is formed by adding the 'ে' (ekar) sign to 'ক'." },
     { "question": "What is the long 'ee' vowel sign?", "options": ["ি", "ী", "ু", "ূ"], "correct_answer": 1, "explanation": "The 'ী' (dirgho-ikar) represents the long 'ee' sound, as in 'নীল' (blue)." },
-    { "question": "Which of these means 'father'?", "options": ["মামা", "কাকা", "বাবা", "দাদা"], "correct_answer": 2, "explanation": "'বাবা' (baba) means father, combining 'ব' with the 'া' vowel sign twice." },
+    { "question": "Which of these means 'father'?", "options": ["মামা (mama)", "কাকা (kaka)", "বাবা (baba)", "দাদা (dada)"], "correct_answer": 2, "explanation": "'বাবা' (baba) means father, combining 'ব' with the 'া' vowel sign twice." },
     { "question": "What is the resulting sound of 'প + উ'?", "options": ["Pa", "Pi", "Pe", "Pu"], "correct_answer": 3, "explanation": "Adding the 'ু' (ukar) sign for 'উ' to 'প' creates 'পু' (pu)." },
     { "question": "The vowel sign 'ো' (okar) corresponds to which vowel?", "options": ["এ", "ঐ", "ও", "ঔ"], "correct_answer": 2, "explanation": "The 'ো' sign is the diacritic form of the vowel 'ও'." },
-    { "question": "How do you write 'tu' (as in 'tuba') using the consonant 'ত'?", "options": ["তা", "তি", "তু", "তূ"], "correct_answer": 2, "explanation": "'ত' combined with the short 'u' vowel sign 'ু' becomes 'তু'." },
-    { "question": "Which combination forms the word 'নীল' (blue)?", "options": ["ন + ই + ল", "ন + ঈ + ল", "ন + আ + ল", "ন + উ + ল"], "correct_answer": 1, "explanation": "'নীল' (neel) uses the long vowel 'ঈ', which becomes the 'ী' sign." }
+    { "question": "How do you write 'tu' (as in 'tuba') using the consonant 'ত'?", "options": ["তা (ta)", "তি (ti)", "তু (tu)", "তূ (tuu)"], "correct_answer": 2, "explanation": "'ত' combined with the short 'u' vowel sign 'ু' becomes 'তু'." },
+    { "question": "Which combination forms the word 'নীল' (neel)?", "options": ["ন + ই + ল", "ন + ঈ + ল", "ন + আ + ল", "ন + উ + ল"], "correct_answer": 1, "explanation": "'নীল' (neel) uses the long vowel 'ঈ', which becomes the 'ী' sign." }
   ]
 }

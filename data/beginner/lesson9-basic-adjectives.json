@@ -1,0 +1,35 @@
+{
+  "id": "lesson9-basic-adjectives",
+  "title": "Basic Adjectives",
+  "category": "beginner",
+  "description": "Learn common adjectives to describe people, places, and things.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "ভালো", "english": "Good", "phonetic": "Bhalo", "example": "ভালো ছেলে (Bhalo chhele) - Good boy" },
+    { "bengali": "খারাপ", "english": "Bad", "phonetic": "Kharap", "example": "খারাপ দিন (Kharap din) - Bad day" },
+    { "bengali": "বড়", "english": "Big / Large", "phonetic": "Boro", "example": "বড় বাড়ি (Boro bari) - Big house" },
+    { "bengali": "ছোট", "english": "Small / Little", "phonetic": "Chhoto", "example": "ছোট বই (Chhoto boi) - Small book" },
+    { "bengali": "নতুন", "english": "New", "phonetic": "Notun", "example": "নতুন কলম (Notun kolom) - New pen" },
+    { "bengali": "পুরানো", "english": "Old (for things)", "phonetic": "Purano", "example": "পুরানো চেয়ার (Purano cheyar) - Old chair" },
+    { "bengali": "লম্বা", "english": "Tall / Long", "phonetic": "Lomba", "example": "লম্বা রাস্তা (Lomba rasta) - Long road" },
+    { "bengali": "খাটো", "english": "Short (in height)", "phonetic": "Khato", "example": "খাটো মেয়ে (Khato meye) - Short girl" },
+    { "bengali": "সুন্দর", "english": "Beautiful / Handsome", "phonetic": "Shundor", "example": "সুন্দর ফুল (Shundor phul) - Beautiful flower" },
+    { "bengali": "গরম", "english": "Hot / Warm", "phonetic": "Gorom", "example": "গরম জল (Gorom jol) - Hot water" },
+    { "bengali": "ঠান্ডা", "english": "Cold", "phonetic": "Thanda", "example": "ঠান্ডা হাওয়া (Thanda haoa) - Cold wind" },
+    { "bengali": "অনেক", "english": "Many / Much", "phonetic": "Onek", "example": "অনেক বই (Onek boi) - Many books" }
+  ],
+  "quiz_questions": [
+    { "question": "How do you say 'Good' in Bengali?", "options": ["খারাপ (Kharap)", "ভালো (Bhalo)", "বড় (Boro)", "ছোট (Chhoto)"], "correct_answer": 1, "explanation": "'ভালো' (Bhalo) means good." },
+    { "question": "What is the opposite of 'বড়' (Boro)?", "options": ["নতুন (Notun)", "পুরানো (Purano)", "ছোট (Chhoto)", "লম্বা (Lomba)"], "correct_answer": 2, "explanation": "'বড়' (Boro) means big, and its opposite is 'ছোট' (Chhoto), meaning small." },
+    { "question": "Which adjective would you use to describe a new car?", "options": ["সুন্দর (Shundor)", "পুরানো (Purano)", "নতুন (Notun)", "গরম (Gorom)"], "correct_answer": 2, "explanation": "'নতুন' (Notun) means new." },
+    { "question": "The word 'সুন্দর' (Shundor) means:", "options": ["Old", "Cold", "Tall", "Beautiful"], "correct_answer": 3, "explanation": "'সুন্দর' (Shundor) means beautiful or handsome." },
+    { "question": "What does 'গরম জল' (Gorom jol) mean?", "options": ["Cold water", "Many waters", "Good water", "Hot water"], "correct_answer": 3, "explanation": "'গরম' (Gorom) means hot and 'জল' (jol) means water." },
+    { "question": "Which word means 'Bad'?", "options": ["ভালো (Bhalo)", "অনেক (Onek)", "খারাপ (Kharap)", "ঠান্ডা (Thanda)"], "correct_answer": 2, "explanation": "'খারাপ' (Kharap) is the word for bad." },
+    { "question": "How would you describe an old book?", "options": ["নতুন বই (Notun boi)", "পুরানো বই (Purano boi)", "ছোট বই (Chhoto boi)", "ভালো বই (Bhalo boi)"], "correct_answer": 1, "explanation": "'পুরানো' (Purano) is used to describe old inanimate objects." },
+    { "question": "What is the meaning of 'লম্বা' (Lomba)?", "options": ["Short", "Tall / Long", "Small", "Big"], "correct_answer": 1, "explanation": "'লম্বা' (Lomba) can mean either tall or long." },
+    { "question": "To say 'Many books', you would say '______ বই'. Fill in the blank.", "options": ["ছোট (Chhoto)", "অনেক (Onek)", "গরম (Gorom)", "নতুন (Notun)"], "correct_answer": 1, "explanation": "'অনেক' (Onek) means many or much." },
+    { "question": "What is the Bengali word for 'Cold'?", "options": ["গরম (Gorom)", "সুন্দর (Shundor)", "ঠান্ডা (Thanda)", "খারাপ (Kharap)"], "correct_answer": 2, "explanation": "'ঠান্ডা' (Thanda) means cold." }
+  ]
+}

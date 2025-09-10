@@ -1,0 +1,35 @@
+{
+  "id": "lesson8-simple-sentences",
+  "title": "Forming Simple Sentences",
+  "category": "beginner",
+  "description": "Learn to combine nouns and verbs to make basic Bengali sentences.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    { "bengali": "আমি ভাত খাই।", "english": "I eat rice.", "phonetic": "Ami bhat khai.", "structure": "Subject + Object + Verb (SOV)" },
+    { "bengali": "তুমি বই পড়ো।", "english": "You read a book.", "phonetic": "Tumi boi poṛo.", "structure": "Subject + Object + Verb" },
+    { "bengali": "সে স্কুলে যায়।", "english": "He/She goes to school.", "phonetic": "She skule jay.", "structure": "Subject + Object + Verb" },
+    { "bengali": "আমরা কাজ করি।", "english": "We do work.", "phonetic": "Amra kaaj kori.", "structure": "Subject + Object + Verb" },
+    { "bengali": "বাবা আসে।", "english": "Father comes.", "phonetic": "Baba ashe.", "structure": "Subject + Verb" },
+    { "bengali": "মেয়েটি লেখে।", "english": "The girl writes.", "phonetic": "Meyeti lekhe.", "structure": "Subject + Verb" },
+    { "bengali": "ছেলেটি ঘুমায়।", "english": "The boy sleeps.", "phonetic": "Chheleti ghumay.", "structure": "Subject + Verb" },
+    { "bengali": "মা কথা বলে।", "english": "Mother speaks.", "phonetic": "Ma kotha bole.", "structure": "Subject + Object + Verb" },
+    { "bengali": "আমি জল খাই।", "english": "I drink water.", "phonetic": "Ami jol khai.", "note": "In Bengali, 'khai' is used for both eating and drinking." },
+    { "bengali": "ওরা দেখে।", "english": "They see.", "phonetic": "Ora dekhe.", "structure": "Subject + Verb" },
+    { "bengali": "আমি বাড়ি যাই।", "english": "I go home.", "phonetic": "Ami bari jai.", "structure": "Subject + Object + Verb" },
+    { "bengali": "তুমি গান শোনো।", "english": "You listen to music.", "phonetic": "Tumi gaan shono.", "structure": "Subject + Object + Verb" }
+  ],
+  "quiz_questions": [
+    { "question": "How do you say 'I eat rice' in Bengali?", "options": ["আমি ভাত পড়ি। (Ami bhat pori.)", "আমি ভাত খাই। (Ami bhat khai.)", "আমি কাজ করি। (Ami kaaj kori.)", "আমি স্কুলে যাই। (Ami skule jai.)"], "correct_answer": 1, "explanation": "The structure is Subject (আমি) + Object (ভাত) + Verb (খাই)." },
+    { "question": "What does 'সে স্কুলে যায়' (She skule jay) mean?", "options": ["He comes from school.", "He reads a book.", "He goes to school.", "He is in school."], "correct_answer": 2, "explanation": "'সে' (He/She) + 'স্কুলে' (to school) + 'যায়' (goes)." },
+    { "question": "What is the correct word order for a simple Bengali sentence?", "options": ["Subject-Verb-Object (SVO)", "Verb-Subject-Object (VSO)", "Subject-Object-Verb (SOV)", "Object-Subject-Verb (OSV)"], "correct_answer": 2, "explanation": "Bengali typically follows the Subject-Object-Verb (SOV) sentence structure." },
+    { "question": "Translate 'We do work.'", "options": ["আমরা কাজ করি। (Amra kaaj kori.)", "তুমি কাজ করো। (Tumi kaaj koro.)", "সে কাজ করে। (She kaaj kore.)", "আমি কাজ করি। (Ami kaaj kori.)"], "correct_answer": 0, "explanation": "'আমরা' (Amra) means 'We'." },
+    { "question": "The sentence 'বাবা আসে' (Baba ashe) means:", "options": ["Father goes.", "Father works.", "Father comes.", "Father eats."], "correct_answer": 2, "explanation": "'আসে' (ashe) is the verb for 'comes'." },
+    { "question": "In 'তুমি বই পড়ো' (Tumi boi poṛo), what is the object?", "options": ["তুমি (Tumi)", "বই (Boi)", "পড়ো (Poṛo)", "None"], "correct_answer": 1, "explanation": "The subject 'তুমি' (you) acts on the object 'বই' (book)." },
+    { "question": "How would you say 'The boy sleeps'?", "options": ["ছেলেটি খায়। (Chheleti khay.)", "ছেলেটি পড়ে। (Chheleti poṛe.)", "ছেলেটি ঘুমায়। (Chheleti ghumay.)", "ছেলেটি লেখে। (Chheleti lekhe.)"], "correct_answer": 2, "explanation": "'ছেলেটি' (The boy) + 'ঘুমায়' (sleeps)." },
+    { "question": "What does 'আমি জল খাই' (Ami jol khai) mean?", "options": ["I want water.", "I see water.", "I eat water.", "I drink water."], "correct_answer": 3, "explanation": "In Bengali, the verb 'খাওয়া' (to eat) is used for both eating and drinking." },
+    { "question": "Which sentence means 'I go home'?", "options": ["আমি বাড়ি আসি। (Ami bari ashi.)", "আমি বাড়ি দেখি। (Ami bari dekhi.)", "আমি বাড়ি যাই। (Ami bari jai.)", "আমি বাড়ি থেকে আসি। (Ami bari theke ashi.)"], "correct_answer": 2, "explanation": "'বাড়ি' (home) + 'যাই' (go)." },
+    { "question": "What is the subject in the sentence 'মা কথা বলে' (Ma kotha bole)?", "options": ["কথা (kotha)", "বলে (bole)", "মা (Ma)", "It is implied"], "correct_answer": 2, "explanation": "'মা' (Mother) is the subject who is performing the action." }
+  ]
+}
