@@ -11,7 +11,7 @@ const BengaliApp = {
 
     // Progress tracking
     progress: {
-        beginner: { completed: 0, total: 10 },
+        beginner: { completed: 0, total: 15 },
         intermediate: { completed: 0, total: 0 },
         advanced: { completed: 0, total: 0 }
     },

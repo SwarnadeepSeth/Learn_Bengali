@@ -77,7 +77,12 @@ const LessonLoader = {
                 'lesson7-simple-verbs',
                 'lesson8-simple-sentences',
                 'lesson9-basic-adjectives',
-                'lesson10-colors-days'
+                'lesson10-colors-days',
+                'lesson11-asking-questions',
+                'lesson12-family-relationships',
+                'lesson13-daily-routine-time',
+                'lesson14-more-food-drink',
+                'lesson15-simple-conjunctions'
             ],
             'intermediate': [],
             'advanced': []
@@ -92,7 +97,7 @@ const LessonLoader = {
                 id: 'beginner',
                 title: 'Beginner',
                 description: 'Start your Bengali journey with basic script and essential phrases',
-                totalLessons: 10
+                totalLessons: 15
             },
             'intermediate': {
                 id: 'intermediate',
