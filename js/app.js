@@ -149,8 +149,15 @@ const BengaliApp = {
 
         try {
             this.currentLessonData = await LessonLoader.loadLesson(category, lessonId);
-            this.currentLessonIndex = 0;
-            this.renderTeachingContent();
+
+            // This logic checks the lesson type and calls the correct function
+            if (this.currentLessonData.type === 'game_learning') {
+                this.startGame(); // Calls the game engine for game lessons
+            } else {
+                this.currentLessonIndex = 0;
+                this.renderTeachingContent(); // Calls the flashcard renderer for other lessons
+            }
+
         } catch (error) {
             console.error('Error loading lesson:', error);
             alert('Error loading lesson. Please try again.');
