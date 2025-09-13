@@ -5,8 +5,8 @@
   "description": "Navigate the maze by choosing the correct Bengali commands and requests.",
   "type": "game_learning",
   "game_type": "maze",
-  "total_items": 10,
-  "estimated_time": "15 minutes",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
   "game_data": [
     {
       "prompt_english": "Come here.",
@@ -57,6 +57,81 @@
       "prompt_english": "Please wait.",
       "options_bengali": [ "দয়া করে অপেক্ষা করুন (Doya kore opekha korun)", "তাড়াতাড়ি করুন (Taratari korun)", "এখানে আসুন (Ekhane ashun)", "ওখানে যান (Okhane jaan)" ],
       "correct_answer": 0
+    },
+    {
+      "prompt_english": "Open the door.",
+      "options_bengali": [ "জানালা বন্ধ করুন (Janala bondho korun)", "দরজা খুলুন (Dorja khulun)", "বইটি পড়ুন (Boiti porun)", "আলো জ্বালান (Alo jalan)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Close the window.",
+      "options_bengali": [ "দরজা খুলুন (Dorja khulun)", "पंखा চালান (Pakha chalan)", "জানালা বন্ধ করুন (Janala bondho korun)", "কাজ করুন (Kaaj korun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Read the book.",
+      "options_bengali": [ "আপনার নাম লিখুন (Apnar naam likhun)", "বইটি পড়ুন (Boiti porun)", "খাবার খান (Khabar khaan)", "জল পান করুন (Jol paan korun)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Write your name.",
+      "options_bengali": [ "বইটি পড়ুন (Boiti porun)", "সত্যি কথা বলুন (Shotti kotha bolun)", "আপনার নাম লিখুন (Apnar naam likhun)", "আমাকে সাহায্য করুন (Amake shahajjo korun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Eat your food.",
+      "options_bengali": [ "জল পান করুন (Jol paan korun)", "খাবার খান (Khabar khaan)", "ঘুমান (Ghuman)", "তাড়াতাড়ি করুন (Taratari korun)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Drink water.",
+      "options_bengali": [ "জল পান করুন (Jol paan korun)", "দুধ পান করুন (Dudh paan korun)", "খাবার খান (Khabar khaan)", "কাজ করুন (Kaaj korun)" ],
+      "correct_answer": 0
+    },
+    {
+      "prompt_english": "Look here.",
+      "options_bengali": [ "ওখানে দেখুন (Okhane dekhun)", "শুনুন (Shunun)", "এখানে দেখুন (Ekhane dekhun)", "যান (Jaan)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Don't worry.",
+      "options_bengali": [ "চিন্তা করবেন না (Chinta korben na)", "তাড়াতাড়ি করুন (Taratari korun)", "ভয় পাবেন না (Bhoy paben na)", "কথা বলুন (Kotha bolun)" ],
+      "correct_answer": 0
+    },
+    {
+      "prompt_english": "Help me.",
+      "options_bengali": [ "আমাকে ক্ষমা করুন (Amake khoma korun)", "আমাকে সাহায্য করুন (Amake shahajjo korun)", "আমাকে বলুন (Amake bolun)", "এটা নিন (Eta nin)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Forgive me.",
+      "options_bengali": [ "আমাকে সাহায্য করুন (Amake shahajjo korun)", "চিন্তা করবেন না (Chinta korben na)", "আমাকে ক্ষমা করুন (Amake khoma korun)", "সত্যি কথা বলুন (Shotti kotha bolun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Hurry up.",
+      "options_bengali": [ "অপেক্ষা করুন (Opekha korun)", "সাবধানে চালান (Shabdhane chalan)", "তাড়াতাড়ি করুন (Taratari korun)", "চুপ করুন (Chup korun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Drive carefully.",
+      "options_bengali": [ "তাড়াতাড়ি করুন (Taratari korun)", "সাবধানে চালান (Shabdhane chalan)", "এখানে আসুন (Ekhane ashun)", "আলো নেভান (Alo nevhan)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Switch on the light.",
+      "options_bengali": [ "আলো নেভান (Alo nevhan)", "पंखा চালান (Pakha chalan)", "আলো জ্বালান (Alo jalan)", "দরজা বন্ধ করুন (Dorja bondho korun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Switch off the fan.",
+      "options_bengali": [ "पंखा চালান (Pakha chalan)", "আলো নেভান (Alo nevhan)", "पंखा বন্ধ করুন (Pakha bondho korun)", "জানালা খুলুন (Janala khulun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Tell the truth.",
+      "options_bengali": [ "একটি গান করুন (Ekti gaan korun)", "মিথ্যা বলবেন না (Mithya bolben na)", "সত্যি কথা বলুন (Shotti kotha bolun)", "কথা বলুন (Kotha bolun)" ],
+      "correct_answer": 2
     }
   ]
 }
