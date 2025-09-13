@@ -93,7 +93,7 @@ const Navigation = {
     goToLesson(category, lessonId) {
         this.currentCategory = category;
         this.currentLesson = lessonId;
-        this.showScreen('teaching-screen');
+        //this.showScreen('teaching-screen');
         this.updateBreadcrumbs();
 
         // Load lesson content
