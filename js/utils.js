@@ -170,8 +170,20 @@ const Utils = {
 
     // Validate lesson data
     validateLessonData: (lesson) => {
-        const requiredFields = ['id', 'title', 'category', 'teaching_content'];
-        return requiredFields.every(field => lesson && lesson.hasOwnProperty(field));
+        // First, check for the fields common to all lesson types
+        const baseFields = ['id', 'title', 'category'];
+        if (!baseFields.every(field => lesson && lesson.hasOwnProperty(field))) {
+            return false;
+        }
+
+        // Now, check for type-specific fields
+        if (lesson.type === 'game_learning') {
+            // For games, we need 'game_data'
+            return lesson.hasOwnProperty('game_data');
+        } else {
+            // For all other lessons, we need 'teaching_content'
+            return lesson.hasOwnProperty('teaching_content');
+        }
     }
 };
 
