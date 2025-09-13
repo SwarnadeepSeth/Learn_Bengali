@@ -435,6 +435,34 @@ const BengaliApp = {
             Utils.saveToStorage('progress', {});
             location.reload();
         }
+    },
+
+    // Game function
+    startGame() {
+        const gameContainer = Utils.querySelector('#game-container');
+        if (!gameContainer) return;
+
+        switch (this.currentLessonData.game_type) {
+            case 'maze':
+                MazeGame.init({
+                    container: gameContainer,
+                    gameData: this.currentLessonData.game_data,
+                    onComplete: (didWin) => {
+                        if (didWin) {
+                            this.markLessonCompleted(this.currentLessonData.id);
+                        }
+                    }
+                });
+                break;
+            
+            // Future games can be added here
+            default:
+                alert('Unknown game type specified in lesson JSON.');
+                Navigation.goToCategory(this.currentCategory);
+                break;
+        }
+
+        Navigation.showScreen('game-screen');
     }
 };
 
@@ -447,3 +475,4 @@ document.addEventListener('DOMContentLoaded', () => {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = BengaliApp;
 }
+
