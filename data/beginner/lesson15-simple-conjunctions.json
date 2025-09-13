@@ -1,0 +1,33 @@
+{
+  "id": "lesson15-simple-conjunctions",
+  "title": "Simple Conjunctions",
+  "category": "beginner",
+  "description": "Learn to connect words and sentences with 'and', 'but', and 'or'.",
+  "type": "phrase_learning",
+  "total_items": 10,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "এবং", "english": "and", "phonetic": "ebong", "note": "Formal, used to connect sentences or important nouns." },
+    { "bengali": "আর", "english": "and", "phonetic": "aar", "note": "Informal, very common in speech." },
+    { "bengali": "কিন্তু", "english": "but", "phonetic": "kintu", "note": "Used to show contrast." },
+    { "bengali": "অথবা", "english": "or", "phonetic": "othoba", "note": "Formal, used for choices." },
+    { "bengali": "বা", "english": "or", "phonetic": "ba", "note": "Informal, very common in speech." },
+    { "example_bengali": "আমি ভাত এবং ডাল খাই।", "example_english": "I eat rice and lentils.", "phonetic": "Ami bhat ebong dal khai." },
+    { "example_bengali": "চা আর বিস্কুট।", "example_english": "Tea and biscuits.", "phonetic": "Cha aar biskut." },
+    { "example_bengali": "আমি যাব কিন্তু সে যাবে না।", "example_english": "I will go but he will not go.", "phonetic": "Ami jabo kintu she jabe na." },
+    { "example_bengali": "তুমি চা অথবা কফি চাও?", "example_english": "Do you want tea or coffee?", "phonetic": "Tumi cha othoba coffee chao?" },
+    { "example_bengali": "লাল বা নীল।", "example_english": "Red or blue.", "phonetic": "Lal ba neel." }
+  ],
+  "quiz_questions": [
+    { "question": "Which word means 'but'?", "options": ["এবং (ebong)", "কিন্তু (kintu)", "অথবা (othoba)", "আর (aar)"], "correct_answer": 1, "explanation": "'কিন্তু' (kintu) is used to show contrast, meaning 'but'." },
+    { "question": "To connect 'rice' and 'fish' in a sentence, which word would you use?", "options": ["কিন্তু (kintu)", "এবং (ebong)", "অথবা (othoba)", "না (na)"], "correct_answer": 1, "explanation": "'এবং' (ebong) or 'আর' (aar) are used for 'and'." },
+    { "question": "What is the informal word for 'or'?", "options": ["অথবা (othoba)", "এবং (ebong)", "কিন্তু (kintu)", "বা (ba)"], "correct_answer": 3, "explanation": "'বা' (ba) is the common, informal word for 'or'." },
+    { "question": "Choose the correct conjunction: 'I like tea, ___ I don't like coffee.'", "options": ["এবং (ebong)", "আর (aar)", "কিন্তু (kintu)", "বা (ba)"], "correct_answer": 2, "explanation": "The sentence shows a contrast, so 'কিন্তু' (kintu) is the correct choice." },
+    { "question": "The word 'এবং' (ebong) is a more formal version of which word?", "options": ["কিন্তু (kintu)", "অথবা (othoba)", "আর (aar)", "বা (ba)"], "correct_answer": 2, "explanation": "'এবং' (ebong) and 'আর' (aar) both mean 'and', with the former being more formal." },
+    { "question": "What does 'অথবা' (othoba) mean?", "options": ["And", "But", "Or", "So"], "correct_answer": 2, "explanation": "'অথবা' (othoba) is the formal word for 'or'." },
+    { "question": "Complete the sentence: 'তুমি যাবে ___ আমি যাব?' (Tumi jabe ___ ami jabo?) - Will you go or will I go?", "options": ["কিন্তু (kintu)", "এবং (ebong)", "বা (ba)", "আর (aar)"], "correct_answer": 2, "explanation": "'বা' (ba) or 'অথবা' (othoba) is used for choices." },
+    { "question": "The most common word for 'and' in spoken Bengali is:", "options": ["এবং (ebong)", "আর (aar)", "কিন্তু (kintu)", "অথবা (othoba)"], "correct_answer": 1, "explanation": "'আর' (aar) is used very frequently in everyday conversation for 'and'." },
+    { "question": "What is the function of 'কিন্তু' (kintu)?", "options": ["To add information", "To provide a choice", "To show contrast", "To ask a question"], "correct_answer": 2, "explanation": "It connects two contrasting ideas, just like 'but' in English." },
+    { "question": "How do you say 'Tea or coffee?' informally?", "options": ["চা কিন্তু কফি? (Cha kintu coffee?)", "চা এবং কফি? (Cha ebong coffee?)", "চা অথবা কফি? (Cha othoba coffee?)", "চা বা কফি? (Cha ba coffee?)"], "correct_answer": 3, "explanation": "The informal 'or' is 'বা' (ba), making it 'চা বা কফি?'." }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lesson12-family-relationships",
+  "title": "Family & Relationships",
+  "category": "beginner",
+  "description": "Learn the Bengali names for common family members.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "পরিবার", "english": "Family", "phonetic": "Poribar" },
+    { "bengali": "মা", "english": "Mother", "phonetic": "Ma" },
+    { "bengali": "বাবা", "english": "Father", "phonetic": "Baba" },
+    { "bengali": "ভাই", "english": "Brother", "phonetic": "Bhai" },
+    { "bengali": "বোন", "english": "Sister", "phonetic": "Bon" },
+    { "bengali": "দাদা", "english": "Older Brother", "phonetic": "Dada" },
+    { "bengali": "দিদি", "english": "Older Sister", "phonetic": "Didi" },
+    { "bengali": "স্বামী", "english": "Husband", "phonetic": "Shami" },
+    { "bengali": "স্ত্রী", "english": "Wife", "phonetic": "Stri" },
+    { "bengali": "ছেলে", "english": "Son", "phonetic": "Chhele" },
+    { "bengali": "মেয়ে", "english": "Daughter", "phonetic": "Meye" },
+    { "bengali": "বন্ধু", "english": "Friend", "phonetic": "Bondhu" }
+  ],
+  "quiz_questions": [
+    { "question": "What is the Bengali word for 'Sister'?", "options": ["ভাই (Bhai)", "বোন (Bon)", "দাদা (Dada)", "দিদি (Didi)"], "correct_answer": 1, "explanation": "'বোন' (Bon) is the general term for a sister." },
+    { "question": "The word 'স্বামী' (Shami) means what in English?", "options": ["Father", "Brother", "Husband", "Son"], "correct_answer": 2, "explanation": "'স্বামী' (Shami) means husband." },
+    { "question": "How do you refer to an 'Older Brother'?", "options": ["ভাই (Bhai)", "দাদা (Dada)", "বাবা (Baba)", "ছেলে (Chhele)"], "correct_answer": 1, "explanation": "'দাদা' (Dada) specifically means older brother." },
+    { "question": "Which word means 'Family'?", "options": ["বন্ধু (Bondhu)", "পরিবার (Poribar)", "স্ত্রী (Stri)", "বোন (Bon)"], "correct_answer": 1, "explanation": "'পরিবার' (Poribar) is the word for family." },
+    { "question": "A 'Daughter' is called a...", "options": ["মেয়ে (Meye)", "ছেলে (Chhele)", "দিদি (Didi)", "মা (Ma)"], "correct_answer": 0, "explanation": "'মেয়ে' (Meye) can mean both girl and daughter." },
+    { "question": "What is the meaning of 'বন্ধু' (Bondhu)?", "options": ["Wife", "Sister", "Friend", "Brother"], "correct_answer": 2, "explanation": "'বন্ধু' (Bondhu) means friend." },
+    { "question": "The word for 'Wife' in Bengali is:", "options": ["দিদি (Didi)", "বোন (Bon)", "মা (Ma)", "স্ত্রী (Stri)"], "correct_answer": 3, "explanation": "'স্ত্রী' (Stri) is the word for wife." },
+    { "question": "Your 'বাবা' (Baba) is your...", "options": ["Older Brother", "Grandfather", "Father", "Uncle"], "correct_answer": 2, "explanation": "'বাবা' (Baba) means father." },
+    { "question": "Which term is used for an 'Older Sister'?", "options": ["বোন (Bon)", "মেয়ে (Meye)", "দিদি (Didi)", "স্ত্রী (Stri)"], "correct_answer": 2, "explanation": "'দিদি' (Didi) is the respectful term for an older sister." },
+    { "question": "The word 'ছেলে' (Chhele) can mean 'Boy' or...", "options": ["Husband", "Friend", "Son", "Brother"], "correct_answer": 2, "explanation": "In a family context, 'ছেলে' (Chhele) means son." }
+  ]
+}

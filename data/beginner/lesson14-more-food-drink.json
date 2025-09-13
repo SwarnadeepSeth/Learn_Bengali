@@ -1,0 +1,35 @@
+{
+  "id": "lesson14-more-food-drink",
+  "title": "More Food & Drink",
+  "category": "beginner",
+  "description": "Expand your vocabulary with common names for food and beverages.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    { "bengali": "ভাত", "english": "Rice", "phonetic": "Bhaat" },
+    { "bengali": "ডাল", "english": "Lentil soup", "phonetic": "Dal" },
+    { "bengali": "মাছ", "english": "Fish", "phonetic": "Maachh" },
+    { "bengali": "মাংস", "english": "Meat", "phonetic": "Mangsho" },
+    { "bengali": "রুটি", "english": "Flatbread", "phonetic": "Ruti" },
+    { "bengali": "সবজি", "english": "Vegetable", "phonetic": "Shobji" },
+    { "bengali": "ফল", "english": "Fruit", "phonetic": "Phol" },
+    { "bengali": "জল", "english": "Water", "phonetic": "Jol" },
+    { "bengali": "দুধ", "english": "Milk", "phonetic": "Dudh" },
+    { "bengali": "চা", "english": "Tea", "phonetic": "Cha" },
+    { "bengali": "চিনি", "english": "Sugar", "phonetic": "Chini" },
+    { "bengali": "লবণ", "english": "Salt", "phonetic": "Lobon" }
+  ],
+  "quiz_questions": [
+    { "question": "What is 'মাছ' (Maachh) in English?", "options": ["Meat", "Lentils", "Fish", "Rice"], "correct_answer": 2, "explanation": "'মাছ' (Maachh) is the Bengali word for fish." },
+    { "question": "How do you say 'Tea' in Bengali?", "options": ["জল (Jol)", "দুধ (Dudh)", "চা (Cha)", "ডাল (Dal)"], "correct_answer": 2, "explanation": "'চা' (Cha) is the word for tea." },
+    { "question": "Which of these is a 'Vegetable'?", "options": ["ফল (Phol)", "সবজি (Shobji)", "মাংস (Mangsho)", "মাছ (Maachh)"], "correct_answer": 1, "explanation": "'সবজি' (Shobji) means vegetable." },
+    { "question": "The word 'ডাল' (Dal) refers to what type of food?", "options": ["A type of bread", "Lentil soup", "A fruit", "A meat dish"], "correct_answer": 1, "explanation": "'ডাল' (Dal) is a popular lentil soup." },
+    { "question": "What does 'চিনি' (Chini) mean?", "options": ["Salt", "Sugar", "Milk", "Tea"], "correct_answer": 1, "explanation": "'চিনি' (Chini) is the word for sugar." },
+    { "question": "Which of these is a type of bread?", "options": ["ভাত (Bhaat)", "ডাল (Dal)", "রুটি (Ruti)", "সবজি (Shobji)"], "correct_answer": 2, "explanation": "'রুটি' (Ruti) is a type of flatbread." },
+    { "question": "What is 'দুধ' (Dudh)?", "options": ["Water", "Tea", "Milk", "Juice"], "correct_answer": 2, "explanation": "'দুধ' (Dudh) means milk." },
+    { "question": "The word for 'Meat' is:", "options": ["মাছ (Maachh)", "মাংস (Mangsho)", "ফল (Phol)", "ডাল (Dal)"], "correct_answer": 1, "explanation": "'মাংস' (Mangsho) is the general term for meat." },
+    { "question": "How do you say 'Salt' in Bengali?", "options": ["চিনি (Chini)", "ডাল (Dal)", "লবণ (Lobon)", "জল (Jol)"], "correct_answer": 2, "explanation": "'লবণ' (Lobon) is the word for salt." },
+    { "question": "What is a 'ফল' (Phol)?", "options": ["Vegetable", "Fruit", "Fish", "Flower"], "correct_answer": 1, "explanation": "'ফল' (Phol) means fruit." }
+  ]
+}

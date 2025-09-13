@@ -1,0 +1,33 @@
+{
+  "id": "lesson11-asking-questions",
+  "title": "Asking Questions",
+  "category": "beginner",
+  "description": "Learn essential words to ask basic questions like who, what, where, and when.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    { "bengali": "কে", "english": "Who", "phonetic": "Ke", "example": "তুমি কে? (Tumi ke?) - Who are you?" },
+    { "bengali": "কি", "english": "What", "phonetic": "Ki", "example": "এটা কি? (Eta ki?) - What is this?" },
+    { "bengali": "কোথায়", "english": "Where", "phonetic": "Kothay", "example": "তুমি কোথায়? (Tumi kothay?) - Where are you?" },
+    { "bengali": "কখন", "english": "When", "phonetic": "Kokhono", "example": "তুমি কখন আসবে? (Tumi kokhon ashbe?) - When will you come?" },
+    { "bengali": "কেন", "english": "Why", "phonetic": "Keno", "example": "কেন তুমি যাচ্ছো? (Keno tumi jaccho?) - Why are you going?" },
+    { "bengali": "কেমন", "english": "How", "phonetic": "Kemon", "example": "তুমি কেমন আছো? (Tumi kemon acho?) - How are you?" },
+    { "bengali": "কোনটা", "english": "Which one", "phonetic": "Konta", "example": "কোনটা তোমার বই? (Konta tomar boi?) - Which one is your book?" },
+    { "bengali": "কার", "english": "Whose", "phonetic": "Kar", "example": "এটা কার বাড়ি? (Eta kar bari?) - Whose house is this?" },
+    { "bengali": "কিভাবে", "english": "How (process)", "phonetic": "Kibhabe", "example": "এটা কিভাবে করে? (Eta kibhabe kore?) - How is this done?" },
+    { "bengali": "কত", "english": "How much / many", "phonetic": "Koto", "example": "দাম কত? (Dam koto?) - How much is the price?" }
+  ],
+  "quiz_questions": [
+    { "question": "Which word means 'Where'?", "options": ["কে (Ke)", "কি (Ki)", "কোথায় (Kothay)", "কখন (Kokhono)"], "correct_answer": 2, "explanation": "'কোথায়' (Kothay) is used to ask about a location." },
+    { "question": "To ask 'What is your name?', you would start with which word?", "options": ["কেন (Keno)", "কেমন (Kemon)", "কি (Ki)", "কে (Ke)"], "correct_answer": 2, "explanation": "The question is 'Tomar naam ki?', which starts with 'What' (কি)." },
+    { "question": "The word 'কে' (Ke) is used to ask about a...", "options": ["Person", "Place", "Time", "Reason"], "correct_answer": 0, "explanation": "'কে' (Ke) means 'Who' and is used to ask about a person." },
+    { "question": "How do you ask 'Why' in Bengali?", "options": ["কেমন (Kemon)", "কোনটা (Konta)", "কেন (Keno)", "কার (Kar)"], "correct_answer": 2, "explanation": "'কেন' (Keno) is the word for 'Why'." },
+    { "question": "To ask about the price of an item, which question word is most appropriate?", "options": ["কিভাবে (Kibhabe)", "কত (Koto)", "কখন (Kokhono)", "কোথায় (Kothay)"], "correct_answer": 1, "explanation": "'কত' (Koto) is used to ask 'How much' or 'How many'." },
+    { "question": "What does 'তুমি কেমন আছো?' (Tumi kemon acho?) mean?", "options": ["Who are you?", "What are you doing?", "How are you?", "Where are you?"], "correct_answer": 2, "explanation": "'কেমন' (Kemon) means 'How', so the phrase means 'How are you?'" },
+    { "question": "Which word asks about possession or ownership?", "options": ["কে (Ke)", "কার (Kar)", "কোনটা (Konta)", "কি (Ki)"], "correct_answer": 1, "explanation": "'কার' (Kar) means 'Whose'." },
+    { "question": "To ask 'When will the bus come?', you need the word for 'When', which is...", "options": ["কখন (Kokhono)", "কোথায় (Kothay)", "কেন (Keno)", "কেমন (Kemon)"], "correct_answer": 0, "explanation": "'কখন' (Kokhono) is the Bengali word for 'When'." },
+    { "question": "The question word 'কোনটা' (Konta) translates to:", "options": ["How", "Whose", "Which one", "Who"], "correct_answer": 2, "explanation": "'কোনটা' (Konta) is used when asking to choose from options." },
+    { "question": "What is the difference between 'কেমন' (Kemon) and 'কিভাবে' (Kibhabe)?", "options": ["No difference", "'Kemon' is for state, 'Kibhabe' is for process", "'Kemon' is for people, 'Kibhabe' is for things", "'Kemon' is what, 'Kibhabe' is how"], "correct_answer": 1, "explanation": "'কেমন' (Kemon) asks about a state or condition (How are you?), while 'কিভাবে' (Kibhabe) asks about a method or process (How do you do it?)." }
+  ]
+}

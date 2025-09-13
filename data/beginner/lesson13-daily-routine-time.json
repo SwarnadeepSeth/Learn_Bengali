@@ -1,0 +1,35 @@
+{
+  "id": "lesson13-daily-routine-time",
+  "title": "Daily Routine & Time",
+  "category": "beginner",
+  "description": "Learn to tell time and describe simple daily activities.",
+  "type": "phrase_learning",
+  "total_items": 12,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    { "bengali": "কয়টা বাজে?", "english": "What time is it?", "phonetic": "Koyta baje?" },
+    { "bengali": "একটা বাজে।", "english": "It's 1 o'clock.", "phonetic": "Ekta baje." },
+    { "bengali": "সকাল", "english": "Morning", "phonetic": "Shokal" },
+    { "bengali": "দুপুর", "english": "Noon / Afternoon", "phonetic": "Dupur" },
+    { "bengali": "বিকাল", "english": "Late Afternoon / Evening", "phonetic": "Bikal" },
+    { "bengali": "রাত", "english": "Night", "phonetic": "Raat" },
+    { "bengali": "আমি সকালে উঠি।", "english": "I wake up in the morning.", "phonetic": "Ami shokale uthi." },
+    { "bengali": "আমি কাজ করি।", "english": "I work.", "phonetic": "Ami kaaj kori." },
+    { "bengali": "আমি দুপুরে খাই।", "english": "I eat at noon.", "phonetic": "Ami dupure khai." },
+    { "bengali": "আমি বিকালে বাড়ি আসি।", "english": "I come home in the evening.", "phonetic": "Ami bikale bari ashi." },
+    { "bengali": "আমি রাতে ঘুমাই।", "english": "I sleep at night.", "phonetic": "Ami raate ghumai." },
+    { "bengali": "ঘন্টা", "english": "Hour", "phonetic": "Ghonta" }
+  ],
+  "quiz_questions": [
+    { "question": "How do you ask 'What time is it?'", "options": ["কেমন আছো? (Kemon acho?)", "তোমার নাম কি? (Tomar naam ki?)", "কয়টা বাজে? (Koyta baje?)", "এখন দুপুর। (Ekhon dupur.)"], "correct_answer": 2, "explanation": "'কয়টা বাজে?' (Koyta baje?) is the standard way to ask for the time." },
+    { "question": "What part of the day is 'সকাল' (Shokal)?", "options": ["Night", "Noon", "Evening", "Morning"], "correct_answer": 3, "explanation": "'সকাল' (Shokal) means morning." },
+    { "question": "The phrase 'একটা বাজে' (Ekta baje) means:", "options": ["It's 2 o'clock.", "It's 10 o'clock.", "It's 1 o'clock.", "It is late."], "correct_answer": 2, "explanation": "'এক' (Ek) means one, so 'একটা বাজে' is 1 o'clock." },
+    { "question": "Which word means 'Night'?", "options": ["দুপুর (Dupur)", "বিকাল (Bikal)", "রাত (Raat)", "সকাল (Shokal)"], "correct_answer": 2, "explanation": "'রাত' (Raat) is the word for night." },
+    { "question": "What does 'আমি রাতে ঘুমাই' (Ami raate ghumai) mean?", "options": ["I sleep at night.", "I eat at night.", "I work at night.", "I wake up at night."], "correct_answer": 0, "explanation": "'রাতে' (raate) means at night and 'ঘুমাই' (ghumai) means sleep." },
+    { "question": "If you eat lunch, it is most likely '____'.", "options": ["সকাল (Shokal)", "দুপুর (Dupur)", "রাত (Raat)", "বিকাল (Bikal)"], "correct_answer": 1, "explanation": "Lunch is typically eaten at 'দুপুর' (Dupur) or noon/afternoon." },
+    { "question": "The word 'বিকাল' (Bikal) refers to:", "options": ["Morning", "Late Afternoon / Evening", "Midnight", "Noon"], "correct_answer": 1, "explanation": "'বিকাল' (Bikal) is the period between afternoon and night." },
+    { "question": "Translate: 'I wake up in the morning.'", "options": ["আমি রাতে উঠি। (Ami raate uthi.)", "আমি সকালে ঘুমাই। (Ami shokale ghumai.)", "আমি সকালে উঠি। (Ami shokale uthi.)", "আমি দুপুরে উঠি। (Ami dupure uthi.)"], "correct_answer": 2, "explanation": "'সকালে' (shokale) means in the morning, and 'উঠি' (uthi) means wake up." },
+    { "question": "The word 'ঘন্টা' (Ghonta) means:", "options": ["Minute", "Second", "Time", "Hour"], "correct_answer": 3, "explanation": "'ঘন্টা' (Ghonta) is the Bengali word for hour." },
+    { "question": "Which activity would you most likely do in the 'দুপুর' (Dupur)?", "options": ["Sleep for the night", "Wake up", "Eat lunch", "Go to sleep"], "correct_answer": 2, "explanation": "Eating lunch is a common activity for 'দুপুর' (noon/afternoon)." }
+  ]
+}
