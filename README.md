@@ -1,4 +1,4 @@
-# Bengali Learning App - Fixed Version
+# Bengali Learning App
 
 A modular, scalable web application for learning Bengali language, designed specifically for English speakers. This version fixes the JSON loading issue by embedding lesson data directly in JavaScript files.
 
