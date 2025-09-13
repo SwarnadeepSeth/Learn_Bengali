@@ -82,7 +82,8 @@ const LessonLoader = {
                 'lesson12-family-relationships',
                 'lesson13-daily-routine-time',
                 'lesson14-more-food-drink',
-                'lesson15-simple-conjunctions'
+                'lesson15-simple-conjunctions',
+                'lesson16-commands-requests'
             ],
             'intermediate': [],
             'advanced': []
@@ -97,7 +98,7 @@ const LessonLoader = {
                 id: 'beginner',
                 title: 'Beginner',
                 description: 'Start your Bengali journey with basic script and essential phrases',
-                totalLessons: 15
+                totalLessons: 16
             },
             'intermediate': {
                 id: 'intermediate',

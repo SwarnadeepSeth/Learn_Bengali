@@ -1,0 +1,62 @@
+{
+  "id": "lesson16-commands-requests",
+  "title": "Game: Common Commands",
+  "category": "beginner",
+  "description": "Navigate the maze by choosing the correct Bengali commands and requests.",
+  "type": "game_learning",
+  "game_type": "maze",
+  "total_items": 10,
+  "estimated_time": "15 minutes",
+  "game_data": [
+    {
+      "prompt_english": "Come here.",
+      "options_bengali": [ "এখানে আসুন (Ekhane ashun)", "ওখানে যান (Okhane jaan)", "এটা নিন (Eta nin)", "কথা বলুন (Kotha bolun)" ],
+      "correct_answer": 0
+    },
+    {
+      "prompt_english": "Please sit.",
+      "options_bengali": [ "গান করুন (Gaan korun)", "দয়া করে বসুন (Doya kore boshun)", "জল পান করুন (Jol paan korun)", "চুপ করুন (Chup korun)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Go there.",
+      "options_bengali": [ "এখানে আসুন (Ekhane ashun)", "ওখানে যান (Okhane jaan)", "এটা দিন (Eta din)", "শুনুন (Shunun)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Listen.",
+      "options_bengali": [ "বলুন (Bolun)", "কাজ করুন (Kaaj korun)", "যান (Jaan)", "শুনুন (Shunun)" ],
+      "correct_answer": 3
+    },
+    {
+      "prompt_english": "Be quiet.",
+      "options_bengali": [ "চুপ করুন (Chup korun)", "কথা বলুন (Kotha bolun)", "আসুন (Ashun)", "নিন (Nin)" ],
+      "correct_answer": 0
+    },
+    {
+      "prompt_english": "Take this.",
+      "options_bengali": [ "এটা দিন (Eta din)", "ওটা দেখুন (Ota dekhun)", "এটা নিন (Eta nin)", "এখানে বসুন (Ekhane boshun)" ],
+      "correct_answer": 2
+    },
+    {
+      "prompt_english": "Give that.",
+      "options_bengali": [ "ওটা দিন (Ota din)", "এটা নিন (Eta nin)", "ওখানে যান (Okhane jaan)", "চুপ করুন (Chup korun)" ],
+      "correct_answer": 0
+    },
+    {
+      "prompt_english": "Do the work.",
+      "options_bengali": [ "ঘুমান (Ghuman)", "কাজ করুন (Kaaj korun)", "গান করুন (Gaan korun)", "আসুন (Ashun)" ],
+      "correct_answer": 1
+    },
+    {
+      "prompt_english": "Speak.",
+      "options_bengali": [ "শুনুন (Shunun)", "চুপ করুন (Chup korun)", "যান (Jaan)", "কথা বলুন (Kotha bolun)" ],
+      "correct_answer": 3
+    },
+    {
+      "prompt_english": "Please wait.",
+      "options_bengali": [ "দয়া করে অপেক্ষা করুন (Doya kore opekha korun)", "তাড়াতাড়ি করুন (Taratari korun)", "এখানে আসুন (Ekhane ashun)", "ওখানে যান (Okhane jaan)" ],
+      "correct_answer": 0
+    }
+  ]
+}
