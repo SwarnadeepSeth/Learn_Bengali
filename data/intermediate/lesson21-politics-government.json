@@ -1,0 +1,513 @@
+{
+  "id": "lesson21-politics-government",
+  "title": "Politics and Government",
+  "category": "intermediate",
+  "description": "Learn vocabulary related to politics, government, and civic concepts in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "রাজনীতি",
+      "english": "politics",
+      "phonetic": "rājnīti",
+      "pronunciation_guide": "like 'raj-ni-ti'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সরকার",
+      "english": "government",
+      "phonetic": "sôrôkār",
+      "pronunciation_guide": "like 'sho-ro-kar'",
+      "audio_tip": "aspirated 'rôkār'"
+    },
+    {
+      "bengali": "রাষ্ট্রপতি",
+      "english": "president",
+      "phonetic": "rāṣṭrôpôti",
+      "pronunciation_guide": "like 'ras-tro-po-ti'",
+      "audio_tip": "retroflex 'ṣṭrôpôti'"
+    },
+    {
+      "bengali": "প্রধানমন্ত্রী",
+      "english": "prime minister",
+      "phonetic": "prôdhān môntri",
+      "pronunciation_guide": "like 'pro-dhan mon-tri'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "মন্ত্রী",
+      "english": "minister",
+      "phonetic": "môntri",
+      "pronunciation_guide": "like 'mon-tri'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "সংসদ",
+      "english": "parliament",
+      "phonetic": "sôṅsôd",
+      "pronunciation_guide": "like 'shong-sod'",
+      "audio_tip": "nasal 'ṅsôd'"
+    },
+    {
+      "bengali": "সাংসদ",
+      "english": "member of parliament",
+      "phonetic": "sāṅsôd",
+      "pronunciation_guide": "like 'sang-sod'",
+      "audio_tip": "nasal 'ṅsôd'"
+    },
+    {
+      "bengali": "নির্বাচন",
+      "english": "election",
+      "phonetic": "nirbācôn",
+      "pronunciation_guide": "like 'nir-ba-chon'",
+      "audio_tip": "aspirated 'rbācôn'"
+    },
+    {
+      "bengali": "ভোট",
+      "english": "vote",
+      "phonetic": "bhōṭ",
+      "pronunciation_guide": "like 'bhot'",
+      "audio_tip": "aspirated 'bhōṭ'"
+    },
+    {
+      "bengali": "দল",
+      "english": "party",
+      "phonetic": "dôl",
+      "pronunciation_guide": "like 'dol'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "আইন",
+      "english": "law",
+      "phonetic": "āin",
+      "pronunciation_guide": "like 'ain'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সংবিধান",
+      "english": "constitution",
+      "phonetic": "sôṅbidhān",
+      "pronunciation_guide": "like 'shong-bid-han'",
+      "audio_tip": "nasal 'ṅbidhān'"
+    },
+    {
+      "bengali": "নাগরিক",
+      "english": "citizen",
+      "phonetic": "nāgôrik",
+      "pronunciation_guide": "like 'na-go-rik'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "অধিকার",
+      "english": "rights",
+      "phonetic": "ôdhikār",
+      "pronunciation_guide": "like 'o-dhi-kar'",
+      "audio_tip": "aspirated 'dhikār'"
+    },
+    {
+      "bengali": "দায়িত্ব",
+      "english": "duty/responsibility",
+      "phonetic": "dāyittô",
+      "pronunciation_guide": "like 'da-yit-to'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "গণতন্ত্র",
+      "english": "democracy",
+      "phonetic": "gôṇôtôntro",
+      "pronunciation_guide": "like 'go-no-ton-tro'",
+      "audio_tip": "nasal 'ṇôtôntro'"
+    },
+    {
+      "bengali": "স্বাধীনতা",
+      "english": "freedom/independence",
+      "phonetic": "sbādhīntā",
+      "pronunciation_guide": "like 'shwa-dhin-ta'",
+      "audio_tip": "aspirated 'bādhīntā'"
+    },
+    {
+      "bengali": "নীতি",
+      "english": "policy",
+      "phonetic": "nīti",
+      "pronunciation_guide": "like 'ni-ti'",
+      "audio_tip": "long 'ī'"
+    },
+    {
+      "bengali": "আন্তর্জাতিক",
+      "english": "international",
+      "phonetic": "āntôrjātik",
+      "pronunciation_guide": "like 'an-tor-ja-tik'",
+      "audio_tip": "aspirated 'ntôrjātik'"
+    },
+    {
+      "bengali": "কূটনীতি",
+      "english": "diplomacy",
+      "phonetic": "kūṭônīti",
+      "pronunciation_guide": "like 'koo-to-ni-ti'",
+      "audio_tip": "retroflex 'ṭônīti'"
+    },
+    {
+      "bengali": "যুদ্ধ",
+      "english": "war",
+      "phonetic": "yuddô",
+      "pronunciation_guide": "like 'yud-do'",
+      "audio_tip": "double 'ddô'"
+    },
+    {
+      "bengali": "শান্তি",
+      "english": "peace",
+      "phonetic": "śānti",
+      "pronunciation_guide": "like 'shan-ti'",
+      "audio_tip": "aspirated 'śānti'"
+    },
+    {
+      "bengali": "অর্থনীতি",
+      "english": "economy",
+      "phonetic": "ôrthônīti",
+      "pronunciation_guide": "like 'or-tho-ni-ti'",
+      "audio_tip": "aspirated 'rthônīti'"
+    },
+    {
+      "bengali": "সমাজ",
+      "english": "society",
+      "phonetic": "sômāj",
+      "pronunciation_guide": "like 'sho-maj'",
+      "audio_tip": "aspirated 'māj'"
+    },
+    {
+      "bengali": "নিরাপত্তা",
+      "english": "security",
+      "phonetic": "nirāpôttā",
+      "pronunciation_guide": "like 'ni-ra-pot-ta'",
+      "audio_tip": "aspirated 'rāpôttā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'politics'?",
+      "options": [
+        "সরকার",
+        "রাষ্ট্রপতি",
+        "রাজনীতি",
+        "প্রধানমন্ত্রী"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাজনীতি (rājnīti) means politics",
+      "bengali_focus": "রাজনীতি",
+      "phonetic_focus": "rājnīti"
+    },
+    {
+      "question": "Which word means 'government'?",
+      "options": [
+        "মন্ত্রী",
+        "সংসদ",
+        "সরকার",
+        "সাংসদ"
+      ],
+      "correct_answer": 2,
+      "explanation": "সরকার (sôrôkār) means government",
+      "bengali_focus": "সরকার",
+      "phonetic_focus": "sôrôkār"
+    },
+    {
+      "question": "What does রাষ্ট্রপতি mean?",
+      "options": [
+        "নির্বাচন",
+        "ভোট",
+        "President",
+        "দল"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাষ্ট্রপতি (rāṣṭrôpôti) means president",
+      "bengali_focus": "রাষ্ট্রপতি",
+      "phonetic_focus": "rāṣṭrôpôti"
+    },
+    {
+      "question": "Which Bengali word means 'prime minister'?",
+      "options": [
+        "আইন",
+        "সংবিধান",
+        "প্রধানমন্ত্রী",
+        "নাগরিক"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রধানমন্ত্রী (prôdhān môntri) means prime minister",
+      "bengali_focus": "প্রধানমন্ত্রী",
+      "phonetic_focus": "prôdhān môntri"
+    },
+    {
+      "question": "What is মন্ত্রী?",
+      "options": [
+        "অধিকার",
+        "দায়িত্ব",
+        "Minister",
+        "গণতন্ত্র"
+      ],
+      "correct_answer": 2,
+      "explanation": "মন্ত্রী (môntri) means minister",
+      "bengali_focus": "মন্ত্রী",
+      "phonetic_focus": "môntri"
+    },
+    {
+      "question": "Which word means 'parliament'?",
+      "options": [
+        "স্বাধীনতা",
+        "নীতি",
+        "সংসদ",
+        "আন্তর্জাতিক"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংসদ (sôṅsôd) means parliament",
+      "bengali_focus": "সংসদ",
+      "phonetic_focus": "sôṅsôd"
+    },
+    {
+      "question": "What does সাংসদ mean?",
+      "options": [
+        "কূটনীতি",
+        "যুদ্ধ",
+        "Member of parliament",
+        "শান্তি"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাংসদ (sāṅsôd) means member of parliament",
+      "bengali_focus": "সাংসদ",
+      "phonetic_focus": "sāṅsôd"
+    },
+    {
+      "question": "Which Bengali word means 'election'?",
+      "options": [
+        "অর্থনীতি",
+        "সমাজ",
+        "নির্বাচন",
+        "নিরাপত্তা"
+      ],
+      "correct_answer": 2,
+      "explanation": "নির্বাচন (nirbācôn) means election",
+      "bengali_focus": "নির্বাচন",
+      "phonetic_focus": "nirbācôn"
+    },
+    {
+      "question": "What is ভোট?",
+      "options": [
+        "Politics",
+        "Government",
+        "Vote",
+        "President"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভোট (bhōṭ) means vote",
+      "bengali_focus": "ভোট",
+      "phonetic_focus": "bhōṭ"
+    },
+    {
+      "question": "Which word means 'party'?",
+      "options": [
+        "Prime minister",
+        "Minister",
+        "দল",
+        "Parliament"
+      ],
+      "correct_answer": 2,
+      "explanation": "দল (dôl) means party",
+      "bengali_focus": "দল",
+      "phonetic_focus": "dôl"
+    },
+    {
+      "question": "What does আইন mean?",
+      "options": [
+        "Member of parliament",
+        "Election",
+        "Law",
+        "Vote"
+      ],
+      "correct_answer": 2,
+      "explanation": "আইন (āin) means law",
+      "bengali_focus": "আইন",
+      "phonetic_focus": "āin"
+    },
+    {
+      "question": "Which Bengali word means 'constitution'?",
+      "options": [
+        "Party",
+        "Law",
+        "সংবিধান",
+        "Citizen"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংবিধান (sôṅbidhān) means constitution",
+      "bengali_focus": "সংবিধান",
+      "phonetic_focus": "sôṅbidhān"
+    },
+    {
+      "question": "What is নাগরিক?",
+      "options": [
+        "Rights",
+        "Duty",
+        "Citizen",
+        "Democracy"
+      ],
+      "correct_answer": 2,
+      "explanation": "নাগরিক (nāgôrik) means citizen",
+      "bengali_focus": "নাগরিক",
+      "phonetic_focus": "nāgôrik"
+    },
+    {
+      "question": "Which word means 'rights'?",
+      "options": [
+        "Freedom",
+        "Policy",
+        "অধিকার",
+        "International"
+      ],
+      "correct_answer": 2,
+      "explanation": "অধিকার (ôdhikār) means rights",
+      "bengali_focus": "অধিকার",
+      "phonetic_focus": "ôdhikār"
+    },
+    {
+      "question": "What does দায়িত্ব mean?",
+      "options": [
+        "Diplomacy",
+        "War",
+        "Duty",
+        "Peace"
+      ],
+      "correct_answer": 2,
+      "explanation": "দায়িত্ব (dāyittô) means duty",
+      "bengali_focus": "দায়িত্ব",
+      "phonetic_focus": "dāyittô"
+    },
+    {
+      "question": "Which Bengali word means 'democracy'?",
+      "options": [
+        "Economy",
+        "Society",
+        "গণতন্ত্র",
+        "Security"
+      ],
+      "correct_answer": 2,
+      "explanation": "গণতন্ত্র (gôṇôtôntro) means democracy",
+      "bengali_focus": "গণতন্ত্র",
+      "phonetic_focus": "gôṇôtôntro"
+    },
+    {
+      "question": "What is স্বাধীনতা?",
+      "options": [
+        "Politics",
+        "Government",
+        "Freedom",
+        "President"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্বাধীনতা (sbādhīntā) means freedom",
+      "bengali_focus": "স্বাধীনতা",
+      "phonetic_focus": "sbādhīntā"
+    },
+    {
+      "question": "Which word means 'policy'?",
+      "options": [
+        "Prime minister",
+        "Minister",
+        "নীতি",
+        "Parliament"
+      ],
+      "correct_answer": 2,
+      "explanation": "নীতি (nīti) means policy",
+      "bengali_focus": "নীতি",
+      "phonetic_focus": "nīti"
+    },
+    {
+      "question": "What does আন্তর্জাতিক mean?",
+      "options": [
+        "Member of parliament",
+        "Election",
+        "International",
+        "Vote"
+      ],
+      "correct_answer": 2,
+      "explanation": "আন্তর্জাতিক (āntôrjātik) means international",
+      "bengali_focus": "আন্তর্জাতিক",
+      "phonetic_focus": "āntôrjātik"
+    },
+    {
+      "question": "Which Bengali word means 'diplomacy'?",
+      "options": [
+        "Party",
+        "Law",
+        "কূটনীতি",
+        "Citizen"
+      ],
+      "correct_answer": 2,
+      "explanation": "কূটনীতি (kūṭônīti) means diplomacy",
+      "bengali_focus": "কূটনীতি",
+      "phonetic_focus": "kūṭônīti"
+    },
+    {
+      "question": "What is যুদ্ধ?",
+      "options": [
+        "Rights",
+        "Duty",
+        "War",
+        "Democracy"
+      ],
+      "correct_answer": 2,
+      "explanation": "যুদ্ধ (yuddô) means war",
+      "bengali_focus": "যুদ্ধ",
+      "phonetic_focus": "yuddô"
+    },
+    {
+      "question": "Which word means 'peace'?",
+      "options": [
+        "Freedom",
+        "Policy",
+        "শান্তি",
+        "International"
+      ],
+      "correct_answer": 2,
+      "explanation": "শান্তি (śānti) means peace",
+      "bengali_focus": "শান্তি",
+      "phonetic_focus": "śānti"
+    },
+    {
+      "question": "What does অর্থনীতি mean?",
+      "options": [
+        "Diplomacy",
+        "War",
+        "Economy",
+        "Peace"
+      ],
+      "correct_answer": 2,
+      "explanation": "অর্থনীতি (ôrthônīti) means economy",
+      "bengali_focus": "অর্থনীতি",
+      "phonetic_focus": "ôrthônīti"
+    },
+    {
+      "question": "Which Bengali word means 'society'?",
+      "options": [
+        "Economy",
+        "Society",
+        "সমাজ",
+        "Security"
+      ],
+      "correct_answer": 2,
+      "explanation": "সমাজ (sômāj) means society",
+      "bengali_focus": "সমাজ",
+      "phonetic_focus": "sômāj"
+    },
+    {
+      "question": "What is নিরাপত্তা?",
+      "options": [
+        "Politics",
+        "Government",
+        "Security",
+        "President"
+      ],
+      "correct_answer": 2,
+      "explanation": "নিরাপত্তা (nirāpôttā) means security",
+      "bengali_focus": "নিরাপত্তা",
+      "phonetic_focus": "nirāpôttā"
+    }
+  ]
+}

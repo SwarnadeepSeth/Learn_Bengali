@@ -1,0 +1,500 @@
+{
+  "id": "lesson26-business-economy",
+  "title": "Business and Economy",
+  "category": "intermediate",
+  "description": "Learn vocabulary for business, commerce, and economic concepts in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "ব্যবসা",
+      "english": "business",
+      "phonetic": "byôbôsā",
+      "pronunciation_guide": "like 'byo-bo-sa'",
+      "audio_tip": "aspirated 'bôsā'"
+    },
+    {
+      "bengali": "অর্থনীতি",
+      "english": "economy",
+      "phonetic": "ôrthônīti",
+      "pronunciation_guide": "like 'or-tho-ni-ti'",
+      "audio_tip": "aspirated 'rthônīti'"
+    },
+    {
+      "bengali": "কোম্পানি",
+      "english": "company",
+      "phonetic": "kômpāni",
+      "pronunciation_guide": "like 'kom-pa-ni'",
+      "audio_tip": "aspirated 'mpāni'"
+    },
+    {
+      "bengali": "ব্যবসায়ী",
+      "english": "businessman",
+      "phonetic": "byôbôsāẏī",
+      "pronunciation_guide": "like 'byo-bo-sai'",
+      "audio_tip": "aspirated 'sāẏī'"
+    },
+    {
+      "bengali": "বিনিয়োগ",
+      "english": "investment",
+      "phonetic": "biniẏōg",
+      "pronunciation_guide": "like 'bi-ni-yog'",
+      "audio_tip": "aspirated 'niẏōg'"
+    },
+    {
+      "bengali": "মুনাফা",
+      "english": "profit",
+      "phonetic": "munāphā",
+      "pronunciation_guide": "like 'mu-na-pha'",
+      "audio_tip": "aspirated 'nāphā'"
+    },
+    {
+      "bengali": "ক্ষতি",
+      "english": "loss",
+      "phonetic": "kṣôti",
+      "pronunciation_guide": "like 'kho-ti'",
+      "audio_tip": "retroflex 'kṣôti'"
+    },
+    {
+      "bengali": "বাজেট",
+      "english": "budget",
+      "phonetic": "bājêṭ",
+      "pronunciation_guide": "like 'ba-jet'",
+      "audio_tip": "aspirated 'jêṭ'"
+    },
+    {
+      "bengali": "ব্যয়",
+      "english": "expense/cost",
+      "phonetic": "byôy",
+      "pronunciation_guide": "like 'byoy'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "আয়",
+      "english": "income/revenue",
+      "phonetic": "āy",
+      "pronunciation_guide": "like 'ay'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "বাজার",
+      "english": "market",
+      "phonetic": "bājār",
+      "pronunciation_guide": "like 'ba-jar'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "চাহিদা",
+      "english": "demand",
+      "phonetic": "cāhidā",
+      "pronunciation_guide": "like 'cha-hi-da'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সরবরাহ",
+      "english": "supply",
+      "phonetic": "sôrbôrāh",
+      "pronunciation_guide": "like 'shor-bo-rah'",
+      "audio_tip": "aspirated 'rbôrāh'"
+    },
+    {
+      "bengali": "মূল্য",
+      "english": "price/value",
+      "phonetic": "mūlyô",
+      "pronunciation_guide": "like 'mul-yo'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "বিক্রি",
+      "english": "sale",
+      "phonetic": "bikri",
+      "pronunciation_guide": "like 'bik-ri'",
+      "audio_tip": "clear 'k'"
+    },
+    {
+      "bengali": "ক্রেতা",
+      "english": "buyer/customer",
+      "phonetic": "krētā",
+      "pronunciation_guide": "like 'kre-ta'",
+      "audio_tip": "retroflex 'ētā'"
+    },
+    {
+      "bengali": "বিক্রেতা",
+      "english": "seller",
+      "phonetic": "bikrētā",
+      "pronunciation_guide": "like 'bik-re-ta'",
+      "audio_tip": "retroflex 'ētā'"
+    },
+    {
+      "bengali": "চুক্তি",
+      "english": "contract/agreement",
+      "phonetic": "cukti",
+      "pronunciation_guide": "like 'chuk-ti'",
+      "audio_tip": "clear 'k'"
+    },
+    {
+      "bengali": "ব্যাংক",
+      "english": "bank",
+      "phonetic": "byāṅk",
+      "pronunciation_guide": "like 'byank'",
+      "audio_tip": "nasal 'ṅk'"
+    },
+    {
+      "bengali": "ঋণ",
+      "english": "loan/debt",
+      "phonetic": "r̥ṇ",
+      "pronunciation_guide": "like 'rin'",
+      "audio_tip": "retroflex 'r̥ṇ'"
+    },
+    {
+      "bengali": "সুদ",
+      "english": "interest",
+      "phonetic": "sud",
+      "pronunciation_guide": "like 'sud'",
+      "audio_tip": "clear 'd'"
+    },
+    {
+      "bengali": "টাকা",
+      "english": "money",
+      "phonetic": "ṭākā",
+      "pronunciation_guide": "like 'ta-ka'",
+      "audio_tip": "retroflex 'ṭākā'"
+    },
+    {
+      "bengali": "বিপণন",
+      "english": "marketing",
+      "phonetic": "bipôṇôn",
+      "pronunciation_guide": "like 'bi-po-non'",
+      "audio_tip": "aspirated 'pôṇôn'"
+    },
+    {
+      "bengali": "ব্র্যান্ড",
+      "english": "brand",
+      "phonetic": "brẏānḍ",
+      "pronunciation_guide": "like 'bryand'",
+      "audio_tip": "retroflex 'ẏānḍ'"
+    },
+    {
+      "bengali": "প্রতিযোগিতা",
+      "english": "competition",
+      "phonetic": "prôtiyōgitā",
+      "pronunciation_guide": "like 'pro-ti-yo-gi-ta'",
+      "audio_tip": "aspirated 'tiyōgitā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'business'?",
+      "options": [
+        "অর্থনীতি",
+        "কোম্পানি",
+        "ব্যবসা",
+        "ব্যবসায়ী"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যবসা (byôbôsā) means business",
+      "bengali_focus": "ব্যবসা",
+      "phonetic_focus": "byôbôsā"
+    },
+    {
+      "question": "Which word means 'economy'?",
+      "options": [
+        "বিনিয়োগ",
+        "মুনাফা",
+        "অর্থনীতি",
+        "ক্ষতি"
+      ],
+      "correct_answer": 2,
+      "explanation": "অর্থনীতি (ôrthônīti) means economy",
+      "bengali_focus": "অর্থনীতি",
+      "phonetic_focus": "ôrthônīti"
+    },
+    {
+      "question": "What does কোম্পানি mean?",
+      "options": [
+        "বাজেট",
+        "ব্যয়",
+        "Company",
+        "আয়"
+      ],
+      "correct_answer": 2,
+      "explanation": "কোম্পানি (kômpāni) means company",
+      "bengali_focus": "কোম্পানি",
+      "phonetic_focus": "kômpāni"
+    },
+    {
+      "question": "Which Bengali word means 'investment'?",
+      "options": [
+        "বাজার",
+        "চাহিদা",
+        "বিনিয়োগ",
+        "সরবরাহ"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিনিয়োগ (biniẏōg) means investment",
+      "bengali_focus": "বিনিয়োগ",
+      "phonetic_focus": "biniẏōg"
+    },
+    {
+      "question": "What is মুনাফা?",
+      "options": [
+        "মূল্য",
+        "বিক্রি",
+        "Profit",
+        "ক্রেতা"
+      ],
+      "correct_answer": 2,
+      "explanation": "মুনাফা (munāphā) means profit",
+      "bengali_focus": "মুনাফা",
+      "phonetic_focus": "munāphā"
+    },
+    {
+      "question": "Which word means 'loss'?",
+      "options": [
+        "বিক্রেতা",
+        "চুক্তি",
+        "ক্ষতি",
+        "ব্যাংক"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্ষতি (kṣôti) means loss",
+      "bengali_focus": "ক্ষতি",
+      "phonetic_focus": "kṣôti"
+    },
+    {
+      "question": "What does বাজেট mean?",
+      "options": [
+        "ঋণ",
+        "সুদ",
+        "Budget",
+        "টাকা"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাজেট (bājêṭ) means budget",
+      "bengali_focus": "বাজেট",
+      "phonetic_focus": "bājêṭ"
+    },
+    {
+      "question": "Which Bengali word means 'expense'?",
+      "options": [
+        "বিপণন",
+        "ব্র্যান্ড",
+        "ব্যয়",
+        "প্রতিযোগিতা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যয় (byôy) means expense",
+      "bengali_focus": "ব্যয়",
+      "phonetic_focus": "byôy"
+    },
+    {
+      "question": "What is আয়?",
+      "options": [
+        "Business",
+        "Economy",
+        "Income",
+        "Company"
+      ],
+      "correct_answer": 2,
+      "explanation": "আয় (āy) means income",
+      "bengali_focus": "আয়",
+      "phonetic_focus": "āy"
+    },
+    {
+      "question": "Which word means 'market'?",
+      "options": [
+        "Businessman",
+        "Investment",
+        "বাজার",
+        "Profit"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাজার (bājār) means market",
+      "bengali_focus": "বাজার",
+      "phonetic_focus": "bājār"
+    },
+    {
+      "question": "What does চাহিদা mean?",
+      "options": [
+        "Loss",
+        "Budget",
+        "Demand",
+        "Expense"
+      ],
+      "correct_answer": 2,
+      "explanation": "চাহিদা (cāhidā) means demand",
+      "bengali_focus": "চাহিদা",
+      "phonetic_focus": "cāhidā"
+    },
+    {
+      "question": "Which Bengali word means 'supply'?",
+      "options": [
+        "Income",
+        "Market",
+        "সরবরাহ",
+        "Demand"
+      ],
+      "correct_answer": 2,
+      "explanation": "সরবরাহ (sôrbôrāh) means supply",
+      "bengali_focus": "সরবরাহ",
+      "phonetic_focus": "sôrbôrāh"
+    },
+    {
+      "question": "What is মূল্য?",
+      "options": [
+        "Price",
+        "Sale",
+        "Buyer",
+        "Seller"
+      ],
+      "correct_answer": 0,
+      "explanation": "মূল্য (mūlyô) means price",
+      "bengali_focus": "মূল্য",
+      "phonetic_focus": "mūlyô"
+    },
+    {
+      "question": "Which word means 'sale'?",
+      "options": [
+        "Contract",
+        "Bank",
+        "বিক্রি",
+        "Loan"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিক্রি (bikri) means sale",
+      "bengali_focus": "বিক্রি",
+      "phonetic_focus": "bikri"
+    },
+    {
+      "question": "What does ক্রেতা mean?",
+      "options": [
+        "Interest",
+        "Money",
+        "Buyer",
+        "Marketing"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্রেতা (krētā) means buyer",
+      "bengali_focus": "ক্রেতা",
+      "phonetic_focus": "krētā"
+    },
+    {
+      "question": "Which Bengali word means 'contract'?",
+      "options": [
+        "Brand",
+        "Competition",
+        "চুক্তি",
+        "Business"
+      ],
+      "correct_answer": 2,
+      "explanation": "চুক্তি (cukti) means contract",
+      "bengali_focus": "চুক্তি",
+      "phonetic_focus": "cukti"
+    },
+    {
+      "question": "What is ব্যাংক?",
+      "options": [
+        "Economy",
+        "Company",
+        "Bank",
+        "Businessman"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যাংক (byāṅk) means bank",
+      "bengali_focus": "ব্যাংক",
+      "phonetic_focus": "byāṅk"
+    },
+    {
+      "question": "Which word means 'loan'?",
+      "options": [
+        "Investment",
+        "Profit",
+        "ঋণ",
+        "Loss"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঋণ (r̥ṇ) means loan",
+      "bengali_focus": "ঋণ",
+      "phonetic_focus": "r̥ṇ"
+    },
+    {
+      "question": "What does সুদ mean?",
+      "options": [
+        "Budget",
+        "Expense",
+        "Interest",
+        "Income"
+      ],
+      "correct_answer": 2,
+      "explanation": "সুদ (sud) means interest",
+      "bengali_focus": "সুদ",
+      "phonetic_focus": "sud"
+    },
+    {
+      "question": "Which Bengali word means 'money'?",
+      "options": [
+        "Market",
+        "Demand",
+        "টাকা",
+        "Supply"
+      ],
+      "correct_answer": 2,
+      "explanation": "টাকা (ṭākā) means money",
+      "bengali_focus": "টাকা",
+      "phonetic_focus": "ṭākā"
+    },
+    {
+      "question": "What is বিপণন?",
+      "options": [
+        "Price",
+        "Sale",
+        "Marketing",
+        "Buyer"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিপণন (bipôṇôn) means marketing",
+      "bengali_focus": "বিপণন",
+      "phonetic_focus": "bipôṇôn"
+    },
+    {
+      "question": "Which word means 'brand'?",
+      "options": [
+        "Seller",
+        "Contract",
+        "ব্র্যান্ড",
+        "Bank"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্র্যান্ড (brẏānḍ) means brand",
+      "bengali_focus": "ব্র্যান্ড",
+      "phonetic_focus": "brẏānḍ"
+    },
+    {
+      "question": "What does প্রতিযোগিতা mean?",
+      "options": [
+        "Loan",
+        "Interest",
+        "Competition",
+        "Money"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রতিযোগিতা (prôtiyōgitā) means competition",
+      "bengali_focus": "প্রতিযোগিতা",
+      "phonetic_focus": "prôtiyōgitā"
+    },
+    {
+      "question": "Which Bengali word means 'businessman'?",
+      "options": [
+        "Company",
+        "Investment",
+        "ব্যবসায়ী",
+        "Profit"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যবসায়ী (byôbôsāẏī) means businessman",
+      "bengali_focus": "ব্যবসায়ী",
+      "phonetic_focus": "byôbôsāẏī"
+    }
+  ]
+}

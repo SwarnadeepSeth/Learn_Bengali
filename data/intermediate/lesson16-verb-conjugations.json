@@ -1,0 +1,399 @@
+{
+  "id": "lesson16-verb-conjugations",
+  "title": "Verb Conjugations",
+  "category": "intermediate",
+  "description": "Master Bengali verb conjugations: present (-ই/-ও/-য়), past (-লাম/-লে/-ল), and future (হবে + verb)",
+  "type": "grammar_learning",
+  "total_items": 30,
+  "estimated_time": "30 minutes",
+  "grammar_rules": [
+    {
+      "rule_title": "Present Tense Conjugation",
+      "rule_explanation": "Present tense verbs change endings based on person and number. The verb root stays the same, but different suffixes are added according to the subject.",
+      "key_points": [
+        "First person singular/plural: -ই (-i)",
+        "Second person informal: -ও (-o)",
+        "Second person formal/plural: -েন (-en)",
+        "Third person: -য় (-y)",
+        "Honorific third person: -েন (-en)"
+      ]
+    },
+    {
+      "rule_title": "Past Tense Conjugation",
+      "rule_explanation": "Past tense uses -ল (-l) endings. First person uses -লাম (-lam), second person informal uses -লে (-le), third person uses -ল (-l).",
+      "key_points": [
+        "First person singular: -লাম (-lam)",
+        "Second person informal: -লে (-le)",
+        "Third person: -ল (-l)",
+        "Formal/respectful: -লেন (-len)",
+        "Perfect past uses হয়েছে + past participle"
+      ]
+    },
+    {
+      "rule_title": "Future Tense Conjugation",
+      "rule_explanation": "Future tense uses হবে (hobe) + verb root. The verb root remains unchanged, and person is indicated by the subject, not verb endings.",
+      "key_points": [
+        "Future marker: হবে (hobe)",
+        "Verb root stays unchanged",
+        "Person indicated by subject",
+        "Formal future: হবেন (hoben)",
+        "Negative: হবে না (hobe na)"
+      ]
+    }
+  ],
+  "teaching_content": [
+    {
+      "bengali": "আমি খাই",
+      "english": "I eat",
+      "phonetic": "āmi khāi",
+      "pronunciation_guide": "Present tense: first person singular -ই"
+    },
+    {
+      "bengali": "তুমি খাও",
+      "english": "You eat (informal)",
+      "phonetic": "tumi khāo",
+      "pronunciation_guide": "Present tense: second person informal -ও"
+    },
+    {
+      "bengali": "সে খায়",
+      "english": "He/she eats",
+      "phonetic": "śe khāẏ",
+      "pronunciation_guide": "Present tense: third person -য়"
+    },
+    {
+      "bengali": "আমরা খাই",
+      "english": "We eat",
+      "phonetic": "āmrā khāi",
+      "pronunciation_guide": "Present tense: first person plural -ই"
+    },
+    {
+      "bengali": "তোমরা খাও",
+      "english": "You all eat",
+      "phonetic": "tōmrā khāo",
+      "pronunciation_guide": "Present tense: second person plural -ও"
+    },
+    {
+      "bengali": "তারা খান",
+      "english": "They eat (formal)",
+      "phonetic": "tārā khān",
+      "pronunciation_guide": "Present tense: third person formal -েন"
+    },
+    {
+      "bengali": "আমি খেলাম",
+      "english": "I ate/played",
+      "phonetic": "āmi khelām",
+      "pronunciation_guide": "Past tense: first person -লাম"
+    },
+    {
+      "bengali": "তুমি খেলে",
+      "english": "You ate (informal)",
+      "phonetic": "tumi khele",
+      "pronunciation_guide": "Past tense: second person informal -লে"
+    },
+    {
+      "bengali": "সে খেল",
+      "english": "He/she ate",
+      "phonetic": "śe khel",
+      "pronunciation_guide": "Past tense: third person -ল"
+    },
+    {
+      "bengali": "আমরা খেলাম",
+      "english": "We ate",
+      "phonetic": "āmrā khelām",
+      "pronunciation_guide": "Past tense: first person plural -লাম"
+    },
+    {
+      "bengali": "আপনি খেলেন",
+      "english": "You ate (formal)",
+      "phonetic": "āpni khelen",
+      "pronunciation_guide": "Past tense: formal/respectful -লেন"
+    },
+    {
+      "bengali": "তারা খেলেন",
+      "english": "They ate (formal)",
+      "phonetic": "tārā khelen",
+      "pronunciation_guide": "Past tense: third person formal -লেন"
+    },
+    {
+      "bengali": "আমি খাব",
+      "english": "I will eat",
+      "phonetic": "āmi khāb",
+      "pronunciation_guide": "Future tense: হবে + খা = খাব"
+    },
+    {
+      "bengali": "তুমি খাবে",
+      "english": "You will eat",
+      "phonetic": "tumi khābe",
+      "pronunciation_guide": "Future tense: হবে + খা + বে = খাবে"
+    },
+    {
+      "bengali": "সে খাবে",
+      "english": "He/she will eat",
+      "phonetic": "śe khābe",
+      "pronunciation_guide": "Future tense: হবে + খা + বে = খাবে"
+    },
+    {
+      "bengali": "আমরা খাব",
+      "english": "We will eat",
+      "phonetic": "āmrā khāb",
+      "pronunciation_guide": "Future tense: হবে + খা = খাব"
+    },
+    {
+      "bengali": "আপনি খাবেন",
+      "english": "You will eat (formal)",
+      "phonetic": "āpni khāben",
+      "pronunciation_guide": "Future tense: formal হবে + খা + বেন = খাবেন"
+    },
+    {
+      "bengali": "তারা খাবেন",
+      "english": "They will eat (formal)",
+      "phonetic": "tārā khāben",
+      "pronunciation_guide": "Future tense: formal plural হবে + খা + বেন = খাবেন"
+    },
+    {
+      "bengali": "আমি যাই",
+      "english": "I go",
+      "phonetic": "āmi yāi",
+      "pronunciation_guide": "Present: যা + ই = যাই"
+    },
+    {
+      "bengali": "তুমি যাও",
+      "english": "You go",
+      "phonetic": "tumi yāo",
+      "pronunciation_guide": "Present: যা + ও = যাও"
+    },
+    {
+      "bengali": "সে যায়",
+      "english": "He/she goes",
+      "phonetic": "śe yāẏ",
+      "pronunciation_guide": "Present: যা + য় = যায়"
+    },
+    {
+      "bengali": "আমি গেলাম",
+      "english": "I went",
+      "phonetic": "āmi gelām",
+      "pronunciation_guide": "Past: গেল + আম = গেলাম"
+    },
+    {
+      "bengali": "তুমি গেলে",
+      "english": "You went",
+      "phonetic": "tumi gele",
+      "pronunciation_guide": "Past: গেল + লে = গেলে"
+    },
+    {
+      "bengali": "সে গেল",
+      "english": "He/she went",
+      "phonetic": "śe gel",
+      "pronunciation_guide": "Past: গেল + ল = গেল"
+    },
+    {
+      "bengali": "আমি যাব",
+      "english": "I will go",
+      "phonetic": "āmi yāb",
+      "pronunciation_guide": "Future: হবে + যা = যাব"
+    },
+    {
+      "bengali": "তুমি যাবে",
+      "english": "You will go",
+      "phonetic": "tumi yābe",
+      "pronunciation_guide": "Future: হবে + যা + বে = যাবে"
+    },
+    {
+      "bengali": "সে যাবে",
+      "english": "He/she will go",
+      "phonetic": "śe yābe",
+      "pronunciation_guide": "Future: হবে + যা + বে = যাবে"
+    },
+    {
+      "bengali": "আমি করি",
+      "english": "I do",
+      "phonetic": "āmi kôri",
+      "pronunciation_guide": "Present: কর + ই = করি"
+    },
+    {
+      "bengali": "তুমি করো",
+      "english": "You do",
+      "phonetic": "tumi kôro",
+      "pronunciation_guide": "Present: কর + ও = করো"
+    },
+    {
+      "bengali": "সে করে",
+      "english": "He/she does",
+      "phonetic": "śe kôre",
+      "pronunciation_guide": "Present: কর + এ = করে"
+    },
+    {
+      "bengali": "আমি করলাম",
+      "english": "I did",
+      "phonetic": "āmi kôrlām",
+      "pronunciation_guide": "Past: কর + লাম = করলাম"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the present tense ending for 'I' in Bengali?",
+      "options": [
+        "-ও (-o)",
+        "-য় (-y)",
+        "-ই (-i)",
+        "-েন (-en)"
+      ],
+      "correct_answer": 2,
+      "explanation": "First person singular uses -ই (-i) ending"
+    },
+    {
+      "question": "How do you form the future tense in Bengali?",
+      "options": [
+        "Add -ল (-l) to verb root",
+        "Use হবে (hobe) + verb root",
+        "Change verb ending only",
+        "Use different verb roots"
+      ],
+      "correct_answer": 1,
+      "explanation": "Future tense uses হবে (hobe) before the verb root"
+    },
+    {
+      "question": "What does 'খেলাম' mean?",
+      "options": [
+        "I will play",
+        "I play",
+        "I played",
+        "I am playing"
+      ],
+      "correct_answer": 2,
+      "explanation": "খেলাম is first person past tense of খেলা (to play)"
+    },
+    {
+      "question": "Which sentence is in future tense?",
+      "options": [
+        "সে খায়",
+        "সে খেল",
+        "সে খাবে",
+        "সে খেয়েছে"
+      ],
+      "correct_answer": 2,
+      "explanation": "খাবে uses the future marker for 'will eat'"
+    },
+    {
+      "question": "What is the past tense ending for third person?",
+      "options": [
+        "-লাম (-lam)",
+        "-লে (-le)",
+        "-ল (-l)",
+        "-ব (-b)"
+      ],
+      "correct_answer": 2,
+      "explanation": "Third person past tense uses -ল (-l) ending"
+    },
+    {
+      "question": "How do you say 'You will come' formally?",
+      "options": [
+        "তুমি আসবে",
+        "তুমি আসবি",
+        "আপনি আসবেন",
+        "সে আসবে"
+      ],
+      "correct_answer": 2,
+      "explanation": "Formal future uses আসবেন with আপনি"
+    },
+    {
+      "question": "What tense is 'খেয়েছে'?",
+      "options": [
+        "Present",
+        "Past",
+        "Future",
+        "Perfect past"
+      ],
+      "correct_answer": 3,
+      "explanation": "খেয়েছে is perfect past tense"
+    },
+    {
+      "question": "Which verb form shows ongoing action?",
+      "options": [
+        "খাই (kha-i)",
+        "খেল (khel)",
+        "খাব (khab)",
+        "খাচ্ছে (khach-che)"
+      ],
+      "correct_answer": 3,
+      "explanation": "খাচ্ছে is present continuous form"
+    },
+    {
+      "question": "What does 'আমি যাব না' mean?",
+      "options": [
+        "I go",
+        "I went",
+        "I will go",
+        "I will not go"
+      ],
+      "correct_answer": 3,
+      "explanation": "যাব না is negative future tense"
+    },
+    {
+      "question": "Which is the correct past tense for 'you' (informal)?",
+      "options": [
+        "খেলে (khele)",
+        "খেল (khel)",
+        "খেলেন (khelen)",
+        "খেলাম (khelam)"
+      ],
+      "correct_answer": 0,
+      "explanation": "Second person informal past uses -লে (-le)"
+    },
+    {
+      "question": "What does 'আমি করি' mean?",
+      "options": [
+        "I did",
+        "I do",
+        "I will do",
+        "I am doing"
+      ],
+      "correct_answer": 1,
+      "explanation": "করি is present tense first person of করা (to do)"
+    },
+    {
+      "question": "Which ending is used for formal future tense?",
+      "options": [
+        "-ব (-b)",
+        "-বে (-be)",
+        "-বেন (-ben)",
+        "-ল (-l)"
+      ],
+      "correct_answer": 2,
+      "explanation": "Formal future uses -বেন (-ben) ending"
+    },
+    {
+      "question": "What tense is 'সে গেল'?",
+      "options": [
+        "Present",
+        "Future",
+        "Past",
+        "Continuous"
+      ],
+      "correct_answer": 2,
+      "explanation": "গেল is simple past tense third person"
+    },
+    {
+      "question": "How do you conjugate 'to go' in future tense for 'we'?",
+      "options": [
+        "যাই (yai)",
+        "যাব (yab)",
+        "যাবে (yabe)",
+        "যাচ্ছে (yachche)"
+      ],
+      "correct_answer": 1,
+      "explanation": "Future tense for 'we' uses যাব (yab)"
+    },
+    {
+      "question": "Which is the present tense for 'they' (formal)?",
+      "options": [
+        "খায় (khay)",
+        "খান (khan)",
+        "খাই (khai)",
+        "খাও (khao)"
+      ],
+      "correct_answer": 1,
+      "explanation": "Formal third person plural uses খান (khan)"
+    }
+  ]
+}

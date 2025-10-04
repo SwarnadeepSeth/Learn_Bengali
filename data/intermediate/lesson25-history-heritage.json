@@ -1,0 +1,500 @@
+{
+  "id": "lesson25-history-heritage",
+  "title": "History and Heritage",
+  "category": "intermediate",
+  "description": "Learn vocabulary related to history, heritage, and cultural legacy in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "ইতিহাস",
+      "english": "history",
+      "phonetic": "itibās",
+      "pronunciation_guide": "like 'i-ti-has'",
+      "audio_tip": "aspirated 'tibās'"
+    },
+    {
+      "bengali": "ঐতিহাসিক",
+      "english": "historical",
+      "phonetic": "aitihāsik",
+      "pronunciation_guide": "like 'ai-ti-ha-sik'",
+      "audio_tip": "aspirated 'tihāsik'"
+    },
+    {
+      "bengali": "ঐতিহ্য",
+      "english": "heritage/tradition",
+      "phonetic": "aitihyô",
+      "pronunciation_guide": "like 'ai-ti-hyo'",
+      "audio_tip": "aspirated 'tihyô'"
+    },
+    {
+      "bengali": "সভ্যতা",
+      "english": "civilization",
+      "phonetic": "sôbhyôtā",
+      "pronunciation_guide": "like 'shob-hyo-ta'",
+      "audio_tip": "aspirated 'bhyôtā'"
+    },
+    {
+      "bengali": "যুগ",
+      "english": "era/age",
+      "phonetic": "yugô",
+      "pronunciation_guide": "like 'yu-go'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "প্রাচীন",
+      "english": "ancient",
+      "phonetic": "prācīn",
+      "pronunciation_guide": "like 'pra-chin'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মধ্যযুগ",
+      "english": "middle ages",
+      "phonetic": "môdhyôyugô",
+      "pronunciation_guide": "like 'mod-hyo-yu-go'",
+      "audio_tip": "aspirated 'dhyôyugô'"
+    },
+    {
+      "bengali": "আধুনিক",
+      "english": "modern",
+      "phonetic": "ādhunik",
+      "pronunciation_guide": "like 'a-dhu-nik'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সাম্রাজ্য",
+      "english": "empire",
+      "phonetic": "sāmrājô",
+      "pronunciation_guide": "like 'sam-ra-jo'",
+      "audio_tip": "aspirated 'mrājô'"
+    },
+    {
+      "bengali": "রাজা",
+      "english": "king",
+      "phonetic": "rājā",
+      "pronunciation_guide": "like 'ra-ja'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "রানি",
+      "english": "queen",
+      "phonetic": "rāni",
+      "pronunciation_guide": "like 'ra-ni'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "যুদ্ধ",
+      "english": "war/battle",
+      "phonetic": "yuddô",
+      "pronunciation_guide": "like 'yud-do'",
+      "audio_tip": "double 'ddô'"
+    },
+    {
+      "bengali": "বিপ্লব",
+      "english": "revolution",
+      "phonetic": "bipôlbô",
+      "pronunciation_guide": "like 'bi-pol-bo'",
+      "audio_tip": "aspirated 'pôlbô'"
+    },
+    {
+      "bengali": "স্বাধীনতা",
+      "english": "independence",
+      "phonetic": "sbādhīntā",
+      "pronunciation_guide": "like 'shwa-dhin-ta'",
+      "audio_tip": "aspirated 'bādhīntā'"
+    },
+    {
+      "bengali": "আন্দোলন",
+      "english": "movement",
+      "phonetic": "āndōlôn",
+      "pronunciation_guide": "like 'an-do-lon'",
+      "audio_tip": "aspirated 'ndōlôn'"
+    },
+    {
+      "bengali": "নেতা",
+      "english": "leader",
+      "phonetic": "nētā",
+      "pronunciation_guide": "like 'ne-ta'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "স্মৃতি",
+      "english": "memory/memorial",
+      "phonetic": "smr̥ti",
+      "pronunciation_guide": "like 'smri-ti'",
+      "audio_tip": "retroflex 'mr̥ti'"
+    },
+    {
+      "bengali": "স্মারক",
+      "english": "monument/memorial",
+      "phonetic": "smārôk",
+      "pronunciation_guide": "like 'sma-rok'",
+      "audio_tip": "aspirated 'rôk'"
+    },
+    {
+      "bengali": "জাদুঘর",
+      "english": "museum",
+      "phonetic": "jādughôr",
+      "pronunciation_guide": "like 'ja-du-ghor'",
+      "audio_tip": "aspirated 'dughôr'"
+    },
+    {
+      "bengali": "প্রত্নতত্ত্ব",
+      "english": "archaeology",
+      "phonetic": "prôtnôtôttô",
+      "pronunciation_guide": "like 'prot-no-tot-to'",
+      "audio_tip": "aspirated 'tnôtôttô'"
+    },
+    {
+      "bengali": "নিদর্শন",
+      "english": "artifact/exhibit",
+      "phonetic": "nidôrśôn",
+      "pronunciation_guide": "like 'ni-dor-shon'",
+      "audio_tip": "aspirated 'dôrśôn'"
+    },
+    {
+      "bengali": "সংরক্ষণ",
+      "english": "preservation",
+      "phonetic": "sôṅrôkkhôṇ",
+      "pronunciation_guide": "like 'shong-rok-khon'",
+      "audio_tip": "aspirated 'ṅrôkkhôṇ'"
+    },
+    {
+      "bengali": "সাংস্কৃতিক ঐতিহ্য",
+      "english": "cultural heritage",
+      "phonetic": "sāṅskr̥tik aitihyô",
+      "pronunciation_guide": "like 'sang-skri-tik ai-ti-hyo'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "প্রজন্ম",
+      "english": "generation",
+      "phonetic": "prôjônmô",
+      "pronunciation_guide": "like 'pro-jon-mo'",
+      "audio_tip": "aspirated 'jônmô'"
+    },
+    {
+      "bengali": "উত্তরাধিকার",
+      "english": "legacy/inheritance",
+      "phonetic": "uttôrādhikār",
+      "pronunciation_guide": "like 'ut-to-ra-dhi-kar'",
+      "audio_tip": "aspirated 'rādhikār'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'history'?",
+      "options": [
+        "ঐতিহাসিক",
+        "ঐতিহ্য",
+        "ইতিহাস",
+        "সভ্যতা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইতিহাস (itibās) means history",
+      "bengali_focus": "ইতিহাস",
+      "phonetic_focus": "itibās"
+    },
+    {
+      "question": "Which word means 'heritage'?",
+      "options": [
+        "যুগ",
+        "প্রাচীন",
+        "ঐতিহ্য",
+        "মধ্যযুগ"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঐতিহ্য (aitihyô) means heritage",
+      "bengali_focus": "ঐতিহ্য",
+      "phonetic_focus": "aitihyô"
+    },
+    {
+      "question": "What does সভ্যতা mean?",
+      "options": [
+        "আধুনিক",
+        "সাম্রাজ্য",
+        "Civilization",
+        "রাজা"
+      ],
+      "correct_answer": 2,
+      "explanation": "সভ্যতা (sôbhyôtā) means civilization",
+      "bengali_focus": "সভ্যতা",
+      "phonetic_focus": "sôbhyôtā"
+    },
+    {
+      "question": "Which Bengali word means 'era'?",
+      "options": [
+        "রানি",
+        "যুদ্ধ",
+        "যুগ",
+        "বিপ্লব"
+      ],
+      "correct_answer": 2,
+      "explanation": "যুগ (yugô) means era",
+      "bengali_focus": "যুগ",
+      "phonetic_focus": "yugô"
+    },
+    {
+      "question": "What is প্রাচীন?",
+      "options": [
+        "স্বাধীনতা",
+        "আন্দোলন",
+        "Ancient",
+        "নেতা"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রাচীন (prācīn) means ancient",
+      "bengali_focus": "প্রাচীন",
+      "phonetic_focus": "prācīn"
+    },
+    {
+      "question": "Which word means 'middle ages'?",
+      "options": [
+        "স্মৃতি",
+        "স্মারক",
+        "মধ্যযুগ",
+        "জাদুঘর"
+      ],
+      "correct_answer": 2,
+      "explanation": "মধ্যযুগ (môdhyôyugô) means middle ages",
+      "bengali_focus": "মধ্যযুগ",
+      "phonetic_focus": "môdhyôyugô"
+    },
+    {
+      "question": "What does আধুনিক mean?",
+      "options": [
+        "প্রত্নতত্ত্ব",
+        "নিদর্শন",
+        "Modern",
+        "সংরক্ষণ"
+      ],
+      "correct_answer": 2,
+      "explanation": "আধুনিক (ādhunik) means modern",
+      "bengali_focus": "আধুনিক",
+      "phonetic_focus": "ādhunik"
+    },
+    {
+      "question": "Which Bengali word means 'empire'?",
+      "options": [
+        "সাংস্কৃতিক ঐতিহ্য",
+        "প্রজন্ম",
+        "সাম্রাজ্য",
+        "উত্তরাধিকার"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাম্রাজ্য (sāmrājô) means empire",
+      "bengali_focus": "সাম্রাজ্য",
+      "phonetic_focus": "sāmrājô"
+    },
+    {
+      "question": "What is রাজা?",
+      "options": [
+        "History",
+        "Historical",
+        "King",
+        "Heritage"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাজা (rājā) means king",
+      "bengali_focus": "রাজা",
+      "phonetic_focus": "rājā"
+    },
+    {
+      "question": "Which word means 'queen'?",
+      "options": [
+        "Civilization",
+        "Era",
+        "রানি",
+        "Ancient"
+      ],
+      "correct_answer": 2,
+      "explanation": "রানি (rāni) means queen",
+      "bengali_focus": "রানি",
+      "phonetic_focus": "rāni"
+    },
+    {
+      "question": "What does যুদ্ধ mean?",
+      "options": [
+        "Middle ages",
+        "Modern",
+        "War",
+        "Empire"
+      ],
+      "correct_answer": 2,
+      "explanation": "যুদ্ধ (yuddô) means war",
+      "bengali_focus": "যুদ্ধ",
+      "phonetic_focus": "yuddô"
+    },
+    {
+      "question": "Which Bengali word means 'revolution'?",
+      "options": [
+        "King",
+        "Queen",
+        "বিপ্লব",
+        "War"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিপ্লব (bipôlbô) means revolution",
+      "bengali_focus": "বিপ্লব",
+      "phonetic_focus": "bipôlbô"
+    },
+    {
+      "question": "What is স্বাধীনতা?",
+      "options": [
+        "Revolution",
+        "Independence",
+        "Movement",
+        "Leader"
+      ],
+      "correct_answer": 1,
+      "explanation": "স্বাধীনতা (sbādhīntā) means independence",
+      "bengali_focus": "স্বাধীনতা",
+      "phonetic_focus": "sbādhīntā"
+    },
+    {
+      "question": "Which word means 'movement'?",
+      "options": [
+        "Memory",
+        "Monument",
+        "আন্দোলন",
+        "Museum"
+      ],
+      "correct_answer": 2,
+      "explanation": "আন্দোলন (āndōlôn) means movement",
+      "bengali_focus": "আন্দোলন",
+      "phonetic_focus": "āndōlôn"
+    },
+    {
+      "question": "What does নেতা mean?",
+      "options": [
+        "Archaeology",
+        "Artifact",
+        "Leader",
+        "Preservation"
+      ],
+      "correct_answer": 2,
+      "explanation": "নেতা (nētā) means leader",
+      "bengali_focus": "নেতা",
+      "phonetic_focus": "nētā"
+    },
+    {
+      "question": "Which Bengali word means 'monument'?",
+      "options": [
+        "Cultural heritage",
+        "Generation",
+        "স্মারক",
+        "Legacy"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্মারক (smārôk) means monument",
+      "bengali_focus": "স্মারক",
+      "phonetic_focus": "smārôk"
+    },
+    {
+      "question": "What is জাদুঘর?",
+      "options": [
+        "History",
+        "Historical",
+        "Museum",
+        "Heritage"
+      ],
+      "correct_answer": 2,
+      "explanation": "জাদুঘর (jādughôr) means museum",
+      "bengali_focus": "জাদুঘর",
+      "phonetic_focus": "jādughôr"
+    },
+    {
+      "question": "Which word means 'archaeology'?",
+      "options": [
+        "Civilization",
+        "Era",
+        "প্রত্নতত্ত্ব",
+        "Ancient"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রত্নতত্ত্ব (prôtnôtôttô) means archaeology",
+      "bengali_focus": "প্রত্নতত্ত্ব",
+      "phonetic_focus": "prôtnôtôttô"
+    },
+    {
+      "question": "What does নিদর্শন mean?",
+      "options": [
+        "Middle ages",
+        "Modern",
+        "Artifact",
+        "Empire"
+      ],
+      "correct_answer": 2,
+      "explanation": "নিদর্শন (nidôrśôn) means artifact",
+      "bengali_focus": "নিদর্শন",
+      "phonetic_focus": "nidôrśôn"
+    },
+    {
+      "question": "Which Bengali word means 'preservation'?",
+      "options": [
+        "King",
+        "Queen",
+        "সংরক্ষণ",
+        "War"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংরক্ষণ (sôṅrôkkhôṇ) means preservation",
+      "bengali_focus": "সংরক্ষণ",
+      "phonetic_focus": "sôṅrôkkhôṇ"
+    },
+    {
+      "question": "What is সাংস্কৃতিক ঐতিহ্য?",
+      "options": [
+        "Revolution",
+        "Independence",
+        "Cultural heritage",
+        "Movement"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাংস্কৃতিক ঐতিহ্য (sāṅskr̥tik aitihyô) means cultural heritage",
+      "bengali_focus": "সাংস্কৃতিক ঐতিহ্য",
+      "phonetic_focus": "sāṅskr̥tik aitihyô"
+    },
+    {
+      "question": "Which word means 'generation'?",
+      "options": [
+        "Memory",
+        "Monument",
+        "প্রজন্ম",
+        "Museum"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রজন্ম (prôjônmô) means generation",
+      "bengali_focus": "প্রজন্ম",
+      "phonetic_focus": "prôjônmô"
+    },
+    {
+      "question": "What does উত্তরাধিকার mean?",
+      "options": [
+        "Archaeology",
+        "Artifact",
+        "Legacy",
+        "Preservation"
+      ],
+      "correct_answer": 2,
+      "explanation": "উত্তরাধিকার (uttôrādhikār) means legacy",
+      "bengali_focus": "উত্তরাধিকার",
+      "phonetic_focus": "uttôrādhikār"
+    },
+    {
+      "question": "Which Bengali word means 'historical'?",
+      "options": [
+        "Heritage",
+        "Civilization",
+        "ঐতিহাসিক",
+        "Era"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঐতিহাসিক (aitihāsik) means historical",
+      "bengali_focus": "ঐতিহাসিক",
+      "phonetic_focus": "aitihāsik"
+    }
+  ]
+}

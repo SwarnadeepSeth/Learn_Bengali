@@ -1,0 +1,513 @@
+{
+  "id": "lesson10-emotions-feelings",
+  "title": "Emotions and Feelings",
+  "category": "intermediate",
+  "description": "Learn vocabulary for emotions, feelings, and emotional expressions in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "আনন্দ",
+      "english": "joy/happiness",
+      "phonetic": "ānôndô",
+      "pronunciation_guide": "like 'a-non-do'",
+      "audio_tip": "nasal 'nôndô'"
+    },
+    {
+      "bengali": "খুশি",
+      "english": "happy",
+      "phonetic": "khushi",
+      "pronunciation_guide": "like 'khu-shi'",
+      "audio_tip": "aspirated 'khushi'"
+    },
+    {
+      "bengali": "দুঃখ",
+      "english": "sadness",
+      "phonetic": "duḥkhô",
+      "pronunciation_guide": "like 'dukh-kho'",
+      "audio_tip": "aspirated 'ḥkhô'"
+    },
+    {
+      "bengali": "দুঃখিত",
+      "english": "sad",
+      "phonetic": "duḥkhitô",
+      "pronunciation_guide": "like 'dukh-ki-to'",
+      "audio_tip": "aspirated 'ḥkhitô'"
+    },
+    {
+      "bengali": "রাগ",
+      "english": "anger",
+      "phonetic": "rāg",
+      "pronunciation_guide": "like 'rag'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "রেগে যাওয়া",
+      "english": "to get angry",
+      "phonetic": "rêge yāōẇā",
+      "pronunciation_guide": "like 're-ge ya-wa'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "ভয়",
+      "english": "fear",
+      "phonetic": "bhôy",
+      "pronunciation_guide": "like 'bhoy'",
+      "audio_tip": "aspirated 'bhôy'"
+    },
+    {
+      "bengali": "ভয় পাওয়া",
+      "english": "to be afraid",
+      "phonetic": "bhôy pāōẇā",
+      "pronunciation_guide": "like 'bhoy pa-wa'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "আশ্চর্য",
+      "english": "surprise",
+      "phonetic": "āścôryô",
+      "pronunciation_guide": "like 'ash-chor-yo'",
+      "audio_tip": "aspirated 'ścôryô'"
+    },
+    {
+      "bengali": "অবাক",
+      "english": "amazed",
+      "phonetic": "ôbāk",
+      "pronunciation_guide": "like 'o-bak'",
+      "audio_tip": "aspirated 'bāk'"
+    },
+    {
+      "bengali": "প্রেম",
+      "english": "love",
+      "phonetic": "prēm",
+      "pronunciation_guide": "like 'prem'",
+      "audio_tip": "retroflex 'ēm'"
+    },
+    {
+      "bengali": "ভালোবাসা",
+      "english": "love/affection",
+      "phonetic": "bhālôbāsā",
+      "pronunciation_guide": "like 'bha-lo-ba-sa'",
+      "audio_tip": "aspirated 'bhālôbāsā'"
+    },
+    {
+      "bengali": "ঘৃণা",
+      "english": "hatred/disgust",
+      "phonetic": "ghr̥ṇā",
+      "pronunciation_guide": "like 'ghri-na'",
+      "audio_tip": "retroflex 'r̥ṇā'"
+    },
+    {
+      "bengali": "ঈর্ষা",
+      "english": "jealousy",
+      "phonetic": "īrṣā",
+      "pronunciation_guide": "like 'ir-sha'",
+      "audio_tip": "retroflex 'rṣā'"
+    },
+    {
+      "bengali": "আশা",
+      "english": "hope",
+      "phonetic": "āśā",
+      "pronunciation_guide": "like 'a-sha'",
+      "audio_tip": "long 'āśā'"
+    },
+    {
+      "bengali": "নিরাশ",
+      "english": "disappointed",
+      "phonetic": "nirāś",
+      "pronunciation_guide": "like 'ni-rash'",
+      "audio_tip": "aspirated 'rāś'"
+    },
+    {
+      "bengali": "উত্তেজিত",
+      "english": "excited",
+      "phonetic": "uttējitô",
+      "pronunciation_guide": "like 'ut-te-ji-to'",
+      "audio_tip": "aspirated 'ttējitô'"
+    },
+    {
+      "bengali": "শান্ত",
+      "english": "calm/peaceful",
+      "phonetic": "śāntô",
+      "pronunciation_guide": "like 'shan-to'",
+      "audio_tip": "aspirated 'śāntô'"
+    },
+    {
+      "bengali": "চিন্তিত",
+      "english": "worried",
+      "phonetic": "cintitô",
+      "pronunciation_guide": "like 'chin-ti-to'",
+      "audio_tip": "aspirated 'ntitô'"
+    },
+    {
+      "bengali": "নার্ভাস",
+      "english": "nervous",
+      "phonetic": "nārbās",
+      "pronunciation_guide": "like 'nar-bas'",
+      "audio_tip": "aspirated 'rbās'"
+    },
+    {
+      "bengali": "গর্বিত",
+      "english": "proud",
+      "phonetic": "gôrbhitô",
+      "pronunciation_guide": "like 'gor-bhi-to'",
+      "audio_tip": "aspirated 'rbhitô'"
+    },
+    {
+      "bengali": "লজ্জিত",
+      "english": "embarrassed",
+      "phonetic": "lôjjhitô",
+      "pronunciation_guide": "like 'loj-jhi-to'",
+      "audio_tip": "aspirated 'jjhitô'"
+    },
+    {
+      "bengali": "ক্লান্ত",
+      "english": "tired",
+      "phonetic": "klāntô",
+      "pronunciation_guide": "like 'klan-to'",
+      "audio_tip": "aspirated 'āntô'"
+    },
+    {
+      "bengali": "উৎসাহিত",
+      "english": "motivated/enthusiastic",
+      "phonetic": "uttsāhitô",
+      "pronunciation_guide": "like 'ut-sa-hi-to'",
+      "audio_tip": "aspirated 'ttsāhitô'"
+    },
+    {
+      "bengali": "বিরক্ত",
+      "english": "annoyed/bored",
+      "phonetic": "birôktô",
+      "pronunciation_guide": "like 'bi-rok-to'",
+      "audio_tip": "aspirated 'rôktô'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'joy'?",
+      "options": [
+        "আনন্দ",
+        "খুশি",
+        "দুঃখ",
+        "দুঃখিত"
+      ],
+      "correct_answer": 0,
+      "explanation": "আনন্দ (ānôndô) means joy or happiness",
+      "bengali_focus": "আনন্দ",
+      "phonetic_focus": "ānôndô"
+    },
+    {
+      "question": "Which word means 'happy'?",
+      "options": [
+        "রাগ",
+        "রেগে যাওয়া",
+        "খুশি",
+        "ভয়"
+      ],
+      "correct_answer": 2,
+      "explanation": "খুশি (khushi) means happy",
+      "bengali_focus": "খুশি",
+      "phonetic_focus": "khushi"
+    },
+    {
+      "question": "What does দুঃখ mean?",
+      "options": [
+        "Anger",
+        "Fear",
+        "Sadness",
+        "Surprise"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুঃখ (duḥkhô) means sadness",
+      "bengali_focus": "দুঃখ",
+      "phonetic_focus": "duḥkhô"
+    },
+    {
+      "question": "Which Bengali word means 'sad'?",
+      "options": [
+        "Amazed",
+        "Love",
+        "দুঃখিত",
+        "Hatred"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুঃখিত (duḥkhitô) means sad",
+      "bengali_focus": "দুঃখিত",
+      "phonetic_focus": "duḥkhitô"
+    },
+    {
+      "question": "What is রাগ?",
+      "options": [
+        "Fear",
+        "Surprise",
+        "Anger",
+        "Amazed"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাগ (rāg) means anger",
+      "bengali_focus": "রাগ",
+      "phonetic_focus": "rāg"
+    },
+    {
+      "question": "Which word means 'to get angry'?",
+      "options": [
+        "To be afraid",
+        "Surprised",
+        "রেগে যাওয়া",
+        "Amazed"
+      ],
+      "correct_answer": 2,
+      "explanation": "রেগে যাওয়া (rêge yāōẇā) means to get angry",
+      "bengali_focus": "রেগে যাওয়া",
+      "phonetic_focus": "rêge yāōẇā"
+    },
+    {
+      "question": "What does ভয় mean?",
+      "options": [
+        "Love",
+        "Hatred",
+        "Fear",
+        "Jealousy"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভয় (bhôy) means fear",
+      "bengali_focus": "ভয়",
+      "phonetic_focus": "bhôy"
+    },
+    {
+      "question": "Which Bengali word means 'surprise'?",
+      "options": [
+        "Hope",
+        "Disappointed",
+        "আশ্চর্য",
+        "Excited"
+      ],
+      "correct_answer": 2,
+      "explanation": "আশ্চর্য (āścôryô) means surprise",
+      "bengali_focus": "আশ্চর্য",
+      "phonetic_focus": "āścôryô"
+    },
+    {
+      "question": "What is অবাক?",
+      "options": [
+        "Calm",
+        "Worried",
+        "Amazed",
+        "Nervous"
+      ],
+      "correct_answer": 2,
+      "explanation": "অবাক (ôbāk) means amazed",
+      "bengali_focus": "অবাক",
+      "phonetic_focus": "ôbāk"
+    },
+    {
+      "question": "Which word means 'love'?",
+      "options": [
+        "Proud",
+        "Embarrassed",
+        "প্রেম",
+        "Tired"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রেম (prēm) means love",
+      "bengali_focus": "প্রেম",
+      "phonetic_focus": "prēm"
+    },
+    {
+      "question": "What does ভালোবাসা mean?",
+      "options": [
+        "Motivated",
+        "Annoyed",
+        "Love",
+        "Joy"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভালোবাসা (bhālôbāsā) means love or affection",
+      "bengali_focus": "ভালোবাসা",
+      "phonetic_focus": "bhālôbāsā"
+    },
+    {
+      "question": "Which Bengali word means 'hatred'?",
+      "options": [
+        "Happy",
+        "Sad",
+        "ঘৃণা",
+        "Angry"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঘৃণা (ghr̥ṇā) means hatred or disgust",
+      "bengali_focus": "ঘৃণা",
+      "phonetic_focus": "ghr̥ṇā"
+    },
+    {
+      "question": "What is ঈর্ষা?",
+      "options": [
+        "Fear",
+        "Surprise",
+        "Jealousy",
+        "Amazed"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঈর্ষা (īrṣā) means jealousy",
+      "bengali_focus": "ঈর্ষা",
+      "phonetic_focus": "īrṣā"
+    },
+    {
+      "question": "Which word means 'hope'?",
+      "options": [
+        "Love",
+        "Hatred",
+        "আশা",
+        "Jealousy"
+      ],
+      "correct_answer": 2,
+      "explanation": "আশা (āśā) means hope",
+      "bengali_focus": "আশা",
+      "phonetic_focus": "āśā"
+    },
+    {
+      "question": "What does নিরাশ mean?",
+      "options": [
+        "Excited",
+        "Calm",
+        "Disappointed",
+        "Worried"
+      ],
+      "correct_answer": 2,
+      "explanation": "নিরাশ (nirāś) means disappointed",
+      "bengali_focus": "নিরাশ",
+      "phonetic_focus": "nirāś"
+    },
+    {
+      "question": "Which Bengali word means 'excited'?",
+      "options": [
+        "Nervous",
+        "Proud",
+        "উত্তেজিত",
+        "Embarrassed"
+      ],
+      "correct_answer": 2,
+      "explanation": "উত্তেজিত (uttējitô) means excited",
+      "bengali_focus": "উত্তেজিত",
+      "phonetic_focus": "uttējitô"
+    },
+    {
+      "question": "What is শান্ত?",
+      "options": [
+        "Tired",
+        "Motivated",
+        "Calm",
+        "Annoyed"
+      ],
+      "correct_answer": 2,
+      "explanation": "শান্ত (śāntô) means calm or peaceful",
+      "bengali_focus": "শান্ত",
+      "phonetic_focus": "śāntô"
+    },
+    {
+      "question": "Which word means 'worried'?",
+      "options": [
+        "Joy",
+        "Happiness",
+        "চিন্তিত",
+        "Sad"
+      ],
+      "correct_answer": 2,
+      "explanation": "চিন্তিত (cintitô) means worried",
+      "bengali_focus": "চিন্তিত",
+      "phonetic_focus": "cintitô"
+    },
+    {
+      "question": "What does নার্ভাস mean?",
+      "options": [
+        "Anger",
+        "Fear",
+        "Nervous",
+        "Surprise"
+      ],
+      "correct_answer": 2,
+      "explanation": "নার্ভাস (nārbās) means nervous",
+      "bengali_focus": "নার্ভাস",
+      "phonetic_focus": "nārbās"
+    },
+    {
+      "question": "Which Bengali word means 'proud'?",
+      "options": [
+        "Amazed",
+        "Love",
+        "গর্বিত",
+        "Hatred"
+      ],
+      "correct_answer": 2,
+      "explanation": "গর্বিত (gôrbhitô) means proud",
+      "bengali_focus": "গর্বিত",
+      "phonetic_focus": "gôrbhitô"
+    },
+    {
+      "question": "What is লজ্জিত?",
+      "options": [
+        "Jealousy",
+        "Hope",
+        "Embarrassed",
+        "Disappointed"
+      ],
+      "correct_answer": 2,
+      "explanation": "লজ্জিত (lôjjhitô) means embarrassed",
+      "bengali_focus": "লজ্জিত",
+      "phonetic_focus": "lôjjhitô"
+    },
+    {
+      "question": "Which word means 'tired'?",
+      "options": [
+        "Excited",
+        "Calm",
+        "ক্লান্ত",
+        "Worried"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্লান্ত (klāntô) means tired",
+      "bengali_focus": "ক্লান্ত",
+      "phonetic_focus": "klāntô"
+    },
+    {
+      "question": "What does উৎসাহিত mean?",
+      "options": [
+        "Nervous",
+        "Proud",
+        "Motivated",
+        "Embarrassed"
+      ],
+      "correct_answer": 2,
+      "explanation": "উৎসাহিত (uttsāhitô) means motivated or enthusiastic",
+      "bengali_focus": "উৎসাহিত",
+      "phonetic_focus": "uttsāhitô"
+    },
+    {
+      "question": "Which Bengali word means 'annoyed'?",
+      "options": [
+        "Tired",
+        "Motivated",
+        "বিরক্ত",
+        "Joy"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিরক্ত (birôktô) means annoyed or bored",
+      "bengali_focus": "বিরক্ত",
+      "phonetic_focus": "birôktô"
+    },
+    {
+      "question": "What is ভয় পাওয়া?",
+      "options": [
+        "To get angry",
+        "To be surprised",
+        "To be afraid",
+        "To be amazed"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভয় পাওয়া (bhôy pāōẇā) means to be afraid",
+      "bengali_focus": "ভয় পাওয়া",
+      "phonetic_focus": "bhôy pāōẇā"
+    }
+  ]
+}

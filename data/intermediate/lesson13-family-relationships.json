@@ -1,0 +1,513 @@
+{
+  "id": "lesson13-family-relationships",
+  "title": "Family and Relationships",
+  "category": "intermediate",
+  "description": "Learn advanced vocabulary for family members and interpersonal relationships in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "পরিবার",
+      "english": "family",
+      "phonetic": "pôribār",
+      "pronunciation_guide": "like 'po-ri-bar'",
+      "audio_tip": "aspirated 'ribār'"
+    },
+    {
+      "bengali": "বাবা",
+      "english": "father",
+      "phonetic": "bābā",
+      "pronunciation_guide": "like 'ba-ba'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মা",
+      "english": "mother",
+      "phonetic": "mā",
+      "pronunciation_guide": "like 'ma'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ভাই",
+      "english": "brother",
+      "phonetic": "bhāi",
+      "pronunciation_guide": "like 'bhai'",
+      "audio_tip": "aspirated 'bhāi'"
+    },
+    {
+      "bengali": "বোন",
+      "english": "sister",
+      "phonetic": "bōn",
+      "pronunciation_guide": "like 'bon'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "ছেলে",
+      "english": "son",
+      "phonetic": "chēle",
+      "pronunciation_guide": "like 'che-le'",
+      "audio_tip": "aspirated 'chēle'"
+    },
+    {
+      "bengali": "মেয়ে",
+      "english": "daughter",
+      "phonetic": "mêye",
+      "pronunciation_guide": "like 'me-ye'",
+      "audio_tip": "aspirated 'mêye'"
+    },
+    {
+      "bengali": "স্বামী",
+      "english": "husband",
+      "phonetic": "sbāmī",
+      "pronunciation_guide": "like 'sha-mi'",
+      "audio_tip": "aspirated 'bāmī'"
+    },
+    {
+      "bengali": "স্ত্রী",
+      "english": "wife",
+      "phonetic": "strī",
+      "pronunciation_guide": "like 'stree'",
+      "audio_tip": "retroflex 'strī'"
+    },
+    {
+      "bengali": "দাদা",
+      "english": "paternal uncle",
+      "phonetic": "dādā",
+      "pronunciation_guide": "like 'da-da'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "কাকা",
+      "english": "paternal uncle",
+      "phonetic": "kākā",
+      "pronunciation_guide": "like 'ka-ka'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মামা",
+      "english": "maternal uncle",
+      "phonetic": "māmā",
+      "pronunciation_guide": "like 'ma-ma'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মাসি",
+      "english": "maternal aunt",
+      "phonetic": "māsi",
+      "pronunciation_guide": "like 'ma-si'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "পিসি",
+      "english": "paternal aunt",
+      "phonetic": "piśi",
+      "pronunciation_guide": "like 'pi-shi'",
+      "audio_tip": "aspirated 'śi'"
+    },
+    {
+      "bengali": "দিদি",
+      "english": "elder sister",
+      "phonetic": "didi",
+      "pronunciation_guide": "like 'di-di'",
+      "audio_tip": "clear 'd'"
+    },
+    {
+      "bengali": "দাদু",
+      "english": "paternal grandfather",
+      "phonetic": "dādu",
+      "pronunciation_guide": "like 'da-du'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ঠাকুরমা",
+      "english": "paternal grandmother",
+      "phonetic": "ṭhākurmā",
+      "pronunciation_guide": "like 'tha-kur-ma'",
+      "audio_tip": "retroflex 'ṭhā'"
+    },
+    {
+      "bengali": "নাতি",
+      "english": "grandson",
+      "phonetic": "nāti",
+      "pronunciation_guide": "like 'na-ti'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "নাতনি",
+      "english": "granddaughter",
+      "phonetic": "nātni",
+      "pronunciation_guide": "like 'nat-ni'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "শ্বশুর",
+      "english": "father-in-law",
+      "phonetic": "śbôśur",
+      "pronunciation_guide": "like 'shosh-ur'",
+      "audio_tip": "aspirated 'śbôśur'"
+    },
+    {
+      "bengali": "শাশুড়ি",
+      "english": "mother-in-law",
+      "phonetic": "śāśuḍi",
+      "pronunciation_guide": "like 'sha-shu-ri'",
+      "audio_tip": "aspirated 'śāśuḍi'"
+    },
+    {
+      "bengali": "সম্পর্ক",
+      "english": "relationship",
+      "phonetic": "sômpôrkô",
+      "pronunciation_guide": "like 'shom-por-ko'",
+      "audio_tip": "aspirated 'mpôrkô'"
+    },
+    {
+      "bengali": "বন্ধু",
+      "english": "friend",
+      "phonetic": "bôndhu",
+      "pronunciation_guide": "like 'bon-dhu'",
+      "audio_tip": "aspirated 'ndhu'"
+    },
+    {
+      "bengali": "প্রতিবেশী",
+      "english": "neighbor",
+      "phonetic": "prôtibêśī",
+      "pronunciation_guide": "like 'pro-ti-be-shi'",
+      "audio_tip": "aspirated 'bêśī'"
+    },
+    {
+      "bengali": "সহকর্মী",
+      "english": "colleague",
+      "phonetic": "sôhôkôrmī",
+      "pronunciation_guide": "like 'sho-ho-kor-mi'",
+      "audio_tip": "aspirated 'kôrmī'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'family'?",
+      "options": [
+        "বাবা",
+        "মা",
+        "পরিবার",
+        "ভাই"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরিবার (pôribār) means family",
+      "bengali_focus": "পরিবার",
+      "phonetic_focus": "pôribār"
+    },
+    {
+      "question": "Which word means 'father'?",
+      "options": [
+        "বোন",
+        "ছেলে",
+        "বাবা",
+        "মেয়ে"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাবা (bābā) means father",
+      "bengali_focus": "বাবা",
+      "phonetic_focus": "bābā"
+    },
+    {
+      "question": "What does মা mean?",
+      "options": [
+        "স্বামী",
+        "স্ত্রী",
+        "Mother",
+        "দাদা"
+      ],
+      "correct_answer": 2,
+      "explanation": "মা (mā) means mother",
+      "bengali_focus": "মা",
+      "phonetic_focus": "mā"
+    },
+    {
+      "question": "Which Bengali word means 'brother'?",
+      "options": [
+        "কাকা",
+        "মামা",
+        "ভাই",
+        "খালা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভাই (bhāi) means brother",
+      "bengali_focus": "ভাই",
+      "phonetic_focus": "bhāi"
+    },
+    {
+      "question": "What is বোন?",
+      "options": [
+        "পিসি",
+        "দিদি",
+        "Sister",
+        "দাদু"
+      ],
+      "correct_answer": 2,
+      "explanation": "বোন (bōn) means sister",
+      "bengali_focus": "বোন",
+      "phonetic_focus": "bōn"
+    },
+    {
+      "question": "Which word means 'son'?",
+      "options": [
+        "ঠাকুরমা",
+        "নাতি",
+        "ছেলে",
+        "নাতনি"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছেলে (chēle) means son",
+      "bengali_focus": "ছেলে",
+      "phonetic_focus": "chēle"
+    },
+    {
+      "question": "What does মেয়ে mean?",
+      "options": [
+        "শ্বশুর",
+        "শাশুড়ি",
+        "Daughter",
+        "সম্পর্ক"
+      ],
+      "correct_answer": 2,
+      "explanation": "মেয়ে (mêye) means daughter",
+      "bengali_focus": "মেয়ে",
+      "phonetic_focus": "mêye"
+    },
+    {
+      "question": "Which Bengali word means 'husband'?",
+      "options": [
+        "বন্ধু",
+        "প্রতিবেশী",
+        "স্বামী",
+        "সহকর্মী"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্বামী (sbāmī) means husband",
+      "bengali_focus": "স্বামী",
+      "phonetic_focus": "sbāmī"
+    },
+    {
+      "question": "What is স্ত্রী?",
+      "options": [
+        "Family",
+        "Father",
+        "Wife",
+        "Mother"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্ত্রী (strī) means wife",
+      "bengali_focus": "স্ত্রী",
+      "phonetic_focus": "strī"
+    },
+    {
+      "question": "Which word means 'paternal uncle'?",
+      "options": [
+        "Brother",
+        "Sister",
+        "দাদা",
+        "Son"
+      ],
+      "correct_answer": 2,
+      "explanation": "দাদা (dādā) means paternal uncle",
+      "bengali_focus": "দাদা",
+      "phonetic_focus": "dādā"
+    },
+    {
+      "question": "What does মাসি mean?",
+      "options": [
+        "Daughter",
+        "Husband",
+        "Maternal aunt",
+        "Wife"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাসি (māsi) means maternal aunt",
+      "bengali_focus": "মাসি",
+      "phonetic_focus": "māsi"
+    },
+    {
+      "question": "Which Bengali word means 'elder sister'?",
+      "options": [
+        "Paternal uncle",
+        "Paternal uncle",
+        "দিদি",
+        "Maternal uncle"
+      ],
+      "correct_answer": 2,
+      "explanation": "দিদি (didi) means elder sister",
+      "bengali_focus": "দিদি",
+      "phonetic_focus": "didi"
+    },
+    {
+      "question": "What is দাদু?",
+      "options": [
+        "Maternal aunt",
+        "Paternal aunt",
+        "Paternal grandfather",
+        "Elder sister"
+      ],
+      "correct_answer": 2,
+      "explanation": "দাদু (dādu) means paternal grandfather",
+      "bengali_focus": "দাদু",
+      "phonetic_focus": "dādu"
+    },
+    {
+      "question": "Which word means 'grandson'?",
+      "options": [
+        "Paternal grandmother",
+        "Granddaughter",
+        "নাতি",
+        "Father-in-law"
+      ],
+      "correct_answer": 2,
+      "explanation": "নাতি (nāti) means grandson",
+      "bengali_focus": "নাতি",
+      "phonetic_focus": "nāti"
+    },
+    {
+      "question": "What does শ্বশুর mean?",
+      "options": [
+        "Mother-in-law",
+        "Relationship",
+        "Father-in-law",
+        "Friend"
+      ],
+      "correct_answer": 2,
+      "explanation": "শ্বশুর (śbôśur) means father-in-law",
+      "bengali_focus": "শ্বশুর",
+      "phonetic_focus": "śbôśur"
+    },
+    {
+      "question": "Which Bengali word means 'relationship'?",
+      "options": [
+        "Neighbor",
+        "Colleague",
+        "সম্পর্ক",
+        "Family"
+      ],
+      "correct_answer": 2,
+      "explanation": "সম্পর্ক (sômpôrkô) means relationship",
+      "bengali_focus": "সম্পর্ক",
+      "phonetic_focus": "sômpôrkô"
+    },
+    {
+      "question": "What is বন্ধু?",
+      "options": [
+        "Father",
+        "Mother",
+        "Friend",
+        "Brother"
+      ],
+      "correct_answer": 2,
+      "explanation": "বন্ধু (bôndhu) means friend",
+      "bengali_focus": "বন্ধু",
+      "phonetic_focus": "bôndhu"
+    },
+    {
+      "question": "Which word means 'neighbor'?",
+      "options": [
+        "Sister",
+        "Son",
+        "প্রতিবেশী",
+        "Daughter"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রতিবেশী (prôtibêśī) means neighbor",
+      "bengali_focus": "প্রতিবেশী",
+      "phonetic_focus": "prôtibêśī"
+    },
+    {
+      "question": "What does সহকর্মী mean?",
+      "options": [
+        "Husband",
+        "Wife",
+        "Colleague",
+        "Paternal uncle"
+      ],
+      "correct_answer": 2,
+      "explanation": "সহকর্মী (sôhôkôrmī) means colleague",
+      "bengali_focus": "সহকর্মী",
+      "phonetic_focus": "sôhôkôrmī"
+    },
+    {
+      "question": "Which Bengali word means 'paternal uncle'?",
+      "options": [
+        "Maternal uncle",
+        "Maternal aunt",
+        "কাকা",
+        "Paternal aunt"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাকা (kākā) means paternal uncle",
+      "bengali_focus": "কাকা",
+      "phonetic_focus": "kākā"
+    },
+    {
+      "question": "What is মামা?",
+      "options": [
+        "Elder sister",
+        "Paternal grandfather",
+        "Maternal uncle",
+        "Grandson"
+      ],
+      "correct_answer": 2,
+      "explanation": "মামা (māmā) means maternal uncle",
+      "bengali_focus": "মামা",
+      "phonetic_focus": "māmā"
+    },
+    {
+      "question": "Which word means 'paternal aunt'?",
+      "options": [
+        "Granddaughter",
+        "Father-in-law",
+        "পিসি",
+        "Mother-in-law"
+      ],
+      "correct_answer": 2,
+      "explanation": "পিসি (piśi) means paternal aunt",
+      "bengali_focus": "পিসি",
+      "phonetic_focus": "piśi"
+    },
+    {
+      "question": "What does ঠাকুরমা mean?",
+      "options": [
+        "Relationship",
+        "Friend",
+        "Paternal grandmother",
+        "Neighbor"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঠাকুরমা (ṭhākurmā) means paternal grandmother",
+      "bengali_focus": "ঠাকুরমা",
+      "phonetic_focus": "ṭhākurmā"
+    },
+    {
+      "question": "Which Bengali word means 'granddaughter'?",
+      "options": [
+        "Colleague",
+        "Family",
+        "নাতনি",
+        "Father"
+      ],
+      "correct_answer": 2,
+      "explanation": "নাতনি (nātni) means granddaughter",
+      "bengali_focus": "নাতনি",
+      "phonetic_focus": "nātni"
+    },
+    {
+      "question": "What is শাশুড়ি?",
+      "options": [
+        "Mother",
+        "Brother",
+        "Mother-in-law",
+        "Sister"
+      ],
+      "correct_answer": 2,
+      "explanation": "শাশুড়ি (śāśuḍi) means mother-in-law",
+      "bengali_focus": "শাশুড়ি",
+      "phonetic_focus": "śāśuḍi"
+    }
+  ]
+}

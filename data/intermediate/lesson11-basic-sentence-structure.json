@@ -1,0 +1,390 @@
+{
+  "id": "lesson11-basic-sentence-structure",
+  "title": "Basic Sentence Structure",
+  "category": "intermediate",
+  "description": "Learn the fundamental rules of Bengali sentence structure: Subject-Verb-Object order, present tense verbs, and question formation",
+  "type": "grammar_learning",
+  "total_items": 30,
+  "estimated_time": "25 minutes",
+  "grammar_rules": [
+    {
+      "rule_title": "Subject-Verb-Object Order",
+      "rule_explanation": "Bengali follows Subject + Verb + Object word order, similar to English. The subject comes first, followed by the verb, then the object. Case markers help distinguish grammatical roles.",
+      "key_points": [
+        "Subject comes before the verb",
+        "Verb comes before the object",
+        "Word order can be flexible for emphasis",
+        "Case markers clarify roles when needed"
+      ]
+    },
+    {
+      "rule_title": "Present Tense Verbs",
+      "rule_explanation": "Present tense verbs change endings based on person and number. First person uses -ই (-i), second person informal uses -ও (-o), third person uses -য় (-y).",
+      "key_points": [
+        "First person singular/plural: -ই (-i)",
+        "Second person informal: -ও (-o)",
+        "Third person: -য় (-y)",
+        "Honorific forms exist for respect"
+      ]
+    },
+    {
+      "rule_title": "Question Formation",
+      "rule_explanation": "Questions use কি (ki) after the subject for yes/no questions. Wh-questions place the question word at the beginning. Rising intonation can also indicate questions.",
+      "key_points": [
+        "কি (ki) makes yes/no questions",
+        "Question words come first",
+        "Subject-Verb-Object order maintained",
+        "Rising intonation indicates questions"
+      ]
+    }
+  ],
+  "teaching_content": [
+    {
+      "bengali": "আমি ভাত খাই",
+      "english": "I eat rice",
+      "phonetic": "āmi bhāt khāi",
+      "pronunciation_guide": "Subject-Verb-Object: āmi (I) + khāi (eat) + bhāt (rice)"
+    },
+    {
+      "bengali": "সে বই পড়ে",
+      "english": "He/she reads a book",
+      "phonetic": "śe boi poṛe",
+      "pronunciation_guide": "Third person singular: śe (he/she) + poṛe (reads) + boi (book)"
+    },
+    {
+      "bengali": "তুমি কি যাও?",
+      "english": "Do you go?",
+      "phonetic": "tumi ki yāo?",
+      "pronunciation_guide": "Yes/no question: tumi (you) + ki (question) + yāo (go)"
+    },
+    {
+      "bengali": "আমরা খেলি",
+      "english": "We play",
+      "phonetic": "āmrā kheli",
+      "pronunciation_guide": "First person plural: āmrā (we) + kheli (play)"
+    },
+    {
+      "bengali": "সে কোথায় থাকে?",
+      "english": "Where does he/she live?",
+      "phonetic": "śe kōthāẏ thāke?",
+      "pronunciation_guide": "Question word first: kōthāẏ (where) + śe (he/she) + thāke (lives)"
+    },
+    {
+      "bengali": "তুমি কি খাও?",
+      "english": "Do you eat?",
+      "phonetic": "tumi ki khāo?",
+      "pronunciation_guide": "Yes/no question with second person: tumi + ki + khāo"
+    },
+    {
+      "bengali": "আমি জল খাই",
+      "english": "I drink water",
+      "phonetic": "āmi jôl khāi",
+      "pronunciation_guide": "Simple SVO: āmi (I) + khāi (drink) + jôl (water)"
+    },
+    {
+      "bengali": "সে গান গায়",
+      "english": "He/she sings a song",
+      "phonetic": "śe gān gāẏ",
+      "pronunciation_guide": "Third person ending -য়: śe + gāẏ (sings) + gān (song)"
+    },
+    {
+      "bengali": "তুমি কোথায় যাও?",
+      "english": "Where do you go?",
+      "phonetic": "tumi kōthāẏ yāo?",
+      "pronunciation_guide": "Question word + SVO: kōthāẏ + tumi + yāo"
+    },
+    {
+      "bengali": "আমরা দেখি",
+      "english": "We see",
+      "phonetic": "āmrā dekhi",
+      "pronunciation_guide": "First person plural: āmrā + dekhi (see)"
+    },
+    {
+      "bengali": "সে কি করে?",
+      "english": "What does he/she do?",
+      "phonetic": "śe ki kôre?",
+      "pronunciation_guide": "Question with কি: ki (what) + śe + kôre (does)"
+    },
+    {
+      "bengali": "তুমি কখন আসো?",
+      "english": "When do you come?",
+      "phonetic": "tumi kôkhôn āśo?",
+      "pronunciation_guide": "Time question: kôkhôn (when) + tumi + āśo (come)"
+    },
+    {
+      "bengali": "আমি বই পড়ি",
+      "english": "I read a book",
+      "phonetic": "āmi boi poṛi",
+      "pronunciation_guide": "Present tense: āmi + poṛi (read) + boi"
+    },
+    {
+      "bengali": "সে কে দেখে?",
+      "english": "Whom does he/she see?",
+      "phonetic": "śe ke dekhe?",
+      "pronunciation_guide": "কে question: ke (whom) + śe + dekhe (sees)"
+    },
+    {
+      "bengali": "তুমি কি জানো?",
+      "english": "Do you know?",
+      "phonetic": "tumi ki jāno?",
+      "pronunciation_guide": "Yes/no with জানো: tumi + ki + jāno (know)"
+    },
+    {
+      "bengali": "আমরা যাই",
+      "english": "We go",
+      "phonetic": "āmrā yāi",
+      "pronunciation_guide": "Plural verb: āmrā + yāi (go)"
+    },
+    {
+      "bengali": "সে কোথায় যায়?",
+      "english": "Where does he/she go?",
+      "phonetic": "śe kōthāẏ yāẏ?",
+      "pronunciation_guide": "Location question: kōthāẏ + śe + yāẏ"
+    },
+    {
+      "bengali": "তুমি কি বলো?",
+      "english": "Do you say?",
+      "phonetic": "tumi ki bôlo?",
+      "pronunciation_guide": "Question formation: tumi + ki + bôlo (say)"
+    },
+    {
+      "bengali": "আমি কি করি?",
+      "english": "What do I do?",
+      "phonetic": "āmi ki kôri?",
+      "pronunciation_guide": "Self-question: āmi + ki + kôri (do)"
+    },
+    {
+      "bengali": "সে খায়",
+      "english": "He/she eats",
+      "phonetic": "śe khāẏ",
+      "pronunciation_guide": "Third person simple: śe + khāẏ (eats)"
+    },
+    {
+      "bengali": "তুমি কোথায় থাকো?",
+      "english": "Where do you live?",
+      "phonetic": "tumi kōthāẏ thāko?",
+      "pronunciation_guide": "Location question: kōthāẏ + tumi + thāko"
+    },
+    {
+      "bengali": "আমরা কি দেখি?",
+      "english": "Do we see?",
+      "phonetic": "āmrā ki dekhi?",
+      "pronunciation_guide": "Plural question: āmrā + ki + dekhi"
+    },
+    {
+      "bengali": "সে কখন আসে?",
+      "english": "When does he/she come?",
+      "phonetic": "śe kôkhôn āśe?",
+      "pronunciation_guide": "Time question: kôkhôn + śe + āśe"
+    },
+    {
+      "bengali": "তুমি কে দেখো?",
+      "english": "Whom do you see?",
+      "phonetic": "tumi ke dekho?",
+      "pronunciation_guide": "Object question: ke + tumi + dekho"
+    },
+    {
+      "bengali": "আমি যাই",
+      "english": "I go",
+      "phonetic": "āmi yāi",
+      "pronunciation_guide": "First person: āmi + yāi (go)"
+    },
+    {
+      "bengali": "সে কি বলে?",
+      "english": "What does he/she say?",
+      "phonetic": "śe ki bôle?",
+      "pronunciation_guide": "Content question: ki + śe + bôle"
+    },
+    {
+      "bengali": "তুমি কখন যাও?",
+      "english": "When do you go?",
+      "phonetic": "tumi kôkhôn yāo?",
+      "pronunciation_guide": "Time question: kôkhôn + tumi + yāo"
+    },
+    {
+      "bengali": "আমরা কে দেখি?",
+      "english": "Whom do we see?",
+      "phonetic": "āmrā ke dekhi?",
+      "pronunciation_guide": "Plural object question: ke + āmrā + dekhi"
+    },
+    {
+      "bengali": "সে কোথায় থাকে?",
+      "english": "Where does he/she live?",
+      "phonetic": "śe kōthāẏ thāke?",
+      "pronunciation_guide": "Location question: kōthāẏ + śe + thāke"
+    },
+    {
+      "bengali": "তুমি কি করো?",
+      "english": "What do you do?",
+      "phonetic": "tumi ki kôro?",
+      "pronunciation_guide": "Activity question: ki + tumi + kôro"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the correct Bengali sentence structure?",
+      "options": [
+        "Verb + Subject + Object",
+        "Object + Subject + Verb",
+        "Subject + Verb + Object",
+        "Subject + Object + Verb"
+      ],
+      "correct_answer": 2,
+      "explanation": "Bengali follows Subject + Verb + Object order, similar to English"
+    },
+    {
+      "question": "Which verb ending is used for 'I' in present tense?",
+      "options": [
+        "-ও (-o)",
+        "-য় (-y)",
+        "-ই (-i)",
+        "-ে (-e)"
+      ],
+      "correct_answer": 2,
+      "explanation": "First person singular uses -ই (-i) ending"
+    },
+    {
+      "question": "How do you form a yes/no question in Bengali?",
+      "options": [
+        "Add কি at the end",
+        "Add কি after the subject",
+        "Change word order completely",
+        "Use only intonation"
+      ],
+      "correct_answer": 1,
+      "explanation": "Add কি after the subject to form yes/no questions"
+    },
+    {
+      "question": "What does 'আমি ভাত খাই' mean?",
+      "options": [
+        "You eat rice",
+        "He eats rice",
+        "I eat rice",
+        "We eat rice"
+      ],
+      "correct_answer": 2,
+      "explanation": "আমি = I, ভাত = rice, খাই = eat (present tense)"
+    },
+    {
+      "question": "Which sentence is a correct Bengali question?",
+      "options": [
+        "সে খায় ভাত",
+        "ভাত খায় সে",
+        "সে কি খায়?",
+        "খায় সে ভাত"
+      ],
+      "correct_answer": 2,
+      "explanation": "সে কি খায়? follows proper question formation with কি"
+    },
+    {
+      "question": "What is the verb ending for 'you' in present tense?",
+      "options": [
+        "-ই (-i)",
+        "-ও (-o)",
+        "-য় (-y)",
+        "-া (-a)"
+      ],
+      "correct_answer": 1,
+      "explanation": "Second person uses -ও (-o) ending"
+    },
+    {
+      "question": "Which word order is most common in Bengali sentences?",
+      "options": [
+        "Object-Subject-Verb",
+        "Verb-Subject-Object",
+        "Subject-Object-Verb",
+        "Subject-Verb-Object"
+      ],
+      "correct_answer": 3,
+      "explanation": "Subject-Verb-Object is the standard word order"
+    },
+    {
+      "question": "How do you say 'Where do you live?' in Bengali?",
+      "options": [
+        "তুমি কোথায় থাকো?",
+        "কোথায় তুমি থাকো?",
+        "থাকো তুমি কোথায়?",
+        "তুমি থাকো কোথায়?"
+      ],
+      "correct_answer": 0,
+      "explanation": "Question word comes first, then Subject-Verb-Object"
+    },
+    {
+      "question": "What does the verb ending -য় indicate?",
+      "options": [
+        "First person",
+        "Second person",
+        "Third person",
+        "Plural"
+      ],
+      "correct_answer": 2,
+      "explanation": "-য় (-y) is used for third person singular"
+    },
+    {
+      "question": "Which sentence follows correct Bengali structure?",
+      "options": [
+        "খাই আমি ভাত",
+        "ভাত আমি খাই",
+        "আমি ভাত খাই",
+        "খাই ভাত আমি"
+      ],
+      "correct_answer": 2,
+      "explanation": "আমি ভাত খাই follows Subject-Verb-Object order"
+    },
+    {
+      "question": "What does 'তুমি কি যাও?' mean?",
+      "options": [
+        "I go",
+        "Do you go?",
+        "He goes",
+        "We go"
+      ],
+      "correct_answer": 1,
+      "explanation": "কি after subject makes it a yes/no question"
+    },
+    {
+      "question": "Which is the correct first person plural verb ending?",
+      "options": [
+        "-ই",
+        "-ও",
+        "-য়",
+        "-ি"
+      ],
+      "correct_answer": 3,
+      "explanation": "First person plural uses -ি (-i) ending"
+    },
+    {
+      "question": "In 'সে কোথায় থাকে?', what type of question is this?",
+      "options": [
+        "Yes/no question",
+        "Time question",
+        "Location question",
+        "Person question"
+      ],
+      "correct_answer": 2,
+      "explanation": "কোথায় (kōthāẏ) indicates a location/place question"
+    },
+    {
+      "question": "What does 'আমরা খেলি' demonstrate?",
+      "options": [
+        "Third person verb",
+        "Question formation",
+        "Plural subject with verb",
+        "Object placement"
+      ],
+      "correct_answer": 2,
+      "explanation": "আমরা (we) is plural subject with খেলি (play)"
+    },
+    {
+      "question": "Which question word means 'what' in Bengali?",
+      "options": [
+        "কে",
+        "কোথায়",
+        "কখন",
+        "কি"
+      ],
+      "correct_answer": 3,
+      "explanation": "কি (ki) means 'what' and is used for content questions"
+    }
+  ]
+}

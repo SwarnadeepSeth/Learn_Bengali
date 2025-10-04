@@ -85,7 +85,43 @@ const LessonLoader = {
                 'lesson15-simple-conjunctions',
                 'lesson16-commands-requests'
             ],
-            'intermediate': [],
+            'intermediate': [
+                'lesson1-professions',
+                'lesson2-adjectives',
+                'lesson3-weather-seasons',
+                'lesson4-directions-locations',
+                'lesson5-shopping-money',
+                'lesson6-time-dates',
+                'lesson7-food-cooking',
+                'lesson8-health-body',
+                'lesson9-travel-transport',
+                'lesson10-emotions-feelings',
+                'lesson12-education-school',
+                'lesson13-family-relationships',
+                'lesson14-work-office',
+                'lesson15-technology-communication',
+                'lesson17-culture-festivals',
+                'lesson18-nature-environment',
+                'lesson19-sports-hobbies',
+                'lesson20-arts-entertainment',
+                'lesson21-politics-government',
+                'lesson23-advanced-science-technology',
+                'lesson24-literature-poetry',
+                'lesson25-history-heritage',
+                'lesson26-business-economy',
+                'lesson28-law-justice',
+                'lesson29-philosophy-religion',
+                'lesson30-travel-tourism',
+                'lesson32-health-medicine',
+                'lesson33-education-learning',
+                'lesson34-technology-communication',
+                'lesson35-daily-life-routines',
+                'lesson11-basic-sentence-structure',
+                'lesson16-verb-conjugations',
+                'lesson22-noun-cases',
+                'lesson27-postpositions',
+                'lesson31-complex-sentence-structures'
+            ],
             'advanced': []
         };
         return lessonMaps[category] || [];
@@ -100,18 +136,18 @@ const LessonLoader = {
                 description: 'Start your Bengali journey with basic script and essential phrases',
                 totalLessons: 16
             },
-            'intermediate': {
-                id: 'intermediate',
-                title: 'Intermediate',
-                description: 'Build fluency with complex grammar and vocabulary',
-                totalLessons: 0
-            },
-            'advanced': {
-                id: 'advanced',
-                title: 'Advanced',
-                description: 'Master advanced Bengali conversation and literature',
-                totalLessons: 0
-            }
+             'intermediate': {
+                  id: 'intermediate',
+                  title: 'Intermediate',
+                  description: 'Build fluency with complex grammar and vocabulary',
+                  totalLessons: 35
+              },
+              'advanced': {
+                 id: 'advanced',
+                 title: 'Advanced',
+                 description: 'Master advanced Bengali conversation and literature',
+                 totalLessons: 0
+             }
         };
         return categoryInfo[category] || null;
     },

@@ -1,0 +1,500 @@
+{
+  "id": "lesson19-sports-hobbies",
+  "title": "Sports and Hobbies",
+  "category": "intermediate",
+  "description": "Learn vocabulary for sports, games, and leisure activities in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "খেলা",
+      "english": "game/sport",
+      "phonetic": "khēlā",
+      "pronunciation_guide": "like 'khe-la'",
+      "audio_tip": "aspirated 'khēlā'"
+    },
+    {
+      "bengali": "ক্রীড়া",
+      "english": "sports",
+      "phonetic": "krīḍā",
+      "pronunciation_guide": "like 'kree-da'",
+      "audio_tip": "long 'ī'"
+    },
+    {
+      "bengali": "ফুটবল",
+      "english": "football/soccer",
+      "phonetic": "phuṭbôl",
+      "pronunciation_guide": "like 'phut-bol'",
+      "audio_tip": "aspirated 'ṭbôl'"
+    },
+    {
+      "bengali": "ক্রিকেট",
+      "english": "cricket",
+      "phonetic": "kriḱēṭ",
+      "pronunciation_guide": "like 'kri-ket'",
+      "audio_tip": "retroflex 'ḱēṭ'"
+    },
+    {
+      "bengali": "টেনিস",
+      "english": "tennis",
+      "phonetic": "ṭênis",
+      "pronunciation_guide": "like 'te-nis'",
+      "audio_tip": "retroflex 'ṭênis'"
+    },
+    {
+      "bengali": "বাস্কেটবল",
+      "english": "basketball",
+      "phonetic": "bāsḱēṭbôl",
+      "pronunciation_guide": "like 'bas-ket-bol'",
+      "audio_tip": "retroflex 'ḱēṭbôl'"
+    },
+    {
+      "bengali": "সাঁতার",
+      "english": "swimming",
+      "phonetic": "sātār",
+      "pronunciation_guide": "like 'shan-tar'",
+      "audio_tip": "nasal 'ātār'"
+    },
+    {
+      "bengali": "দৌড়",
+      "english": "running",
+      "phonetic": "dauḍ",
+      "pronunciation_guide": "like 'dow-r'",
+      "audio_tip": "retroflex 'ḍ'"
+    },
+    {
+      "bengali": "সাইকেল চালানো",
+      "english": "cycling",
+      "phonetic": "sāiḱêl cālānō",
+      "pronunciation_guide": "like 'sai-kel cha-la-no'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "জিমন্যাস্টিকস",
+      "english": "gymnastics",
+      "phonetic": "jimnāsṭiks",
+      "pronunciation_guide": "like 'jim-nas-tiks'",
+      "audio_tip": "retroflex 'ṭiks'"
+    },
+    {
+      "bengali": "খেলোয়াড়",
+      "english": "player/athlete",
+      "phonetic": "khēlōẏāḍ",
+      "pronunciation_guide": "like 'khe-lo-yar'",
+      "audio_tip": "aspirated 'ẏāḍ'"
+    },
+    {
+      "bengali": "দল",
+      "english": "team",
+      "phonetic": "dôl",
+      "pronunciation_guide": "like 'dol'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "প্রশিক্ষক",
+      "english": "coach/trainer",
+      "phonetic": "prôśikkhôk",
+      "pronunciation_guide": "like 'pro-shik-khok'",
+      "audio_tip": "aspirated 'śikkhôk'"
+    },
+    {
+      "bengali": "স্টেডিয়াম",
+      "english": "stadium",
+      "phonetic": "sṭêḍiẏām",
+      "pronunciation_guide": "like 'ste-di-yam'",
+      "audio_tip": "retroflex 'ṭêḍiẏām'"
+    },
+    {
+      "bengali": "জয়",
+      "english": "victory/win",
+      "phonetic": "jôy",
+      "pronunciation_guide": "like 'joy'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "পরাজয়",
+      "english": "defeat/loss",
+      "phonetic": "pôrājôy",
+      "pronunciation_guide": "like 'po-ra-joy'",
+      "audio_tip": "aspirated 'rājôy'"
+    },
+    {
+      "bengali": "শখ",
+      "english": "hobby",
+      "phonetic": "śôkh",
+      "pronunciation_guide": "like 'shokh'",
+      "audio_tip": "aspirated 'śôkh'"
+    },
+    {
+      "bengali": "সঙ্গীত",
+      "english": "music",
+      "phonetic": "sôṅgīt",
+      "pronunciation_guide": "like 'shong-git'",
+      "audio_tip": "nasal 'ṅgīt'"
+    },
+    {
+      "bengali": "গান",
+      "english": "song",
+      "phonetic": "gān",
+      "pronunciation_guide": "like 'gan'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "নাচ",
+      "english": "dance",
+      "phonetic": "nāc",
+      "pronunciation_guide": "like 'nach'",
+      "audio_tip": "aspirated 'c'"
+    },
+    {
+      "bengali": "চিত্রাঙ্কন",
+      "english": "painting/drawing",
+      "phonetic": "citrāṅkôn",
+      "pronunciation_guide": "like 'chi-tra-kon'",
+      "audio_tip": "nasal 'ṅkôn'"
+    },
+    {
+      "bengali": "পড়া",
+      "english": "reading",
+      "phonetic": "pôṛā",
+      "pronunciation_guide": "like 'po-ra'",
+      "audio_tip": "retroflex 'ṛā'"
+    },
+    {
+      "bengali": "লেখা",
+      "english": "writing",
+      "phonetic": "lekhā",
+      "pronunciation_guide": "like 'le-kha'",
+      "audio_tip": "aspirated 'khā'"
+    },
+    {
+      "bengali": "ভ্রমণ",
+      "english": "traveling",
+      "phonetic": "bhômôṇ",
+      "pronunciation_guide": "like 'bhro-mon'",
+      "audio_tip": "aspirated 'bhômôṇ'"
+    },
+    {
+      "bengali": "রান্না",
+      "english": "cooking",
+      "phonetic": "rānnā",
+      "pronunciation_guide": "like 'ran-na'",
+      "audio_tip": "double 'nnā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'sports'?",
+      "options": [
+        "খেলা",
+        "ক্রীড়া",
+        "ফুটবল",
+        "ক্রিকেট"
+      ],
+      "correct_answer": 1,
+      "explanation": "ক্রীড়া (krīḍā) means sports",
+      "bengali_focus": "ক্রীড়া",
+      "phonetic_focus": "krīḍā"
+    },
+    {
+      "question": "Which word means 'football'?",
+      "options": [
+        "টেনিস",
+        "বাস্কেটবল",
+        "ফুটবল",
+        "সাঁতার"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফুটবল (phuṭbôl) means football",
+      "bengali_focus": "ফুটবল",
+      "phonetic_focus": "phuṭbôl"
+    },
+    {
+      "question": "What does ক্রিকেট mean?",
+      "options": [
+        "দৌড়",
+        "সাইকেল চালানো",
+        "Cricket",
+        "জিমন্যাস্টিকস"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্রিকেট (kriḱēṭ) means cricket",
+      "bengali_focus": "ক্রিকেট",
+      "phonetic_focus": "kriḱēṭ"
+    },
+    {
+      "question": "Which Bengali word means 'tennis'?",
+      "options": [
+        "খেলোয়াড়",
+        "দল",
+        "টেনিস",
+        "প্রশিক্ষক"
+      ],
+      "correct_answer": 2,
+      "explanation": "টেনিস (ṭênis) means tennis",
+      "bengali_focus": "টেনিস",
+      "phonetic_focus": "ṭênis"
+    },
+    {
+      "question": "What is বাস্কেটবল?",
+      "options": [
+        "স্টেডিয়াম",
+        "জয়",
+        "Basketball",
+        "পরাজয়"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাস্কেটবল (bāsḱēṭbôl) means basketball",
+      "bengali_focus": "বাস্কেটবল",
+      "phonetic_focus": "bāsḱēṭbôl"
+    },
+    {
+      "question": "Which word means 'swimming'?",
+      "options": [
+        "শখ",
+        "সঙ্গীত",
+        "সাঁতার",
+        "গান"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাঁতার (sātār) means swimming",
+      "bengali_focus": "সাঁতার",
+      "phonetic_focus": "sātār"
+    },
+    {
+      "question": "What does দৌড় mean?",
+      "options": [
+        "নাচ",
+        "চিত্রাঙ্কন",
+        "Running",
+        "পড়া"
+      ],
+      "correct_answer": 2,
+      "explanation": "দৌড় (dauḍ) means running",
+      "bengali_focus": "দৌড়",
+      "phonetic_focus": "dauḍ"
+    },
+    {
+      "question": "Which Bengali word means 'cycling'?",
+      "options": [
+        "লেখা",
+        "ভ্রমণ",
+        "সাইকেল চালানো",
+        "রান্না"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাইকেল চালানো (sāiḱêl cālānō) means cycling",
+      "bengali_focus": "সাইকেল চালানো",
+      "phonetic_focus": "sāiḱêl cālānō"
+    },
+    {
+      "question": "What is জিমন্যাস্টিকস?",
+      "options": [
+        "Game",
+        "Sports",
+        "Gymnastics",
+        "Football"
+      ],
+      "correct_answer": 2,
+      "explanation": "জিমন্যাস্টিকস (jimnāsṭiks) means gymnastics",
+      "bengali_focus": "জিমন্যাস্টিকস",
+      "phonetic_focus": "jimnāsṭiks"
+    },
+    {
+      "question": "Which word means 'player'?",
+      "options": [
+        "Cricket",
+        "Tennis",
+        "খেলোয়াড়",
+        "Basketball"
+      ],
+      "correct_answer": 2,
+      "explanation": "খেলোয়াড় (khēlōẏāḍ) means player",
+      "bengali_focus": "খেলোয়াড়",
+      "phonetic_focus": "khēlōẏāḍ"
+    },
+    {
+      "question": "What does দল mean?",
+      "options": [
+        "Swimming",
+        "Running",
+        "Team",
+        "Cycling"
+      ],
+      "correct_answer": 2,
+      "explanation": "দল (dôl) means team",
+      "bengali_focus": "দল",
+      "phonetic_focus": "dôl"
+    },
+    {
+      "question": "Which Bengali word means 'coach'?",
+      "options": [
+        "Gymnastics",
+        "Player",
+        "প্রশিক্ষক",
+        "Team"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রশিক্ষক (prôśikkhôk) means coach",
+      "bengali_focus": "প্রশিক্ষক",
+      "phonetic_focus": "prôśikkhôk"
+    },
+    {
+      "question": "What is স্টেডিয়াম?",
+      "options": [
+        "Stadium",
+        "Victory",
+        "Defeat",
+        "Hobby"
+      ],
+      "correct_answer": 0,
+      "explanation": "স্টেডিয়াম (sṭêḍiẏām) means stadium",
+      "bengali_focus": "স্টেডিয়াম",
+      "phonetic_focus": "sṭêḍiẏām"
+    },
+    {
+      "question": "Which word means 'victory'?",
+      "options": [
+        "Music",
+        "Song",
+        "জয়",
+        "Dance"
+      ],
+      "correct_answer": 2,
+      "explanation": "জয় (jôy) means victory",
+      "bengali_focus": "জয়",
+      "phonetic_focus": "jôy"
+    },
+    {
+      "question": "What does পরাজয় mean?",
+      "options": [
+        "Painting",
+        "Reading",
+        "Defeat",
+        "Writing"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরাজয় (pôrājôy) means defeat",
+      "bengali_focus": "পরাজয়",
+      "phonetic_focus": "pôrājôy"
+    },
+    {
+      "question": "Which Bengali word means 'hobby'?",
+      "options": [
+        "Traveling",
+        "Cooking",
+        "শখ",
+        "Game"
+      ],
+      "correct_answer": 2,
+      "explanation": "শখ (śôkh) means hobby",
+      "bengali_focus": "শখ",
+      "phonetic_focus": "śôkh"
+    },
+    {
+      "question": "What is সঙ্গীত?",
+      "options": [
+        "Sports",
+        "Football",
+        "Music",
+        "Cricket"
+      ],
+      "correct_answer": 2,
+      "explanation": "সঙ্গীত (sôṅgīt) means music",
+      "bengali_focus": "সঙ্গীত",
+      "phonetic_focus": "sôṅgīt"
+    },
+    {
+      "question": "Which word means 'song'?",
+      "options": [
+        "Tennis",
+        "Basketball",
+        "গান",
+        "Swimming"
+      ],
+      "correct_answer": 2,
+      "explanation": "গান (gān) means song",
+      "bengali_focus": "গান",
+      "phonetic_focus": "gān"
+    },
+    {
+      "question": "What does নাচ mean?",
+      "options": [
+        "Running",
+        "Cycling",
+        "Dance",
+        "Gymnastics"
+      ],
+      "correct_answer": 2,
+      "explanation": "নাচ (nāc) means dance",
+      "bengali_focus": "নাচ",
+      "phonetic_focus": "nāc"
+    },
+    {
+      "question": "Which Bengali word means 'painting'?",
+      "options": [
+        "Player",
+        "Team",
+        "চিত্রাঙ্কন",
+        "Coach"
+      ],
+      "correct_answer": 2,
+      "explanation": "চিত্রাঙ্কন (citrāṅkôn) means painting",
+      "bengali_focus": "চিত্রাঙ্কন",
+      "phonetic_focus": "citrāṅkôn"
+    },
+    {
+      "question": "What is পড়া?",
+      "options": [
+        "Stadium",
+        "Victory",
+        "Reading",
+        "Defeat"
+      ],
+      "correct_answer": 2,
+      "explanation": "পড়া (pôṛā) means reading",
+      "bengali_focus": "পড়া",
+      "phonetic_focus": "pôṛā"
+    },
+    {
+      "question": "Which word means 'writing'?",
+      "options": [
+        "Hobby",
+        "Music",
+        "লেখা",
+        "Song"
+      ],
+      "correct_answer": 2,
+      "explanation": "লেখা (lekhā) means writing",
+      "bengali_focus": "লেখা",
+      "phonetic_focus": "lekhā"
+    },
+    {
+      "question": "What does ভ্রমণ mean?",
+      "options": [
+        "Dance",
+        "Painting",
+        "Traveling",
+        "Reading"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভ্রমণ (bhômôṇ) means traveling",
+      "bengali_focus": "ভ্রমণ",
+      "phonetic_focus": "bhômôṇ"
+    },
+    {
+      "question": "Which Bengali word means 'cooking'?",
+      "options": [
+        "Writing",
+        "Traveling",
+        "রান্না",
+        "Game"
+      ],
+      "correct_answer": 2,
+      "explanation": "রান্না (rānnā) means cooking",
+      "bengali_focus": "রান্না",
+      "phonetic_focus": "rānnā"
+    }
+  ]
+}

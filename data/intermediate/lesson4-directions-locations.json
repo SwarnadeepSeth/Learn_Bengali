@@ -1,0 +1,513 @@
+{
+  "id": "lesson4-directions-locations",
+  "title": "Directions and Locations",
+  "category": "intermediate",
+  "description": "Learn vocabulary for giving and understanding directions in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "উত্তর",
+      "english": "north",
+      "phonetic": "uttôr",
+      "pronunciation_guide": "like 'ut-tor'",
+      "audio_tip": "double 't'"
+    },
+    {
+      "bengali": "দক্ষিণ",
+      "english": "south",
+      "phonetic": "dôkṣiṇ",
+      "pronunciation_guide": "like 'dok-shin'",
+      "audio_tip": "retroflex 'kṣ'"
+    },
+    {
+      "bengali": "পূর্ব",
+      "english": "east",
+      "phonetic": "pūrbô",
+      "pronunciation_guide": "like 'poor-bo'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "পশ্চিম",
+      "english": "west",
+      "phonetic": "pôścim",
+      "pronunciation_guide": "like 'posh-chim'",
+      "audio_tip": "aspirated 'śc'"
+    },
+    {
+      "bengali": "ডান",
+      "english": "right",
+      "phonetic": "ḍān",
+      "pronunciation_guide": "like 'dan'",
+      "audio_tip": "retroflex 'ḍ'"
+    },
+    {
+      "bengali": "বাম",
+      "english": "left",
+      "phonetic": "bām",
+      "pronunciation_guide": "like 'bam'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সামনে",
+      "english": "in front",
+      "phonetic": "sāmne",
+      "pronunciation_guide": "like 'sam-ne'",
+      "audio_tip": "nasal 'āmn'"
+    },
+    {
+      "bengali": "পিছনে",
+      "english": "behind",
+      "phonetic": "pichne",
+      "pronunciation_guide": "like 'pich-ne'",
+      "audio_tip": "clear 'ch'"
+    },
+    {
+      "bengali": "উপরে",
+      "english": "above/up",
+      "phonetic": "upôre",
+      "pronunciation_guide": "like 'u-po-re'",
+      "audio_tip": "aspirated 'pô'"
+    },
+    {
+      "bengali": "নিচে",
+      "english": "below/down",
+      "phonetic": "niche",
+      "pronunciation_guide": "like 'ni-che'",
+      "audio_tip": "clear 'ch'"
+    },
+    {
+      "bengali": "ভিতরে",
+      "english": "inside",
+      "phonetic": "bhitrô",
+      "pronunciation_guide": "like 'bhi-tro'",
+      "audio_tip": "aspirated 'bh'"
+    },
+    {
+      "bengali": "বাইরে",
+      "english": "outside",
+      "phonetic": "bāire",
+      "pronunciation_guide": "like 'bai-re'",
+      "audio_tip": "long 'āi'"
+    },
+    {
+      "bengali": "কাছে",
+      "english": "near",
+      "phonetic": "kāche",
+      "pronunciation_guide": "like 'ka-che'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "দূরে",
+      "english": "far",
+      "phonetic": "dūre",
+      "pronunciation_guide": "like 'doo-re'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "মাঝখানে",
+      "english": "in the middle",
+      "phonetic": "mājhkhāne",
+      "pronunciation_guide": "like 'maj-kha-ne'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "চারপাশে",
+      "english": "around",
+      "phonetic": "cārpāśe",
+      "pronunciation_guide": "like 'char-pa-she'",
+      "audio_tip": "aspirated 'pāś'"
+    },
+    {
+      "bengali": "সোজা",
+      "english": "straight",
+      "phonetic": "sōjā",
+      "pronunciation_guide": "like 'so-ja'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "বাঁকা",
+      "english": "curved/bent",
+      "phonetic": "bāṅkā",
+      "pronunciation_guide": "like 'bang-ka'",
+      "audio_tip": "nasal 'āṅ'"
+    },
+    {
+      "bengali": "ক্রসিং",
+      "english": "crossing",
+      "phonetic": "krôsiṅ",
+      "pronunciation_guide": "like 'kro-sing'",
+      "audio_tip": "nasal 'ṅ'"
+    },
+    {
+      "bengali": "সিগন্যাল",
+      "english": "traffic signal",
+      "phonetic": "signāl",
+      "pronunciation_guide": "like 'sig-nal'",
+      "audio_tip": "clear 'g'"
+    },
+    {
+      "bengali": "রাস্তা",
+      "english": "road/street",
+      "phonetic": "rāstā",
+      "pronunciation_guide": "like 'ras-ta'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মোড়",
+      "english": "turn/corner",
+      "phonetic": "mōṛ",
+      "pronunciation_guide": "like 'mor'",
+      "audio_tip": "retroflex 'ṛ'"
+    },
+    {
+      "bengali": "ব্রিজ",
+      "english": "bridge",
+      "phonetic": "brij",
+      "pronunciation_guide": "like 'brij'",
+      "audio_tip": "clear 'j'"
+    },
+    {
+      "bengali": "টানেল",
+      "english": "tunnel",
+      "phonetic": "ṭānel",
+      "pronunciation_guide": "like 'ta-nel'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "ম্যাপ",
+      "english": "map",
+      "phonetic": "myāp",
+      "pronunciation_guide": "like 'myap'",
+      "audio_tip": "clear 'y'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'north'?",
+      "options": [
+        "উত্তর",
+        "দক্ষিণ",
+        "পূর্ব",
+        "পশ্চিম"
+      ],
+      "correct_answer": 0,
+      "explanation": "উত্তর (uttôr) means north",
+      "bengali_focus": "উত্তর",
+      "phonetic_focus": "uttôr"
+    },
+    {
+      "question": "Which direction is দক্ষিণ?",
+      "options": [
+        "North",
+        "South",
+        "East",
+        "West"
+      ],
+      "correct_answer": 1,
+      "explanation": "দক্ষিণ (dôkṣiṇ) means south",
+      "bengali_focus": "দক্ষিণ",
+      "phonetic_focus": "dôkṣiṇ"
+    },
+    {
+      "question": "What does পূর্ব mean?",
+      "options": [
+        "West",
+        "North",
+        "South",
+        "East"
+      ],
+      "correct_answer": 3,
+      "explanation": "পূর্ব (pūrbô) means east",
+      "bengali_focus": "পূর্ব",
+      "phonetic_focus": "pūrbô"
+    },
+    {
+      "question": "Which Bengali word means 'west'?",
+      "options": [
+        "উত্তর",
+        "দক্ষিণ",
+        "পশ্চিম",
+        "পূর্ব"
+      ],
+      "correct_answer": 2,
+      "explanation": "পশ্চিম (pôścim) means west",
+      "bengali_focus": "পশ্চিম",
+      "phonetic_focus": "pôścim"
+    },
+    {
+      "question": "What is ডান?",
+      "options": [
+        "Left",
+        "Right",
+        "Front",
+        "Back"
+      ],
+      "correct_answer": 1,
+      "explanation": "ডান (ḍān) means right",
+      "bengali_focus": "ডান",
+      "phonetic_focus": "ḍān"
+    },
+    {
+      "question": "Which word means 'left'?",
+      "options": [
+        "সামনে",
+        "পিছনে",
+        "বাম",
+        "উপরে"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাম (bām) means left",
+      "bengali_focus": "বাম",
+      "phonetic_focus": "bām"
+    },
+    {
+      "question": "What does সামনে mean?",
+      "options": [
+        "Behind",
+        "Above",
+        "In front",
+        "Below"
+      ],
+      "correct_answer": 2,
+      "explanation": "সামনে (sāmne) means in front",
+      "bengali_focus": "সামনে",
+      "phonetic_focus": "sāmne"
+    },
+    {
+      "question": "Which Bengali word means 'behind'?",
+      "options": [
+        "উপরে",
+        "নিচে",
+        "পিছনে",
+        "ভিতরে"
+      ],
+      "correct_answer": 2,
+      "explanation": "পিছনে (pichne) means behind",
+      "bengali_focus": "পিছনে",
+      "phonetic_focus": "pichne"
+    },
+    {
+      "question": "What is উপরে?",
+      "options": [
+        "Below",
+        "Inside",
+        "Above",
+        "Outside"
+      ],
+      "correct_answer": 2,
+      "explanation": "উপরে (upôre) means above or up",
+      "bengali_focus": "উপরে",
+      "phonetic_focus": "upôre"
+    },
+    {
+      "question": "Which word means 'below'?",
+      "options": [
+        "ভিতরে",
+        "বাইরে",
+        "নিচে",
+        "কাছে"
+      ],
+      "correct_answer": 2,
+      "explanation": "নিচে (niche) means below or down",
+      "bengali_focus": "নিচে",
+      "phonetic_focus": "niche"
+    },
+    {
+      "question": "What does ভিতরে mean?",
+      "options": [
+        "Outside",
+        "Near",
+        "Inside",
+        "Far"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভিতরে (bhitrô) means inside",
+      "bengali_focus": "ভিতরে",
+      "phonetic_focus": "bhitrô"
+    },
+    {
+      "question": "Which Bengali word means 'outside'?",
+      "options": [
+        "কাছে",
+        "দূরে",
+        "বাইরে",
+        "মাঝখানে"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাইরে (bāire) means outside",
+      "bengali_focus": "বাইরে",
+      "phonetic_focus": "bāire"
+    },
+    {
+      "question": "What is কাছে?",
+      "options": [
+        "Far",
+        "In the middle",
+        "Near",
+        "Around"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাছে (kāche) means near",
+      "bengali_focus": "কাছে",
+      "phonetic_focus": "kāche"
+    },
+    {
+      "question": "Which word means 'far'?",
+      "options": [
+        "চারপাশে",
+        "সোজা",
+        "দূরে",
+        "বাঁকা"
+      ],
+      "correct_answer": 2,
+      "explanation": "দূরে (dūre) means far",
+      "bengali_focus": "দূরে",
+      "phonetic_focus": "dūre"
+    },
+    {
+      "question": "What does মাঝখানে mean?",
+      "options": [
+        "Around",
+        "Straight",
+        "In the middle",
+        "Curved"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাঝখানে (mājhkhāne) means in the middle",
+      "bengali_focus": "মাঝখানে",
+      "phonetic_focus": "mājhkhāne"
+    },
+    {
+      "question": "Which Bengali word means 'around'?",
+      "options": [
+        "সোজা",
+        "বাঁকা",
+        "চারপাশে",
+        "ক্রসিং"
+      ],
+      "correct_answer": 2,
+      "explanation": "চারপাশে (cārpāśe) means around",
+      "bengali_focus": "চারপাশে",
+      "phonetic_focus": "cārpāśe"
+    },
+    {
+      "question": "What is সোজা?",
+      "options": [
+        "Curved",
+        "Crossing",
+        "Straight",
+        "Traffic signal"
+      ],
+      "correct_answer": 2,
+      "explanation": "সোজা (sōjā) means straight",
+      "bengali_focus": "সোজা",
+      "phonetic_focus": "sōjā"
+    },
+    {
+      "question": "Which word means 'curved'?",
+      "options": [
+        "ক্রসিং",
+        "সিগন্যাল",
+        "বাঁকা",
+        "রাস্তা"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাঁকা (bāṅkā) means curved or bent",
+      "bengali_focus": "বাঁকা",
+      "phonetic_focus": "bāṅkā"
+    },
+    {
+      "question": "What does ক্রসিং mean?",
+      "options": [
+        "Traffic signal",
+        "Road",
+        "Crossing",
+        "Turn"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্রসিং (krôsiṅ) means crossing",
+      "bengali_focus": "ক্রসিং",
+      "phonetic_focus": "krôsiṅ"
+    },
+    {
+      "question": "Which Bengali word means 'traffic signal'?",
+      "options": [
+        "মোড়",
+        "ব্রিজ",
+        "সিগন্যাল",
+        "টানেল"
+      ],
+      "correct_answer": 2,
+      "explanation": "সিগন্যাল (signāl) means traffic signal",
+      "bengali_focus": "সিগন্যাল",
+      "phonetic_focus": "signāl"
+    },
+    {
+      "question": "What is রাস্তা?",
+      "options": [
+        "Bridge",
+        "Tunnel",
+        "Road",
+        "Map"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাস্তা (rāstā) means road or street",
+      "bengali_focus": "রাস্তা",
+      "phonetic_focus": "rāstā"
+    },
+    {
+      "question": "Which word means 'turn'?",
+      "options": [
+        "ব্রিজ",
+        "টানেল",
+        "মোড়",
+        "ম্যাপ"
+      ],
+      "correct_answer": 2,
+      "explanation": "মোড় (mōṛ) means turn or corner",
+      "bengali_focus": "মোড়",
+      "phonetic_focus": "mōṛ"
+    },
+    {
+      "question": "What does ব্রিজ mean?",
+      "options": [
+        "Tunnel",
+        "Map",
+        "Bridge",
+        "Road"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্রিজ (brij) means bridge",
+      "bengali_focus": "ব্রিজ",
+      "phonetic_focus": "brij"
+    },
+    {
+      "question": "Which Bengali word means 'tunnel'?",
+      "options": [
+        "ম্যাপ",
+        "রাস্তা",
+        "টানেল",
+        "মোড়"
+      ],
+      "correct_answer": 2,
+      "explanation": "টানেল (ṭānel) means tunnel",
+      "bengali_focus": "টানেল",
+      "phonetic_focus": "ṭānel"
+    },
+    {
+      "question": "What is ম্যাপ?",
+      "options": [
+        "Road",
+        "Turn",
+        "Bridge",
+        "Map"
+      ],
+      "correct_answer": 3,
+      "explanation": "ম্যাপ (myāp) means map",
+      "bengali_focus": "ম্যাপ",
+      "phonetic_focus": "myāp"
+    }
+  ]
+}

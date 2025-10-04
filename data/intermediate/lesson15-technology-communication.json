@@ -1,0 +1,513 @@
+{
+  "id": "lesson15-technology-communication",
+  "title": "Technology and Communication",
+  "category": "intermediate",
+  "description": "Learn vocabulary for modern technology, communication tools, and digital terms in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "টেকনোলজি",
+      "english": "technology",
+      "phonetic": "ṭêknôlôji",
+      "pronunciation_guide": "like 'tek-no-lo-ji'",
+      "audio_tip": "retroflex 'ṭêknôlôji'"
+    },
+    {
+      "bengali": "মোবাইল",
+      "english": "mobile phone",
+      "phonetic": "môbāil",
+      "pronunciation_guide": "like 'mo-bail'",
+      "audio_tip": "aspirated 'bāil'"
+    },
+    {
+      "bengali": "স্মার্টফোন",
+      "english": "smartphone",
+      "phonetic": "smārṭphôn",
+      "pronunciation_guide": "like 'smart-phone'",
+      "audio_tip": "aspirated 'phôn'"
+    },
+    {
+      "bengali": "ইন্টারনেট",
+      "english": "internet",
+      "phonetic": "inṭārnêṭ",
+      "pronunciation_guide": "like 'in-tar-net'",
+      "audio_tip": "retroflex 'ṭārnêṭ'"
+    },
+    {
+      "bengali": "ওয়েবসাইট",
+      "english": "website",
+      "phonetic": "ôẇêbsāiṭ",
+      "pronunciation_guide": "like 'web-site'",
+      "audio_tip": "aspirated 'ẇêbsāiṭ'"
+    },
+    {
+      "bengali": "সোশ্যাল মিডিয়া",
+      "english": "social media",
+      "phonetic": "sôśyāl miḍiā",
+      "pronunciation_guide": "like 'sho-shyal mi-di-a'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "ফেসবুক",
+      "english": "Facebook",
+      "phonetic": "phêsbuk",
+      "pronunciation_guide": "like 'fes-buk'",
+      "audio_tip": "aspirated 'phêsbuk'"
+    },
+    {
+      "bengali": "হোয়াটসঅ্যাপ",
+      "english": "WhatsApp",
+      "phonetic": "huôṭsêp",
+      "pronunciation_guide": "like 'whats-app'",
+      "audio_tip": "aspirated 'uôṭsêp'"
+    },
+    {
+      "bengali": "ভিডিও কল",
+      "english": "video call",
+      "phonetic": "bhiḍiō kôl",
+      "pronunciation_guide": "like 'vi-di-o call'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "চ্যাট",
+      "english": "chat",
+      "phonetic": "cyāṭ",
+      "pronunciation_guide": "like 'chat'",
+      "audio_tip": "aspirated 'cyāṭ'"
+    },
+    {
+      "bengali": "মেসেজ",
+      "english": "message",
+      "phonetic": "mêsêj",
+      "pronunciation_guide": "like 'me-sej'",
+      "audio_tip": "aspirated 'sêj'"
+    },
+    {
+      "bengali": "নোটিফিকেশন",
+      "english": "notification",
+      "phonetic": "nôṭiphikêśôn",
+      "pronunciation_guide": "like 'no-ti-fi-ke-shon'",
+      "audio_tip": "aspirated 'ṭiphikêśôn'"
+    },
+    {
+      "bengali": "পাসওয়ার্ড",
+      "english": "password",
+      "phonetic": "pāsôẇârḍ",
+      "pronunciation_guide": "like 'pas-word'",
+      "audio_tip": "aspirated 'sôẇârḍ'"
+    },
+    {
+      "bengali": "ডাউনলোড",
+      "english": "download",
+      "phonetic": "ḍāunlōḍ",
+      "pronunciation_guide": "like 'down-load'",
+      "audio_tip": "retroflex 'ḍāunlōḍ'"
+    },
+    {
+      "bengali": "আপলোড",
+      "english": "upload",
+      "phonetic": "āplōḍ",
+      "pronunciation_guide": "like 'up-load'",
+      "audio_tip": "long 'āplōḍ'"
+    },
+    {
+      "bengali": "ফাইল",
+      "english": "file",
+      "phonetic": "phāil",
+      "pronunciation_guide": "like 'file'",
+      "audio_tip": "aspirated 'phāil'"
+    },
+    {
+      "bengali": "ফোল্ডার",
+      "english": "folder",
+      "phonetic": "phôldār",
+      "pronunciation_guide": "like 'fol-dar'",
+      "audio_tip": "aspirated 'phôldār'"
+    },
+    {
+      "bengali": "সফ্টওয়্যার",
+      "english": "software",
+      "phonetic": "sôpṭôẇyâr",
+      "pronunciation_guide": "like 'soft-ware'",
+      "audio_tip": "aspirated 'pṭôẇyâr'"
+    },
+    {
+      "bengali": "অ্যাপ",
+      "english": "app",
+      "phonetic": "êp",
+      "pronunciation_guide": "like 'app'",
+      "audio_tip": "aspirated 'êp'"
+    },
+    {
+      "bengali": "ক্যামেরা",
+      "english": "camera",
+      "phonetic": "kyāmêrā",
+      "pronunciation_guide": "like 'cam-e-ra'",
+      "audio_tip": "aspirated 'mêrā'"
+    },
+    {
+      "bengali": "ফটো",
+      "english": "photo",
+      "phonetic": "phôṭô",
+      "pronunciation_guide": "like 'fo-to'",
+      "audio_tip": "aspirated 'phôṭô'"
+    },
+    {
+      "bengali": "ভিডিও",
+      "english": "video",
+      "phonetic": "bhiḍiō",
+      "pronunciation_guide": "like 'vi-di-o'",
+      "audio_tip": "aspirated 'ḍiō'"
+    },
+    {
+      "bengali": "মিউজিক",
+      "english": "music",
+      "phonetic": "miujik",
+      "pronunciation_guide": "like 'mu-sic'",
+      "audio_tip": "aspirated 'uizik'"
+    },
+    {
+      "bengali": "গেম",
+      "english": "game",
+      "phonetic": "gêm",
+      "pronunciation_guide": "like 'game'",
+      "audio_tip": "aspirated 'gêm'"
+    },
+    {
+      "bengali": "ব্যাটারি",
+      "english": "battery",
+      "phonetic": "byāṭôri",
+      "pronunciation_guide": "like 'bat-te-ri'",
+      "audio_tip": "aspirated 'ṭôri'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'technology'?",
+      "options": [
+        "মোবাইল",
+        "স্মার্টফোন",
+        "টেকনোলজি",
+        "ইন্টারনেট"
+      ],
+      "correct_answer": 2,
+      "explanation": "টেকনোলজি (ṭêknôlôji) means technology",
+      "bengali_focus": "টেকনোলজি",
+      "phonetic_focus": "ṭêknôlôji"
+    },
+    {
+      "question": "Which word means 'mobile phone'?",
+      "options": [
+        "ওয়েবসাইট",
+        "সোশ্যাল মিডিয়া",
+        "মোবাইল",
+        "ফেসবুক"
+      ],
+      "correct_answer": 2,
+      "explanation": "মোবাইল (môbāil) means mobile phone",
+      "bengali_focus": "মোবাইল",
+      "phonetic_focus": "môbāil"
+    },
+    {
+      "question": "What does স্মার্টফোন mean?",
+      "options": [
+        "হোয়াটসঅ্যাপ",
+        "ভিডিও কল",
+        "Smartphone",
+        "চ্যাট"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্মার্টফোন (smārṭphôn) means smartphone",
+      "bengali_focus": "স্মার্টফোন",
+      "phonetic_focus": "smārṭphôn"
+    },
+    {
+      "question": "Which Bengali word means 'internet'?",
+      "options": [
+        "মেসেজ",
+        "নোটিফিকেশন",
+        "ইন্টারনেট",
+        "পাসওয়ার্ড"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইন্টারনেট (inṭārnêṭ) means internet",
+      "bengali_focus": "ইন্টারনেট",
+      "phonetic_focus": "inṭārnêṭ"
+    },
+    {
+      "question": "What is ওয়েবসাইট?",
+      "options": [
+        "ডাউনলোড",
+        "আপলোড",
+        "Website",
+        "ফাইল"
+      ],
+      "correct_answer": 2,
+      "explanation": "ওয়েবসাইট (ôẇêbsāiṭ) means website",
+      "bengali_focus": "ওয়েবসাইট",
+      "phonetic_focus": "ôẇêbsāiṭ"
+    },
+    {
+      "question": "Which word means 'social media'?",
+      "options": [
+        "ফোল্ডার",
+        "সফ্টওয়্যার",
+        "সোশ্যাল মিডিয়া",
+        "অ্যাপ"
+      ],
+      "correct_answer": 2,
+      "explanation": "সোশ্যাল মিডিয়া (sôśyāl miḍiā) means social media",
+      "bengali_focus": "সোশ্যাল মিডিয়া",
+      "phonetic_focus": "sôśyāl miḍiā"
+    },
+    {
+      "question": "What does ফেসবুক mean?",
+      "options": [
+        "ক্যামেরা",
+        "ফটো",
+        "Facebook",
+        "ভিডিও"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফেসবুক (phêsbuk) means Facebook",
+      "bengali_focus": "ফেসবুক",
+      "phonetic_focus": "phêsbuk"
+    },
+    {
+      "question": "Which Bengali word means 'video call'?",
+      "options": [
+        "মিউজিক",
+        "গেম",
+        "ভিডিও কল",
+        "ব্যাটারি"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভিডিও কল (bhiḍiō kôl) means video call",
+      "bengali_focus": "ভিডিও কল",
+      "phonetic_focus": "bhiḍiō kôl"
+    },
+    {
+      "question": "What is চ্যাট?",
+      "options": [
+        "Technology",
+        "Mobile phone",
+        "Chat",
+        "Smartphone"
+      ],
+      "correct_answer": 2,
+      "explanation": "চ্যাট (cyāṭ) means chat",
+      "bengali_focus": "চ্যাট",
+      "phonetic_focus": "cyāṭ"
+    },
+    {
+      "question": "Which word means 'message'?",
+      "options": [
+        "Internet",
+        "Website",
+        "মেসেজ",
+        "Social media"
+      ],
+      "correct_answer": 2,
+      "explanation": "মেসেজ (mêsêj) means message",
+      "bengali_focus": "মেসেজ",
+      "phonetic_focus": "mêsêj"
+    },
+    {
+      "question": "What does নোটিফিকেশন mean?",
+      "options": [
+        "Facebook",
+        "WhatsApp",
+        "Notification",
+        "Video call"
+      ],
+      "correct_answer": 2,
+      "explanation": "নোটিফিকেশন (nôṭiphikêśôn) means notification",
+      "bengali_focus": "নোটিফিকেশন",
+      "phonetic_focus": "nôṭiphikêśôn"
+    },
+    {
+      "question": "Which Bengali word means 'password'?",
+      "options": [
+        "Chat",
+        "Message",
+        "পাসওয়ার্ড",
+        "Notification"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাসওয়ার্ড (pāsôẇârḍ) means password",
+      "bengali_focus": "পাসওয়ার্ড",
+      "phonetic_focus": "pāsôẇârḍ"
+    },
+    {
+      "question": "What is ডাউনলোড?",
+      "options": [
+        "Upload",
+        "File",
+        "Download",
+        "Folder"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডাউনলোড (ḍāunlōḍ) means download",
+      "bengali_focus": "ডাউনলোড",
+      "phonetic_focus": "ḍāunlōḍ"
+    },
+    {
+      "question": "Which word means 'upload'?",
+      "options": [
+        "Software",
+        "App",
+        "আপলোড",
+        "Camera"
+      ],
+      "correct_answer": 2,
+      "explanation": "আপলোড (āplōḍ) means upload",
+      "bengali_focus": "আপলোড",
+      "phonetic_focus": "āplōḍ"
+    },
+    {
+      "question": "What does ফাইল mean?",
+      "options": [
+        "Photo",
+        "Video",
+        "File",
+        "Music"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফাইল (phāil) means file",
+      "bengali_focus": "ফাইল",
+      "phonetic_focus": "phāil"
+    },
+    {
+      "question": "Which Bengali word means 'software'?",
+      "options": [
+        "Game",
+        "Battery",
+        "সফ্টওয়্যার",
+        "Technology"
+      ],
+      "correct_answer": 2,
+      "explanation": "সফ্টওয়্যার (sôpṭôẇyâr) means software",
+      "bengali_focus": "সফ্টওয়্যার",
+      "phonetic_focus": "sôpṭôẇyâr"
+    },
+    {
+      "question": "What is অ্যাপ?",
+      "options": [
+        "Mobile phone",
+        "Smartphone",
+        "App",
+        "Internet"
+      ],
+      "correct_answer": 2,
+      "explanation": "অ্যাপ (êp) means app",
+      "bengali_focus": "অ্যাপ",
+      "phonetic_focus": "êp"
+    },
+    {
+      "question": "Which word means 'camera'?",
+      "options": [
+        "Website",
+        "Social media",
+        "ক্যামেরা",
+        "Facebook"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্যামেরা (kyāmêrā) means camera",
+      "bengali_focus": "ক্যামেরা",
+      "phonetic_focus": "kyāmêrā"
+    },
+    {
+      "question": "What does ফটো mean?",
+      "options": [
+        "WhatsApp",
+        "Video call",
+        "Photo",
+        "Chat"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফটো (phôṭô) means photo",
+      "bengali_focus": "ফটো",
+      "phonetic_focus": "phôṭô"
+    },
+    {
+      "question": "Which Bengali word means 'video'?",
+      "options": [
+        "Message",
+        "Notification",
+        "ভিডিও",
+        "Password"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভিডিও (bhiḍiō) means video",
+      "bengali_focus": "ভিডিও",
+      "phonetic_focus": "bhiḍiō"
+    },
+    {
+      "question": "What is মিউজিক?",
+      "options": [
+        "Download",
+        "Upload",
+        "Music",
+        "File"
+      ],
+      "correct_answer": 2,
+      "explanation": "মিউজিক (miujik) means music",
+      "bengali_focus": "মিউজিক",
+      "phonetic_focus": "miujik"
+    },
+    {
+      "question": "Which word means 'game'?",
+      "options": [
+        "Folder",
+        "Software",
+        "গেম",
+        "App"
+      ],
+      "correct_answer": 2,
+      "explanation": "গেম (gêm) means game",
+      "bengali_focus": "গেম",
+      "phonetic_focus": "gêm"
+    },
+    {
+      "question": "What does ব্যাটারি mean?",
+      "options": [
+        "Camera",
+        "Photo",
+        "Battery",
+        "Video"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যাটারি (byāṭôri) means battery",
+      "bengali_focus": "ব্যাটারি",
+      "phonetic_focus": "byāṭôri"
+    },
+    {
+      "question": "Which Bengali word means 'folder'?",
+      "options": [
+        "Music",
+        "Game",
+        "ফোল্ডার",
+        "Battery"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফোল্ডার (phôldār) means folder",
+      "bengali_focus": "ফোল্ডার",
+      "phonetic_focus": "phôldār"
+    },
+    {
+      "question": "What is হোয়াটসঅ্যাপ?",
+      "options": [
+        "Technology",
+        "Mobile phone",
+        "WhatsApp",
+        "Smartphone"
+      ],
+      "correct_answer": 2,
+      "explanation": "হোয়াটসঅ্যাপ (huôṭsêp) means WhatsApp",
+      "bengali_focus": "হোয়াটসঅ্যাপ",
+      "phonetic_focus": "huôṭsêp"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "id": "lesson24-literature-poetry",
+  "title": "Literature and Poetry",
+  "category": "intermediate",
+  "description": "Learn vocabulary for literature, poetry, and literary terms in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "সাহিত্য",
+      "english": "literature",
+      "phonetic": "sāhityô",
+      "pronunciation_guide": "like 'sa-hi-tyo'",
+      "audio_tip": "aspirated 'hityô'"
+    },
+    {
+      "bengali": "কবিতা",
+      "english": "poetry/poem",
+      "phonetic": "kôbitā",
+      "pronunciation_guide": "like 'ko-bi-ta'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "কবি",
+      "english": "poet",
+      "phonetic": "kôbi",
+      "pronunciation_guide": "like 'ko-bi'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "লেখক",
+      "english": "writer/author",
+      "phonetic": "lekhôk",
+      "pronunciation_guide": "like 'le-khok'",
+      "audio_tip": "aspirated 'khôk'"
+    },
+    {
+      "bengali": "উপন্যাস",
+      "english": "novel",
+      "phonetic": "upônyās",
+      "pronunciation_guide": "like 'u-po-nyas'",
+      "audio_tip": "aspirated 'pônyās'"
+    },
+    {
+      "bengali": "গল্প",
+      "english": "story",
+      "phonetic": "gôlpô",
+      "pronunciation_guide": "like 'gol-po'",
+      "audio_tip": "aspirated 'lpô'"
+    },
+    {
+      "bengali": "ছন্দ",
+      "english": "rhythm/meter",
+      "phonetic": "chôndô",
+      "pronunciation_guide": "like 'chon-do'",
+      "audio_tip": "aspirated 'chôndô'"
+    },
+    {
+      "bengali": "ছন্দোবদ্ধ",
+      "english": "metrical/rhythmic",
+      "phonetic": "chôndôbôddhô",
+      "pronunciation_guide": "like 'chon-do-bod-dho'",
+      "audio_tip": "aspirated 'ndôbôddhô'"
+    },
+    {
+      "bengali": "অন্ত্যমিল",
+      "english": "rhyme",
+      "phonetic": "ôntyômil",
+      "pronunciation_guide": "like 'on-tyo-mil'",
+      "audio_tip": "aspirated 'ntyômil'"
+    },
+    {
+      "bengali": "রূপক",
+      "english": "metaphor",
+      "phonetic": "rūpôk",
+      "pronunciation_guide": "like 'ru-pok'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "উপমা",
+      "english": "simile",
+      "phonetic": "upômā",
+      "pronunciation_guide": "like 'u-po-ma'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "চরিত্র",
+      "english": "character",
+      "phonetic": "côrittô",
+      "pronunciation_guide": "like 'cho-rit-to'",
+      "audio_tip": "aspirated 'rittô'"
+    },
+    {
+      "bengali": "প্লট",
+      "english": "plot",
+      "phonetic": "plôṭ",
+      "pronunciation_guide": "like 'plot'",
+      "audio_tip": "aspirated 'plôṭ'"
+    },
+    {
+      "bengali": "সংলাপ",
+      "english": "dialogue",
+      "phonetic": "sôṅlāp",
+      "pronunciation_guide": "like 'shong-lap'",
+      "audio_tip": "nasal 'ṅlāp'"
+    },
+    {
+      "bengali": "ভাষা",
+      "english": "language",
+      "phonetic": "bhāṣā",
+      "pronunciation_guide": "like 'bha-sha'",
+      "audio_tip": "aspirated 'bhāṣā'"
+    },
+    {
+      "bengali": "শব্দ",
+      "english": "word",
+      "phonetic": "śôbdô",
+      "pronunciation_guide": "like 'shob-do'",
+      "audio_tip": "aspirated 'śôbdô'"
+    },
+    {
+      "bengali": "বাক্য",
+      "english": "sentence",
+      "phonetic": "bākkyô",
+      "pronunciation_guide": "like 'bak-kyo'",
+      "audio_tip": "double 'kkyô'"
+    },
+    {
+      "bengali": "অধ্যায়",
+      "english": "chapter",
+      "phonetic": "ôdhyāy",
+      "pronunciation_guide": "like 'o-dha-y'",
+      "audio_tip": "aspirated 'dhyāy'"
+    },
+    {
+      "bengali": "প্রকাশনা",
+      "english": "publication",
+      "phonetic": "prôkāśônā",
+      "pronunciation_guide": "like 'pro-ka-sho-na'",
+      "audio_tip": "aspirated 'kāśônā'"
+    },
+    {
+      "bengali": "প্রকাশক",
+      "english": "publisher",
+      "phonetic": "prôkāśôk",
+      "pronunciation_guide": "like 'pro-ka-shok'",
+      "audio_tip": "aspirated 'kāśôk'"
+    },
+    {
+      "bengali": "পাঠক",
+      "english": "reader",
+      "phonetic": "pāṭhôk",
+      "pronunciation_guide": "like 'pa-thok'",
+      "audio_tip": "aspirated 'ṭhôk'"
+    },
+    {
+      "bengali": "সমালোচনা",
+      "english": "criticism/review",
+      "phonetic": "sômālōcnā",
+      "pronunciation_guide": "like 'sho-ma-loch-na'",
+      "audio_tip": "aspirated 'lōcnā'"
+    },
+    {
+      "bengali": "সাহিত্যিক",
+      "english": "literary",
+      "phonetic": "sāhityik",
+      "pronunciation_guide": "like 'sa-hi-tik'",
+      "audio_tip": "aspirated 'hityik'"
+    },
+    {
+      "bengali": "কাব্যিক",
+      "english": "poetic",
+      "phonetic": "kābyik",
+      "pronunciation_guide": "like 'kab-yik'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সৃজনশীলতা",
+      "english": "creativity",
+      "phonetic": "sr̥jônśīltā",
+      "pronunciation_guide": "like 'sri-jon-shil-ta'",
+      "audio_tip": "retroflex 'jônśīltā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'literature'?",
+      "options": [
+        "কবিতা",
+        "কবি",
+        "সাহিত্য",
+        "লেখক"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাহিত্য (sāhityô) means literature",
+      "bengali_focus": "সাহিত্য",
+      "phonetic_focus": "sāhityô"
+    },
+    {
+      "question": "Which word means 'poetry'?",
+      "options": [
+        "উপন্যাস",
+        "গল্প",
+        "কবিতা",
+        "ছন্দ"
+      ],
+      "correct_answer": 2,
+      "explanation": "কবিতা (kôbitā) means poetry",
+      "bengali_focus": "কবিতা",
+      "phonetic_focus": "kôbitā"
+    },
+    {
+      "question": "What does কবি mean?",
+      "options": [
+        "ছন্দোবদ্ধ",
+        "অন্ত্যমিল",
+        "Poet",
+        "রূপক"
+      ],
+      "correct_answer": 2,
+      "explanation": "কবি (kôbi) means poet",
+      "bengali_focus": "কবি",
+      "phonetic_focus": "kôbi"
+    },
+    {
+      "question": "Which Bengali word means 'writer'?",
+      "options": [
+        "উপমা",
+        "চরিত্র",
+        "লেখক",
+        "প্লট"
+      ],
+      "correct_answer": 2,
+      "explanation": "লেখক (lekhôk) means writer",
+      "bengali_focus": "লেখক",
+      "phonetic_focus": "lekhôk"
+    },
+    {
+      "question": "What is উপন্যাস?",
+      "options": [
+        "সংলাপ",
+        "ভাষা",
+        "Novel",
+        "শব্দ"
+      ],
+      "correct_answer": 2,
+      "explanation": "উপন্যাস (upônyās) means novel",
+      "bengali_focus": "উপন্যাস",
+      "phonetic_focus": "upônyās"
+    },
+    {
+      "question": "Which word means 'story'?",
+      "options": [
+        "বাক্য",
+        "অধ্যায়",
+        "গল্প",
+        "প্রকাশনা"
+      ],
+      "correct_answer": 2,
+      "explanation": "গল্প (gôlpô) means story",
+      "bengali_focus": "গল্প",
+      "phonetic_focus": "gôlpô"
+    },
+    {
+      "question": "What does ছন্দ mean?",
+      "options": [
+        "প্রকাশক",
+        "পাঠক",
+        "Rhythm",
+        "সমালোচনা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছন্দ (chôndô) means rhythm",
+      "bengali_focus": "ছন্দ",
+      "phonetic_focus": "chôndô"
+    },
+    {
+      "question": "Which Bengali word means 'rhyme'?",
+      "options": [
+        "সাহিত্যিক",
+        "কাব্যিক",
+        "অন্ত্যমিল",
+        "সৃজনশীলতা"
+      ],
+      "correct_answer": 2,
+      "explanation": "অন্ত্যমিল (ôntyômil) means rhyme",
+      "bengali_focus": "অন্ত্যমিল",
+      "phonetic_focus": "ôntyômil"
+    },
+    {
+      "question": "What is রূপক?",
+      "options": [
+        "Literature",
+        "Poetry",
+        "Metaphor",
+        "Poet"
+      ],
+      "correct_answer": 2,
+      "explanation": "রূপক (rūpôk) means metaphor",
+      "bengali_focus": "রূপক",
+      "phonetic_focus": "rūpôk"
+    },
+    {
+      "question": "Which word means 'simile'?",
+      "options": [
+        "Writer",
+        "Novel",
+        "উপমা",
+        "Story"
+      ],
+      "correct_answer": 2,
+      "explanation": "উপমা (upômā) means simile",
+      "bengali_focus": "উপমা",
+      "phonetic_focus": "upômā"
+    },
+    {
+      "question": "What does চরিত্র mean?",
+      "options": [
+        "Rhythm",
+        "Rhyme",
+        "Character",
+        "Metaphor"
+      ],
+      "correct_answer": 2,
+      "explanation": "চরিত্র (côrittô) means character",
+      "bengali_focus": "চরিত্র",
+      "phonetic_focus": "côrittô"
+    },
+    {
+      "question": "Which Bengali word means 'plot'?",
+      "options": [
+        "Simile",
+        "Character",
+        "প্লট",
+        "Dialogue"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্লট (plôṭ) means plot",
+      "bengali_focus": "প্লট",
+      "phonetic_focus": "plôṭ"
+    },
+    {
+      "question": "What is সংলাপ?",
+      "options": [
+        "Language",
+        "Word",
+        "Dialogue",
+        "Sentence"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংলাপ (sôṅlāp) means dialogue",
+      "bengali_focus": "সংলাপ",
+      "phonetic_focus": "sôṅlāp"
+    },
+    {
+      "question": "Which word means 'language'?",
+      "options": [
+        "Chapter",
+        "Publication",
+        "ভাষা",
+        "Publisher"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভাষা (bhāṣā) means language",
+      "bengali_focus": "ভাষা",
+      "phonetic_focus": "bhāṣā"
+    },
+    {
+      "question": "What does শব্দ mean?",
+      "options": [
+        "Reader",
+        "Criticism",
+        "Word",
+        "Literary"
+      ],
+      "correct_answer": 2,
+      "explanation": "শব্দ (śôbdô) means word",
+      "bengali_focus": "শব্দ",
+      "phonetic_focus": "śôbdô"
+    },
+    {
+      "question": "Which Bengali word means 'sentence'?",
+      "options": [
+        "Poetic",
+        "Creativity",
+        "বাক্য",
+        "Literature"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাক্য (bākkyô) means sentence",
+      "bengali_focus": "বাক্য",
+      "phonetic_focus": "bākkyô"
+    },
+    {
+      "question": "What is অধ্যায়?",
+      "options": [
+        "Poetry",
+        "Poet",
+        "Chapter",
+        "Writer"
+      ],
+      "correct_answer": 2,
+      "explanation": "অধ্যায় (ôdhyāy) means chapter",
+      "bengali_focus": "অধ্যায়",
+      "phonetic_focus": "ôdhyāy"
+    },
+    {
+      "question": "Which word means 'publication'?",
+      "options": [
+        "Novel",
+        "Story",
+        "প্রকাশনা",
+        "Rhythm"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রকাশনা (prôkāśônā) means publication",
+      "bengali_focus": "প্রকাশনা",
+      "phonetic_focus": "prôkāśônā"
+    },
+    {
+      "question": "What does প্রকাশক mean?",
+      "options": [
+        "Rhyme",
+        "Metaphor",
+        "Publisher",
+        "Simile"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রকাশক (prôkāśôk) means publisher",
+      "bengali_focus": "প্রকাশক",
+      "phonetic_focus": "prôkāśôk"
+    },
+    {
+      "question": "Which Bengali word means 'reader'?",
+      "options": [
+        "Character",
+        "Plot",
+        "পাঠক",
+        "Dialogue"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাঠক (pāṭhôk) means reader",
+      "bengali_focus": "পাঠক",
+      "phonetic_focus": "pāṭhôk"
+    },
+    {
+      "question": "What is সমালোচনা?",
+      "options": [
+        "Language",
+        "Word",
+        "Criticism",
+        "Sentence"
+      ],
+      "correct_answer": 2,
+      "explanation": "সমালোচনা (sômālōcnā) means criticism",
+      "bengali_focus": "সমালোচনা",
+      "phonetic_focus": "sômālōcnā"
+    },
+    {
+      "question": "Which word means 'literary'?",
+      "options": [
+        "Chapter",
+        "Publication",
+        "সাহিত্যিক",
+        "Publisher"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাহিত্যিক (sāhityik) means literary",
+      "bengali_focus": "সাহিত্যিক",
+      "phonetic_focus": "sāhityik"
+    },
+    {
+      "question": "What does কাব্যিক mean?",
+      "options": [
+        "Reader",
+        "Criticism",
+        "Poetic",
+        "Literary"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাব্যিক (kābyik) means poetic",
+      "bengali_focus": "কাব্যিক",
+      "phonetic_focus": "kābyik"
+    },
+    {
+      "question": "Which Bengali word means 'creativity'?",
+      "options": [
+        "Creativity",
+        "Literature",
+        "সৃজনশীলতা",
+        "Poetry"
+      ],
+      "correct_answer": 2,
+      "explanation": "সৃজনশীলতা (sr̥jônśīltā) means creativity",
+      "bengali_focus": "সৃজনশীলতা",
+      "phonetic_focus": "sr̥jônśīltā"
+    }
+  ]
+}

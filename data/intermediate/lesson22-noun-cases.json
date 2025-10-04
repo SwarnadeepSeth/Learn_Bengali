@@ -1,0 +1,400 @@
+{
+  "id": "lesson22-noun-cases",
+  "title": "Noun Cases",
+  "category": "intermediate",
+  "description": "Master Bengali noun cases: nominative (subject), accusative (object), genitive (possession), locative (location/time)",
+  "type": "grammar_learning",
+  "total_items": 30,
+  "estimated_time": "30 minutes",
+  "grammar_rules": [
+    {
+      "rule_title": "Nominative Case (Subject)",
+      "rule_explanation": "The nominative case marks the subject of a sentence. Subjects usually have no case marker, though definite articles -টা/-টি can be used for emphasis.",
+      "key_points": [
+        "No case marker needed for subjects",
+        "Definite articles -টা (masculine) and -টি (feminine) can be added",
+        "Subject comes before the verb",
+        "Can be omitted in certain contexts"
+      ]
+    },
+    {
+      "rule_title": "Accusative Case (Direct Object)",
+      "rule_explanation": "The accusative case marks direct objects. Use -কে (-ke) for animate objects, -টা/-টি (-ta/-ti) for inanimate objects or no marker.",
+      "key_points": [
+        "Animate objects: -কে (-ke)",
+        "Inanimate objects: -টা/-টি (-ta/-ti) or unmarked",
+        "-কে is mandatory for animate direct objects",
+        "Case markers help distinguish subject from object"
+      ]
+    },
+    {
+      "rule_title": "Genitive Case (Possession)",
+      "rule_explanation": "The genitive case shows possession using -র (-r) after consonants and -এর (-er) after vowels. The possessor comes first.",
+      "key_points": [
+        "After consonants: -র (-r)",
+        "After vowels: -এর (-er)",
+        "Possessor comes before possessed",
+        "Used for ownership and relationships"
+      ]
+    },
+    {
+      "rule_title": "Locative Case (Location/Time)",
+      "rule_explanation": "The locative case uses -তে (-te) for location and time. It indicates 'in', 'at', or 'on' a place or time.",
+      "key_points": [
+        "Location: -তে (-te)",
+        "Time: -তে (-te)",
+        "Used with verbs of location and time",
+        "No distinction between 'in' and 'on' like English"
+      ]
+    }
+  ],
+  "teaching_content": [
+    {
+      "bengali": "ছেলেটি খায়",
+      "english": "The boy eats",
+      "phonetic": "chheleṭi khāẏ",
+      "pronunciation_guide": "Nominative: subject with definite article -টা"
+    },
+    {
+      "bengali": "মেয়েটি পড়ে",
+      "english": "The girl reads",
+      "phonetic": "meyeṭi poṛe",
+      "pronunciation_guide": "Nominative: subject with definite article -টি"
+    },
+    {
+      "bengali": "রাম যায়",
+      "english": "Ram goes",
+      "phonetic": "rām yāẏ",
+      "pronunciation_guide": "Nominative: subject with no case marker"
+    },
+    {
+      "bengali": "শিক্ষক আসেন",
+      "english": "The teacher comes",
+      "phonetic": "śikkhôk āśen",
+      "pronunciation_guide": "Nominative: honorific subject form"
+    },
+    {
+      "bengali": "ছেলেকে দেখি",
+      "english": "I see the boy",
+      "phonetic": "chhelekhe dekhi",
+      "pronunciation_guide": "Accusative: animate object with -কে"
+    },
+    {
+      "bengali": "কুকুরকে খাইয়েছি",
+      "english": "I have fed the dog",
+      "phonetic": "kukurke khāiyechhi",
+      "pronunciation_guide": "Accusative: animate object কুকুর + কে"
+    },
+    {
+      "bengali": "মাকে ভালোবাসি",
+      "english": "I love mother",
+      "phonetic": "māke bhālōbāśi",
+      "pronunciation_guide": "Accusative: animate object মা + কে"
+    },
+    {
+      "bengali": "বইটা পড়ি",
+      "english": "I read the book",
+      "phonetic": "boiṭā poṛi",
+      "pronunciation_guide": "Accusative: inanimate object with -টা"
+    },
+    {
+      "bengali": "টেবিলটা পরিষ্কার করি",
+      "english": "I clean the table",
+      "phonetic": "ṭebilṭā pôrikkār kôri",
+      "pronunciation_guide": "Accusative: inanimate object টেবিল + টা"
+    },
+    {
+      "bengali": "খাবার খাই",
+      "english": "I eat food",
+      "phonetic": "khābār khāi",
+      "pronunciation_guide": "Accusative: unmarked inanimate object"
+    },
+    {
+      "bengali": "রামের বই",
+      "english": "Ram's book",
+      "phonetic": "rāmer boi",
+      "pronunciation_guide": "Genitive: consonant + র = রামের"
+    },
+    {
+      "bengali": "ছেলের মা",
+      "english": "The boy's mother",
+      "phonetic": "chheler mā",
+      "pronunciation_guide": "Genitive: consonant + র = ছেলের"
+    },
+    {
+      "bengali": "মায়ের সাথে",
+      "english": "With mother",
+      "phonetic": "māẏer śāthe",
+      "pronunciation_guide": "Genitive: vowel + এর = মায়ের"
+    },
+    {
+      "bengali": "বাবার অফিস",
+      "english": "Father's office",
+      "phonetic": "bābār ôphis",
+      "pronunciation_guide": "Genitive: consonant + র = বাবার"
+    },
+    {
+      "bengali": "আমার বাড়ি",
+      "english": "My house",
+      "phonetic": "āmar bāṛi",
+      "pronunciation_guide": "Genitive: vowel + এর = আমার"
+    },
+    {
+      "bengali": "স্কুলে যাই",
+      "english": "I go to school",
+      "phonetic": "śkule yāi",
+      "pronunciation_guide": "Locative: location with -তে = স্কুলে"
+    },
+    {
+      "bengali": "ঢাকায় থাকি",
+      "english": "I live in Dhaka",
+      "phonetic": "ḍhākāẏ thāki",
+      "pronunciation_guide": "Locative: location with -তে = ঢাকায়"
+    },
+    {
+      "bengali": "বাড়িতে আছি",
+      "english": "I am at home",
+      "phonetic": "bāṛiṭe āchhi",
+      "pronunciation_guide": "Locative: location with -তে = বাড়িতে"
+    },
+    {
+      "bengali": "সকালে উঠি",
+      "english": "I wake up in the morning",
+      "phonetic": "śôkāle uṭhi",
+      "pronunciation_guide": "Locative: time with -তে = সকালে"
+    },
+    {
+      "bengali": "বিকালে ফিরি",
+      "english": "I return in the afternoon",
+      "phonetic": "bikāle phiri",
+      "pronunciation_guide": "Locative: time with -তে = বিকালে"
+    },
+    {
+      "bengali": "রাতে ঘুমাই",
+      "english": "I sleep at night",
+      "phonetic": "rāte ghumāi",
+      "pronunciation_guide": "Locative: time with -তে = রাতে"
+    },
+    {
+      "bengali": "দুপুরে খাই",
+      "english": "I eat at noon",
+      "phonetic": "dupure khāi",
+      "pronunciation_guide": "Locative: time with -তে = দুপুরে"
+    },
+    {
+      "bengali": "ক্লাসে বসি",
+      "english": "I sit in class",
+      "phonetic": "klāse bôśi",
+      "pronunciation_guide": "Locative: location with -তে = ক্লাসে"
+    },
+    {
+      "bengali": "পার্কে খেলি",
+      "english": "I play in the park",
+      "phonetic": "pārke kheli",
+      "pronunciation_guide": "Locative: location with -তে = পার্কে"
+    },
+    {
+      "bengali": "অফিসে কাজ করি",
+      "english": "I work in the office",
+      "phonetic": "ôphise kāj kôri",
+      "pronunciation_guide": "Locative: location with -তে = অফিসে"
+    },
+    {
+      "bengali": "বাজারে যাই",
+      "english": "I go to the market",
+      "phonetic": "bājāre yāi",
+      "pronunciation_guide": "Locative: location with -তে = বাজারে"
+    },
+    {
+      "bengali": "হাসপাতালে যাই",
+      "english": "I go to the hospital",
+      "phonetic": "hāsôpātāl yāi",
+      "pronunciation_guide": "Locative: location with -তে = হাসপাতালে"
+    },
+    {
+      "bengali": "স্টেশনে দাঁড়াই",
+      "english": "I stand at the station",
+      "phonetic": "śṭeśône dāṅṛāi",
+      "pronunciation_guide": "Locative: location with -তে = স্টেশনে"
+    },
+    {
+      "bengali": "বইয়ে পড়ি",
+      "english": "I read in the book",
+      "phonetic": "boiẏe poṛi",
+      "pronunciation_guide": "Locative: specific location with -এ = বইয়ে"
+    },
+    {
+      "bengali": "পাতায় লিখি",
+      "english": "I write on the page",
+      "phonetic": "pātāẏ likhi",
+      "pronunciation_guide": "Locative: surface with -তে = পাতায়"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What case marker is used for animate direct objects?",
+      "options": [
+        "-র (-r)",
+        "-তে (-te)",
+        "-কে (-ke)",
+        "-টা (-ta)"
+      ],
+      "correct_answer": 2,
+      "explanation": "-কে (-ke) is used for animate direct objects"
+    },
+    {
+      "question": "How do you show possession in Bengali?",
+      "options": [
+        "Put possessor after possessed",
+        "Use -কে (-ke) marker",
+        "Use -র (-r) or -এর (-er) after possessor",
+        "Use no marker"
+      ],
+      "correct_answer": 2,
+      "explanation": "Genitive case uses -র (-r) after consonants and -এর (-er) after vowels"
+    },
+    {
+      "question": "What does 'ছেলেটি' indicate?",
+      "options": [
+        "Accusative case",
+        "Genitive case",
+        "Nominative case with definite article",
+        "Locative case"
+      ],
+      "correct_answer": 2,
+      "explanation": "-টা/-টি are definite articles used in nominative case"
+    },
+    {
+      "question": "Which sentence uses locative case correctly?",
+      "options": [
+        "সে বই পড়ে",
+        "সে বইতে পড়ে",
+        "সে বইয়ে পড়ে",
+        "সে বইর পড়ে"
+      ],
+      "correct_answer": 1,
+      "explanation": "-তে (-te) is used for location with 'in/at/on'"
+    },
+    {
+      "question": "What is the genitive marker after vowels?",
+      "options": [
+        "-র (-r)",
+        "-তে (-te)",
+        "-এর (-er)",
+        "-কে (-ke)"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এর (-er) is used after vowels for possession"
+    },
+    {
+      "question": "Which case has no marker for subjects?",
+      "options": [
+        "Accusative",
+        "Genitive",
+        "Nominative",
+        "Locative"
+      ],
+      "correct_answer": 2,
+      "explanation": "Nominative case (subject) usually has no case marker"
+    },
+    {
+      "question": "How do you say 'in the morning' in Bengali?",
+      "options": [
+        "সকালর",
+        "সকালকে",
+        "সকালে",
+        "সকালটা"
+      ],
+      "correct_answer": 2,
+      "explanation": "সকালে uses -তে (-te) for time expressions"
+    },
+    {
+      "question": "What does 'বইটা' indicate?",
+      "options": [
+        "Subject case",
+        "Possession",
+        "Direct object (inanimate)",
+        "Location"
+      ],
+      "correct_answer": 2,
+      "explanation": "-টা/-টি marks inanimate direct objects"
+    },
+    {
+      "question": "Which is correct: 'Ram's book' or 'book's Ram'?",
+      "options": [
+        "Book's Ram",
+        "Ram's book",
+        "Ram book",
+        "Book Ram"
+      ],
+      "correct_answer": 1,
+      "explanation": "Possessor comes first, then possessed with genitive marker"
+    },
+    {
+      "question": "What case is used for time expressions like 'in the evening'?",
+      "options": [
+        "Nominative",
+        "Accusative",
+        "Genitive",
+        "Locative"
+      ],
+      "correct_answer": 3,
+      "explanation": "Locative case is used for time and location"
+    },
+    {
+      "question": "What does 'কুকুরকে' show?",
+      "options": [
+        "Subject",
+        "Possession",
+        "Direct object (animate)",
+        "Location"
+      ],
+      "correct_answer": 2,
+      "explanation": "-কে marks animate direct objects"
+    },
+    {
+      "question": "Which genitive form is correct for 'father'?",
+      "options": [
+        "বাবাকে",
+        "বাবাতে",
+        "বাবার",
+        "বাবা"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাবা + র = বাবার (consonant ending)"
+    },
+    {
+      "question": "What case marker indicates location?",
+      "options": [
+        "-কে",
+        "-র",
+        "-তে",
+        "-টা"
+      ],
+      "correct_answer": 2,
+      "explanation": "-তে (-te) is the primary locative case marker"
+    },
+    {
+      "question": "In 'মায়ের বাড়ি', what case is 'মায়ের'?",
+      "options": [
+        "Nominative",
+        "Accusative",
+        "Genitive",
+        "Locative"
+      ],
+      "correct_answer": 2,
+      "explanation": "মা + এর = মায়ের (genitive for possession)"
+    },
+    {
+      "question": "Which is a correct locative expression?",
+      "options": [
+        "স্কুলকে যাই",
+        "স্কুলর যাই",
+        "স্কুলে যাই",
+        "স্কুলটা যাই"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্কুল + এ = স্কুলে (locative for 'to school')"
+    }
+  ]
+}

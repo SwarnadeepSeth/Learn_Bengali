@@ -180,8 +180,11 @@ const Utils = {
         if (lesson.type === 'game_learning') {
             // For games, we need 'game_data'
             return lesson.hasOwnProperty('game_data');
+        } else if (lesson.type === 'grammar_learning') {
+            // For grammar lessons, we need 'grammar_rules' and 'teaching_content'
+            return lesson.hasOwnProperty('grammar_rules') && lesson.hasOwnProperty('teaching_content');
         } else {
-            // For all other lessons, we need 'teaching_content'
+            // For vocabulary lessons, we need 'teaching_content'
             return lesson.hasOwnProperty('teaching_content');
         }
     }

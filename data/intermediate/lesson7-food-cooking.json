@@ -1,0 +1,513 @@
+{
+  "id": "lesson7-food-cooking",
+  "title": "Food and Cooking",
+  "category": "intermediate",
+  "description": "Learn advanced vocabulary for food, cooking methods, and dining in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "রান্না",
+      "english": "cooking",
+      "phonetic": "rānnā",
+      "pronunciation_guide": "like 'ran-na'",
+      "audio_tip": "double 'nn'"
+    },
+    {
+      "bengali": "রাঁধা",
+      "english": "to cook",
+      "phonetic": "rāṅdhā",
+      "pronunciation_guide": "like 'ran-dha'",
+      "audio_tip": "nasal 'ṅdh'"
+    },
+    {
+      "bengali": "খাবার",
+      "english": "food/meal",
+      "phonetic": "khābār",
+      "pronunciation_guide": "like 'kha-bar'",
+      "audio_tip": "aspirated 'khābār'"
+    },
+    {
+      "bengali": "ভাত",
+      "english": "rice",
+      "phonetic": "bhāt",
+      "pronunciation_guide": "like 'bhat'",
+      "audio_tip": "aspirated 'bhāt'"
+    },
+    {
+      "bengali": "রুটি",
+      "english": "bread/roti",
+      "phonetic": "ruṭi",
+      "pronunciation_guide": "like 'ru-ti'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "মাংস",
+      "english": "meat",
+      "phonetic": "māṅs",
+      "pronunciation_guide": "like 'mang-s'",
+      "audio_tip": "nasal 'ṅs'"
+    },
+    {
+      "bengali": "মাছ",
+      "english": "fish",
+      "phonetic": "māch",
+      "pronunciation_guide": "like 'mach'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "সবজি",
+      "english": "vegetable",
+      "phonetic": "sôbji",
+      "pronunciation_guide": "like 'shob-ji'",
+      "audio_tip": "aspirated 'bj'"
+    },
+    {
+      "bengali": "ফল",
+      "english": "fruit",
+      "phonetic": "phôl",
+      "pronunciation_guide": "like 'phol'",
+      "audio_tip": "aspirated 'phôl'"
+    },
+    {
+      "bengali": "দুধ",
+      "english": "milk",
+      "phonetic": "dudh",
+      "pronunciation_guide": "like 'dudh'",
+      "audio_tip": "aspirated 'dh'"
+    },
+    {
+      "bengali": "চা",
+      "english": "tea",
+      "phonetic": "cā",
+      "pronunciation_guide": "like 'cha'",
+      "audio_tip": "aspirated 'cā'"
+    },
+    {
+      "bengali": "কফি",
+      "english": "coffee",
+      "phonetic": "kôphi",
+      "pronunciation_guide": "like 'ko-phi'",
+      "audio_tip": "aspirated 'ph'"
+    },
+    {
+      "bengali": "ভাজা",
+      "english": "to fry",
+      "phonetic": "bhājā",
+      "pronunciation_guide": "like 'bha-ja'",
+      "audio_tip": "aspirated 'bhājā'"
+    },
+    {
+      "bengali": "সিদ্ধ",
+      "english": "boiled",
+      "phonetic": "siddhô",
+      "pronunciation_guide": "like 'sid-dho'",
+      "audio_tip": "aspirated 'ddhô'"
+    },
+    {
+      "bengali": "ভাজা",
+      "english": "fried",
+      "phonetic": "bhājā",
+      "pronunciation_guide": "like 'bha-ja'",
+      "audio_tip": "aspirated 'bhājā'"
+    },
+    {
+      "bengali": "ভাপা",
+      "english": "steamed",
+      "phonetic": "bhāpā",
+      "pronunciation_guide": "like 'bha-pa'",
+      "audio_tip": "aspirated 'bhāpā'"
+    },
+    {
+      "bengali": "পোড়ানো",
+      "english": "to burn/toast",
+      "phonetic": "pōṛānō",
+      "pronunciation_guide": "like 'por-a-no'",
+      "audio_tip": "retroflex 'ṛānō'"
+    },
+    {
+      "bengali": "মিশ্রণ",
+      "english": "mixture",
+      "phonetic": "miśrôṇ",
+      "pronunciation_guide": "like 'mish-ron'",
+      "audio_tip": "aspirated 'śrôṇ'"
+    },
+    {
+      "bengali": "মসলা",
+      "english": "spice",
+      "phonetic": "môśôlā",
+      "pronunciation_guide": "like 'mo-sho-la'",
+      "audio_tip": "aspirated 'śôlā'"
+    },
+    {
+      "bengali": "নুন",
+      "english": "salt",
+      "phonetic": "nun",
+      "pronunciation_guide": "like 'nun'",
+      "audio_tip": "clear 'n'"
+    },
+    {
+      "bengali": "চিনি",
+      "english": "sugar",
+      "phonetic": "cini",
+      "pronunciation_guide": "like 'chi-ni'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "তেল",
+      "english": "oil",
+      "phonetic": "tēl",
+      "pronunciation_guide": "like 'tel'",
+      "audio_tip": "long 'ē'"
+    },
+    {
+      "bengali": "জল",
+      "english": "water",
+      "phonetic": "jôl",
+      "pronunciation_guide": "like 'jol'",
+      "audio_tip": "aspirated 'jôl'"
+    },
+    {
+      "bengali": "খাবার টেবিল",
+      "english": "dining table",
+      "phonetic": "khābār ṭēbil",
+      "pronunciation_guide": "like 'kha-bar te-bil'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "রেস্তোরাঁ",
+      "english": "restaurant",
+      "phonetic": "rêsṭôrāṅ",
+      "pronunciation_guide": "like 'res-to-rang'",
+      "audio_tip": "nasal 'ṅ'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'cooking'?",
+      "options": [
+        "রান্না",
+        "রাঁধা",
+        "খাবার",
+        "ভাত"
+      ],
+      "correct_answer": 0,
+      "explanation": "রান্না (rānnā) means cooking",
+      "bengali_focus": "রান্না",
+      "phonetic_focus": "rānnā"
+    },
+    {
+      "question": "Which word means 'to cook'?",
+      "options": [
+        "রুটি",
+        "মাংস",
+        "রাঁধা",
+        "মাছ"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাঁধা (rāṅdhā) means to cook",
+      "bengali_focus": "রাঁধা",
+      "phonetic_focus": "rāṅdhā"
+    },
+    {
+      "question": "What does খাবার mean?",
+      "options": [
+        "Rice",
+        "Bread",
+        "Food",
+        "Meat"
+      ],
+      "correct_answer": 2,
+      "explanation": "খাবার (khābār) means food or meal",
+      "bengali_focus": "খাবার",
+      "phonetic_focus": "khābār"
+    },
+    {
+      "question": "Which Bengali word means 'rice'?",
+      "options": [
+        "রুটি",
+        "মাংস",
+        "ভাত",
+        "মাছ"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভাত (bhāt) means rice",
+      "bengali_focus": "ভাত",
+      "phonetic_focus": "bhāt"
+    },
+    {
+      "question": "What is রুটি?",
+      "options": [
+        "Meat",
+        "Fish",
+        "Bread",
+        "Vegetable"
+      ],
+      "correct_answer": 2,
+      "explanation": "রুটি (ruṭi) means bread or roti",
+      "bengali_focus": "রুটি",
+      "phonetic_focus": "ruṭi"
+    },
+    {
+      "question": "Which word means 'meat'?",
+      "options": [
+        "মাছ",
+        "সবজি",
+        "মাংস",
+        "ফল"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাংস (māṅs) means meat",
+      "bengali_focus": "মাংস",
+      "phonetic_focus": "māṅs"
+    },
+    {
+      "question": "What does মাছ mean?",
+      "options": [
+        "Vegetable",
+        "Fruit",
+        "Fish",
+        "Milk"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাছ (māch) means fish",
+      "bengali_focus": "মাছ",
+      "phonetic_focus": "māch"
+    },
+    {
+      "question": "Which Bengali word means 'vegetable'?",
+      "options": [
+        "ফল",
+        "দুধ",
+        "সবজি",
+        "চা"
+      ],
+      "correct_answer": 2,
+      "explanation": "সবজি (sôbji) means vegetable",
+      "bengali_focus": "সবজি",
+      "phonetic_focus": "sôbji"
+    },
+    {
+      "question": "What is ফল?",
+      "options": [
+        "Milk",
+        "Tea",
+        "Fruit",
+        "Coffee"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফল (phôl) means fruit",
+      "bengali_focus": "ফল",
+      "phonetic_focus": "phôl"
+    },
+    {
+      "question": "Which word means 'milk'?",
+      "options": [
+        "চা",
+        "কফি",
+        "দুধ",
+        "সেঁকা"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুধ (dudh) means milk",
+      "bengali_focus": "দুধ",
+      "phonetic_focus": "dudh"
+    },
+    {
+      "question": "What does চা mean?",
+      "options": [
+        "Coffee",
+        "To fry",
+        "Tea",
+        "Boiled"
+      ],
+      "correct_answer": 2,
+      "explanation": "চা (cā) means tea",
+      "bengali_focus": "চা",
+      "phonetic_focus": "cā"
+    },
+    {
+      "question": "Which Bengali word means 'to fry'?",
+      "options": [
+        "সিদ্ধ",
+        "ভাপা",
+        "ভাজা",
+        "পোড়ানো"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভাজা (bhājā) means to fry",
+      "bengali_focus": "ভাজা",
+      "phonetic_focus": "bhājā"
+    },
+    {
+      "question": "What is সিদ্ধ?",
+      "options": [
+        "Fried",
+        "Steamed",
+        "Boiled",
+        "Burnt"
+      ],
+      "correct_answer": 2,
+      "explanation": "সিদ্ধ (siddhô) means boiled",
+      "bengali_focus": "সিদ্ধ",
+      "phonetic_focus": "siddhô"
+    },
+    {
+      "question": "Which word means 'fried'?",
+      "options": [
+        "ভাপা",
+        "পোড়ানো",
+        "ভাজা",
+        "মিশ্রণ"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভাজা (bhājā) means fried",
+      "bengali_focus": "ভাজা",
+      "phonetic_focus": "bhājā"
+    },
+    {
+      "question": "What does ভাপা mean?",
+      "options": [
+        "Burnt",
+        "Mixture",
+        "Steamed",
+        "Spice"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভাপা (bhāpā) means steamed",
+      "bengali_focus": "ভাপা",
+      "phonetic_focus": "bhāpā"
+    },
+    {
+      "question": "Which Bengali word means 'spice'?",
+      "options": [
+        "নুন",
+        "চিনি",
+        "মসলা",
+        "তেল"
+      ],
+      "correct_answer": 2,
+      "explanation": "মসলা (môśôlā) means spice",
+      "bengali_focus": "মসলা",
+      "phonetic_focus": "môśôlā"
+    },
+    {
+      "question": "What is নুন?",
+      "options": [
+        "Sugar",
+        "Oil",
+        "Salt",
+        "Water"
+      ],
+      "correct_answer": 2,
+      "explanation": "নুন (nun) means salt",
+      "bengali_focus": "নুন",
+      "phonetic_focus": "nun"
+    },
+    {
+      "question": "Which word means 'sugar'?",
+      "options": [
+        "তেল",
+        "পানি",
+        "চিনি",
+        "খাবার টেবিল"
+      ],
+      "correct_answer": 2,
+      "explanation": "চিনি (cini) means sugar",
+      "bengali_focus": "চিনি",
+      "phonetic_focus": "cini"
+    },
+    {
+      "question": "What does তেল mean?",
+      "options": [
+        "Water",
+        "Dining table",
+        "Oil",
+        "Restaurant"
+      ],
+      "correct_answer": 2,
+      "explanation": "তেল (tēl) means oil",
+      "bengali_focus": "তেল",
+      "phonetic_focus": "tēl"
+    },
+    {
+      "question": "Which Bengali word means 'water'?",
+      "options": [
+        "খাবার টেবিল",
+        "রেস্তোরাঁ",
+        "জল",
+        "রান্না"
+      ],
+      "correct_answer": 2,
+      "explanation": "জল (jôl) means water",
+      "bengali_focus": "জল",
+      "phonetic_focus": "jôl"
+    },
+    {
+      "question": "What is খাবার টেবিল?",
+      "options": [
+        "Restaurant",
+        "Cooking",
+        "Dining table",
+        "To cook"
+      ],
+      "correct_answer": 2,
+      "explanation": "খাবার টেবিল (khābār ṭēbil) means dining table",
+      "bengali_focus": "খাবার টেবিল",
+      "phonetic_focus": "khābār ṭēbil"
+    },
+    {
+      "question": "Which word means 'restaurant'?",
+      "options": [
+        "Food",
+        "Rice",
+        "রেস্তোরাঁ",
+        "Bread"
+      ],
+      "correct_answer": 2,
+      "explanation": "রেস্তোরাঁ (rêsṭôrāṅ) means restaurant",
+      "bengali_focus": "রেস্তোরাঁ",
+      "phonetic_focus": "rêsṭôrāṅ"
+    },
+    {
+      "question": "What does কফি mean?",
+      "options": [
+        "Tea",
+        "Coffee",
+        "To fry",
+        "Boiled"
+      ],
+      "correct_answer": 1,
+      "explanation": "কফি (kôphi) means coffee",
+      "bengali_focus": "কফি",
+      "phonetic_focus": "kôphi"
+    },
+    {
+      "question": "Which Bengali word means 'mixture'?",
+      "options": [
+        "To burn",
+        "Mixture",
+        "Spice",
+        "Salt"
+      ],
+      "correct_answer": 1,
+      "explanation": "মিশ্রণ (miśrôṇ) means mixture",
+      "bengali_focus": "মিশ্রণ",
+      "phonetic_focus": "miśrôṇ"
+    },
+    {
+      "question": "What is পোড়ানো?",
+      "options": [
+        "To fry",
+        "To boil",
+        "To burn",
+        "To steam"
+      ],
+      "correct_answer": 2,
+      "explanation": "পোড়ানো (pōṛānō) means to burn or toast",
+      "bengali_focus": "পোড়ানো",
+      "phonetic_focus": "pōṛānō"
+    }
+  ]
+}

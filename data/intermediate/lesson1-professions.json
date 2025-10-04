@@ -1,0 +1,383 @@
+{
+  "id": "lesson1-professions",
+  "title": "Common Professions and Occupations",
+  "category": "intermediate",
+  "description": "Learn vocabulary for 25 common professions and occupations in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    {
+      "bengali": "ডাক্তার",
+      "english": "doctor",
+      "phonetic": "ḍākṭār",
+      "pronunciation_guide": "like 'doctor' but with a rolled 'r'",
+      "audio_tip": "emphasize the 'ḍā' sound"
+    },
+    {
+      "bengali": "শিক্ষক",
+      "english": "teacher",
+      "phonetic": "śikkhôk",
+      "pronunciation_guide": "like 'shik-shok' with soft 'kh'",
+      "audio_tip": "stress on the first syllable"
+    },
+    {
+      "bengali": "ইঞ্জিনিয়ার",
+      "english": "engineer",
+      "phonetic": "iñjiniẏār",
+      "pronunciation_guide": "like 'in-jee-nee-yar'",
+      "audio_tip": "roll the 'r' at the end"
+    },
+    {
+      "bengali": "উকিল",
+      "english": "lawyer",
+      "phonetic": "ukil",
+      "pronunciation_guide": "like 'oo-kil'",
+      "audio_tip": "short and clear"
+    },
+    {
+      "bengali": "রাঁধুনি",
+      "english": "chef",
+      "phonetic": "rāṅdhuni",
+      "pronunciation_guide": "like 'ran-dhoo-nee'",
+      "audio_tip": "emphasize the nasal 'ṅ'"
+    },
+    {
+      "bengali": "কৃষক",
+      "english": "farmer",
+      "phonetic": "kr̥ṣôk",
+      "pronunciation_guide": "like 'krish-ok'",
+      "audio_tip": "retroflex 'ṣ'"
+    },
+    {
+      "bengali": "ড্রাইভার",
+      "english": "driver",
+      "phonetic": "ḍrāiẇār",
+      "pronunciation_guide": "like 'dry-ver'",
+      "audio_tip": "rolled 'r'"
+    },
+    {
+      "bengali": "নার্স",
+      "english": "nurse",
+      "phonetic": "nārs",
+      "pronunciation_guide": "like 'nurse'",
+      "audio_tip": "clear 's' sound"
+    },
+    {
+      "bengali": "পুলিশ অফিসার",
+      "english": "police officer",
+      "phonetic": "puliś ôphiśār",
+      "pronunciation_guide": "like 'poo-lish off-i-sar'",
+      "audio_tip": "stress on 'ôphiśār'"
+    },
+    {
+      "bengali": "দমকলকর্মী",
+      "english": "firefighter",
+      "phonetic": "dômkôlkôrmī",
+      "pronunciation_guide": "like 'dom-kol-kor-mee'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "হিসাবরক্ষক",
+      "english": "accountant",
+      "phonetic": "hiśābrôkkhôk",
+      "pronunciation_guide": "like 'hi-sha-brok-khok'",
+      "audio_tip": "long compound"
+    },
+    {
+      "bengali": "বিজ্ঞানী",
+      "english": "scientist",
+      "phonetic": "bijñānī",
+      "pronunciation_guide": "like 'bij-nan-ee'",
+      "audio_tip": "nasal 'ñ'"
+    },
+    {
+      "bengali": "শিল্পী",
+      "english": "artist",
+      "phonetic": "śilpī",
+      "pronunciation_guide": "like 'shil-pee'",
+      "audio_tip": "soft 'ś'"
+    },
+    {
+      "bengali": "সঙ্গীতজ্ঞ",
+      "english": "musician",
+      "phonetic": "sôngītkô",
+      "pronunciation_guide": "like 'song-eet-kon'",
+      "audio_tip": "musical tone"
+    },
+    {
+      "bengali": "লেখক",
+      "english": "writer",
+      "phonetic": "lekhôk",
+      "pronunciation_guide": "like 'lek-hok'",
+      "audio_tip": "clear 'kh'"
+    },
+    {
+      "bengali": "ফটোগ্রাফার",
+      "english": "photographer",
+      "phonetic": "phôṭôgrāphār",
+      "pronunciation_guide": "like 'fo-to-gra-far'",
+      "audio_tip": "rolled 'r'"
+    },
+    {
+      "bengali": "পাইলট",
+      "english": "pilot",
+      "phonetic": "pāiḷôṭ",
+      "pronunciation_guide": "like 'pie-lot'",
+      "audio_tip": "clear 'ṭ'"
+    },
+    {
+      "bengali": "নাবিক",
+      "english": "sailor",
+      "phonetic": "nābik",
+      "pronunciation_guide": "like 'na-bik'",
+      "audio_tip": "short vowels"
+    },
+    {
+      "bengali": "কাঠমিস্ত্রি",
+      "english": "carpenter",
+      "phonetic": "kāṭhmiśtri",
+      "pronunciation_guide": "like 'kath-mish-tree'",
+      "audio_tip": "aspirated 'ṭh'"
+    },
+    {
+      "bengali": "ইলেকট্রিশিয়ান",
+      "english": "electrician",
+      "phonetic": "ilekṭriśiẏān",
+      "pronunciation_guide": "like 'i-lek-tri-shi-yan'",
+      "audio_tip": "long word"
+    },
+    {
+      "bengali": "প্লাম্বার",
+      "english": "plumber",
+      "phonetic": "plāmbar",
+      "pronunciation_guide": "like 'plam-bar'",
+      "audio_tip": "rolled 'r'"
+    },
+    {
+      "bengali": "মেকানিক",
+      "english": "mechanic",
+      "phonetic": "mekānik",
+      "pronunciation_guide": "like 'me-ka-nik'",
+      "audio_tip": "clear 'k'"
+    },
+    {
+      "bengali": "ব্যাংকার",
+      "english": "banker",
+      "phonetic": "byāṅkār",
+      "pronunciation_guide": "like 'byang-kar'",
+      "audio_tip": "nasal 'ṅ'"
+    },
+    {
+      "bengali": "সাংবাদিক",
+      "english": "journalist",
+      "phonetic": "sāṅbādik",
+      "pronunciation_guide": "like 'sang-ba-dik'",
+      "audio_tip": "compound"
+    },
+    {
+      "bengali": "স্থপতি",
+      "english": "architect",
+      "phonetic": "sthôpôti",
+      "pronunciation_guide": "like 's-tho-po-ti'",
+      "audio_tip": "aspirated 'th'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'doctor'?",
+      "options": [
+        "ডাক্তার",
+        "শিক্ষক",
+        "ইঞ্জিনিয়ার",
+        "উকিল"
+      ],
+      "correct_answer": 0,
+      "explanation": "ডাক্তার (ḍākṭār) means doctor in Bengali",
+      "bengali_focus": "ডাক্তার",
+      "phonetic_focus": "ḍākṭār"
+    },
+    {
+      "question": "Which profession is শিক্ষক?",
+      "options": [
+        "Engineer",
+        "Teacher",
+        "Lawyer",
+        "Chef"
+      ],
+      "correct_answer": 1,
+      "explanation": "শিক্ষক (śikkhôk) means teacher",
+      "bengali_focus": "শিক্ষক",
+      "phonetic_focus": "śikkhôk"
+    },
+    {
+      "question": "What does ইঞ্জিনিয়ার mean?",
+      "options": [
+        "Farmer",
+        "Driver",
+        "Engineer",
+        "Nurse"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইঞ্জিনিয়ার (iñjiniẏār) means engineer",
+      "bengali_focus": "ইঞ্জিনিয়ার",
+      "phonetic_focus": "iñjiniẏār"
+    },
+    {
+      "question": "Which Bengali word means 'lawyer'?",
+      "options": [
+        "রাঁধুনি",
+        "কৃষক",
+        "উকিল",
+        "ড্রাইভার"
+      ],
+      "correct_answer": 2,
+      "explanation": "উকিল (ukil) means lawyer",
+      "bengali_focus": "উকিল",
+      "phonetic_focus": "ukil"
+    },
+    {
+      "question": "What profession is রাঁধুনি?",
+      "options": [
+        "Police officer",
+        "Chef",
+        "Firefighter",
+        "Accountant"
+      ],
+      "correct_answer": 1,
+      "explanation": "রাঁধুনি (rāṅdhuni) means chef",
+      "bengali_focus": "রাঁধুনি",
+      "phonetic_focus": "rāṅdhuni"
+    },
+    {
+      "question": "Which word means 'farmer'?",
+      "options": [
+        "নার্স",
+        "পুলিশ অফিসার",
+        "কৃষক",
+        "দমকলকর্মী"
+      ],
+      "correct_answer": 2,
+      "explanation": "কৃষক (kr̥ṣôk) means farmer",
+      "bengali_focus": "কৃষক",
+      "phonetic_focus": "kr̥ṣôk"
+    },
+    {
+      "question": "What is the Bengali for 'driver'?",
+      "options": [
+        "হিসাবরক্ষক",
+        "বিজ্ঞানী",
+        "ড্রাইভার",
+        "শিল্পী"
+      ],
+      "correct_answer": 2,
+      "explanation": "ড্রাইভার (ḍrāiẇār) means driver",
+      "bengali_focus": "ড্রাইভার",
+      "phonetic_focus": "ḍrāiẇār"
+    },
+    {
+      "question": "Which profession is নার্স?",
+      "options": [
+        "Musician",
+        "Writer",
+        "Nurse",
+        "Photographer"
+      ],
+      "correct_answer": 2,
+      "explanation": "নার্স (nārs) means nurse",
+      "bengali_focus": "নার্স",
+      "phonetic_focus": "nārs"
+    },
+    {
+      "question": "What does পুলিশ অফিসার mean?",
+      "options": [
+        "Pilot",
+        "Sailor",
+        "Police officer",
+        "Carpenter"
+      ],
+      "correct_answer": 2,
+      "explanation": "পুলিশ অফিসার (puliś ôphiśār) means police officer",
+      "bengali_focus": "পুলিশ অফিসার",
+      "phonetic_focus": "puliś ôphiśār"
+    },
+    {
+      "question": "Which Bengali word means 'firefighter'?",
+      "options": [
+        "ইলেকট্রিশিয়ান",
+        "প্লাম্বার",
+        "দমকলকর্মী",
+        "মেকানিক"
+      ],
+      "correct_answer": 2,
+      "explanation": "দমকলকর্মী (dômkôlkôrmī) means firefighter",
+      "bengali_focus": "দমকলকর্মী",
+      "phonetic_focus": "dômkôlkôrmī"
+    },
+    {
+      "question": "What profession is হিসাবরক্ষক?",
+      "options": [
+        "Banker",
+        "Journalist",
+        "Accountant",
+        "Architect"
+      ],
+      "correct_answer": 2,
+      "explanation": "হিসাবরক্ষক (hiśābrôkkhôk) means accountant",
+      "bengali_focus": "হিসাবরক্ষক",
+      "phonetic_focus": "hiśābrôkkhôk"
+    },
+    {
+      "question": "Which word means 'scientist'?",
+      "options": [
+        "বিজ্ঞানী",
+        "শিল্পী",
+        "সঙ্গীতজ্ঞ",
+        "লেখক"
+      ],
+      "correct_answer": 0,
+      "explanation": "বিজ্ঞানী (bijñānī) means scientist",
+      "bengali_focus": "বিজ্ঞানী",
+      "phonetic_focus": "bijñānī"
+    },
+    {
+      "question": "What is the Bengali for 'artist'?",
+      "options": [
+        "ফটোগ্রাফার",
+        "পাইলট",
+        "শিল্পী",
+        "নাবিক"
+      ],
+      "correct_answer": 2,
+      "explanation": "শিল্পী (śilpī) means artist",
+      "bengali_focus": "শিল্পী",
+      "phonetic_focus": "śilpī"
+    },
+    {
+      "question": "Which profession is সঙ্গীতজ্ঞ?",
+      "options": [
+        "Electrician",
+        "Plumber",
+        "Musician",
+        "Mechanic"
+      ],
+      "correct_answer": 2,
+      "explanation": "সঙ্গীতজ্ঞ (sôngītkô) means musician",
+      "bengali_focus": "সঙ্গীতজ্ঞ",
+      "phonetic_focus": "sôngītkô"
+    },
+    {
+      "question": "What does লেখক mean?",
+      "options": [
+        "Banker",
+        "Writer",
+        "Journalist",
+        "Architect"
+      ],
+      "correct_answer": 1,
+      "explanation": "লেখক (lekhôk) means writer",
+      "bengali_focus": "লেখক",
+      "phonetic_focus": "lekhôk"
+    }
+  ]
+}

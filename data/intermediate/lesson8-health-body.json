@@ -1,0 +1,513 @@
+{
+  "id": "lesson8-health-body",
+  "title": "Health and Body Parts",
+  "category": "intermediate",
+  "description": "Learn vocabulary for health, medical terms, and body parts in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "শরীর",
+      "english": "body",
+      "phonetic": "śôrir",
+      "pronunciation_guide": "like 'sho-rir'",
+      "audio_tip": "aspirated 'śô'"
+    },
+    {
+      "bengali": "মাথা",
+      "english": "head",
+      "phonetic": "māthā",
+      "pronunciation_guide": "like 'ma-tha'",
+      "audio_tip": "aspirated 'thā'"
+    },
+    {
+      "bengali": "চুল",
+      "english": "hair",
+      "phonetic": "cul",
+      "pronunciation_guide": "like 'chul'",
+      "audio_tip": "aspirated 'c'"
+    },
+    {
+      "bengali": "চোখ",
+      "english": "eye",
+      "phonetic": "cōkh",
+      "pronunciation_guide": "like 'chokh'",
+      "audio_tip": "aspirated 'cōkh'"
+    },
+    {
+      "bengali": "কান",
+      "english": "ear",
+      "phonetic": "kān",
+      "pronunciation_guide": "like 'kan'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "নাক",
+      "english": "nose",
+      "phonetic": "nāk",
+      "pronunciation_guide": "like 'nak'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মুখ",
+      "english": "mouth/face",
+      "phonetic": "mukh",
+      "pronunciation_guide": "like 'mukh'",
+      "audio_tip": "aspirated 'kh'"
+    },
+    {
+      "bengali": "দাঁত",
+      "english": "tooth",
+      "phonetic": "dāṅt",
+      "pronunciation_guide": "like 'dant'",
+      "audio_tip": "nasal 'ṅt'"
+    },
+    {
+      "bengali": "জিহ্বা",
+      "english": "tongue",
+      "phonetic": "jihbā",
+      "pronunciation_guide": "like 'jih-ba'",
+      "audio_tip": "aspirated 'hbā'"
+    },
+    {
+      "bengali": "হাত",
+      "english": "hand/arm",
+      "phonetic": "hāt",
+      "pronunciation_guide": "like 'hat'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "আঙুল",
+      "english": "finger",
+      "phonetic": "āṅgul",
+      "pronunciation_guide": "like 'ang-gul'",
+      "audio_tip": "nasal 'ṅg'"
+    },
+    {
+      "bengali": "পা",
+      "english": "foot/leg",
+      "phonetic": "pā",
+      "pronunciation_guide": "like 'pa'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "পেট",
+      "english": "stomach",
+      "phonetic": "peṭ",
+      "pronunciation_guide": "like 'pet'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "বুক",
+      "english": "chest",
+      "phonetic": "buk",
+      "pronunciation_guide": "like 'buk'",
+      "audio_tip": "aspirated 'k'"
+    },
+    {
+      "bengali": "পিঠ",
+      "english": "back",
+      "phonetic": "piṭh",
+      "pronunciation_guide": "like 'pith'",
+      "audio_tip": "aspirated 'ṭh'"
+    },
+    {
+      "bengali": "স্বাস্থ্য",
+      "english": "health",
+      "phonetic": "sbāsthyô",
+      "pronunciation_guide": "like 'shwas-thyo'",
+      "audio_tip": "aspirated 'sthyô'"
+    },
+    {
+      "bengali": "অসুস্থ",
+      "english": "sick/ill",
+      "phonetic": "ôśusthô",
+      "pronunciation_guide": "like 'o-shus-tho'",
+      "audio_tip": "aspirated 'śusthô'"
+    },
+    {
+      "bengali": "ব্যথা",
+      "english": "pain",
+      "phonetic": "byôthā",
+      "pronunciation_guide": "like 'byo-tha'",
+      "audio_tip": "aspirated 'thā'"
+    },
+    {
+      "bengali": "জ্বর",
+      "english": "fever",
+      "phonetic": "jbôr",
+      "pronunciation_guide": "like 'jbor'",
+      "audio_tip": "aspirated 'jbôr'"
+    },
+    {
+      "bengali": "কাশি",
+      "english": "cough",
+      "phonetic": "kāśi",
+      "pronunciation_guide": "like 'ka-shi'",
+      "audio_tip": "aspirated 'śi'"
+    },
+    {
+      "bengali": "সর্দি",
+      "english": "cold/common cold",
+      "phonetic": "śôrdi",
+      "pronunciation_guide": "like 'shor-di'",
+      "audio_tip": "aspirated 'śôrdi'"
+    },
+    {
+      "bengali": "ওষুধ",
+      "english": "medicine",
+      "phonetic": "ôṣudh",
+      "pronunciation_guide": "like 'o-shudh'",
+      "audio_tip": "aspirated 'ṣudh'"
+    },
+    {
+      "bengali": "ডাক্তার",
+      "english": "doctor",
+      "phonetic": "ḍākṭār",
+      "pronunciation_guide": "like 'dak-tar'",
+      "audio_tip": "retroflex 'ḍākṭār'"
+    },
+    {
+      "bengali": "হাসপাতাল",
+      "english": "hospital",
+      "phonetic": "hāsôpātāl",
+      "pronunciation_guide": "like 'ha-sho-pa-tal'",
+      "audio_tip": "aspirated 'sôpātāl'"
+    },
+    {
+      "bengali": "চিকিৎসা",
+      "english": "treatment",
+      "phonetic": "cikitsā",
+      "pronunciation_guide": "like 'chi-kit-sa'",
+      "audio_tip": "aspirated 'kitsā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'body'?",
+      "options": [
+        "শরীর",
+        "মাথা",
+        "চুল",
+        "চোখ"
+      ],
+      "correct_answer": 0,
+      "explanation": "শরীর (śôrir) means body",
+      "bengali_focus": "শরীর",
+      "phonetic_focus": "śôrir"
+    },
+    {
+      "question": "Which word means 'head'?",
+      "options": [
+        "কান",
+        "নাক",
+        "মাথা",
+        "মুখ"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাথা (māthā) means head",
+      "bengali_focus": "মাথা",
+      "phonetic_focus": "māthā"
+    },
+    {
+      "question": "What does চুল mean?",
+      "options": [
+        "Eye",
+        "Ear",
+        "Hair",
+        "Nose"
+      ],
+      "correct_answer": 2,
+      "explanation": "চুল (cul) means hair",
+      "bengali_focus": "চুল",
+      "phonetic_focus": "cul"
+    },
+    {
+      "question": "Which Bengali word means 'eye'?",
+      "options": [
+        "মুখ",
+        "দাঁত",
+        "চোখ",
+        "জিহ্বা"
+      ],
+      "correct_answer": 2,
+      "explanation": "চোখ (cōkh) means eye",
+      "bengali_focus": "চোখ",
+      "phonetic_focus": "cōkh"
+    },
+    {
+      "question": "What is কান?",
+      "options": [
+        "Nose",
+        "Mouth",
+        "Ear",
+        "Tooth"
+      ],
+      "correct_answer": 2,
+      "explanation": "কান (kān) means ear",
+      "bengali_focus": "কান",
+      "phonetic_focus": "kān"
+    },
+    {
+      "question": "Which word means 'nose'?",
+      "options": [
+        "Tongue",
+        "Hand",
+        "নাক",
+        "Finger"
+      ],
+      "correct_answer": 2,
+      "explanation": "নাক (nāk) means nose",
+      "bengali_focus": "নাক",
+      "phonetic_focus": "nāk"
+    },
+    {
+      "question": "What does মুখ mean?",
+      "options": [
+        "Foot",
+        "Stomach",
+        "Mouth",
+        "Chest"
+      ],
+      "correct_answer": 2,
+      "explanation": "মুখ (mukh) means mouth or face",
+      "bengali_focus": "মুখ",
+      "phonetic_focus": "mukh"
+    },
+    {
+      "question": "Which Bengali word means 'tooth'?",
+      "options": [
+        "Back",
+        "Health",
+        "দাঁত",
+        "Sick"
+      ],
+      "correct_answer": 2,
+      "explanation": "দাঁত (dāṅt) means tooth",
+      "bengali_focus": "দাঁত",
+      "phonetic_focus": "dāṅt"
+    },
+    {
+      "question": "What is জিহ্বা?",
+      "options": [
+        "Pain",
+        "Fever",
+        "Tongue",
+        "Cough"
+      ],
+      "correct_answer": 2,
+      "explanation": "জিহ্বা (jihbā) means tongue",
+      "bengali_focus": "জিহ্বা",
+      "phonetic_focus": "jihbā"
+    },
+    {
+      "question": "Which word means 'hand'?",
+      "options": [
+        "Cold",
+        "Medicine",
+        "হাত",
+        "Doctor"
+      ],
+      "correct_answer": 2,
+      "explanation": "হাত (hāt) means hand or arm",
+      "bengali_focus": "হাত",
+      "phonetic_focus": "hāt"
+    },
+    {
+      "question": "What does আঙুল mean?",
+      "options": [
+        "Hospital",
+        "Treatment",
+        "Finger",
+        "Body"
+      ],
+      "correct_answer": 2,
+      "explanation": "আঙুল (āṅgul) means finger",
+      "bengali_focus": "আঙুল",
+      "phonetic_focus": "āṅgul"
+    },
+    {
+      "question": "Which Bengali word means 'foot'?",
+      "options": [
+        "Head",
+        "Hair",
+        "পা",
+        "Eye"
+      ],
+      "correct_answer": 2,
+      "explanation": "পা (pā) means foot or leg",
+      "bengali_focus": "পা",
+      "phonetic_focus": "pā"
+    },
+    {
+      "question": "What is পেট?",
+      "options": [
+        "Ear",
+        "Nose",
+        "Stomach",
+        "Mouth"
+      ],
+      "correct_answer": 2,
+      "explanation": "পেট (peṭ) means stomach",
+      "bengali_focus": "পেট",
+      "phonetic_focus": "peṭ"
+    },
+    {
+      "question": "Which word means 'chest'?",
+      "options": [
+        "Tooth",
+        "Tongue",
+        "বুক",
+        "Hand"
+      ],
+      "correct_answer": 2,
+      "explanation": "বুক (buk) means chest",
+      "bengali_focus": "বুক",
+      "phonetic_focus": "buk"
+    },
+    {
+      "question": "What does পিঠ mean?",
+      "options": [
+        "Finger",
+        "Foot",
+        "Back",
+        "Stomach"
+      ],
+      "correct_answer": 2,
+      "explanation": "পিঠ (piṭh) means back",
+      "bengali_focus": "পিঠ",
+      "phonetic_focus": "piṭh"
+    },
+    {
+      "question": "Which Bengali word means 'health'?",
+      "options": [
+        "Chest",
+        "Back",
+        "স্বাস্থ্য",
+        "Pain"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্বাস্থ্য (sbāsthyô) means health",
+      "bengali_focus": "স্বাস্থ্য",
+      "phonetic_focus": "sbāsthyô"
+    },
+    {
+      "question": "What is অসুস্থ?",
+      "options": [
+        "Fever",
+        "Cough",
+        "Sick",
+        "Cold"
+      ],
+      "correct_answer": 2,
+      "explanation": "অসুস্থ (ôśusthô) means sick or ill",
+      "bengali_focus": "অসুস্থ",
+      "phonetic_focus": "ôśusthô"
+    },
+    {
+      "question": "Which word means 'pain'?",
+      "options": [
+        "Medicine",
+        "Doctor",
+        "ব্যথা",
+        "Hospital"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যথা (byôthā) means pain",
+      "bengali_focus": "ব্যথা",
+      "phonetic_focus": "byôthā"
+    },
+    {
+      "question": "What does জ্বর mean?",
+      "options": [
+        "Cough",
+        "Cold",
+        "Fever",
+        "Medicine"
+      ],
+      "correct_answer": 2,
+      "explanation": "জ্বর (jbôr) means fever",
+      "bengali_focus": "জ্বর",
+      "phonetic_focus": "jbôr"
+    },
+    {
+      "question": "Which Bengali word means 'cough'?",
+      "options": [
+        "Doctor",
+        "Hospital",
+        "কাশি",
+        "Treatment"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাশি (kāśi) means cough",
+      "bengali_focus": "কাশি",
+      "phonetic_focus": "kāśi"
+    },
+    {
+      "question": "What is সর্দি?",
+      "options": [
+        "Medicine",
+        "Doctor",
+        "Cold",
+        "Hospital"
+      ],
+      "correct_answer": 2,
+      "explanation": "সর্দি (śôrdi) means cold or common cold",
+      "bengali_focus": "সর্দি",
+      "phonetic_focus": "śôrdi"
+    },
+    {
+      "question": "Which word means 'medicine'?",
+      "options": [
+        "Doctor",
+        "Hospital",
+        "ওষুধ",
+        "Treatment"
+      ],
+      "correct_answer": 2,
+      "explanation": "ওষুধ (ôṣudh) means medicine",
+      "bengali_focus": "ওষুধ",
+      "phonetic_focus": "ôṣudh"
+    },
+    {
+      "question": "What does ডাক্তার mean?",
+      "options": [
+        "Hospital",
+        "Treatment",
+        "Doctor",
+        "Body"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডাক্তার (ḍākṭār) means doctor",
+      "bengali_focus": "ডাক্তার",
+      "phonetic_focus": "ḍākṭār"
+    },
+    {
+      "question": "Which Bengali word means 'hospital'?",
+      "options": [
+        "Treatment",
+        "Body",
+        "হাসপাতাল",
+        "Head"
+      ],
+      "correct_answer": 2,
+      "explanation": "হাসপাতাল (hāsôpātāl) means hospital",
+      "bengali_focus": "হাসপাতাল",
+      "phonetic_focus": "hāsôpātāl"
+    },
+    {
+      "question": "What is চিকিৎসা?",
+      "options": [
+        "Hair",
+        "Eye",
+        "Treatment",
+        "Ear"
+      ],
+      "correct_answer": 2,
+      "explanation": "চিকিৎসা (cikitsā) means treatment",
+      "bengali_focus": "চিকিৎসা",
+      "phonetic_focus": "cikitsā"
+    }
+  ]
+}

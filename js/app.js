@@ -12,7 +12,7 @@ const BengaliApp = {
     // Progress tracking
     progress: {
         beginner: { completed: 0, total: 16 },
-        intermediate: { completed: 0, total: 0 },
+        intermediate: { completed: 0, total: 35 },
         advanced: { completed: 0, total: 0 }
     },
 
@@ -153,9 +153,11 @@ const BengaliApp = {
             // This logic checks the lesson type and calls the correct function
             if (this.currentLessonData.type === 'game_learning') {
                 this.startGame(); // Calls the game engine for game lessons
+            } else if (this.currentLessonData.type === 'grammar_learning') {
+                this.renderGrammarContent(); // Show grammar rules first, then flashcards
             } else {
                 this.currentLessonIndex = 0;
-                this.renderTeachingContent(); // Calls the flashcard renderer for other lessons
+                this.renderTeachingContent(); // Calls the flashcard renderer for vocabulary lessons
             }
 
         } catch (error) {
@@ -194,10 +196,96 @@ const BengaliApp = {
         if (prevButton) prevButton.disabled = this.currentLessonIndex === 0;
         if (nextButton) nextButton.disabled = this.currentLessonIndex >= this.currentLessonData.teaching_content.length - 1;
 
+        // Add back to rules button for grammar lessons
+        if (this.currentLessonData.type === 'grammar_learning' && this.currentLessonData.grammar_rules) {
+            const backToRulesButton = Utils.createElement('button', {
+                className: 'nav-button',
+                id: 'back-to-rules-button',
+                innerHTML: 'Back to Rules',
+                style: 'margin-right: 1rem;'
+            });
+
+            Utils.addEvent(backToRulesButton, 'click', () => {
+                this.renderGrammarContent();
+            });
+
+            const navigationButtons = Utils.querySelector('.navigation-buttons');
+            if (navigationButtons) {
+                // Remove existing back to rules button if any
+                const existingButton = Utils.querySelector('#back-to-rules-button');
+                if (existingButton) existingButton.remove();
+
+                // Add at the beginning
+                navigationButtons.insertBefore(backToRulesButton, navigationButtons.firstChild);
+            }
+        }
+
         // Show/hide quiz button
         const isLastItem = this.currentLessonIndex >= this.currentLessonData.teaching_content.length - 1;
         if (nextButton) nextButton.style.display = isLastItem ? 'none' : 'inline-block';
         if (quizButton) quizButton.style.display = isLastItem ? 'inline-block' : 'none';
+
+        // Show teaching screen
+        Navigation.showScreen('teaching-screen');
+    },
+
+    // Render grammar lesson content
+    renderGrammarContent() {
+        if (!this.currentLessonData) return;
+
+        const teachingCard = Utils.querySelector('#teaching-card');
+        const progressFill = Utils.querySelector('#lesson-progress-fill');
+        const progressText = Utils.querySelector('#lesson-progress-text');
+        const prevButton = Utils.querySelector('#prev-button');
+        const nextButton = Utils.querySelector('#next-button');
+        const quizButton = Utils.querySelector('#quiz-button');
+
+        // Clear navigation buttons
+        const navigationButtons = Utils.querySelector('.navigation-buttons');
+        if (navigationButtons) {
+            // Remove practice and back buttons
+            const practiceButton = Utils.querySelector('#practice-button');
+            const backButton = Utils.querySelector('#back-to-rules-button');
+            if (practiceButton) practiceButton.remove();
+            if (backButton) backButton.remove();
+        }
+
+        // Render grammar card content
+        if (teachingCard) {
+            teachingCard.innerHTML = '';
+            teachingCard.appendChild(Components.renderGrammarCard(this.currentLessonData));
+        }
+
+        // Update progress (grammar lessons are single page)
+        Components.updateProgressBar(progressFill, 100);
+        Components.updateProgressText(progressText, 1, 1);
+
+        // Add practice button for grammar lessons with examples
+        if (this.currentLessonData.teaching_content && this.currentLessonData.teaching_content.length > 0) {
+            // Create practice button
+            const practiceButton = Utils.createElement('button', {
+                className: 'nav-button primary',
+                id: 'practice-button',
+                innerHTML: 'Practice Examples',
+                style: 'margin-right: 1rem;'
+            });
+
+            Utils.addEvent(practiceButton, 'click', () => {
+                this.currentLessonIndex = 0;
+                this.renderTeachingContent();
+            });
+
+            // Add to navigation area
+            const navigationButtons = Utils.querySelector('.navigation-buttons');
+            if (navigationButtons) {
+                navigationButtons.appendChild(practiceButton);
+            }
+        }
+
+        // Hide default navigation buttons
+        if (prevButton) prevButton.style.display = 'none';
+        if (nextButton) nextButton.style.display = 'none';
+        if (quizButton) quizButton.style.display = 'inline-block';
 
         // Show teaching screen
         Navigation.showScreen('teaching-screen');

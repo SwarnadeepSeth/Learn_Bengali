@@ -2,6 +2,86 @@
 // Reusable UI components and rendering functions
 
 const Components = {
+    // Text-to-speech functionality
+    speechSynthesis: {
+        isSupported: () => {
+            try {
+                return 'speechSynthesis' in window && speechSynthesis !== null;
+            } catch (e) {
+                return false;
+            }
+        },
+
+        speak: (text, options = {}) => {
+            if (!Components.speechSynthesis.isSupported()) {
+                console.warn('Speech synthesis not supported in this browser');
+                // Show a message to the user
+                alert('Speech synthesis is not supported in your browser. Please try a modern browser like Chrome, Firefox, or Edge.');
+                return;
+            }
+
+            // Cancel any ongoing speech
+            speechSynthesis.cancel();
+
+            const utterance = new SpeechSynthesisUtterance(text);
+
+            // Set language to Bengali if available
+            utterance.lang = options.lang || 'bn-BD'; // Bengali (Bangladesh)
+
+            // Try to find a Bengali voice, fallback to default
+            const voices = speechSynthesis.getVoices();
+            const bengaliVoice = voices.find(voice => voice.lang.startsWith('bn'));
+            if (bengaliVoice) {
+                utterance.voice = bengaliVoice;
+            } else {
+                // Fallback to any available voice
+                utterance.lang = 'en-US';
+            }
+
+            // Set voice if specified (overrides auto-selection)
+            if (options.voice) {
+                utterance.voice = options.voice;
+            }
+
+            // Set rate and pitch
+            utterance.rate = options.rate || 0.8; // Slightly slower for clarity
+            utterance.pitch = options.pitch || 1;
+
+            // Handle speech events
+            utterance.onstart = () => {
+                console.log('Speech started');
+            };
+
+            utterance.onend = () => {
+                console.log('Speech ended');
+            };
+
+            utterance.onerror = (event) => {
+                console.error('Speech synthesis error:', event.error);
+                // Show user feedback
+                if (event.error !== 'interrupted') {
+                    alert('Unable to play pronunciation. Please try a modern browser like Chrome, Firefox, or Edge.');
+                }
+                // Fallback to phonetic pronunciation if Bengali fails
+                if (options.fallbackText && event.error !== 'interrupted') {
+                    Components.speechSynthesis.speak(options.fallbackText, { ...options, lang: 'en-US' });
+                }
+            };
+
+            speechSynthesis.speak(utterance);
+        },
+
+        stop: () => {
+            if (Components.speechSynthesis.isSupported()) {
+                speechSynthesis.cancel();
+            }
+        },
+
+        getAvailableVoices: () => {
+            if (!Components.speechSynthesis.isSupported()) return [];
+            return speechSynthesis.getVoices();
+        }
+    },
     // Render category card
     renderCategoryCard: (category, progress = 0) => {
         const categoryInfo = LessonLoader.getCategoryInfo(category);
@@ -50,10 +130,7 @@ const Components = {
 
     // Render lesson card
     renderLessonCard: (lesson, isCompleted = false) => {
-        return Utils.createElement('div', {
-            className: `lesson-card ${isCompleted ? 'completed' : ''}`,
-            'data-lesson-id': lesson.id
-        }, [
+        const elements = [
             Utils.createElement('h3', {
                 className: 'lesson-title',
                 innerHTML: lesson.title
@@ -72,21 +149,67 @@ const Components = {
                     innerHTML: lesson.estimated_time || '10 min'
                 })
             ])
-        ]);
+        ];
+
+        // Add grammar tag if it's a grammar lesson
+        if (lesson.type === 'grammar_learning') {
+            elements.unshift(
+                Utils.createElement('div', {
+                    className: 'lesson-tag grammar-tag',
+                    innerHTML: '📚 Grammar'
+                })
+            );
+        }
+
+        return Utils.createElement('div', {
+            className: `lesson-card ${isCompleted ? 'completed' : ''}`,
+            'data-lesson-id': lesson.id
+        }, elements);
     },
 
     // Render teaching card content
     renderTeachingCard: (item) => {
         const cardElement = Utils.createElement('div', { className: 'teaching-content' });
 
-        // Bengali text (always present)
-        cardElement.appendChild(
+        // Bengali text with sound button
+        const bengaliContainer = Utils.createElement('div', { className: 'bengali-container' });
+
+        bengaliContainer.appendChild(
             Utils.createElement('div', {
                 className: 'teaching-bengali',
                 innerHTML: item.bengali,
                 title: 'Click to hear pronunciation'
             })
         );
+
+        // Add sound button
+        const soundButton = Utils.createElement('button', {
+            className: 'sound-button',
+            type: 'button',
+            title: 'Play pronunciation',
+            innerHTML: '🔊',
+            'data-text': item.bengali,
+            'data-phonetic': item.phonetic || '',
+            'data-has-listener': 'true'
+        });
+
+        // Add click event directly to the button
+        soundButton.addEventListener('click', (event) => {
+            event.stopPropagation();
+            const text = soundButton.getAttribute('data-text');
+            const phonetic = soundButton.getAttribute('data-phonetic');
+
+            if (text) {
+                Components.speechSynthesis.speak(text, {
+                    fallbackText: phonetic,
+                    lang: 'bn-BD'
+                });
+            }
+        });
+
+        bengaliContainer.appendChild(soundButton);
+        cardElement.appendChild(bengaliContainer);
+        console.log('Card element children:', cardElement.children.length);
 
         // English translation
         if (item.english) {
@@ -136,6 +259,152 @@ const Components = {
                     innerHTML: `Number: ${item.number}`
                 })
             );
+        }
+
+        return cardElement;
+    },
+
+    // Render grammar lesson card
+    renderGrammarCard: (lessonData) => {
+        const cardElement = Utils.createElement('div', { className: 'grammar-content' });
+
+        // Lesson title
+        cardElement.appendChild(
+            Utils.createElement('h2', {
+                className: 'grammar-title',
+                innerHTML: lessonData.title
+            })
+        );
+
+        // Grammar Rules Section
+        if (lessonData.grammar_rules && lessonData.grammar_rules.length > 0) {
+            cardElement.appendChild(
+                Utils.createElement('h3', {
+                    className: 'grammar-section-title',
+                    innerHTML: '📚 Grammar Rules'
+                })
+            );
+
+            lessonData.grammar_rules.forEach((rule, index) => {
+                const ruleContainer = Utils.createElement('div', { className: 'grammar-rule' });
+
+                // Rule title
+                ruleContainer.appendChild(
+                    Utils.createElement('h4', {
+                        className: 'rule-title',
+                        innerHTML: `${index + 1}. ${rule.rule_title}`
+                    })
+                );
+
+                // Rule explanation
+                ruleContainer.appendChild(
+                    Utils.createElement('p', {
+                        className: 'rule-explanation',
+                        innerHTML: rule.rule_explanation
+                    })
+                );
+
+                // Bengali example
+                if (rule.bengali_example) {
+                    ruleContainer.appendChild(
+                        Utils.createElement('div', {
+                            className: 'rule-example',
+                            innerHTML: `<strong>Bengali:</strong> <span class="bengali-text">${rule.bengali_example}</span>`
+                        })
+                    );
+                }
+
+                // English translation
+                if (rule.english_translation) {
+                    ruleContainer.appendChild(
+                        Utils.createElement('div', {
+                            className: 'rule-translation',
+                            innerHTML: `<strong>English:</strong> ${rule.english_translation}`
+                        })
+                    );
+                }
+
+                // Structure breakdown
+                if (rule.structure_breakdown) {
+                    ruleContainer.appendChild(
+                        Utils.createElement('div', {
+                            className: 'rule-breakdown',
+                            innerHTML: `<strong>Structure:</strong> ${rule.structure_breakdown}`
+                        })
+                    );
+                }
+
+                // Key points
+                if (rule.key_points && rule.key_points.length > 0) {
+                    const keyPointsList = Utils.createElement('ul', { className: 'rule-key-points' });
+                    rule.key_points.forEach(point => {
+                        keyPointsList.appendChild(
+                            Utils.createElement('li', { innerHTML: point })
+                        );
+                    });
+                    ruleContainer.appendChild(
+                        Utils.createElement('div', {
+                            className: 'key-points-container',
+                            innerHTML: '<strong>Key Points:</strong>'
+                        })
+                    );
+                    ruleContainer.appendChild(keyPointsList);
+                }
+
+                cardElement.appendChild(ruleContainer);
+            });
+        }
+
+        // Examples Section
+        if (lessonData.examples && lessonData.examples.length > 0) {
+            cardElement.appendChild(
+                Utils.createElement('h3', {
+                    className: 'grammar-section-title',
+                    innerHTML: '💡 Examples'
+                })
+            );
+
+            lessonData.examples.forEach((example, index) => {
+                const exampleContainer = Utils.createElement('div', { className: 'grammar-example' });
+
+                // Sentence
+                exampleContainer.appendChild(
+                    Utils.createElement('div', {
+                        className: 'example-sentence',
+                        innerHTML: `<strong>${index + 1}.</strong> <span class="bengali-text">${example.sentence}</span>`
+                    })
+                );
+
+                // Translation
+                exampleContainer.appendChild(
+                    Utils.createElement('div', {
+                        className: 'example-translation',
+                        innerHTML: `<strong>Translation:</strong> ${example.translation}`
+                    })
+                );
+
+                // Breakdown
+                if (example.breakdown) {
+                    exampleContainer.appendChild(
+                        Utils.createElement('div', {
+                            className: 'example-breakdown',
+                            innerHTML: `<strong>Breakdown:</strong> ${example.breakdown}`
+                        })
+                    );
+                }
+
+                // Usage note
+                if (example.usage_note) {
+                    exampleContainer.appendChild(
+                        Utils.createElement('div', {
+                            className: 'example-note',
+                            innerHTML: `<em>Note: ${example.usage_note}</em>`
+                        })
+                    );
+                }
+
+                cardElement.appendChild(exampleContainer);
+            });
         }
 
         return cardElement;
@@ -294,6 +563,34 @@ const Components = {
     // Create breadcrumb text
     createBreadcrumb: (parts) => {
         return parts.filter(part => part).join(' > ');
+    },
+
+    // Initialize sound button event listeners (for any additional buttons)
+    initializeSoundButtons: () => {
+        const soundButtons = document.querySelectorAll('.sound-button:not([data-has-listener])');
+        soundButtons.forEach(button => {
+            if (!button.hasAttribute('data-has-listener')) {
+                button.setAttribute('data-has-listener', 'true');
+                button.addEventListener('click', (event) => {
+                    event.stopPropagation();
+                    const text = button.getAttribute('data-text');
+                    const phonetic = button.getAttribute('data-phonetic');
+
+                    if (text) {
+                        // Show visual feedback
+                        button.style.transform = 'translateY(-50%) scale(1.1)';
+                        setTimeout(() => {
+                            button.style.transform = 'translateY(-50%)';
+                        }, 200);
+
+                        Components.speechSynthesis.speak(text, {
+                            fallbackText: phonetic,
+                            lang: 'bn-BD'
+                        });
+                    }
+                });
+            }
+        });
     }
 };
 

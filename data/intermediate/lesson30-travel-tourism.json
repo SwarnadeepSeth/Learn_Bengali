@@ -1,0 +1,513 @@
+{
+  "id": "lesson30-travel-tourism",
+  "title": "Travel and Tourism",
+  "category": "intermediate",
+  "description": "Learn vocabulary for travel, tourism, and vacation activities in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "ভ্রমণ",
+      "english": "travel",
+      "phonetic": "bhômôṇ",
+      "pronunciation_guide": "like 'bhro-mon'",
+      "audio_tip": "aspirated 'bhômôṇ'"
+    },
+    {
+      "bengali": "পর্যটন",
+      "english": "tourism",
+      "phonetic": "pôryôṭôn",
+      "pronunciation_guide": "like 'po-ryo-ton'",
+      "audio_tip": "aspirated 'ryôṭôn'"
+    },
+    {
+      "bengali": "পর্যটক",
+      "english": "tourist",
+      "phonetic": "pôryôṭôk",
+      "pronunciation_guide": "like 'po-ryo-tok'",
+      "audio_tip": "aspirated 'ryôṭôk'"
+    },
+    {
+      "bengali": "ছুটি",
+      "english": "vacation/holiday",
+      "phonetic": "chuti",
+      "pronunciation_guide": "like 'chu-ti'",
+      "audio_tip": "clear 'ch'"
+    },
+    {
+      "bengali": "টিকিট",
+      "english": "ticket",
+      "phonetic": "ṭikiṭ",
+      "pronunciation_guide": "like 'ti-kit'",
+      "audio_tip": "retroflex 'ṭikiṭ'"
+    },
+    {
+      "bengali": "বিমান",
+      "english": "airplane",
+      "phonetic": "bimān",
+      "pronunciation_guide": "like 'bi-man'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "বিমানবন্দর",
+      "english": "airport",
+      "phonetic": "bimānbôndôr",
+      "pronunciation_guide": "like 'bi-man-bon-dor'",
+      "audio_tip": "aspirated 'bôndôr'"
+    },
+    {
+      "bengali": "ট্রেন",
+      "english": "train",
+      "phonetic": "ṭrên",
+      "pronunciation_guide": "like 'tren'",
+      "audio_tip": "retroflex 'ṭrên'"
+    },
+    {
+      "bengali": "স্টেশন",
+      "english": "station",
+      "phonetic": "sṭêśôn",
+      "pronunciation_guide": "like 'ste-shon'",
+      "audio_tip": "retroflex 'ṭêśôn'"
+    },
+    {
+      "bengali": "বাস",
+      "english": "bus",
+      "phonetic": "bās",
+      "pronunciation_guide": "like 'bas'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ট্যাক্সি",
+      "english": "taxi",
+      "phonetic": "ṭẏākṣi",
+      "pronunciation_guide": "like 'tyak-shi'",
+      "audio_tip": "retroflex 'ṭẏākṣi'"
+    },
+    {
+      "bengali": "হোটেল",
+      "english": "hotel",
+      "phonetic": "hôṭêl",
+      "pronunciation_guide": "like 'ho-tel'",
+      "audio_tip": "aspirated 'hôṭêl'"
+    },
+    {
+      "bengali": "কক্ষ",
+      "english": "room",
+      "phonetic": "kôkkhô",
+      "pronunciation_guide": "like 'kok-kho'",
+      "audio_tip": "aspirated 'kkhô'"
+    },
+    {
+      "bengali": "পাসপোর্ট",
+      "english": "passport",
+      "phonetic": "pāsôpôṭ",
+      "pronunciation_guide": "like 'pa-so-pot'",
+      "audio_tip": "retroflex 'pôṭ'"
+    },
+    {
+      "bengali": "ভিসা",
+      "english": "visa",
+      "phonetic": "bhīṣā",
+      "pronunciation_guide": "like 'bhi-sha'",
+      "audio_tip": "long 'ī'"
+    },
+    {
+      "bengali": "সুটকেস",
+      "english": "suitcase",
+      "phonetic": "suṭkês",
+      "pronunciation_guide": "like 'sut-kes'",
+      "audio_tip": "retroflex 'ṭkês'"
+    },
+    {
+      "bengali": "মানচিত্র",
+      "english": "map",
+      "phonetic": "mānôcitrô",
+      "pronunciation_guide": "like 'ma-no-chi-tro'",
+      "audio_tip": "aspirated 'citrô'"
+    },
+    {
+      "bengali": "গাইড",
+      "english": "guide",
+      "phonetic": "gāiḍ",
+      "pronunciation_guide": "like 'ga-id'",
+      "audio_tip": "retroflex 'ḍ'"
+    },
+    {
+      "bengali": "দর্শনীয় স্থান",
+      "english": "tourist attraction",
+      "phonetic": "dôrśônīẏô sthān",
+      "pronunciation_guide": "like 'dor-sho-ni-yo sthan'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "ফটো",
+      "english": "photo/photograph",
+      "phonetic": "phôṭô",
+      "pronunciation_guide": "like 'pho-to'",
+      "audio_tip": "aspirated 'ṭô'"
+    },
+    {
+      "bengali": "স্মারক",
+      "english": "souvenir",
+      "phonetic": "smārôk",
+      "pronunciation_guide": "like 'sma-rok'",
+      "audio_tip": "aspirated 'rôk'"
+    },
+    {
+      "bengali": "খাবার",
+      "english": "food",
+      "phonetic": "khābār",
+      "pronunciation_guide": "like 'kha-bar'",
+      "audio_tip": "aspirated 'khābār'"
+    },
+    {
+      "bengali": "কেনাকাটা",
+      "english": "shopping",
+      "phonetic": "kênākāṭā",
+      "pronunciation_guide": "like 'ke-na-ka-ta'",
+      "audio_tip": "aspirated 'nākāṭā'"
+    },
+    {
+      "bengali": "সৈকত",
+      "english": "beach",
+      "phonetic": "sêkôt",
+      "pronunciation_guide": "like 'se-kot'",
+      "audio_tip": "aspirated 'kôt'"
+    },
+    {
+      "bengali": "পর্বতারোহণ",
+      "english": "mountain climbing",
+      "phonetic": "pôrbôtārôhôṇ",
+      "pronunciation_guide": "like 'por-bo-ta-ro-hon'",
+      "audio_tip": "aspirated 'bôtārôhôṇ'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'travel'?",
+      "options": [
+        "পর্যটন",
+        "পর্যটক",
+        "ভ্রমণ",
+        "ছুটি"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভ্রমণ (bhômôṇ) means travel",
+      "bengali_focus": "ভ্রমণ",
+      "phonetic_focus": "bhômôṇ"
+    },
+    {
+      "question": "Which word means 'tourism'?",
+      "options": [
+        "টিকিট",
+        "বিমান",
+        "পর্যটন",
+        "বিমানবন্দর"
+      ],
+      "correct_answer": 2,
+      "explanation": "পর্যটন (pôryôṭôn) means tourism",
+      "bengali_focus": "পর্যটন",
+      "phonetic_focus": "pôryôṭôn"
+    },
+    {
+      "question": "What does পর্যটক mean?",
+      "options": [
+        "ট্রেন",
+        "স্টেশন",
+        "Tourist",
+        "বাস"
+      ],
+      "correct_answer": 2,
+      "explanation": "পর্যটক (pôryôṭôk) means tourist",
+      "bengali_focus": "পর্যটক",
+      "phonetic_focus": "pôryôṭôk"
+    },
+    {
+      "question": "Which Bengali word means 'vacation'?",
+      "options": [
+        "ট্যাক্সি",
+        "হোটেল",
+        "ছুটি",
+        "কক্ষ"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছুটি (chuti) means vacation",
+      "bengali_focus": "ছুটি",
+      "phonetic_focus": "chuti"
+    },
+    {
+      "question": "What is টিকিট?",
+      "options": [
+        "পাসপোর্ট",
+        "ভিসা",
+        "Ticket",
+        "সুটকেস"
+      ],
+      "correct_answer": 2,
+      "explanation": "টিকিট (ṭikiṭ) means ticket",
+      "bengali_focus": "টিকিট",
+      "phonetic_focus": "ṭikiṭ"
+    },
+    {
+      "question": "Which word means 'airplane'?",
+      "options": [
+        "মানচিত্র",
+        "গাইড",
+        "বিমান",
+        "দর্শনীয় স্থান"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিমান (bimān) means airplane",
+      "bengali_focus": "বিমান",
+      "phonetic_focus": "bimān"
+    },
+    {
+      "question": "What does বিমানবন্দর mean?",
+      "options": [
+        "ফটো",
+        "স্মারক",
+        "Airport",
+        "খাবার"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিমানবন্দর (bimānbôndôr) means airport",
+      "bengali_focus": "বিমানবন্দর",
+      "phonetic_focus": "bimānbôndôr"
+    },
+    {
+      "question": "Which Bengali word means 'train'?",
+      "options": [
+        "কেনাকাটা",
+        "সৈকত",
+        "ট্রেন",
+        "পর্বতারোহণ"
+      ],
+      "correct_answer": 2,
+      "explanation": "ট্রেন (ṭrên) means train",
+      "bengali_focus": "ট্রেন",
+      "phonetic_focus": "ṭrên"
+    },
+    {
+      "question": "What is স্টেশন?",
+      "options": [
+        "Travel",
+        "Tourism",
+        "Station",
+        "Tourist"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্টেশন (sṭêśôn) means station",
+      "bengali_focus": "স্টেশন",
+      "phonetic_focus": "sṭêśôn"
+    },
+    {
+      "question": "Which word means 'bus'?",
+      "options": [
+        "Vacation",
+        "Ticket",
+        "বাস",
+        "Airplane"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাস (bās) means bus",
+      "bengali_focus": "বাস",
+      "phonetic_focus": "bās"
+    },
+    {
+      "question": "What does ট্যাক্সি mean?",
+      "options": [
+        "Airport",
+        "Train",
+        "Taxi",
+        "Station"
+      ],
+      "correct_answer": 2,
+      "explanation": "ট্যাক্সি (ṭẏākṣi) means taxi",
+      "bengali_focus": "ট্যাক্সি",
+      "phonetic_focus": "ṭẏākṣi"
+    },
+    {
+      "question": "Which Bengali word means 'hotel'?",
+      "options": [
+        "Bus",
+        "Taxi",
+        "হোটেল",
+        "Room"
+      ],
+      "correct_answer": 2,
+      "explanation": "হোটেল (hôṭêl) means hotel",
+      "bengali_focus": "হোটেল",
+      "phonetic_focus": "hôṭêl"
+    },
+    {
+      "question": "What is কক্ষ?",
+      "options": [
+        "Passport",
+        "Visa",
+        "Room",
+        "Suitcase"
+      ],
+      "correct_answer": 2,
+      "explanation": "কক্ষ (kôkkhô) means room",
+      "bengali_focus": "কক্ষ",
+      "phonetic_focus": "kôkkhô"
+    },
+    {
+      "question": "Which word means 'passport'?",
+      "options": [
+        "Map",
+        "Guide",
+        "পাসপোর্ট",
+        "Tourist attraction"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাসপোর্ট (pāsôpôṭ) means passport",
+      "bengali_focus": "পাসপোর্ট",
+      "phonetic_focus": "pāsôpôṭ"
+    },
+    {
+      "question": "What does ভিসা mean?",
+      "options": [
+        "Photo",
+        "Souvenir",
+        "Visa",
+        "Food"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভিসা (bhīṣā) means visa",
+      "bengali_focus": "ভিসা",
+      "phonetic_focus": "bhīṣā"
+    },
+    {
+      "question": "Which Bengali word means 'suitcase'?",
+      "options": [
+        "Shopping",
+        "Beach",
+        "সুটকেস",
+        "Mountain climbing"
+      ],
+      "correct_answer": 2,
+      "explanation": "সুটকেস (suṭkês) means suitcase",
+      "bengali_focus": "সুটকেস",
+      "phonetic_focus": "suṭkês"
+    },
+    {
+      "question": "What is মানচিত্র?",
+      "options": [
+        "Travel",
+        "Tourism",
+        "Map",
+        "Tourist"
+      ],
+      "correct_answer": 2,
+      "explanation": "মানচিত্র (mānôcitrô) means map",
+      "bengali_focus": "মানচিত্র",
+      "phonetic_focus": "mānôcitrô"
+    },
+    {
+      "question": "Which word means 'guide'?",
+      "options": [
+        "Vacation",
+        "Ticket",
+        "গাইড",
+        "Airplane"
+      ],
+      "correct_answer": 2,
+      "explanation": "গাইড (gāiḍ) means guide",
+      "bengali_focus": "গাইড",
+      "phonetic_focus": "gāiḍ"
+    },
+    {
+      "question": "What does দর্শনীয় স্থান mean?",
+      "options": [
+        "Airport",
+        "Train",
+        "Tourist attraction",
+        "Station"
+      ],
+      "correct_answer": 2,
+      "explanation": "দর্শনীয় স্থান (dôrśônīẏô sthān) means tourist attraction",
+      "bengali_focus": "দর্শনীয় স্থান",
+      "phonetic_focus": "dôrśônīẏô sthān"
+    },
+    {
+      "question": "Which Bengali word means 'photo'?",
+      "options": [
+        "Bus",
+        "Taxi",
+        "ফটো",
+        "Hotel"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফটো (phôṭô) means photo",
+      "bengali_focus": "ফটো",
+      "phonetic_focus": "phôṭô"
+    },
+    {
+      "question": "What is স্মারক?",
+      "options": [
+        "Room",
+        "Passport",
+        "Souvenir",
+        "Visa"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্মারক (smārôk) means souvenir",
+      "bengali_focus": "স্মারক",
+      "phonetic_focus": "smārôk"
+    },
+    {
+      "question": "Which word means 'food'?",
+      "options": [
+        "Suitcase",
+        "Map",
+        "খাবার",
+        "Guide"
+      ],
+      "correct_answer": 2,
+      "explanation": "খাবার (khābār) means food",
+      "bengali_focus": "খাবার",
+      "phonetic_focus": "khābār"
+    },
+    {
+      "question": "What does কেনাকাটা mean?",
+      "options": [
+        "Tourist attraction",
+        "Photo",
+        "Shopping",
+        "Souvenir"
+      ],
+      "correct_answer": 2,
+      "explanation": "কেনাকাটা (kênākāṭā) means shopping",
+      "bengali_focus": "কেনাকাটা",
+      "phonetic_focus": "kênākāṭā"
+    },
+    {
+      "question": "Which Bengali word means 'beach'?",
+      "options": [
+        "Food",
+        "Shopping",
+        "সৈকত",
+        "Mountain climbing"
+      ],
+      "correct_answer": 2,
+      "explanation": "সৈকত (sêkôt) means beach",
+      "bengali_focus": "সৈকত",
+      "phonetic_focus": "sêkôt"
+    },
+    {
+      "question": "What is পর্বতারোহণ?",
+      "options": [
+        "Travel",
+        "Tourism",
+        "Mountain climbing",
+        "Tourist"
+      ],
+      "correct_answer": 2,
+      "explanation": "পর্বতারোহণ (pôrbôtārôhôṇ) means mountain climbing",
+      "bengali_focus": "পর্বতারোহণ",
+      "phonetic_focus": "pôrbôtārôhôṇ"
+    }
+  ]
+}

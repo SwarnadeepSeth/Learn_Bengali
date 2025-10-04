@@ -1,0 +1,500 @@
+{
+  "id": "lesson6-time-dates",
+  "title": "Time and Dates",
+  "category": "intermediate",
+  "description": "Learn advanced vocabulary for time expressions and calendar terms in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "সময়",
+      "english": "time",
+      "phonetic": "sômôy",
+      "pronunciation_guide": "like 'sho-moy'",
+      "audio_tip": "aspirated 'mô'"
+    },
+    {
+      "bengali": "ঘণ্টা",
+      "english": "hour",
+      "phonetic": "ghôṇṭā",
+      "pronunciation_guide": "like 'ghon-ta'",
+      "audio_tip": "aspirated 'ghôṇṭ'"
+    },
+    {
+      "bengali": "মিনিট",
+      "english": "minute",
+      "phonetic": "miniṭ",
+      "pronunciation_guide": "like 'mi-nit'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "সেকেন্ড",
+      "english": "second",
+      "phonetic": "sekênḍ",
+      "pronunciation_guide": "like 'se-kend'",
+      "audio_tip": "retroflex 'kênḍ'"
+    },
+    {
+      "bengali": "সকাল",
+      "english": "morning",
+      "phonetic": "sôkāl",
+      "pronunciation_guide": "like 'sho-kal'",
+      "audio_tip": "aspirated 'kāl'"
+    },
+    {
+      "bengali": "দুপুর",
+      "english": "noon/afternoon",
+      "phonetic": "dupur",
+      "pronunciation_guide": "like 'du-pur'",
+      "audio_tip": "clear 'p'"
+    },
+    {
+      "bengali": "বিকাল",
+      "english": "afternoon",
+      "phonetic": "bikāl",
+      "pronunciation_guide": "like 'bi-kal'",
+      "audio_tip": "aspirated 'kāl'"
+    },
+    {
+      "bengali": "সন্ধ্যা",
+      "english": "evening",
+      "phonetic": "sôndhyā",
+      "pronunciation_guide": "like 'shon-dhya'",
+      "audio_tip": "aspirated 'ndhyā'"
+    },
+    {
+      "bengali": "রাত",
+      "english": "night",
+      "phonetic": "rāt",
+      "pronunciation_guide": "like 'rat'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মধ্যরাত",
+      "english": "midnight",
+      "phonetic": "môdhyôrāt",
+      "pronunciation_guide": "like 'mo-dhyo-rat'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "তারিখ",
+      "english": "date",
+      "phonetic": "tārikh",
+      "pronunciation_guide": "like 'ta-rikh'",
+      "audio_tip": "aspirated 'kh'"
+    },
+    {
+      "bengali": "সপ্তাহ",
+      "english": "week",
+      "phonetic": "sôptāh",
+      "pronunciation_guide": "like 'shop-tah'",
+      "audio_tip": "aspirated 'ptāh'"
+    },
+    {
+      "bengali": "মাস",
+      "english": "month",
+      "phonetic": "mās",
+      "pronunciation_guide": "like 'mas'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "বছর",
+      "english": "year",
+      "phonetic": "bôchôr",
+      "pronunciation_guide": "like 'bo-chor'",
+      "audio_tip": "aspirated 'chôr'"
+    },
+    {
+      "bengali": "আজ",
+      "english": "today",
+      "phonetic": "āj",
+      "pronunciation_guide": "like 'aj'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "কাল",
+      "english": "tomorrow",
+      "phonetic": "kāl",
+      "pronunciation_guide": "like 'kal'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "গতকাল",
+      "english": "yesterday",
+      "phonetic": "gôtôkāl",
+      "pronunciation_guide": "like 'go-to-kal'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "পরশু",
+      "english": "day before yesterday",
+      "phonetic": "pôrôśu",
+      "pronunciation_guide": "like 'po-ro-shu'",
+      "audio_tip": "aspirated 'śu'"
+    },
+    {
+      "bengali": "আগামীকাল",
+      "english": "day after tomorrow",
+      "phonetic": "āgāmīkāl",
+      "pronunciation_guide": "like 'a-ga-mi-kal'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "সপ্তাহান্ত",
+      "english": "weekend",
+      "phonetic": "sôptāhāntô",
+      "pronunciation_guide": "like 'shop-ta-han-to'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "ছুটি",
+      "english": "holiday/vacation",
+      "phonetic": "chuti",
+      "pronunciation_guide": "like 'chu-ti'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "অনুষ্ঠান",
+      "english": "event/ceremony",
+      "phonetic": "ônusthān",
+      "pronunciation_guide": "like 'o-nus-than'",
+      "audio_tip": "nasal 'nusthān'"
+    },
+    {
+      "bengali": "সময়সূচি",
+      "english": "schedule",
+      "phonetic": "sômôysūci",
+      "pronunciation_guide": "like 'sho-moy-suchi'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "অ্যাপয়েন্টমেন্ট",
+      "english": "appointment",
+      "phonetic": "êpôẏênṭmênṭ",
+      "pronunciation_guide": "like 'e-poi-ent-ment'",
+      "audio_tip": "English loanword"
+    },
+    {
+      "bengali": "ডেডলাইন",
+      "english": "deadline",
+      "phonetic": "ḍeḍlāin",
+      "pronunciation_guide": "like 'ded-lain'",
+      "audio_tip": "English loanword"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'time'?",
+      "options": [
+        "সময়",
+        "ঘণ্টা",
+        "মিনিট",
+        "সেকেন্ড"
+      ],
+      "correct_answer": 0,
+      "explanation": "সময় (sômôy) means time",
+      "bengali_focus": "সময়",
+      "phonetic_focus": "sômôy"
+    },
+    {
+      "question": "Which word means 'hour'?",
+      "options": [
+        "সকাল",
+        "দুপুর",
+        "ঘণ্টা",
+        "বিকাল"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঘণ্টা (ghôṇṭā) means hour",
+      "bengali_focus": "ঘণ্টা",
+      "phonetic_focus": "ghôṇṭā"
+    },
+    {
+      "question": "What does মিনিট mean?",
+      "options": [
+        "Second",
+        "Morning",
+        "Minute",
+        "Noon"
+      ],
+      "correct_answer": 2,
+      "explanation": "মিনিট (miniṭ) means minute",
+      "bengali_focus": "মিনিট",
+      "phonetic_focus": "miniṭ"
+    },
+    {
+      "question": "Which Bengali word means 'morning'?",
+      "options": [
+        "দুপুর",
+        "বিকাল",
+        "সকাল",
+        "সন্ধ্যা"
+      ],
+      "correct_answer": 2,
+      "explanation": "সকাল (sôkāl) means morning",
+      "bengali_focus": "সকাল",
+      "phonetic_focus": "sôkāl"
+    },
+    {
+      "question": "What is দুপুর?",
+      "options": [
+        "Afternoon",
+        "Evening",
+        "Noon",
+        "Night"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুপুর (dupur) means noon or afternoon",
+      "bengali_focus": "দুপুর",
+      "phonetic_focus": "dupur"
+    },
+    {
+      "question": "Which word means 'evening'?",
+      "options": [
+        "রাত",
+        "মধ্যরাত",
+        "সন্ধ্যা",
+        "তারিখ"
+      ],
+      "correct_answer": 2,
+      "explanation": "সন্ধ্যা (sôndhyā) means evening",
+      "bengali_focus": "সন্ধ্যা",
+      "phonetic_focus": "sôndhyā"
+    },
+    {
+      "question": "What does রাত mean?",
+      "options": [
+        "Midnight",
+        "Date",
+        "Night",
+        "Week"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাত (rāt) means night",
+      "bengali_focus": "রাত",
+      "phonetic_focus": "rāt"
+    },
+    {
+      "question": "Which Bengali word means 'date'?",
+      "options": [
+        "সপ্তাহ",
+        "মাস",
+        "তারিখ",
+        "বছর"
+      ],
+      "correct_answer": 2,
+      "explanation": "তারিখ (tārikh) means date",
+      "bengali_focus": "তারিখ",
+      "phonetic_focus": "tārikh"
+    },
+    {
+      "question": "What is সপ্তাহ?",
+      "options": [
+        "Month",
+        "Year",
+        "Week",
+        "Today"
+      ],
+      "correct_answer": 2,
+      "explanation": "সপ্তাহ (sôptāh) means week",
+      "bengali_focus": "সপ্তাহ",
+      "phonetic_focus": "sôptāh"
+    },
+    {
+      "question": "Which word means 'month'?",
+      "options": [
+        "বছর",
+        "আজ",
+        "মাস",
+        "কাল"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাস (mās) means month",
+      "bengali_focus": "মাস",
+      "phonetic_focus": "mās"
+    },
+    {
+      "question": "What does বছর mean?",
+      "options": [
+        "Today",
+        "Tomorrow",
+        "Year",
+        "Yesterday"
+      ],
+      "correct_answer": 2,
+      "explanation": "বছর (bôchôr) means year",
+      "bengali_focus": "বছর",
+      "phonetic_focus": "bôchôr"
+    },
+    {
+      "question": "Which Bengali word means 'today'?",
+      "options": [
+        "কাল",
+        "গতকাল",
+        "আজ",
+        "পরশু"
+      ],
+      "correct_answer": 2,
+      "explanation": "আজ (āj) means today",
+      "bengali_focus": "আজ",
+      "phonetic_focus": "āj"
+    },
+    {
+      "question": "What is কাল?",
+      "options": [
+        "Yesterday",
+        "Day before yesterday",
+        "Tomorrow",
+        "Day after tomorrow"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাল (kāl) means tomorrow",
+      "bengali_focus": "কাল",
+      "phonetic_focus": "kāl"
+    },
+    {
+      "question": "Which word means 'yesterday'?",
+      "options": [
+        "পরশু",
+        "আগামীকাল",
+        "গতকাল",
+        "সপ্তাহান্ত"
+      ],
+      "correct_answer": 2,
+      "explanation": "গতকাল (gôtôkāl) means yesterday",
+      "bengali_focus": "গতকাল",
+      "phonetic_focus": "gôtôkāl"
+    },
+    {
+      "question": "What does পরশু mean?",
+      "options": [
+        "Day after tomorrow",
+        "Weekend",
+        "Day before yesterday",
+        "Holiday"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরশু (pôrôśu) means day before yesterday",
+      "bengali_focus": "পরশু",
+      "phonetic_focus": "pôrôśu"
+    },
+    {
+      "question": "Which Bengali word means 'weekend'?",
+      "options": [
+        "ছুটি",
+        "অনুষ্ঠান",
+        "সপ্তাহান্ত",
+        "সময়সূচি"
+      ],
+      "correct_answer": 2,
+      "explanation": "সপ্তাহান্ত (sôptāhāntô) means weekend",
+      "bengali_focus": "সপ্তাহান্ত",
+      "phonetic_focus": "sôptāhāntô"
+    },
+    {
+      "question": "What is ছুটি?",
+      "options": [
+        "Event",
+        "Schedule",
+        "Holiday",
+        "Appointment"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছুটি (chuti) means holiday or vacation",
+      "bengali_focus": "ছুটি",
+      "phonetic_focus": "chuti"
+    },
+    {
+      "question": "Which word means 'event'?",
+      "options": [
+        "সময়সূচি",
+        "অ্যাপয়েন্টমেন্ট",
+        "অনুষ্ঠান",
+        "ডেডলাইন"
+      ],
+      "correct_answer": 2,
+      "explanation": "অনুষ্ঠান (ônusthān) means event or ceremony",
+      "bengali_focus": "অনুষ্ঠান",
+      "phonetic_focus": "ônusthān"
+    },
+    {
+      "question": "What does সময়সূচি mean?",
+      "options": [
+        "Appointment",
+        "Deadline",
+        "Schedule",
+        "Time"
+      ],
+      "correct_answer": 2,
+      "explanation": "সময়সূচি (sômôysūci) means schedule",
+      "bengali_focus": "সময়সূচি",
+      "phonetic_focus": "sômôysūci"
+    },
+    {
+      "question": "Which Bengali word means 'appointment'?",
+      "options": [
+        "ডেডলাইন",
+        "সময়",
+        "অ্যাপয়েন্টমেন্ট",
+        "ঘণ্টা"
+      ],
+      "correct_answer": 2,
+      "explanation": "অ্যাপয়েন্টমেন্ট (êpôẏênṭmênṭ) means appointment",
+      "bengali_focus": "অ্যাপয়েন্টমেন্ট",
+      "phonetic_focus": "êpôẏênṭmênṭ"
+    },
+    {
+      "question": "What is ডেডলাইন?",
+      "options": [
+        "Time",
+        "Hour",
+        "Deadline",
+        "Minute"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডেডলাইন (ḍeḍlāin) means deadline",
+      "bengali_focus": "ডেডলাইন",
+      "phonetic_focus": "ḍeḍlāin"
+    },
+    {
+      "question": "Which word means 'second' (time unit)?",
+      "options": [
+        "সকাল",
+        "দুপুর",
+        "সেকেন্ড",
+        "বিকাল"
+      ],
+      "correct_answer": 2,
+      "explanation": "সেকেন্ড (sekênḍ) means second",
+      "bengali_focus": "সেকেন্ড",
+      "phonetic_focus": "sekênḍ"
+    },
+    {
+      "question": "What does মধ্যরাত mean?",
+      "options": [
+        "Evening",
+        "Night",
+        "Midnight",
+        "Date"
+      ],
+      "correct_answer": 2,
+      "explanation": "মধ্যরাত (môdhyôrāt) means midnight",
+      "bengali_focus": "মধ্যরাত",
+      "phonetic_focus": "môdhyôrāt"
+    },
+    {
+      "question": "Which Bengali word means 'day after tomorrow'?",
+      "options": [
+        "গতকাল",
+        "পরশু",
+        "আগামীকাল",
+        "সপ্তাহান্ত"
+      ],
+      "correct_answer": 2,
+      "explanation": "আগামীকাল (āgāmīkāl) means day after tomorrow",
+      "bengali_focus": "আগামীকাল",
+      "phonetic_focus": "āgāmīkāl"
+    }
+  ]
+}

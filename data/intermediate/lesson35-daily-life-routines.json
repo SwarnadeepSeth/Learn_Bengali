@@ -1,0 +1,513 @@
+{
+  "id": "lesson35-daily-life-routines",
+  "title": "Daily Life and Routines",
+  "category": "intermediate",
+  "description": "Learn vocabulary for daily life, routines, and everyday activities in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "সকাল",
+      "english": "morning",
+      "phonetic": "sôkāl",
+      "pronunciation_guide": "like 'sho-kal'",
+      "audio_tip": "aspirated 'kāl'"
+    },
+    {
+      "bengali": "দুপুর",
+      "english": "noon/afternoon",
+      "phonetic": "dupur",
+      "pronunciation_guide": "like 'du-pur'",
+      "audio_tip": "clear 'p'"
+    },
+    {
+      "bengali": "সন্ধ্যা",
+      "english": "evening",
+      "phonetic": "sôndhyā",
+      "pronunciation_guide": "like 'shon-dhya'",
+      "audio_tip": "aspirated 'ndhyā'"
+    },
+    {
+      "bengali": "রাত",
+      "english": "night",
+      "phonetic": "rāt",
+      "pronunciation_guide": "like 'rat'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ঘুম",
+      "english": "sleep",
+      "phonetic": "ghum",
+      "pronunciation_guide": "like 'ghum'",
+      "audio_tip": "aspirated 'ghum'"
+    },
+    {
+      "bengali": "ঘুমানো",
+      "english": "to sleep",
+      "phonetic": "ghumānō",
+      "pronunciation_guide": "like 'ghu-ma-no'",
+      "audio_tip": "aspirated 'mānō'"
+    },
+    {
+      "bengali": "জাগা",
+      "english": "to wake up",
+      "phonetic": "jāgā",
+      "pronunciation_guide": "like 'ja-ga'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "গোসল",
+      "english": "bath",
+      "phonetic": "gōsôl",
+      "pronunciation_guide": "like 'go-sol'",
+      "audio_tip": "aspirated 'sôl'"
+    },
+    {
+      "bengali": "পোশাক",
+      "english": "clothes",
+      "phonetic": "pōśāk",
+      "pronunciation_guide": "like 'po-shak'",
+      "audio_tip": "aspirated 'śāk'"
+    },
+    {
+      "bengali": "খাওয়া",
+      "english": "to eat",
+      "phonetic": "khāōẏā",
+      "pronunciation_guide": "like 'kha-o-ya'",
+      "audio_tip": "aspirated 'āōẏā'"
+    },
+    {
+      "bengali": "খাবার",
+      "english": "food",
+      "phonetic": "khābār",
+      "pronunciation_guide": "like 'kha-bar'",
+      "audio_tip": "aspirated 'khābār'"
+    },
+    {
+      "bengali": "প্রাতরাশ",
+      "english": "breakfast",
+      "phonetic": "prātorāś",
+      "pronunciation_guide": "like 'pra-to-rash'",
+      "audio_tip": "West Bengal term for morning meal"
+    },
+    {
+      "bengali": "দুপুরের খানা",
+      "english": "lunch",
+      "phonetic": "dupurēr khānā",
+      "pronunciation_guide": "like 'du-pur-er kha-na'",
+      "audio_tip": "West Bengal term for midday meal"
+    },
+    {
+      "bengali": "রাতের খানা",
+      "english": "dinner",
+      "phonetic": "rātēr khānā",
+      "pronunciation_guide": "like 'ra-ter kha-na'",
+      "audio_tip": "West Bengal term for evening meal"
+    },
+    {
+      "bengali": "কাজ",
+      "english": "work",
+      "phonetic": "kāj",
+      "pronunciation_guide": "like 'kaj'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "অফিস",
+      "english": "office",
+      "phonetic": "ôphis",
+      "pronunciation_guide": "like 'o-phis'",
+      "audio_tip": "aspirated 'phis'"
+    },
+    {
+      "bengali": "বাড়ি",
+      "english": "home/house",
+      "phonetic": "bāḍi",
+      "pronunciation_guide": "like 'ba-ri'",
+      "audio_tip": "retroflex 'ḍi'"
+    },
+    {
+      "bengali": "পরিবার",
+      "english": "family",
+      "phonetic": "pôribār",
+      "pronunciation_guide": "like 'po-ri-bar'",
+      "audio_tip": "aspirated 'ribār'"
+    },
+    {
+      "bengali": "বন্ধু",
+      "english": "friend",
+      "phonetic": "bôndhu",
+      "pronunciation_guide": "like 'bon-dhu'",
+      "audio_tip": "aspirated 'ndhu'"
+    },
+    {
+      "bengali": "বিনোদন",
+      "english": "entertainment",
+      "phonetic": "binōdôn",
+      "pronunciation_guide": "like 'bi-no-don'",
+      "audio_tip": "aspirated 'nōdôn'"
+    },
+    {
+      "bengali": "খেলা",
+      "english": "play/game",
+      "phonetic": "khēlā",
+      "pronunciation_guide": "like 'khe-la'",
+      "audio_tip": "aspirated 'khēlā'"
+    },
+    {
+      "bengali": "পড়া",
+      "english": "reading",
+      "phonetic": "pôṛā",
+      "pronunciation_guide": "like 'po-ra'",
+      "audio_tip": "retroflex 'ṛā'"
+    },
+    {
+      "bengali": "টিভি দেখা",
+      "english": "watching TV",
+      "phonetic": "ṭibhi dēkhā",
+      "pronunciation_guide": "like 'ti-bhi dek-ha'",
+      "audio_tip": "retroflex 'ṭibhi'"
+    },
+    {
+      "bengali": "শপিং",
+      "english": "shopping",
+      "phonetic": "śôpiṅ",
+      "pronunciation_guide": "like 'sho-ping'",
+      "audio_tip": "aspirated 'śôpiṅ'"
+    },
+    {
+      "bengali": "আরাম",
+      "english": "relaxation/rest",
+      "phonetic": "ārām",
+      "pronunciation_guide": "like 'a-ram'",
+      "audio_tip": "long 'ā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'morning'?",
+      "options": [
+        "দুপুর",
+        "সন্ধ্যা",
+        "সকাল",
+        "রাত"
+      ],
+      "correct_answer": 2,
+      "explanation": "সকাল (sôkāl) means morning",
+      "bengali_focus": "সকাল",
+      "phonetic_focus": "sôkāl"
+    },
+    {
+      "question": "Which word means 'afternoon'?",
+      "options": [
+        "ঘুম",
+        "ঘুমানো",
+        "দুপুর",
+        "জাগা"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুপুর (dupur) means afternoon",
+      "bengali_focus": "দুপুর",
+      "phonetic_focus": "dupur"
+    },
+    {
+      "question": "What does সন্ধ্যা mean?",
+      "options": [
+        "গোসল",
+        "পোশাক",
+        "Evening",
+        "খাওয়া"
+      ],
+      "correct_answer": 2,
+      "explanation": "সন্ধ্যা (sôndhyā) means evening",
+      "bengali_focus": "সন্ধ্যা",
+      "phonetic_focus": "sôndhyā"
+    },
+    {
+      "question": "Which Bengali word means 'night'?",
+      "options": [
+        "খাবার",
+        "নাস্তা",
+        "রাত",
+        "মধ্যাহ্নভোজ"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাত (rāt) means night",
+      "bengali_focus": "রাত",
+      "phonetic_focus": "rāt"
+    },
+    {
+      "question": "What is ঘুম?",
+      "options": [
+        "রাতের খাবার",
+        "কাজ",
+        "Sleep",
+        "অফিস"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঘুম (ghum) means sleep",
+      "bengali_focus": "ঘুম",
+      "phonetic_focus": "ghum"
+    },
+    {
+      "question": "Which word means 'to sleep'?",
+      "options": [
+        "বাড়ি",
+        "পরিবার",
+        "ঘুমানো",
+        "বন্ধু"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঘুমানো (ghumānō) means to sleep",
+      "bengali_focus": "ঘুমানো",
+      "phonetic_focus": "ghumānō"
+    },
+    {
+      "question": "What does জাগা mean?",
+      "options": [
+        "বিনোদন",
+        "খেলা",
+        "To wake up",
+        "পড়া"
+      ],
+      "correct_answer": 2,
+      "explanation": "জাগা (jāgā) means to wake up",
+      "bengali_focus": "জাগা",
+      "phonetic_focus": "jāgā"
+    },
+    {
+      "question": "Which Bengali word means 'bath'?",
+      "options": [
+        "টিভি দেখা",
+        "শপিং",
+        "গোসল",
+        "আরাম"
+      ],
+      "correct_answer": 2,
+      "explanation": "গোসল (gōsôl) means bath",
+      "bengali_focus": "গোসল",
+      "phonetic_focus": "gōsôl"
+    },
+    {
+      "question": "What is পোশাক?",
+      "options": [
+        "Morning",
+        "Afternoon",
+        "Clothes",
+        "Evening"
+      ],
+      "correct_answer": 2,
+      "explanation": "পোশাক (pōśāk) means clothes",
+      "bengali_focus": "পোশাক",
+      "phonetic_focus": "pōśāk"
+    },
+    {
+      "question": "Which word means 'to eat'?",
+      "options": [
+        "Night",
+        "Sleep",
+        "খাওয়া",
+        "To sleep"
+      ],
+      "correct_answer": 2,
+      "explanation": "খাওয়া (khāōẏā) means to eat",
+      "bengali_focus": "খাওয়া",
+      "phonetic_focus": "khāōẏā"
+    },
+    {
+      "question": "What does খাবার mean?",
+      "options": [
+        "To wake up",
+        "Bath",
+        "Food",
+        "Clothes"
+      ],
+      "correct_answer": 2,
+      "explanation": "খাবার (khābār) means food",
+      "bengali_focus": "খাবার",
+      "phonetic_focus": "khābār"
+    },
+    {
+      "question": "Which Bengali word means 'breakfast'?",
+      "options": [
+        "To eat",
+        "Food",
+        "প্রাতরাশ",
+        "Lunch"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রাতরাশ (prātorāś) means breakfast in West Bengal Bengali",
+      "bengali_focus": "প্রাতরাশ",
+      "phonetic_focus": "prātorāś"
+    },
+    {
+      "question": "What is দুপুরের খানা?",
+      "options": [
+        "Dinner",
+        "Work",
+        "Lunch",
+        "Office"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুপুরের খানা (dupurēr khānā) means lunch in West Bengal Bengali",
+      "bengali_focus": "দুপুরের খানা",
+      "phonetic_focus": "dupurēr khānā"
+    },
+    {
+      "question": "Which word means 'dinner'?",
+      "options": [
+        "Home",
+        "Family",
+        "রাতের খানা",
+        "Friend"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাতের খানা (rātēr khānā) means dinner in West Bengal Bengali",
+      "bengali_focus": "রাতের খানা",
+      "phonetic_focus": "rātēr khānā"
+    },
+    {
+      "question": "What does কাজ mean?",
+      "options": [
+        "Entertainment",
+        "Play",
+        "Work",
+        "Reading"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাজ (kāj) means work",
+      "bengali_focus": "কাজ",
+      "phonetic_focus": "kāj"
+    },
+    {
+      "question": "Which Bengali word means 'office'?",
+      "options": [
+        "Watching TV",
+        "Shopping",
+        "অফিস",
+        "Relaxation"
+      ],
+      "correct_answer": 2,
+      "explanation": "অফিস (ôphis) means office",
+      "bengali_focus": "অফিস",
+      "phonetic_focus": "ôphis"
+    },
+    {
+      "question": "What is বাড়ি?",
+      "options": [
+        "Morning",
+        "Afternoon",
+        "Home",
+        "Evening"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাড়ি (bāḍi) means home",
+      "bengali_focus": "বাড়ি",
+      "phonetic_focus": "bāḍi"
+    },
+    {
+      "question": "Which word means 'family'?",
+      "options": [
+        "Night",
+        "Sleep",
+        "পরিবার",
+        "To sleep"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরিবার (pôribār) means family",
+      "bengali_focus": "পরিবার",
+      "phonetic_focus": "pôribār"
+    },
+    {
+      "question": "What does বন্ধু mean?",
+      "options": [
+        "To wake up",
+        "Bath",
+        "Friend",
+        "Clothes"
+      ],
+      "correct_answer": 2,
+      "explanation": "বন্ধু (bôndhu) means friend",
+      "bengali_focus": "বন্ধু",
+      "phonetic_focus": "bôndhu"
+    },
+    {
+      "question": "Which Bengali word means 'entertainment'?",
+      "options": [
+        "To eat",
+        "Food",
+        "বিনোদন",
+        "Breakfast"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিনোদন (binōdôn) means entertainment",
+      "bengali_focus": "বিনোদন",
+      "phonetic_focus": "binōdôn"
+    },
+    {
+      "question": "What is খেলা?",
+      "options": [
+        "Lunch",
+        "Dinner",
+        "Play",
+        "Work"
+      ],
+      "correct_answer": 2,
+      "explanation": "খেলা (khēlā) means play",
+      "bengali_focus": "খেলা",
+      "phonetic_focus": "khēlā"
+    },
+    {
+      "question": "Which word means 'reading'?",
+      "options": [
+        "Office",
+        "Home",
+        "পড়া",
+        "Family"
+      ],
+      "correct_answer": 2,
+      "explanation": "পড়া (pôṛā) means reading",
+      "bengali_focus": "পড়া",
+      "phonetic_focus": "pôṛā"
+    },
+    {
+      "question": "What does টিভি দেখা mean?",
+      "options": [
+        "Friend",
+        "Entertainment",
+        "Watching TV",
+        "Play"
+      ],
+      "correct_answer": 2,
+      "explanation": "টিভি দেখা (ṭibhi dēkhā) means watching TV",
+      "bengali_focus": "টিভি দেখা",
+      "phonetic_focus": "ṭibhi dēkhā"
+    },
+    {
+      "question": "Which Bengali word means 'shopping'?",
+      "options": [
+        "Reading",
+        "Watching TV",
+        "শপিং",
+        "Relaxation"
+      ],
+      "correct_answer": 2,
+      "explanation": "শপিং (śôpiṅ) means shopping",
+      "bengali_focus": "শপিং",
+      "phonetic_focus": "śôpiṅ"
+    },
+    {
+      "question": "What is আরাম?",
+      "options": [
+        "Morning",
+        "Afternoon",
+        "Relaxation",
+        "Evening"
+      ],
+      "correct_answer": 2,
+      "explanation": "আরাম (ārām) means relaxation",
+      "bengali_focus": "আরাম",
+      "phonetic_focus": "ārām"
+    }
+  ]
+}

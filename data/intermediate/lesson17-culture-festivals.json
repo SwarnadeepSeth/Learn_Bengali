@@ -1,0 +1,513 @@
+{
+  "id": "lesson17-culture-festivals",
+  "title": "Culture and Festivals",
+  "category": "intermediate",
+  "description": "Learn vocabulary for Bengali culture, traditions, and major festivals in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "সংস্কৃতি",
+      "english": "culture",
+      "phonetic": "sôṅskr̥ti",
+      "pronunciation_guide": "like 'shong-skri-ti'",
+      "audio_tip": "nasal 'ṅskr̥ti'"
+    },
+    {
+      "bengali": "উৎসব",
+      "english": "festival",
+      "phonetic": "utôb",
+      "pronunciation_guide": "like 'ut-shob'",
+      "audio_tip": "aspirated 'tôb'"
+    },
+    {
+      "bengali": "পূজা",
+      "english": "worship/puja",
+      "phonetic": "pūjā",
+      "pronunciation_guide": "like 'pu-ja'",
+      "audio_tip": "long 'ūjā'"
+    },
+    {
+      "bengali": "দুর্গাপূজা",
+      "english": "Durga Puja",
+      "phonetic": "durgāpūjā",
+      "pronunciation_guide": "like 'dur-ga-pu-ja'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "পয়লা বৈশাখ",
+      "english": "Pohela Boishakh",
+      "phonetic": "pôẏlā bôiśākh",
+      "pronunciation_guide": "like 'po-y-la boi-shakh'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "দীপাবলি",
+      "english": "Diwali",
+      "phonetic": "dīpābôli",
+      "pronunciation_guide": "like 'di-pa-bo-li'",
+      "audio_tip": "long 'īpābôli'"
+    },
+    {
+      "bengali": "হোলি",
+      "english": "Holi",
+      "phonetic": "hôli",
+      "pronunciation_guide": "like 'ho-li'",
+      "audio_tip": "aspirated 'hôli'"
+    },
+    {
+      "bengali": "ঈদ",
+      "english": "Eid",
+      "phonetic": "īd",
+      "pronunciation_guide": "like 'eed'",
+      "audio_tip": "long 'īd'"
+    },
+    {
+      "bengali": "ক্রিসমাস",
+      "english": "Christmas",
+      "phonetic": "krismās",
+      "pronunciation_guide": "like 'kris-mas'",
+      "audio_tip": "aspirated 'smās'"
+    },
+    {
+      "bengali": "সংগীত",
+      "english": "music",
+      "phonetic": "sôngīt",
+      "pronunciation_guide": "like 'shong-git'",
+      "audio_tip": "nasal 'ṅīt'"
+    },
+    {
+      "bengali": "নাচ",
+      "english": "dance",
+      "phonetic": "nāc",
+      "pronunciation_guide": "like 'nach'",
+      "audio_tip": "aspirated 'āc'"
+    },
+    {
+      "bengali": "রবীন্দ্রনাথ",
+      "english": "Rabindranath",
+      "phonetic": "rôbiṇdrônāth",
+      "pronunciation_guide": "like 'ro-bin-dro-nath'",
+      "audio_tip": "nasal 'ṇdrônāth'"
+    },
+    {
+      "bengali": "টেগোর",
+      "english": "Tagore",
+      "phonetic": "ṭêgôr",
+      "pronunciation_guide": "like 'te-gor'",
+      "audio_tip": "retroflex 'ṭêgôr'"
+    },
+    {
+      "bengali": "বাংলা সাহিত্য",
+      "english": "Bengali literature",
+      "phonetic": "bāṅlā sāhityô",
+      "pronunciation_guide": "like 'bang-la sa-hi-tyo'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "রবীন্দ্রসংগীত",
+      "english": "Rabindra Sangeet",
+      "phonetic": "rôbiṇdrôsôngīt",
+      "pronunciation_guide": "like 'ro-bin-dro-song-git'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "সরস্বতী পূজা",
+      "english": "Saraswati Puja",
+      "phonetic": "sôrôsbôtī pūjā",
+      "pronunciation_guide": "like 'sho-ro-sho-ti pu-ja'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "প্রতিমা",
+      "english": "idol/statue",
+      "phonetic": "prôtimā",
+      "pronunciation_guide": "like 'pro-ti-ma'",
+      "audio_tip": "aspirated 'timā'"
+    },
+    {
+      "bengali": "প্রদীপ",
+      "english": "lamp/oil lamp",
+      "phonetic": "prôdīp",
+      "pronunciation_guide": "like 'pro-deep'",
+      "audio_tip": "aspirated 'dīp'"
+    },
+    {
+      "bengali": "আলো",
+      "english": "light",
+      "phonetic": "ālô",
+      "pronunciation_guide": "like 'a-lo'",
+      "audio_tip": "long 'ālô'"
+    },
+    {
+      "bengali": "ফুল",
+      "english": "flower",
+      "phonetic": "phul",
+      "pronunciation_guide": "like 'phul'",
+      "audio_tip": "aspirated 'phul'"
+    },
+    {
+      "bengali": "প্রসাদ",
+      "english": "prasad/offering",
+      "phonetic": "prôsād",
+      "pronunciation_guide": "like 'pro-sad'",
+      "audio_tip": "aspirated 'sād'"
+    },
+    {
+      "bengali": "পোশাক",
+      "english": "clothing/dress",
+      "phonetic": "pōśāk",
+      "pronunciation_guide": "like 'po-shak'",
+      "audio_tip": "aspirated 'śāk'"
+    },
+    {
+      "bengali": "শাড়ি",
+      "english": "sari",
+      "phonetic": "śāḍi",
+      "pronunciation_guide": "like 'sha-ri'",
+      "audio_tip": "aspirated 'āḍi'"
+    },
+    {
+      "bengali": "পুজো",
+      "english": "Pujo (Durga Puja)",
+      "phonetic": "pujō",
+      "pronunciation_guide": "like 'pu-jo'",
+      "audio_tip": "aspirated 'jō'"
+    },
+    {
+      "bengali": "মেলা",
+      "english": "fair/festival",
+      "phonetic": "mēlā",
+      "pronunciation_guide": "like 'me-la'",
+      "audio_tip": "long 'ēlā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'culture'?",
+      "options": [
+        "উৎসব",
+        "পূজা",
+        "সংস্কৃতি",
+        "দুর্গাপূজা"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংস্কৃতি (sôṅskr̥ti) means culture",
+      "bengali_focus": "সংস্কৃতি",
+      "phonetic_focus": "sôṅskr̥ti"
+    },
+    {
+      "question": "Which word means 'festival'?",
+      "options": [
+        "পয়লা বৈশাখ",
+        "দীপাবলি",
+        "উৎসব",
+        "হোলি"
+      ],
+      "correct_answer": 2,
+      "explanation": "উৎসব (utôb) means festival",
+      "bengali_focus": "উৎসব",
+      "phonetic_focus": "utôb"
+    },
+    {
+      "question": "What does পূজা mean?",
+      "options": [
+        "ঈদ",
+        "ক্রিসমাস",
+        "Worship",
+        "সংগীত"
+      ],
+      "correct_answer": 2,
+      "explanation": "পূজা (pūjā) means worship or puja",
+      "bengali_focus": "পূজা",
+      "phonetic_focus": "pūjā"
+    },
+    {
+      "question": "Which Bengali word means 'Durga Puja'?",
+      "options": [
+        "নাচ",
+        "রবীন্দ্রনাথ",
+        "দুর্গাপূজা",
+        "টেগোর"
+      ],
+      "correct_answer": 2,
+      "explanation": "দুর্গাপূজা (durgāpūjā) means Durga Puja",
+      "bengali_focus": "দুর্গাপূজা",
+      "phonetic_focus": "durgāpūjā"
+    },
+    {
+      "question": "What is পয়লা বৈশাখ?",
+      "options": [
+        "বাংলা সাহিত্য",
+        "রবীন্দ্রসংগীত",
+        "Pohela Boishakh",
+        "সরস্বতী পূজা"
+      ],
+      "correct_answer": 2,
+      "explanation": "পয়লা বৈশাখ (pôẏlā bôiśākh) means Pohela Boishakh",
+      "bengali_focus": "পয়লা বৈশাখ",
+      "phonetic_focus": "pôẏlā bôiśākh"
+    },
+    {
+      "question": "Which word means 'Diwali'?",
+      "options": [
+        "প্রতিমা",
+        "প্রদীপ",
+        "দীপাবলি",
+        "আলো"
+      ],
+      "correct_answer": 2,
+      "explanation": "দীপাবলি (dīpābôli) means Diwali",
+      "bengali_focus": "দীপাবলি",
+      "phonetic_focus": "dīpābôli"
+    },
+    {
+      "question": "What does হোলি mean?",
+      "options": [
+        "ফুল",
+        "প্রসাদ",
+        "Holi",
+        "পোশাক"
+      ],
+      "correct_answer": 2,
+      "explanation": "হোলি (hôli) means Holi",
+      "bengali_focus": "হোলি",
+      "phonetic_focus": "hôli"
+    },
+    {
+      "question": "Which Bengali word means 'music'?",
+      "options": [
+        "শাড়ি",
+        "পুজো",
+        "সংগীত",
+        "মেলা"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংগীত (sôngīt) means music",
+      "bengali_focus": "সংগীত",
+      "phonetic_focus": "sôngīt"
+    },
+    {
+      "question": "What is নাচ?",
+      "options": [
+        "Culture",
+        "Festival",
+        "Dance",
+        "Worship"
+      ],
+      "correct_answer": 2,
+      "explanation": "নাচ (nāc) means dance",
+      "bengali_focus": "নাচ",
+      "phonetic_focus": "nāc"
+    },
+    {
+      "question": "Which word means 'Rabindranath'?",
+      "options": [
+        "Durga Puja",
+        "Pohela Boishakh",
+        "রবীন্দ্রনাথ",
+        "Diwali"
+      ],
+      "correct_answer": 2,
+      "explanation": "রবীন্দ্রনাথ (rôbiṇdrônāth) means Rabindranath",
+      "bengali_focus": "রবীন্দ্রনাথ",
+      "phonetic_focus": "rôbiṇdrônāth"
+    },
+    {
+      "question": "What does টেগোর mean?",
+      "options": [
+        "Holi",
+        "Eid",
+        "Tagore",
+        "Christmas"
+      ],
+      "correct_answer": 2,
+      "explanation": "টেগোর (ṭêgôr) means Tagore",
+      "bengali_focus": "টেগোর",
+      "phonetic_focus": "ṭêgôr"
+    },
+    {
+      "question": "Which Bengali word means 'Bengali literature'?",
+      "options": [
+        "Music",
+        "Dance",
+        "বাংলা সাহিত্য",
+        "Rabindranath"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাংলা সাহিত্য (bāṅlā sāhityô) means Bengali literature",
+      "bengali_focus": "বাংলা সাহিত্য",
+      "phonetic_focus": "bāṅlā sāhityô"
+    },
+    {
+      "question": "What is রবীন্দ্রসংগীত?",
+      "options": [
+        "Tagore",
+        "Bengali literature",
+        "Rabindra Sangeet",
+        "Saraswati Puja"
+      ],
+      "correct_answer": 2,
+      "explanation": "রবীন্দ্রসংগীত (rôbiṇdrôsôngīt) means Rabindra Sangeet",
+      "bengali_focus": "রবীন্দ্রসংগীত",
+      "phonetic_focus": "rôbiṇdrôsôngīt"
+    },
+    {
+      "question": "Which word means 'Saraswati Puja'?",
+      "options": [
+        "Idol",
+        "Lamp",
+        "সরস্বতী পূজা",
+        "Light"
+      ],
+      "correct_answer": 2,
+      "explanation": "সরস্বতী পূজা (sôrôsbôtī pūjā) means Saraswati Puja",
+      "bengali_focus": "সরস্বতী পূজা",
+      "phonetic_focus": "sôrôsbôtī pūjā"
+    },
+    {
+      "question": "What does প্রতিমা mean?",
+      "options": [
+        "Flower",
+        "Prasad",
+        "Idol",
+        "Clothing"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রতিমা (prôtimā) means idol or statue",
+      "bengali_focus": "প্রতিমা",
+      "phonetic_focus": "prôtimā"
+    },
+    {
+      "question": "Which Bengali word means 'light'?",
+      "options": [
+        "Sari",
+        "Pujo",
+        "আলো",
+        "Fair"
+      ],
+      "correct_answer": 2,
+      "explanation": "আলো (ālô) means light",
+      "bengali_focus": "আলো",
+      "phonetic_focus": "ālô"
+    },
+    {
+      "question": "What is ফুল?",
+      "options": [
+        "Culture",
+        "Festival",
+        "Flower",
+        "Worship"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফুল (phul) means flower",
+      "bengali_focus": "ফুল",
+      "phonetic_focus": "phul"
+    },
+    {
+      "question": "Which word means 'prasad'?",
+      "options": [
+        "Durga Puja",
+        "Pohela Boishakh",
+        "প্রসাদ",
+        "Diwali"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রসাদ (prôsād) means prasad or offering",
+      "bengali_focus": "প্রসাদ",
+      "phonetic_focus": "prôsād"
+    },
+    {
+      "question": "What does পোশাক mean?",
+      "options": [
+        "Holi",
+        "Eid",
+        "Clothing",
+        "Christmas"
+      ],
+      "correct_answer": 2,
+      "explanation": "পোশাক (pōśāk) means clothing or dress",
+      "bengali_focus": "পোশাক",
+      "phonetic_focus": "pōśāk"
+    },
+    {
+      "question": "Which Bengali word means 'sari'?",
+      "options": [
+        "Music",
+        "Dance",
+        "শাড়ি",
+        "Rabindranath"
+      ],
+      "correct_answer": 2,
+      "explanation": "শাড়ি (śāḍi) means sari",
+      "bengali_focus": "শাড়ি",
+      "phonetic_focus": "śāḍi"
+    },
+    {
+      "question": "What is পুজো?",
+      "options": [
+        "Tagore",
+        "Bengali literature",
+        "Pujo",
+        "Rabindra Sangeet"
+      ],
+      "correct_answer": 2,
+      "explanation": "পুজো (pujō) means Pujo (Durga Puja)",
+      "bengali_focus": "পুজো",
+      "phonetic_focus": "pujō"
+    },
+    {
+      "question": "Which word means 'fair'?",
+      "options": [
+        "Saraswati Puja",
+        "Idol",
+        "মেলা",
+        "Lamp"
+      ],
+      "correct_answer": 2,
+      "explanation": "মেলা (mēlā) means fair or festival",
+      "bengali_focus": "মেলা",
+      "phonetic_focus": "mēlā"
+    },
+    {
+      "question": "What does প্রদীপ mean?",
+      "options": [
+        "Light",
+        "Flower",
+        "Lamp",
+        "Prasad"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রদীপ (prôdīp) means lamp or oil lamp",
+      "bengali_focus": "প্রদীপ",
+      "phonetic_focus": "prôdīp"
+    },
+    {
+      "question": "Which Bengali word means 'Eid'?",
+      "options": [
+        "Culture",
+        "Festival",
+        "ঈদ",
+        "Worship"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঈদ (īd) means Eid",
+      "bengali_focus": "ঈদ",
+      "phonetic_focus": "īd"
+    },
+    {
+      "question": "What is ক্রিসমাস?",
+      "options": [
+        "Durga Puja",
+        "Pohela Boishakh",
+        "Christmas",
+        "Diwali"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্রিসমাস (krismās) means Christmas",
+      "bengali_focus": "ক্রিসমাস",
+      "phonetic_focus": "krismās"
+    }
+  ]
+}

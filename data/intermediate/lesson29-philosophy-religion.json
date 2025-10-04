@@ -1,0 +1,513 @@
+{
+  "id": "lesson29-philosophy-religion",
+  "title": "Philosophy and Religion",
+  "category": "intermediate",
+  "description": "Learn vocabulary related to philosophy, religion, and spiritual concepts in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "ধর্ম",
+      "english": "religion",
+      "phonetic": "dhôrmô",
+      "pronunciation_guide": "like 'dhor-mo'",
+      "audio_tip": "aspirated 'dhôrmô'"
+    },
+    {
+      "bengali": "দর্শন",
+      "english": "philosophy",
+      "phonetic": "dôrśôn",
+      "pronunciation_guide": "like 'dor-shon'",
+      "audio_tip": "aspirated 'rśôn'"
+    },
+    {
+      "bengali": "ঈশ্বর",
+      "english": "God",
+      "phonetic": "īśbôr",
+      "pronunciation_guide": "like 'ish-bor'",
+      "audio_tip": "aspirated 'śbôr'"
+    },
+    {
+      "bengali": "আত্মা",
+      "english": "soul/spirit",
+      "phonetic": "ātmā",
+      "pronunciation_guide": "like 'at-ma'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "কর্ম",
+      "english": "karma/action",
+      "phonetic": "kôrmô",
+      "pronunciation_guide": "like 'kor-mo'",
+      "audio_tip": "aspirated 'kôrmô'"
+    },
+    {
+      "bengali": "মোক্ষ",
+      "english": "liberation/enlightenment",
+      "phonetic": "môkṣô",
+      "pronunciation_guide": "like 'mok-kho'",
+      "audio_tip": "retroflex 'kṣô'"
+    },
+    {
+      "bengali": "সত্য",
+      "english": "truth",
+      "phonetic": "sôtyô",
+      "pronunciation_guide": "like 'sho-tyo'",
+      "audio_tip": "aspirated 'tyô'"
+    },
+    {
+      "bengali": "অহিংসা",
+      "english": "non-violence",
+      "phonetic": "ôhiṅsā",
+      "pronunciation_guide": "like 'o-hing-sa'",
+      "audio_tip": "nasal 'ṅsā'"
+    },
+    {
+      "bengali": "ভক্তি",
+      "english": "devotion",
+      "phonetic": "bhôkti",
+      "pronunciation_guide": "like 'bhok-ti'",
+      "audio_tip": "aspirated 'bhôkti'"
+    },
+    {
+      "bengali": "জ্ঞান",
+      "english": "knowledge/wisdom",
+      "phonetic": "jñān",
+      "pronunciation_guide": "like 'gyan'",
+      "audio_tip": "nasal 'ñān'"
+    },
+    {
+      "bengali": "যোগ",
+      "english": "yoga",
+      "phonetic": "yōg",
+      "pronunciation_guide": "like 'yog'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "মেডিটেশন",
+      "english": "meditation",
+      "phonetic": "mêḍiṭêśôn",
+      "pronunciation_guide": "like 'me-di-te-shon'",
+      "audio_tip": "retroflex 'ḍiṭêśôn'"
+    },
+    {
+      "bengali": "প্রার্থনা",
+      "english": "prayer",
+      "phonetic": "prārthônā",
+      "pronunciation_guide": "like 'prar-tho-na'",
+      "audio_tip": "aspirated 'rthônā'"
+    },
+    {
+      "bengali": "মন্দির",
+      "english": "temple",
+      "phonetic": "môndir",
+      "pronunciation_guide": "like 'mon-dir'",
+      "audio_tip": "aspirated 'ndir'"
+    },
+    {
+      "bengali": "মসজিদ",
+      "english": "mosque",
+      "phonetic": "môsôjid",
+      "pronunciation_guide": "like 'mo-so-jid'",
+      "audio_tip": "aspirated 'sôjid'"
+    },
+    {
+      "bengali": "গির্জা",
+      "english": "church",
+      "phonetic": "girjā",
+      "pronunciation_guide": "like 'gir-ja'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "গুরু",
+      "english": "guru/spiritual teacher",
+      "phonetic": "gurū",
+      "pronunciation_guide": "like 'gu-ru'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "সাধু",
+      "english": "saint/ascetic",
+      "phonetic": "sādhu",
+      "pronunciation_guide": "like 'sa-dhu'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "পবিত্র",
+      "english": "sacred/holy",
+      "phonetic": "pôbitrô",
+      "pronunciation_guide": "like 'po-bi-tro'",
+      "audio_tip": "aspirated 'bitrô'"
+    },
+    {
+      "bengali": "নীতি",
+      "english": "ethics/morality",
+      "phonetic": "nīti",
+      "pronunciation_guide": "like 'ni-ti'",
+      "audio_tip": "long 'ī'"
+    },
+    {
+      "bengali": "বিশ্বাস",
+      "english": "faith/belief",
+      "phonetic": "biśbās",
+      "pronunciation_guide": "like 'bish-bas'",
+      "audio_tip": "aspirated 'śbās'"
+    },
+    {
+      "bengali": "আধ্যাত্মিক",
+      "english": "spiritual",
+      "phonetic": "ādhyātmik",
+      "pronunciation_guide": "like 'ad-hya-tmik'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "সংস্কার",
+      "english": "ritual/tradition",
+      "phonetic": "sôṅskār",
+      "pronunciation_guide": "like 'shong-skar'",
+      "audio_tip": "nasal 'ṅskār'"
+    },
+    {
+      "bengali": "উৎসব",
+      "english": "festival",
+      "phonetic": "utsôb",
+      "pronunciation_guide": "like 'ut-sob'",
+      "audio_tip": "aspirated 'tsôb'"
+    },
+    {
+      "bengali": "ধ্যান",
+      "english": "contemplation",
+      "phonetic": "dhyān",
+      "pronunciation_guide": "like 'dhyaan'",
+      "audio_tip": "long 'ā'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'religion'?",
+      "options": [
+        "দর্শন",
+        "ঈশ্বর",
+        "ধর্ম",
+        "আত্মা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ধর্ম (dhôrmô) means religion",
+      "bengali_focus": "ধর্ম",
+      "phonetic_focus": "dhôrmô"
+    },
+    {
+      "question": "Which word means 'philosophy'?",
+      "options": [
+        "কর্ম",
+        "মোক্ষ",
+        "দর্শন",
+        "সত্য"
+      ],
+      "correct_answer": 2,
+      "explanation": "দর্শন (dôrśôn) means philosophy",
+      "bengali_focus": "দর্শন",
+      "phonetic_focus": "dôrśôn"
+    },
+    {
+      "question": "What does ঈশ্বর mean?",
+      "options": [
+        "অহিংসা",
+        "ভক্তি",
+        "God",
+        "জ্ঞান"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঈশ্বর (īśbôr) means God",
+      "bengali_focus": "ঈশ্বর",
+      "phonetic_focus": "īśbôr"
+    },
+    {
+      "question": "Which Bengali word means 'soul'?",
+      "options": [
+        "যোগ",
+        "মেডিটেশন",
+        "আত্মা",
+        "প্রার্থনা"
+      ],
+      "correct_answer": 2,
+      "explanation": "আত্মা (ātmā) means soul",
+      "bengali_focus": "আত্মা",
+      "phonetic_focus": "ātmā"
+    },
+    {
+      "question": "What is কর্ম?",
+      "options": [
+        "মন্দির",
+        "মসজিদ",
+        "Karma",
+        "গির্জা"
+      ],
+      "correct_answer": 2,
+      "explanation": "কর্ম (kôrmô) means karma",
+      "bengali_focus": "কর্ম",
+      "phonetic_focus": "kôrmô"
+    },
+    {
+      "question": "Which word means 'liberation'?",
+      "options": [
+        "গুরু",
+        "সাধু",
+        "মোক্ষ",
+        "পবিত্র"
+      ],
+      "correct_answer": 2,
+      "explanation": "মোক্ষ (môkṣô) means liberation",
+      "bengali_focus": "মোক্ষ",
+      "phonetic_focus": "môkṣô"
+    },
+    {
+      "question": "What does সত্য mean?",
+      "options": [
+        "নীতি",
+        "বিশ্বাস",
+        "Truth",
+        "আধ্যাত্মিক"
+      ],
+      "correct_answer": 2,
+      "explanation": "সত্য (sôtyô) means truth",
+      "bengali_focus": "সত্য",
+      "phonetic_focus": "sôtyô"
+    },
+    {
+      "question": "Which Bengali word means 'non-violence'?",
+      "options": [
+        "সংস্কার",
+        "উৎসব",
+        "অহিংসা",
+        "ধ্যান"
+      ],
+      "correct_answer": 2,
+      "explanation": "অহিংসা (ôhiṅsā) means non-violence",
+      "bengali_focus": "অহিংসা",
+      "phonetic_focus": "ôhiṅsā"
+    },
+    {
+      "question": "What is ভক্তি?",
+      "options": [
+        "Religion",
+        "Philosophy",
+        "Devotion",
+        "God"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভক্তি (bhôkti) means devotion",
+      "bengali_focus": "ভক্তি",
+      "phonetic_focus": "bhôkti"
+    },
+    {
+      "question": "Which word means 'knowledge'?",
+      "options": [
+        "Soul",
+        "Karma",
+        "জ্ঞান",
+        "Liberation"
+      ],
+      "correct_answer": 2,
+      "explanation": "জ্ঞান (jñān) means knowledge",
+      "bengali_focus": "জ্ঞান",
+      "phonetic_focus": "jñān"
+    },
+    {
+      "question": "What does যোগ mean?",
+      "options": [
+        "Truth",
+        "Non-violence",
+        "Yoga",
+        "Devotion"
+      ],
+      "correct_answer": 2,
+      "explanation": "যোগ (yōg) means yoga",
+      "bengali_focus": "যোগ",
+      "phonetic_focus": "yōg"
+    },
+    {
+      "question": "Which Bengali word means 'meditation'?",
+      "options": [
+        "Knowledge",
+        "Yoga",
+        "মেডিটেশন",
+        "Prayer"
+      ],
+      "correct_answer": 2,
+      "explanation": "মেডিটেশন (mêḍiṭêśôn) means meditation",
+      "bengali_focus": "মেডিটেশন",
+      "phonetic_focus": "mêḍiṭêśôn"
+    },
+    {
+      "question": "What is প্রার্থনা?",
+      "options": [
+        "Temple",
+        "Mosque",
+        "Prayer",
+        "Church"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রার্থনা (prārthônā) means prayer",
+      "bengali_focus": "প্রার্থনা",
+      "phonetic_focus": "prārthônā"
+    },
+    {
+      "question": "Which word means 'temple'?",
+      "options": [
+        "Guru",
+        "Saint",
+        "মন্দির",
+        "Sacred"
+      ],
+      "correct_answer": 2,
+      "explanation": "মন্দির (môndir) means temple",
+      "bengali_focus": "মন্দির",
+      "phonetic_focus": "môndir"
+    },
+    {
+      "question": "What does মসজিদ mean?",
+      "options": [
+        "Ethics",
+        "Faith",
+        "Mosque",
+        "Spiritual"
+      ],
+      "correct_answer": 2,
+      "explanation": "মসজিদ (môsôjid) means mosque",
+      "bengali_focus": "মসজিদ",
+      "phonetic_focus": "môsôjid"
+    },
+    {
+      "question": "Which Bengali word means 'church'?",
+      "options": [
+        "Ritual",
+        "Festival",
+        "গির্জা",
+        "Contemplation"
+      ],
+      "correct_answer": 2,
+      "explanation": "গির্জা (girjā) means church",
+      "bengali_focus": "গির্জা",
+      "phonetic_focus": "girjā"
+    },
+    {
+      "question": "What is গুরু?",
+      "options": [
+        "Religion",
+        "Philosophy",
+        "Guru",
+        "God"
+      ],
+      "correct_answer": 2,
+      "explanation": "গুরু (gurū) means guru",
+      "bengali_focus": "গুরু",
+      "phonetic_focus": "gurū"
+    },
+    {
+      "question": "Which word means 'saint'?",
+      "options": [
+        "Soul",
+        "Karma",
+        "সাধু",
+        "Liberation"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাধু (sādhu) means saint",
+      "bengali_focus": "সাধু",
+      "phonetic_focus": "sādhu"
+    },
+    {
+      "question": "What does পবিত্র mean?",
+      "options": [
+        "Truth",
+        "Non-violence",
+        "Sacred",
+        "Devotion"
+      ],
+      "correct_answer": 2,
+      "explanation": "পবিত্র (pôbitrô) means sacred",
+      "bengali_focus": "পবিত্র",
+      "phonetic_focus": "pôbitrô"
+    },
+    {
+      "question": "Which Bengali word means 'ethics'?",
+      "options": [
+        "Knowledge",
+        "Yoga",
+        "নীতি",
+        "Meditation"
+      ],
+      "correct_answer": 2,
+      "explanation": "নীতি (nīti) means ethics",
+      "bengali_focus": "নীতি",
+      "phonetic_focus": "nīti"
+    },
+    {
+      "question": "What is বিশ্বাস?",
+      "options": [
+        "Prayer",
+        "Temple",
+        "Faith",
+        "Mosque"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিশ্বাস (biśbās) means faith",
+      "bengali_focus": "বিশ্বাস",
+      "phonetic_focus": "biśbās"
+    },
+    {
+      "question": "Which word means 'spiritual'?",
+      "options": [
+        "Church",
+        "Guru",
+        "আধ্যাত্মিক",
+        "Saint"
+      ],
+      "correct_answer": 2,
+      "explanation": "আধ্যাত্মিক (ādhyātmik) means spiritual",
+      "bengali_focus": "আধ্যাত্মিক",
+      "phonetic_focus": "ādhyātmik"
+    },
+    {
+      "question": "What does সংস্কার mean?",
+      "options": [
+        "Sacred",
+        "Ethics",
+        "Ritual",
+        "Faith"
+      ],
+      "correct_answer": 2,
+      "explanation": "সংস্কার (sôṅskār) means ritual",
+      "bengali_focus": "সংস্কার",
+      "phonetic_focus": "sôṅskār"
+    },
+    {
+      "question": "Which Bengali word means 'festival'?",
+      "options": [
+        "Spiritual",
+        "Ritual",
+        "উৎসব",
+        "Contemplation"
+      ],
+      "correct_answer": 2,
+      "explanation": "উৎসব (utsôb) means festival",
+      "bengali_focus": "উৎসব",
+      "phonetic_focus": "utsôb"
+    },
+    {
+      "question": "What is ধ্যান?",
+      "options": [
+        "Religion",
+        "Philosophy",
+        "Contemplation",
+        "God"
+      ],
+      "correct_answer": 2,
+      "explanation": "ধ্যান (dhyān) means contemplation",
+      "bengali_focus": "ধ্যান",
+      "phonetic_focus": "dhyān"
+    }
+  ]
+}

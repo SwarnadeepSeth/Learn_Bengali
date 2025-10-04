@@ -1,0 +1,420 @@
+{
+  "id": "lesson27-postpositions",
+  "title": "Postpositions",
+  "category": "intermediate",
+  "description": "Master Bengali postpositions: location (-তে), direction (-এর দিকে), source (-থেকে), association (-সাথে/-দিয়ে), time (-এ/-পর), possession (-এর)",
+  "type": "grammar_learning",
+  "total_items": 30,
+  "estimated_time": "35 minutes",
+  "grammar_rules": [
+    {
+      "rule_title": "Location Postpositions (-তে, -এ)",
+      "rule_explanation": "Location postpositions indicate 'in', 'at', or 'on' a place. -তে (-te) is used for most locations, -এ (-e) for some specific contexts.",
+      "key_points": [
+        "-তে (-te): general location (in, at, on)",
+        "-এ (-e): used in some place names",
+        "No distinction between 'in' and 'on'",
+        "Used with verbs of location and position"
+      ]
+    },
+    {
+      "rule_title": "Direction Postpositions (-এর দিকে)",
+      "rule_explanation": "Direction postpositions show movement toward using -এর দিকে (-er dike), meaning 'toward' or 'in the direction of'.",
+      "key_points": [
+        "-এর দিকে (-er dike): toward, in the direction of",
+        "Used for movement toward a destination",
+        "Genitive + দিকে structure",
+        "Can be used metaphorically"
+      ]
+    },
+    {
+      "rule_title": "Source Postpositions (-থেকে)",
+      "rule_explanation": "Source postpositions indicate origin or starting point using -থেকে (-theke), meaning 'from' or 'since'.",
+      "key_points": [
+        "-থেকে (-theke): from, since, starting from",
+        "Used for origin, source, and time duration",
+        "Opposite of direction postpositions",
+        "Works with places, times, and sources"
+      ]
+    },
+    {
+      "rule_title": "Association Postpositions (-সাথে, -দিয়ে)",
+      "rule_explanation": "Association postpositions show accompaniment or means. -সাথে (-sathe) means 'with' (accompaniment), -দিয়ে (-diye) means 'with' (instrument).",
+      "key_points": [
+        "-সাথে (-sathe): with (accompaniment)",
+        "-দিয়ে (-diye): with/by (instrument/means)",
+        "Different meanings for similar English words",
+        "Used for people, tools, and methods"
+      ]
+    },
+    {
+      "rule_title": "Time Postpositions (-এ, -থেকে, -পর)",
+      "rule_explanation": "Time postpositions express temporal relationships: -এ (-e) for 'at', -থেকে (-theke) for 'since', -পর (-por) for 'after'.",
+      "key_points": [
+        "-এ (-e): at, in, on (specific times)",
+        "-থেকে (-theke): since, from (duration)",
+        "-পর (-por): after",
+        "-আগে (-age): before"
+      ]
+    },
+    {
+      "rule_title": "Possession Postpositions (-এর)",
+      "rule_explanation": "The postposition -এর (-er) shows possession and relationships, attached to the possessor before the possessed noun.",
+      "key_points": [
+        "-এর (-er): of, 's (possession)",
+        "Used after vowels",
+        "Shows ownership, relationship, attribution",
+        "Possessor always comes first"
+      ]
+    }
+  ],
+  "teaching_content": [
+    {
+      "bengali": "স্কুলে পড়ি",
+      "english": "I study in school",
+      "phonetic": "śkule poṛi",
+      "pronunciation_guide": "Location: স্কুল + এ = in school"
+    },
+    {
+      "bengali": "বাড়িতে থাকি",
+      "english": "I live at home",
+      "phonetic": "bāṛiṭe thāki",
+      "pronunciation_guide": "Location: বাড়ি + তে = at home"
+    },
+    {
+      "bengali": "টেবিলে রাখি",
+      "english": "I put on the table",
+      "phonetic": "ṭebile rākhi",
+      "pronunciation_guide": "Location: টেবিল + এ = on the table"
+    },
+    {
+      "bengali": "ঢাকায় যাই",
+      "english": "I go to Dhaka",
+      "phonetic": "ḍhākāẏ yāi",
+      "pronunciation_guide": "Location: ঢাকা + য় = in Dhaka"
+    },
+    {
+      "bengali": "ক্লাসে বসি",
+      "english": "I sit in class",
+      "phonetic": "klāse bôśi",
+      "pronunciation_guide": "Location: ক্লাস + এ = in class"
+    },
+    {
+      "bengali": "স্কুলের দিকে যাই",
+      "english": "I go toward school",
+      "phonetic": "śkuler dike yāi",
+      "pronunciation_guide": "Direction: স্কুল + এর দিকে = toward school"
+    },
+    {
+      "bengali": "বাড়ির দিকে আসি",
+      "english": "I come toward home",
+      "phonetic": "bāṛiṛ dikhe āśi",
+      "pronunciation_guide": "Direction: বাড়ি + র দিকে = toward home"
+    },
+    {
+      "bengali": "ঢাকার দিকে যাই",
+      "english": "I go toward Dhaka",
+      "phonetic": "ḍhākār dike yāi",
+      "pronunciation_guide": "Direction: ঢাকা + র দিকে = toward Dhaka"
+    },
+    {
+      "bengali": "কলকাতা থেকে আসি",
+      "english": "I come from Kolkata",
+      "phonetic": "kôlôkātā theke āśi",
+      "pronunciation_guide": "Source: কলকাতা + থেকে = from Kolkata"
+    },
+    {
+      "bengali": "স্কুল থেকে ফিরি",
+      "english": "I return from school",
+      "phonetic": "śkul theke phiri",
+      "pronunciation_guide": "Source: স্কুল + থেকে = from school"
+    },
+    {
+      "bengali": "বাড়ি থেকে বের হই",
+      "english": "I leave from home",
+      "phonetic": "bāṛi theke ber hôi",
+      "pronunciation_guide": "Source: বাড়ি + থেকে = from home"
+    },
+    {
+      "bengali": "সকাল থেকে কাজ করি",
+      "english": "I work since morning",
+      "phonetic": "śôkāl theke kāj kôri",
+      "pronunciation_guide": "Source: সকাল + থেকে = since morning"
+    },
+    {
+      "bengali": "বন্ধু সাথে যাই",
+      "english": "I go with friend",
+      "phonetic": "bôndhu śāthe yāi",
+      "pronunciation_guide": "Association: বন্ধু + সাথে = with friend (accompaniment)"
+    },
+    {
+      "bengali": "মা সাথে বাজার যাই",
+      "english": "I go to market with mother",
+      "phonetic": "mā śāthe bājār yāi",
+      "pronunciation_guide": "Association: মা + সাথে = with mother"
+    },
+    {
+      "bengali": "কলম দিয়ে লিখি",
+      "english": "I write with pen",
+      "phonetic": "kôlôm diye likhi",
+      "pronunciation_guide": "Association: কলম + দিয়ে = with pen (instrument)"
+    },
+    {
+      "bengali": "কাঁচি দিয়ে কাটি",
+      "english": "I cut with scissors",
+      "phonetic": "kāṅchi diye kāṭi",
+      "pronunciation_guide": "Association: কাঁচি + দিয়ে = with scissors"
+    },
+    {
+      "bengali": "হাত দিয়ে খাই",
+      "english": "I eat with hand",
+      "phonetic": "hāt diye khāi",
+      "pronunciation_guide": "Association: হাত + দিয়ে = with hand"
+    },
+    {
+      "bengali": "সকালে উঠি",
+      "english": "I wake up in the morning",
+      "phonetic": "śôkāle uṭhi",
+      "pronunciation_guide": "Time: সকাল + এ = in the morning"
+    },
+    {
+      "bengali": "বিকালে খাই",
+      "english": "I eat in the afternoon",
+      "phonetic": "bikāle khāi",
+      "pronunciation_guide": "Time: বিকাল + এ = in the afternoon"
+    },
+    {
+      "bengali": "রাতে ঘুমাই",
+      "english": "I sleep at night",
+      "phonetic": "rāte ghumāi",
+      "pronunciation_guide": "Time: রাত + এ = at night"
+    },
+    {
+      "bengali": "খাওয়া পরে কাজ করি",
+      "english": "I work after eating",
+      "phonetic": "khāoẏā pôre kāj kôri",
+      "pronunciation_guide": "Time: খাওয়া + পরে = after eating"
+    },
+    {
+      "bengali": "পরীক্ষা পরে যাই",
+      "english": "I go after exam",
+      "phonetic": "pôrikṣā pôre yāi",
+      "pronunciation_guide": "Time: পরীক্ষা + পরে = after exam"
+    },
+    {
+      "bengali": "রামের বই",
+      "english": "Ram's book",
+      "phonetic": "rāmer boi",
+      "pronunciation_guide": "Possession: রাম + এর = Ram's"
+    },
+    {
+      "bengali": "বাবার গাড়ি",
+      "english": "Father's car",
+      "phonetic": "bābār gāṛi",
+      "pronunciation_guide": "Possession: বাবা + র = father's"
+    },
+    {
+      "bengali": "মায়ের শাড়ি",
+      "english": "Mother's sari",
+      "phonetic": "māẏer śāṛi",
+      "pronunciation_guide": "Possession: মা + য়ের = mother's"
+    },
+    {
+      "bengali": "বন্ধুর ঘড়ি",
+      "english": "Friend's watch",
+      "phonetic": "bôndhur ghôṛi",
+      "pronunciation_guide": "Possession: বন্ধু + র = friend's"
+    },
+    {
+      "bengali": "শিক্ষকের ক্লাস",
+      "english": "Teacher's class",
+      "phonetic": "śikkhôker klās",
+      "pronunciation_guide": "Possession: শিক্ষক + এর = teacher's"
+    },
+    {
+      "bengali": "ছাত্রের বই",
+      "english": "Student's book",
+      "phonetic": "chhātrer boi",
+      "pronunciation_guide": "Possession: ছাত্র + এর = student's"
+    },
+    {
+      "bengali": "পরীক্ষা আগে পড়ি",
+      "english": "I study before exam",
+      "phonetic": "pôrikṣā āge poṛi",
+      "pronunciation_guide": "Time: পরীক্ষা + আগে = before exam"
+    },
+    {
+      "bengali": "সন্ধ্যায় ফিরি",
+      "english": "I return in the evening",
+      "phonetic": "śôndhāẏ phiri",
+      "pronunciation_guide": "Time: সন্ধ্যা + য় = in the evening"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What postposition means 'from' or 'since'?",
+      "options": [
+        "-তে (-te)",
+        "-থেকে (-theke)",
+        "-সাথে (-sathe)",
+        "-এর (-er)"
+      ],
+      "correct_answer": 1,
+      "explanation": "-থেকে (-theke) indicates source or starting point"
+    },
+    {
+      "question": "How do you say 'with a friend' (accompaniment)?",
+      "options": [
+        "বন্ধুতে",
+        "বন্ধু থেকে",
+        "বন্ধু সাথে",
+        "বন্ধু দিয়ে"
+      ],
+      "correct_answer": 2,
+      "explanation": "-সাথে (-sathe) is used for accompaniment"
+    },
+    {
+      "question": "What does 'স্কুলের দিকে' mean?",
+      "options": [
+        "In school",
+        "From school",
+        "Toward school",
+        "With school"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এর দিকে (-er dike) shows direction toward"
+    },
+    {
+      "question": "Which postposition shows possession?",
+      "options": [
+        "-তে (-te)",
+        "-থেকে (-theke)",
+        "-এর (-er)",
+        "-সাথে (-sathe)"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এর (-er) indicates possession or relationship"
+    },
+    {
+      "question": "How do you say 'at night'?",
+      "options": [
+        "রাত্রি থেকে",
+        "রাত্রি সাথে",
+        "রাত্রে",
+        "রাত্রির দিকে"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এ (-e) is used for specific times"
+    },
+    {
+      "question": "What postposition means 'with' (instrument)?",
+      "options": [
+        "-সাথে (-sathe)",
+        "-দিয়ে (-diye)",
+        "-থেকে (-theke)",
+        "-এর (-er)"
+      ],
+      "correct_answer": 1,
+      "explanation": "-দিয়ে (-diye) indicates means or instrument"
+    },
+    {
+      "question": "Which sentence uses a location postposition?",
+      "options": [
+        "সে বাড়ি থেকে আসে",
+        "সে বাড়িতে থাকে",
+        "সে বাড়ি সাথে নেয়",
+        "সে বাড়ির দিকে যায়"
+      ],
+      "correct_answer": 1,
+      "explanation": "-তে (-te) shows location 'at/in home'"
+    },
+    {
+      "question": "What does 'পরীক্ষা পরে' mean?",
+      "options": [
+        "Before exam",
+        "During exam",
+        "After exam",
+        "From exam"
+      ],
+      "correct_answer": 2,
+      "explanation": "-পর (-por) means 'after'"
+    },
+    {
+      "question": "How do you express 'toward the city'?",
+      "options": [
+        "শহর থেকে",
+        "শহরে",
+        "শহরের দিকে",
+        "শহর সাথে"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এর দিকে (-er dike) shows direction"
+    },
+    {
+      "question": "Which postposition is used for time duration starting from a point?",
+      "options": [
+        "-এ (-e)",
+        "-পর (-por)",
+        "-থেকে (-theke)",
+        "-সাথে (-sathe)"
+      ],
+      "correct_answer": 2,
+      "explanation": "-থেকে (-theke) means 'since' or 'from' for time"
+    },
+    {
+      "question": "What does 'কলম দিয়ে' mean?",
+      "options": [
+        "With pen (accompaniment)",
+        "With pen (instrument)",
+        "From pen",
+        "Toward pen"
+      ],
+      "correct_answer": 1,
+      "explanation": "-দিয়ে indicates instrument or means"
+    },
+    {
+      "question": "Which is correct for 'in the morning'?",
+      "options": [
+        "সকাল থেকে",
+        "সকালের দিকে",
+        "সকালে",
+        "সকাল পরে"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এ (-e) is used for specific times like morning"
+    },
+    {
+      "question": "What does 'বাবার গাড়ি' show?",
+      "options": [
+        "Car from father",
+        "Car toward father",
+        "Father's car",
+        "Car with father"
+      ],
+      "correct_answer": 2,
+      "explanation": "-র (-r) after consonants shows possession"
+    },
+    {
+      "question": "Which postposition means 'after'?",
+      "options": [
+        "-আগে (-age)",
+        "-থেকে (-theke)",
+        "-পর (-por)",
+        "-সাথে (-sathe)"
+      ],
+      "correct_answer": 2,
+      "explanation": "-পর (-por) indicates 'after' in time"
+    },
+    {
+      "question": "How do you say 'toward home'?",
+      "options": [
+        "বাড়িতে",
+        "বাড়ি থেকে",
+        "বাড়ির দিকে",
+        "বাড়ি সাথে"
+      ],
+      "correct_answer": 2,
+      "explanation": "-এর দিকে shows direction toward a place"
+    }
+  ]
+}

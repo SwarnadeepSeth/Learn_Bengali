@@ -1,0 +1,513 @@
+{
+  "id": "lesson12-education-school",
+  "title": "Education and School",
+  "category": "intermediate",
+  "description": "Learn vocabulary for education, school, and academic terms in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "শিক্ষা",
+      "english": "education",
+      "phonetic": "śikkhā",
+      "pronunciation_guide": "like 'shik-kha'",
+      "audio_tip": "aspirated 'śikkhā'"
+    },
+    {
+      "bengali": "বিদ্যালয়",
+      "english": "school",
+      "phonetic": "bidyālôy",
+      "pronunciation_guide": "like 'bid-ya-loy'",
+      "audio_tip": "aspirated 'dyālôy'"
+    },
+    {
+      "bengali": "ছাত্র",
+      "english": "student (male)",
+      "phonetic": "chātrô",
+      "pronunciation_guide": "like 'chat-ro'",
+      "audio_tip": "aspirated 'chātrô'"
+    },
+    {
+      "bengali": "ছাত্রী",
+      "english": "student (female)",
+      "phonetic": "chātrī",
+      "pronunciation_guide": "like 'chat-ree'",
+      "audio_tip": "aspirated 'chātrī'"
+    },
+    {
+      "bengali": "শিক্ষক",
+      "english": "teacher",
+      "phonetic": "śikkhôk",
+      "pronunciation_guide": "like 'shik-khok'",
+      "audio_tip": "aspirated 'śikkhôk'"
+    },
+    {
+      "bengali": "প্রধান শিক্ষক",
+      "english": "principal/headmaster",
+      "phonetic": "prôdhān śikkhôk",
+      "pronunciation_guide": "like 'pro-dhan shik-khok'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "ক্লাস",
+      "english": "class",
+      "phonetic": "klās",
+      "pronunciation_guide": "like 'klas'",
+      "audio_tip": "aspirated 'klās'"
+    },
+    {
+      "bengali": "পাঠ্যপুস্তক",
+      "english": "textbook",
+      "phonetic": "pāṭhyôpustôk",
+      "pronunciation_guide": "like 'path-yo-pus-tok'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "পাঠ",
+      "english": "lesson/chapter",
+      "phonetic": "pāṭh",
+      "pronunciation_guide": "like 'path'",
+      "audio_tip": "aspirated 'pāṭh'"
+    },
+    {
+      "bengali": "পরীক্ষা",
+      "english": "exam/test",
+      "phonetic": "pôrīkkhā",
+      "pronunciation_guide": "like 'po-rik-kha'",
+      "audio_tip": "aspirated 'rīkkhā'"
+    },
+    {
+      "bengali": "নম্বর",
+      "english": "grade/mark",
+      "phonetic": "nômbôr",
+      "pronunciation_guide": "like 'nom-bor'",
+      "audio_tip": "aspirated 'mbôr'"
+    },
+    {
+      "bengali": "পাস",
+      "english": "pass",
+      "phonetic": "pās",
+      "pronunciation_guide": "like 'pas'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ফেল",
+      "english": "fail",
+      "phonetic": "phêl",
+      "pronunciation_guide": "like 'phel'",
+      "audio_tip": "aspirated 'phêl'"
+    },
+    {
+      "bengali": "পড়া",
+      "english": "to study/to read",
+      "phonetic": "pôṛā",
+      "pronunciation_guide": "like 'po-ra'",
+      "audio_tip": "retroflex 'ṛā'"
+    },
+    {
+      "bengali": "লেখা",
+      "english": "to write",
+      "phonetic": "lekhā",
+      "pronunciation_guide": "like 'le-kha'",
+      "audio_tip": "aspirated 'khā'"
+    },
+    {
+      "bengali": "বিজ্ঞান",
+      "english": "science",
+      "phonetic": "bijñān",
+      "pronunciation_guide": "like 'bij-nan'",
+      "audio_tip": "nasal 'ñān'"
+    },
+    {
+      "bengali": "গণিত",
+      "english": "mathematics",
+      "phonetic": "gôṇit",
+      "pronunciation_guide": "like 'go-nit'",
+      "audio_tip": "nasal 'ṇit'"
+    },
+    {
+      "bengali": "ইতিহাস",
+      "english": "history",
+      "phonetic": "itibās",
+      "pronunciation_guide": "like 'i-ti-has'",
+      "audio_tip": "aspirated 'tibās'"
+    },
+    {
+      "bengali": "ভূগোল",
+      "english": "geography",
+      "phonetic": "bhūgôl",
+      "pronunciation_guide": "like 'bhoo-gol'",
+      "audio_tip": "aspirated 'bhūgôl'"
+    },
+    {
+      "bengali": "সাহিত্য",
+      "english": "literature",
+      "phonetic": "sāhityô",
+      "pronunciation_guide": "like 'sa-hi-tyo'",
+      "audio_tip": "aspirated 'hityô'"
+    },
+    {
+      "bengali": "কলেজ",
+      "english": "college",
+      "phonetic": "kôlēj",
+      "pronunciation_guide": "like 'ko-lej'",
+      "audio_tip": "aspirated 'lēj'"
+    },
+    {
+      "bengali": "বিশ্ববিদ্যালয়",
+      "english": "university",
+      "phonetic": "biśbôbidyālôy",
+      "pronunciation_guide": "like 'bish-bo-bid-ya-loy'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "ডিগ্রি",
+      "english": "degree",
+      "phonetic": "ḍigri",
+      "pronunciation_guide": "like 'dig-ri'",
+      "audio_tip": "retroflex 'ḍigri'"
+    },
+    {
+      "bengali": "গবেষণা",
+      "english": "research",
+      "phonetic": "gôbêṣôṇā",
+      "pronunciation_guide": "like 'go-besh-o-na'",
+      "audio_tip": "aspirated 'bêṣôṇā'"
+    },
+    {
+      "bengali": "শিক্ষার্থী",
+      "english": "student",
+      "phonetic": "śikkhārthī",
+      "pronunciation_guide": "like 'shik-khar-thee'",
+      "audio_tip": "compound word"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'education'?",
+      "options": [
+        "বিদ্যালয়",
+        "ছাত্র",
+        "শিক্ষা",
+        "শিক্ষক"
+      ],
+      "correct_answer": 2,
+      "explanation": "শিক্ষা (śikkhā) means education",
+      "bengali_focus": "শিক্ষা",
+      "phonetic_focus": "śikkhā"
+    },
+    {
+      "question": "Which word means 'school'?",
+      "options": [
+        "ক্লাস",
+        "পাঠ্যপুস্তক",
+        "বিদ্যালয়",
+        "পরীক্ষা"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিদ্যালয় (bidyālôy) means school",
+      "bengali_focus": "বিদ্যালয়",
+      "phonetic_focus": "bidyālôy"
+    },
+    {
+      "question": "What does ছাত্র mean?",
+      "options": [
+        "Female student",
+        "Teacher",
+        "Male student",
+        "Principal"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছাত্র (chātrô) means male student",
+      "bengali_focus": "ছাত্র",
+      "phonetic_focus": "chātrô"
+    },
+    {
+      "question": "Which Bengali word means 'teacher'?",
+      "options": [
+        "Class",
+        "Textbook",
+        "শিক্ষক",
+        "Lesson"
+      ],
+      "correct_answer": 2,
+      "explanation": "শিক্ষক (śikkhôk) means teacher",
+      "bengali_focus": "শিক্ষক",
+      "phonetic_focus": "śikkhôk"
+    },
+    {
+      "question": "What is ক্লাস?",
+      "options": [
+        "Exam",
+        "Grade",
+        "Class",
+        "Pass"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্লাস (klās) means class",
+      "bengali_focus": "ক্লাস",
+      "phonetic_focus": "klās"
+    },
+    {
+      "question": "Which word means 'textbook'?",
+      "options": [
+        "Fail",
+        "Study",
+        "পাঠ্যপুস্তক",
+        "Write"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাঠ্যপুস্তক (pāṭhyôpustôk) means textbook",
+      "bengali_focus": "পাঠ্যপুস্তক",
+      "phonetic_focus": "pāṭhyôpustôk"
+    },
+    {
+      "question": "What does পরীক্ষা mean?",
+      "options": [
+        "Science",
+        "Mathematics",
+        "Exam",
+        "History"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরীক্ষা (pôrīkkhā) means exam or test",
+      "bengali_focus": "পরীক্ষা",
+      "phonetic_focus": "pôrīkkhā"
+    },
+    {
+      "question": "Which Bengali word means 'grade'?",
+      "options": [
+        "Geography",
+        "Literature",
+        "নম্বর",
+        "College"
+      ],
+      "correct_answer": 2,
+      "explanation": "নম্বর (nômbôr) means grade or mark",
+      "bengali_focus": "নম্বর",
+      "phonetic_focus": "nômbôr"
+    },
+    {
+      "question": "What is পাস?",
+      "options": [
+        "University",
+        "Degree",
+        "Pass",
+        "Research"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাস (pās) means pass",
+      "bengali_focus": "পাস",
+      "phonetic_focus": "pās"
+    },
+    {
+      "question": "Which word means 'to study'?",
+      "options": [
+        "Education",
+        "School",
+        "পড়া",
+        "Student"
+      ],
+      "correct_answer": 2,
+      "explanation": "পড়া (pôṛā) means to study or to read",
+      "bengali_focus": "পড়া",
+      "phonetic_focus": "pôṛā"
+    },
+    {
+      "question": "What does লেখা mean?",
+      "options": [
+        "Teacher",
+        "Class",
+        "To write",
+        "Textbook"
+      ],
+      "correct_answer": 2,
+      "explanation": "লেখা (lekhā) means to write",
+      "bengali_focus": "লেখা",
+      "phonetic_focus": "lekhā"
+    },
+    {
+      "question": "Which Bengali word means 'science'?",
+      "options": [
+        "Exam",
+        "Grade",
+        "বিজ্ঞান",
+        "Pass"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিজ্ঞান (bijñān) means science",
+      "bengali_focus": "বিজ্ঞান",
+      "phonetic_focus": "bijñān"
+    },
+    {
+      "question": "What is গণিত?",
+      "options": [
+        "Fail",
+        "Study",
+        "Mathematics",
+        "Write"
+      ],
+      "correct_answer": 2,
+      "explanation": "গণিত (gôṇit) means mathematics",
+      "bengali_focus": "গণিত",
+      "phonetic_focus": "gôṇit"
+    },
+    {
+      "question": "Which word means 'history'?",
+      "options": [
+        "Science",
+        "Mathematics",
+        "ইতিহাস",
+        "Geography"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইতিহাস (itibās) means history",
+      "bengali_focus": "ইতিহাস",
+      "phonetic_focus": "itibās"
+    },
+    {
+      "question": "What does ভূগোল mean?",
+      "options": [
+        "Literature",
+        "College",
+        "Geography",
+        "University"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভূগোল (bhūgôl) means geography",
+      "bengali_focus": "ভূগোল",
+      "phonetic_focus": "bhūgôl"
+    },
+    {
+      "question": "Which Bengali word means 'college'?",
+      "options": [
+        "Degree",
+        "Research",
+        "কলেজ",
+        "Student"
+      ],
+      "correct_answer": 2,
+      "explanation": "কলেজ (kôlēj) means college",
+      "bengali_focus": "কলেজ",
+      "phonetic_focus": "kôlēj"
+    },
+    {
+      "question": "What is বিশ্ববিদ্যালয়?",
+      "options": [
+        "Education",
+        "School",
+        "University",
+        "Teacher"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিশ্ববিদ্যালয় (biśbôbidyālôy) means university",
+      "bengali_focus": "বিশ্ববিদ্যালয়",
+      "phonetic_focus": "biśbôbidyālôy"
+    },
+    {
+      "question": "Which word means 'degree'?",
+      "options": [
+        "Class",
+        "Textbook",
+        "ডিগ্রি",
+        "Lesson"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডিগ্রি (ḍigri) means degree",
+      "bengali_focus": "ডিগ্রি",
+      "phonetic_focus": "ḍigri"
+    },
+    {
+      "question": "What does গবেষণা mean?",
+      "options": [
+        "Exam",
+        "Grade",
+        "Research",
+        "Pass"
+      ],
+      "correct_answer": 2,
+      "explanation": "গবেষণা (gôbêṣôṇā) means research",
+      "bengali_focus": "গবেষণা",
+      "phonetic_focus": "gôbêṣôṇā"
+    },
+    {
+      "question": "Which Bengali word means 'student'?",
+      "options": [
+        "Fail",
+        "Study",
+        "শিক্ষার্থী",
+        "Write"
+      ],
+      "correct_answer": 2,
+      "explanation": "শিক্ষার্থী (śikkhārthī) means student",
+      "bengali_focus": "শিক্ষার্থী",
+      "phonetic_focus": "śikkhārthī"
+    },
+    {
+      "question": "What is প্রধান শিক্ষক?",
+      "options": [
+        "Science",
+        "Mathematics",
+        "Principal",
+        "History"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রধান শিক্ষক (prôdhān śikkhôk) means principal or headmaster",
+      "bengali_focus": "প্রধান শিক্ষক",
+      "phonetic_focus": "prôdhān śikkhôk"
+    },
+    {
+      "question": "Which word means 'lesson'?",
+      "options": [
+        "Geography",
+        "Literature",
+        "পাঠ",
+        "College"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাঠ (pāṭh) means lesson or chapter",
+      "bengali_focus": "পাঠ",
+      "phonetic_focus": "pāṭh"
+    },
+    {
+      "question": "What does সাহিত্য mean?",
+      "options": [
+        "University",
+        "Degree",
+        "Literature",
+        "Research"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাহিত্য (sāhityô) means literature",
+      "bengali_focus": "সাহিত্য",
+      "phonetic_focus": "sāhityô"
+    },
+    {
+      "question": "Which Bengali word means 'female student'?",
+      "options": [
+        "ছাত্র",
+        "শিক্ষক",
+        "ছাত্রী",
+        "প্রধান শিক্ষক"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছাত্রী (chātrī) means female student",
+      "bengali_focus": "ছাত্রী",
+      "phonetic_focus": "chātrī"
+    },
+    {
+      "question": "What is ফেল?",
+      "options": [
+        "Education",
+        "School",
+        "Fail",
+        "Teacher"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফেল (phêl) means fail",
+      "bengali_focus": "ফেল",
+      "phonetic_focus": "phêl"
+    }
+  ]
+}

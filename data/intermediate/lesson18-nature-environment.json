@@ -1,0 +1,513 @@
+{
+  "id": "lesson18-nature-environment",
+  "title": "Nature and Environment",
+  "category": "intermediate",
+  "description": "Learn vocabulary related to nature, environment, and ecological concepts in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "প্রকৃতি",
+      "english": "nature",
+      "phonetic": "prôkṛti",
+      "pronunciation_guide": "like 'prok-ri-ti'",
+      "audio_tip": "retroflex 'kṛti'"
+    },
+    {
+      "bengali": "পরিবেশ",
+      "english": "environment",
+      "phonetic": "pôribêś",
+      "pronunciation_guide": "like 'po-ri-besh'",
+      "audio_tip": "aspirated 'ribêś'"
+    },
+    {
+      "bengali": "বন",
+      "english": "forest",
+      "phonetic": "bôn",
+      "pronunciation_guide": "like 'bon'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "গাছ",
+      "english": "tree",
+      "phonetic": "gāch",
+      "pronunciation_guide": "like 'gach'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "ফুল",
+      "english": "flower",
+      "phonetic": "phul",
+      "pronunciation_guide": "like 'phul'",
+      "audio_tip": "aspirated 'phul'"
+    },
+    {
+      "bengali": "পাতা",
+      "english": "leaf",
+      "phonetic": "pātā",
+      "pronunciation_guide": "like 'pa-ta'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "নদী",
+      "english": "river",
+      "phonetic": "nôdī",
+      "pronunciation_guide": "like 'no-di'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "সমুদ্র",
+      "english": "ocean/sea",
+      "phonetic": "sômudrô",
+      "pronunciation_guide": "like 'sho-mud-ro'",
+      "audio_tip": "aspirated 'mudrô'"
+    },
+    {
+      "bengali": "পাহাড়",
+      "english": "mountain",
+      "phonetic": "pāhāḍ",
+      "pronunciation_guide": "like 'pa-ha-r'",
+      "audio_tip": "aspirated 'hāhāḍ'"
+    },
+    {
+      "bengali": "উপত্যকা",
+      "english": "valley",
+      "phonetic": "upôtyôkā",
+      "pronunciation_guide": "like 'u-po-tyo-ka'",
+      "audio_tip": "aspirated 'tyôkā'"
+    },
+    {
+      "bengali": "মরুভূমি",
+      "english": "desert",
+      "phonetic": "môrubhūmi",
+      "pronunciation_guide": "like 'mo-ru-bhoo-mi'",
+      "audio_tip": "aspirated 'rubhūmi'"
+    },
+    {
+      "bengali": "বায়ু",
+      "english": "air/wind",
+      "phonetic": "bāyu",
+      "pronunciation_guide": "like 'ba-yu'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "বৃষ্টি",
+      "english": "rain",
+      "phonetic": "br̥ṣṭi",
+      "pronunciation_guide": "like 'brish-ti'",
+      "audio_tip": "retroflex 'ṣṭi'"
+    },
+    {
+      "bengali": "সূর্য",
+      "english": "sun",
+      "phonetic": "sūryô",
+      "pronunciation_guide": "like 'sur-yo'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "চাঁদ",
+      "english": "moon",
+      "phonetic": "cāṅd",
+      "pronunciation_guide": "like 'chand'",
+      "audio_tip": "nasal 'āṅd'"
+    },
+    {
+      "bengali": "তারা",
+      "english": "star",
+      "phonetic": "tārā",
+      "pronunciation_guide": "like 'ta-ra'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "পরিবেশ দূষণ",
+      "english": "environmental pollution",
+      "phonetic": "pôribêś dūṣôṇ",
+      "pronunciation_guide": "like 'po-ri-besh doo-shon'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "জলবায়ু পরিবর্তন",
+      "english": "climate change",
+      "phonetic": "jôlbāyu pôribôrttôn",
+      "pronunciation_guide": "like 'jol-ba-yu po-ri-bor-ton'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "বনভূমি",
+      "english": "wildlife/forest land",
+      "phonetic": "bônbhūmi",
+      "pronunciation_guide": "like 'bon-bhoo-mi'",
+      "audio_tip": "aspirated 'nbhūmi'"
+    },
+    {
+      "bengali": "প্রাণী",
+      "english": "animal",
+      "phonetic": "prāṇī",
+      "pronunciation_guide": "like 'pra-ni'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "পাখি",
+      "english": "bird",
+      "phonetic": "pākhi",
+      "pronunciation_guide": "like 'pa-khi'",
+      "audio_tip": "aspirated 'khi'"
+    },
+    {
+      "bengali": "মাছ",
+      "english": "fish",
+      "phonetic": "māch",
+      "pronunciation_guide": "like 'mach'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "সাপ",
+      "english": "snake",
+      "phonetic": "sāp",
+      "pronunciation_guide": "like 'sap'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "পরিবেশ রক্ষা",
+      "english": "environmental protection",
+      "phonetic": "pôribêś rôkkhā",
+      "pronunciation_guide": "like 'po-ri-besh rok-kha'",
+      "audio_tip": "aspirated 'kkhā'"
+    },
+    {
+      "bengali": "পুনর্ব্যবহার",
+      "english": "recycling",
+      "phonetic": "punôrbôbôhār",
+      "pronunciation_guide": "like 'pu-nor-bo-bo-har'",
+      "audio_tip": "aspirated 'rbôbôhār'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'nature'?",
+      "options": [
+        "পরিবেশ",
+        "বন",
+        "প্রকৃতি",
+        "গাছ"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রকৃতি (prôkṛti) means nature",
+      "bengali_focus": "প্রকৃতি",
+      "phonetic_focus": "prôkṛti"
+    },
+    {
+      "question": "Which word means 'environment'?",
+      "options": [
+        "ফুল",
+        "পাতা",
+        "পরিবেশ",
+        "নদী"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরিবেশ (pôribêś) means environment",
+      "bengali_focus": "পরিবেশ",
+      "phonetic_focus": "pôribêś"
+    },
+    {
+      "question": "What does বন mean?",
+      "options": [
+        "সমুদ্র",
+        "পাহাড়",
+        "Forest",
+        "উপত্যকা"
+      ],
+      "correct_answer": 2,
+      "explanation": "বন (bôn) means forest",
+      "bengali_focus": "বন",
+      "phonetic_focus": "bôn"
+    },
+    {
+      "question": "Which Bengali word means 'tree'?",
+      "options": [
+        "মরুভূমি",
+        "বায়ু",
+        "গাছ",
+        "বৃষ্টি"
+      ],
+      "correct_answer": 2,
+      "explanation": "গাছ (gāch) means tree",
+      "bengali_focus": "গাছ",
+      "phonetic_focus": "gāch"
+    },
+    {
+      "question": "What is ফুল?",
+      "options": [
+        "সূর্য",
+        "চাঁদ",
+        "Flower",
+        "তারা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফুল (phul) means flower",
+      "bengali_focus": "ফুল",
+      "phonetic_focus": "phul"
+    },
+    {
+      "question": "Which word means 'leaf'?",
+      "options": [
+        "পরিবেশ দূষণ",
+        "জলবায়ু পরিবর্তন",
+        "পাতা",
+        "বনভূমি"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাতা (pātā) means leaf",
+      "bengali_focus": "পাতা",
+      "phonetic_focus": "pātā"
+    },
+    {
+      "question": "What does নদী mean?",
+      "options": [
+        "প্রাণী",
+        "পাখি",
+        "River",
+        "মাছ"
+      ],
+      "correct_answer": 2,
+      "explanation": "নদী (nôdī) means river",
+      "bengali_focus": "নদী",
+      "phonetic_focus": "nôdī"
+    },
+    {
+      "question": "Which Bengali word means 'ocean'?",
+      "options": [
+        "সাপ",
+        "পরিবেশ রক্ষা",
+        "সমুদ্র",
+        "পুনর্ব্যবহার"
+      ],
+      "correct_answer": 2,
+      "explanation": "সমুদ্র (sômudrô) means ocean",
+      "bengali_focus": "সমুদ্র",
+      "phonetic_focus": "sômudrô"
+    },
+    {
+      "question": "What is পাহাড়?",
+      "options": [
+        "Nature",
+        "Environment",
+        "Mountain",
+        "Forest"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাহাড় (pāhāḍ) means mountain",
+      "bengali_focus": "পাহাড়",
+      "phonetic_focus": "pāhāḍ"
+    },
+    {
+      "question": "Which word means 'valley'?",
+      "options": [
+        "Tree",
+        "Flower",
+        "উপত্যকা",
+        "Leaf"
+      ],
+      "correct_answer": 2,
+      "explanation": "উপত্যকা (upôtyôkā) means valley",
+      "bengali_focus": "উপত্যকা",
+      "phonetic_focus": "upôtyôkā"
+    },
+    {
+      "question": "What does মরুভূমি mean?",
+      "options": [
+        "River",
+        "Ocean",
+        "Desert",
+        "Mountain"
+      ],
+      "correct_answer": 2,
+      "explanation": "মরুভূমি (môrubhūmi) means desert",
+      "bengali_focus": "মরুভূমি",
+      "phonetic_focus": "môrubhūmi"
+    },
+    {
+      "question": "Which Bengali word means 'air'?",
+      "options": [
+        "Valley",
+        "Desert",
+        "বায়ু",
+        "Rain"
+      ],
+      "correct_answer": 2,
+      "explanation": "বায়ু (bāyu) means air",
+      "bengali_focus": "বায়ু",
+      "phonetic_focus": "bāyu"
+    },
+    {
+      "question": "What is বৃষ্টি?",
+      "options": [
+        "Sun",
+        "Moon",
+        "Rain",
+        "Star"
+      ],
+      "correct_answer": 2,
+      "explanation": "বৃষ্টি (br̥ṣṭi) means rain",
+      "bengali_focus": "বৃষ্টি",
+      "phonetic_focus": "br̥ṣṭi"
+    },
+    {
+      "question": "Which word means 'sun'?",
+      "options": [
+        "Environmental pollution",
+        "Climate change",
+        "সূর্য",
+        "Wildlife"
+      ],
+      "correct_answer": 2,
+      "explanation": "সূর্য (sūryô) means sun",
+      "bengali_focus": "সূর্য",
+      "phonetic_focus": "sūryô"
+    },
+    {
+      "question": "What does চাঁদ mean?",
+      "options": [
+        "Animal",
+        "Bird",
+        "Moon",
+        "Fish"
+      ],
+      "correct_answer": 2,
+      "explanation": "চাঁদ (cāṅd) means moon",
+      "bengali_focus": "চাঁদ",
+      "phonetic_focus": "cāṅd"
+    },
+    {
+      "question": "Which Bengali word means 'star'?",
+      "options": [
+        "Snake",
+        "Environmental protection",
+        "তারা",
+        "Recycling"
+      ],
+      "correct_answer": 2,
+      "explanation": "তারা (tārā) means star",
+      "bengali_focus": "তারা",
+      "phonetic_focus": "tārā"
+    },
+    {
+      "question": "What is পরিবেশ দূষণ?",
+      "options": [
+        "Nature",
+        "Environment",
+        "Environmental pollution",
+        "Forest"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরিবেশ দূষণ (pôribêś dūṣôṇ) means environmental pollution",
+      "bengali_focus": "পরিবেশ দূষণ",
+      "phonetic_focus": "pôribêś dūṣôṇ"
+    },
+    {
+      "question": "Which word means 'climate change'?",
+      "options": [
+        "Tree",
+        "Flower",
+        "জলবায়ু পরিবর্তন",
+        "Leaf"
+      ],
+      "correct_answer": 2,
+      "explanation": "জলবায়ু পরিবর্তন (jôlbāyu pôribôrttôn) means climate change",
+      "bengali_focus": "জলবায়ু পরিবর্তন",
+      "phonetic_focus": "jôlbāyu pôribôrttôn"
+    },
+    {
+      "question": "What does বনভূমি mean?",
+      "options": [
+        "River",
+        "Ocean",
+        "Wildlife",
+        "Mountain"
+      ],
+      "correct_answer": 2,
+      "explanation": "বনভূমি (bônbhūmi) means wildlife",
+      "bengali_focus": "বনভূমি",
+      "phonetic_focus": "bônbhūmi"
+    },
+    {
+      "question": "Which Bengali word means 'animal'?",
+      "options": [
+        "Valley",
+        "Desert",
+        "প্রাণী",
+        "Air"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রাণী (prāṇī) means animal",
+      "bengali_focus": "প্রাণী",
+      "phonetic_focus": "prāṇī"
+    },
+    {
+      "question": "What is পাখি?",
+      "options": [
+        "Rain",
+        "Sun",
+        "Bird",
+        "Moon"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাখি (pākhi) means bird",
+      "bengali_focus": "পাখি",
+      "phonetic_focus": "pākhi"
+    },
+    {
+      "question": "Which word means 'fish'?",
+      "options": [
+        "Star",
+        "Environmental pollution",
+        "মাছ",
+        "Climate change"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাছ (māch) means fish",
+      "bengali_focus": "মাছ",
+      "phonetic_focus": "māch"
+    },
+    {
+      "question": "What does সাপ mean?",
+      "options": [
+        "Wildlife",
+        "Animal",
+        "Snake",
+        "Bird"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাপ (sāp) means snake",
+      "bengali_focus": "সাপ",
+      "phonetic_focus": "sāp"
+    },
+    {
+      "question": "Which Bengali word means 'environmental protection'?",
+      "options": [
+        "Fish",
+        "Snake",
+        "পরিবেশ রক্ষা",
+        "Recycling"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরিবেশ রক্ষা (pôribêś rôkkhā) means environmental protection",
+      "bengali_focus": "পরিবেশ রক্ষা",
+      "phonetic_focus": "pôribêś rôkkhā"
+    },
+    {
+      "question": "What is পুনর্ব্যবহার?",
+      "options": [
+        "Nature",
+        "Environment",
+        "Recycling",
+        "Forest"
+      ],
+      "correct_answer": 2,
+      "explanation": "পুনর্ব্যবহার (punôrbôbôhār) means recycling",
+      "bengali_focus": "পুনর্ব্যবহার",
+      "phonetic_focus": "punôrbôbôhār"
+    }
+  ]
+}

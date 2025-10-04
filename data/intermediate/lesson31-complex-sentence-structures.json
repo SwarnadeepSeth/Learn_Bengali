@@ -1,0 +1,402 @@
+{
+  "id": "lesson31-complex-sentence-structures",
+  "title": "Complex Sentence Structures",
+  "category": "intermediate",
+  "description": "Master compound sentences (এবং/কিন্তু), complex sentences (যখন/যদি), relative clauses (যে), and conditionals (যদি...তাহলে)",
+  "type": "grammar_learning",
+  "total_items": 30,
+  "estimated_time": "35 minutes",
+  "grammar_rules": [
+    {
+      "rule_title": "Compound Sentences (এবং, কিন্তু, অথবা, তাই)",
+      "rule_explanation": "Compound sentences join two independent clauses with coordinating conjunctions. Each clause can stand alone.",
+      "key_points": [
+        "এবং (ebang): and (adds information)",
+        "কিন্তু (kintu): but (shows contrast)",
+        "অথবা (othoba): or (shows choice)",
+        "তাই (tai): so, therefore (shows result)",
+        "Both clauses are independent"
+      ]
+    },
+    {
+      "rule_title": "Complex Sentences (যখন, যদি, কারণ, যে)",
+      "rule_explanation": "Complex sentences have one independent clause and one dependent clause connected by subordinating conjunctions.",
+      "key_points": [
+        "Dependent clause cannot stand alone",
+        "Conjunctions introduce the dependent clause",
+        "Word order can be flexible",
+        "Used for time, condition, reason, etc."
+      ]
+    },
+    {
+      "rule_title": "Relative Clauses (যে clauses)",
+      "rule_explanation": "Relative clauses describe nouns using যে (je/who/that/which). They provide additional information about a noun.",
+      "key_points": [
+        "যে introduces relative clauses",
+        "Can refer to people, things, situations",
+        "Often paired with correlative সে (se)",
+        "More flexible than English relatives"
+      ]
+    },
+    {
+      "rule_title": "Conditional Sentences (যদি...তাহলে)",
+      "rule_explanation": "Conditional sentences express hypothetical situations using যদি (if) for the condition and তাহলে (then) for the result.",
+      "key_points": [
+        "যদি...তাহলে structure",
+        "Present tense for real conditions",
+        "Past tense for hypothetical conditions",
+        "তাহলে can be omitted informally",
+        "Used for advice, warnings, hypotheticals"
+      ]
+    }
+  ],
+  "teaching_content": [
+    {
+      "bengali": "আমি খাই এবং সে খায়",
+      "english": "I eat and he eats",
+      "phonetic": "āmi khāi ebôṅ śe khāẏ",
+      "pronunciation_guide": "Compound: এবং joins two independent clauses"
+    },
+    {
+      "bengali": "সে পড়ে কিন্তু বোঝে না",
+      "english": "He reads but doesn't understand",
+      "phonetic": "śe poṛe kintu bōjhena",
+      "pronunciation_guide": "Compound: কিন্তু shows contrast between clauses"
+    },
+    {
+      "bengali": "তুমি যাও অথবা থাক",
+      "english": "You go or stay",
+      "phonetic": "tumi yāo othôbā thāk",
+      "pronunciation_guide": "Compound: অথবা presents a choice"
+    },
+    {
+      "bengali": "সে চেষ্টা করে তাই পারে",
+      "english": "He tries so he can",
+      "phonetic": "śe cheṣṭā kôre tāi pāre",
+      "pronunciation_guide": "Compound: তাই shows result or conclusion"
+    },
+    {
+      "bengali": "যখন বৃষ্টি হয় তখন থাকি",
+      "english": "When it rains, I stay",
+      "phonetic": "yôkhôn br̥ṣṭi hōẏ tôkhôn thāki",
+      "pronunciation_guide": "Complex: যখন...তখন for time relationship"
+    },
+    {
+      "bengali": "যদি টাকা থাকে তাহলে যাব",
+      "english": "If I have money, I will go",
+      "phonetic": "yôdi ṭākā thāke tāhole yāb",
+      "pronunciation_guide": "Complex: যদি...তাহলে for conditional"
+    },
+    {
+      "bengali": "কারণ অসুস্থ তাই আসিনি",
+      "english": "Because I was sick, I didn't come",
+      "phonetic": "kārôn ôśusthô tāi āśini",
+      "pronunciation_guide": "Complex: কারণ...তাই for reason and result"
+    },
+    {
+      "bengali": "আমি জানি যে সে আসবে",
+      "english": "I know that he will come",
+      "phonetic": "āmi jāni ye śe āśbe",
+      "pronunciation_guide": "Complex: যে introduces 'that' clause"
+    },
+    {
+      "bengali": "যে লোকটা এসেছে সে চলে গেছে",
+      "english": "The person who came has left",
+      "phonetic": "ye lōkṭā eśeche śe chôle geche",
+      "pronunciation_guide": "Relative: যে...সে correlative structure"
+    },
+    {
+      "bengali": "বইটা যে তুমি চেয়েছ সেটা ভালো",
+      "english": "The book that you wanted is good",
+      "phonetic": "boiṭā ye tumi cheẏechô śeṭā bhālō",
+      "pronunciation_guide": "Relative: যে describes the book"
+    },
+    {
+      "bengali": "যদি বৃষ্টি হয় তাহলে যাব না",
+      "english": "If it rains, I won't go",
+      "phonetic": "yôdi br̥ṣṭi hōẏ tāhole yāb na",
+      "pronunciation_guide": "Conditional: Real condition with present tense"
+    },
+    {
+      "bengali": "যদি টাকা থাকত তাহলে যেতাম",
+      "english": "If I had money, I would go",
+      "phonetic": "yôdi ṭākā thāktô tāhole yetām",
+      "pronunciation_guide": "Conditional: Hypothetical with past tense"
+    },
+    {
+      "bengali": "সে পড়ে এবং লেখে",
+      "english": "He reads and writes",
+      "phonetic": "śe poṛe ebôṅ lekhe",
+      "pronunciation_guide": "Compound: এবং adds parallel actions"
+    },
+    {
+      "bengali": "আমি যাই কিন্তু ফিরি না",
+      "english": "I go but don't return",
+      "phonetic": "āmi yāi kintu phiri na",
+      "pronunciation_guide": "Compound: কিন্তু shows opposition"
+    },
+    {
+      "bengali": "চা খাও অথবা কফি খাও",
+      "english": "Drink tea or drink coffee",
+      "phonetic": "chā khāo othôbā kôphi khāo",
+      "pronunciation_guide": "Compound: অথবা offers alternatives"
+    },
+    {
+      "bengali": "সে ভালো পড়ে তাই ভালো নম্বর পায়",
+      "english": "He studies well so gets good marks",
+      "phonetic": "śe bhālō poṛe tāi bhālō nômbôr pāẏ",
+      "pronunciation_guide": "Compound: তাই connects cause and effect"
+    },
+    {
+      "bengali": "যখন সন্ধ্যা হয় তখন বাড়ি ফিরি",
+      "english": "When evening comes, I return home",
+      "phonetic": "yôkhôn śôndhā hōẏ tôkhôn bāṛi phiri",
+      "pronunciation_guide": "Complex: Time conjunction যখন"
+    },
+    {
+      "bengali": "যদি সময় থাকে তাহলে দেখা করব",
+      "english": "If I have time, I will meet",
+      "phonetic": "yôdi śômôẏ thāke tāhole dekhā kôrbô",
+      "pronunciation_guide": "Complex: Conditional with future result"
+    },
+    {
+      "bengali": "কারণ বৃষ্টি হচ্ছে তাই ভিজছি",
+      "english": "Because it's raining, I'm getting wet",
+      "phonetic": "kārôn br̥ṣṭi hôchche tāi bhijchhi",
+      "pronunciation_guide": "Complex: Reason conjunction কারণ"
+    },
+    {
+      "bengali": "আমি মনে করি যে এটা ঠিক",
+      "english": "I think that this is correct",
+      "phonetic": "āmi mône kôri ye eṭā ṭhik",
+      "pronunciation_guide": "Complex: 'That' clause after verb of thinking"
+    },
+    {
+      "bengali": "যে ছেলেটি দৌড়াচ্ছে সে জিতবে",
+      "english": "The boy who is running will win",
+      "phonetic": "ye chheleṭi dōuṛāchche śe jitbe",
+      "pronunciation_guide": "Relative: Describes the winner"
+    },
+    {
+      "bengali": "খাবার যে তুমি রান্না করেছ সেটা সুস্বাদু",
+      "english": "The food that you cooked is delicious",
+      "phonetic": "khābār ye tumi rānnā kôrechô śeṭā śuśbādu",
+      "pronunciation_guide": "Relative: Modifies the food"
+    },
+    {
+      "bengali": "যদি পরীক্ষা না থাকত তাহলে বের হতাম",
+      "english": "If there was no exam, I would go out",
+      "phonetic": "yôdi pôrikṣā nā thāktô tāhole ber hôtām",
+      "pronunciation_guide": "Conditional: Contrary to fact"
+    },
+    {
+      "bengali": "যদি সাহায্য চাও তাহলে বল",
+      "english": "If you want help, say so",
+      "phonetic": "yôdi śāhāyyô chāo tāhole bôl",
+      "pronunciation_guide": "Conditional: Real possibility"
+    },
+    {
+      "bengali": "আমি দেখি এবং শুনি",
+      "english": "I see and hear",
+      "phonetic": "āmi dekhi ebôṅ śuni",
+      "pronunciation_guide": "Compound: Parallel senses"
+    },
+    {
+      "bengali": "সে আসে কিন্তু থাকে না",
+      "english": "He comes but doesn't stay",
+      "phonetic": "śe āśe kintu thāke na",
+      "pronunciation_guide": "Compound: Temporary vs permanent"
+    },
+    {
+      "bengali": "যখন শীত পড়ে তখন ঠাণ্ডা লাগে",
+      "english": "When winter comes, I feel cold",
+      "phonetic": "yôkhôn śīt poṛe tôkhôn ṭhāṅḍā lāge",
+      "pronunciation_guide": "Complex: Seasonal time reference"
+    },
+    {
+      "bengali": "যে গানটা শুনছি সেটা সুন্দর",
+      "english": "The song that I'm listening to is beautiful",
+      "phonetic": "ye gānṭā śunôchhi śeṭā śundôr",
+      "pronunciation_guide": "Relative: Describes the song"
+    },
+    {
+      "bengali": "কারণ দেরি হয়েছে তাই দুঃখিত",
+      "english": "Because I'm late, I'm sorry",
+      "phonetic": "kārôn deri hôẏeche tāi duḥkhitô",
+      "pronunciation_guide": "Complex: Reason for apology"
+    },
+    {
+      "bengali": "যদি জানতাম তাহলে বলতাম",
+      "english": "If I knew, I would tell",
+      "phonetic": "yôdi jāntām tāhole bôltām",
+      "pronunciation_guide": "Conditional: Past hypothetical"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What conjunction means 'and' in compound sentences?",
+      "options": [
+        "কিন্তু (kintu)",
+        "এবং (ebang)",
+        "অথবা (othoba)",
+        "তাই (tai)"
+      ],
+      "correct_answer": 1,
+      "explanation": "এবং (ebang) joins clauses with additional information"
+    },
+    {
+      "question": "Which structure is used for conditional sentences?",
+      "options": [
+        "যে...সে",
+        "যখন...তখন",
+        "যদি...তাহলে",
+        "কারণ...তাই"
+      ],
+      "correct_answer": 2,
+      "explanation": "যদি...তাহলে expresses 'if...then' conditions"
+    },
+    {
+      "question": "What does 'যখন' mean in complex sentences?",
+      "options": [
+        "That",
+        "If",
+        "When",
+        "Because"
+      ],
+      "correct_answer": 2,
+      "explanation": "যখন introduces time clauses meaning 'when'"
+    },
+    {
+      "question": "Which sentence is a compound sentence?",
+      "options": [
+        "যদি বৃষ্টি হয় তাহলে যাব না",
+        "আমি খাই এবং সে খায়",
+        "যে বইটা পড়ছি সেটা ভালো",
+        "কারণ অসুস্থ তাই আসিনি"
+      ],
+      "correct_answer": 1,
+      "explanation": "Compound sentences join two independent clauses with conjunctions"
+    },
+    {
+      "question": "What does the relative pronoun 'যে' introduce?",
+      "options": [
+        "Time clauses",
+        "Conditional clauses",
+        "Relative clauses",
+        "Reason clauses"
+      ],
+      "correct_answer": 2,
+      "explanation": "যে introduces clauses that describe or identify nouns"
+    },
+    {
+      "question": "Which conjunction shows contrast in compound sentences?",
+      "options": [
+        "এবং (ebang)",
+        "কিন্তু (kintu)",
+        "অথবা (othoba)",
+        "তাই (tai)"
+      ],
+      "correct_answer": 1,
+      "explanation": "কিন্তু (kintu) means 'but' and shows contrast"
+    },
+    {
+      "question": "What structure uses correlative pronouns like 'যে...সে'?",
+      "options": [
+        "Compound sentences",
+        "Complex sentences",
+        "Relative clauses",
+        "Conditional sentences"
+      ],
+      "correct_answer": 2,
+      "explanation": "Relative clauses often use 'যে...সে' correlative structure"
+    },
+    {
+      "question": "Which sentence shows a hypothetical condition?",
+      "options": [
+        "যখন বৃষ্টি হয় তখন থাকি",
+        "যদি টাকা থাকত তাহলে যেতাম",
+        "আমি খাই এবং সে খায়",
+        "যে লোকটা এসেছে সে চলে গেছে"
+      ],
+      "correct_answer": 1,
+      "explanation": "Past tense in conditionals indicates hypothetical situations"
+    },
+    {
+      "question": "What does 'কারণ' introduce in complex sentences?",
+      "options": [
+        "Time",
+        "Condition",
+        "Reason",
+        "Result"
+      ],
+      "correct_answer": 2,
+      "explanation": "কারণ means 'because' and introduces reason clauses"
+    },
+    {
+      "question": "Which is an example of a complex sentence?",
+      "options": [
+        "সে পড়ে কিন্তু বোঝে না",
+        "আমি জানি যে সে আসবে",
+        "তুমি যাও অথবা থাক",
+        "সে চেষ্টা করে তাই পারে"
+      ],
+      "correct_answer": 1,
+      "explanation": "Complex sentences have one independent and one dependent clause"
+    },
+    {
+      "question": "What does 'অথবা' mean in compound sentences?",
+      "options": [
+        "And",
+        "But",
+        "Or",
+        "So"
+      ],
+      "correct_answer": 2,
+      "explanation": "অথবা presents alternatives or choices"
+    },
+    {
+      "question": "Which conjunction pair shows time relationship?",
+      "options": [
+        "যদি...তাহলে",
+        "যখন...তখন",
+        "যে...সে",
+        "কারণ...তাই"
+      ],
+      "correct_answer": 1,
+      "explanation": "যখন...তখন connects time-related clauses"
+    },
+    {
+      "question": "What type of sentence uses 'তাই'?",
+      "options": [
+        "Complex",
+        "Compound",
+        "Simple",
+        "Question"
+      ],
+      "correct_answer": 1,
+      "explanation": "তাই joins clauses showing result or conclusion"
+    },
+    {
+      "question": "Which structure is correlative?",
+      "options": [
+        "যদি...তাহলে",
+        "যখন...তখন",
+        "যে...সে",
+        "কারণ...তাই"
+      ],
+      "correct_answer": 2,
+      "explanation": "যে...সে is a correlative pronoun structure"
+    },
+    {
+      "question": "What does 'তাহলে' mean in conditionals?",
+      "options": [
+        "If",
+        "When",
+        "Then",
+        "Because"
+      ],
+      "correct_answer": 2,
+      "explanation": "তাহলে means 'then' in conditional structures"
+    }
+  ]
+}

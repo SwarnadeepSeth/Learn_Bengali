@@ -1,0 +1,513 @@
+{
+  "id": "lesson2-adjectives",
+  "title": "Common Adjectives and Descriptions",
+  "category": "intermediate",
+  "description": "Learn intermediate-level adjectives and descriptive words in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "সুন্দর",
+      "english": "beautiful",
+      "phonetic": "sundôr",
+      "pronunciation_guide": "like 'sun-door'",
+      "audio_tip": "emphasize the 'dôr'"
+    },
+    {
+      "bengali": "বড়",
+      "english": "big/large",
+      "phonetic": "bôṛô",
+      "pronunciation_guide": "like 'bo-ro'",
+      "audio_tip": "aspirated 'ṛô'"
+    },
+    {
+      "bengali": "ছোট",
+      "english": "small",
+      "phonetic": "chôṭô",
+      "pronunciation_guide": "like 'cho-to'",
+      "audio_tip": "aspirated 'ṭô'"
+    },
+    {
+      "bengali": "নতুন",
+      "english": "new",
+      "phonetic": "nôtun",
+      "pronunciation_guide": "like 'no-tun'",
+      "audio_tip": "clear 't'"
+    },
+    {
+      "bengali": "পুরানো",
+      "english": "old",
+      "phonetic": "purānô",
+      "pronunciation_guide": "like 'pu-ra-no'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ভালো",
+      "english": "good",
+      "phonetic": "bhālô",
+      "pronunciation_guide": "like 'bha-lo'",
+      "audio_tip": "aspirated 'bh'"
+    },
+    {
+      "bengali": "খারাপ",
+      "english": "bad",
+      "phonetic": "khārāp",
+      "pronunciation_guide": "like 'kha-rap'",
+      "audio_tip": "aspirated 'kh'"
+    },
+    {
+      "bengali": "দ্রুত",
+      "english": "fast/quick",
+      "phonetic": "drutô",
+      "pronunciation_guide": "like 'dru-to'",
+      "audio_tip": "rolled 'r'"
+    },
+    {
+      "bengali": "ধীর",
+      "english": "slow",
+      "phonetic": "dhīr",
+      "pronunciation_guide": "like 'dheer'",
+      "audio_tip": "aspirated 'dh'"
+    },
+    {
+      "bengali": "গরম",
+      "english": "hot",
+      "phonetic": "gôrmô",
+      "pronunciation_guide": "like 'gor-mo'",
+      "audio_tip": "nasal 'ô'"
+    },
+    {
+      "bengali": "ঠান্ডা",
+      "english": "cold",
+      "phonetic": "ṭhāṅḍā",
+      "pronunciation_guide": "like 'than-da'",
+      "audio_tip": "aspirated 'ṭh'"
+    },
+    {
+      "bengali": "উঁচু",
+      "english": "high/tall",
+      "phonetic": "uṅchu",
+      "pronunciation_guide": "like 'oon-chu'",
+      "audio_tip": "nasal 'ṅ'"
+    },
+    {
+      "bengali": "নিচু",
+      "english": "low/short",
+      "phonetic": "nichu",
+      "pronunciation_guide": "like 'ni-chu'",
+      "audio_tip": "clear 'ch'"
+    },
+    {
+      "bengali": "চওড়া",
+      "english": "wide",
+      "phonetic": "côẇṛā",
+      "pronunciation_guide": "like 'cho-ra'",
+      "audio_tip": "retroflex 'ṛ'"
+    },
+    {
+      "bengali": "সরু",
+      "english": "narrow/thin",
+      "phonetic": "sôru",
+      "pronunciation_guide": "like 'so-ru'",
+      "audio_tip": "clear vowels"
+    },
+    {
+      "bengali": "ভারী",
+      "english": "heavy",
+      "phonetic": "bhārī",
+      "pronunciation_guide": "like 'bha-ree'",
+      "audio_tip": "aspirated 'bh'"
+    },
+    {
+      "bengali": "হালকা",
+      "english": "light",
+      "phonetic": "hālôkā",
+      "pronunciation_guide": "like 'ha-lo-ka'",
+      "audio_tip": "aspirated 'h'"
+    },
+    {
+      "bengali": "মিষ্টি",
+      "english": "sweet",
+      "phonetic": "miṣṭi",
+      "pronunciation_guide": "like 'mish-ti'",
+      "audio_tip": "retroflex 'ṣṭ'"
+    },
+    {
+      "bengali": "ঝাল",
+      "english": "spicy",
+      "phonetic": "jhāl",
+      "pronunciation_guide": "like 'jhal'",
+      "audio_tip": "aspirated 'jh'"
+    },
+    {
+      "bengali": "তেতো",
+      "english": "bitter",
+      "phonetic": "tētô",
+      "pronunciation_guide": "like 'te-to'",
+      "audio_tip": "long 'ē'"
+    },
+    {
+      "bengali": "টক",
+      "english": "sour",
+      "phonetic": "ṭôk",
+      "pronunciation_guide": "like 'tok'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "লবণাক্ত",
+      "english": "salty",
+      "phonetic": "lôbôṇākôt",
+      "pronunciation_guide": "like 'lo-bo-na-kot'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "নরম",
+      "english": "soft",
+      "phonetic": "nôrôm",
+      "pronunciation_guide": "like 'no-rom'",
+      "audio_tip": "nasal 'ô'"
+    },
+    {
+      "bengali": "শক্ত",
+      "english": "hard",
+      "phonetic": "śôktô",
+      "pronunciation_guide": "like 'shok-to'",
+      "audio_tip": "aspirated 'kt'"
+    },
+    {
+      "bengali": "সহজ",
+      "english": "easy",
+      "phonetic": "sôhôj",
+      "pronunciation_guide": "like 'so-hoj'",
+      "audio_tip": "aspirated 'h'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'beautiful'?",
+      "options": [
+        "সুন্দর",
+        "বড়",
+        "ছোট",
+        "নতুন"
+      ],
+      "correct_answer": 0,
+      "explanation": "সুন্দর (sundôr) means beautiful",
+      "bengali_focus": "সুন্দর",
+      "phonetic_focus": "sundôr"
+    },
+    {
+      "question": "Which adjective means 'big'?",
+      "options": [
+        "পুরানো",
+        "ভালো",
+        "বড়",
+        "খারাপ"
+      ],
+      "correct_answer": 2,
+      "explanation": "বড় (bôṛô) means big or large",
+      "bengali_focus": "বড়",
+      "phonetic_focus": "bôṛô"
+    },
+    {
+      "question": "What does ছোট mean?",
+      "options": [
+        "New",
+        "Old",
+        "Small",
+        "Good"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছোট (chôṭô) means small",
+      "bengali_focus": "ছোট",
+      "phonetic_focus": "chôṭô"
+    },
+    {
+      "question": "Which Bengali word means 'new'?",
+      "options": [
+        "পুরানো",
+        "নতুন",
+        "ভালো",
+        "খারাপ"
+      ],
+      "correct_answer": 1,
+      "explanation": "নতুন (nôtun) means new",
+      "bengali_focus": "নতুন",
+      "phonetic_focus": "nôtun"
+    },
+    {
+      "question": "What is the opposite of নতুন?",
+      "options": [
+        "বড়",
+        "ছোট",
+        "পুরানো",
+        "ভালো"
+      ],
+      "correct_answer": 2,
+      "explanation": "পুরানো (purānô) means old, the opposite of new",
+      "bengali_focus": "পুরানো",
+      "phonetic_focus": "purānô"
+    },
+    {
+      "question": "Which adjective means 'good'?",
+      "options": [
+        "খারাপ",
+        "দ্রুত",
+        "ভালো",
+        "ধীর"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভালো (bhālô) means good",
+      "bengali_focus": "ভালো",
+      "phonetic_focus": "bhālô"
+    },
+    {
+      "question": "What does খারাপ mean?",
+      "options": [
+        "Fast",
+        "Slow",
+        "Good",
+        "Bad"
+      ],
+      "correct_answer": 3,
+      "explanation": "খারাপ (khārāp) means bad",
+      "bengali_focus": "খারাপ",
+      "phonetic_focus": "khārāp"
+    },
+    {
+      "question": "Which word means 'fast'?",
+      "options": [
+        "ধীর",
+        "গরম",
+        "দ্রুত",
+        "ঠান্ডা"
+      ],
+      "correct_answer": 2,
+      "explanation": "দ্রুত (drutô) means fast or quick",
+      "bengali_focus": "দ্রুত",
+      "phonetic_focus": "drutô"
+    },
+    {
+      "question": "What is the opposite of দ্রুত?",
+      "options": [
+        "গরম",
+        "ঠান্ডা",
+        "ধীর",
+        "উঁচু"
+      ],
+      "correct_answer": 2,
+      "explanation": "ধীর (dhīr) means slow, the opposite of fast",
+      "bengali_focus": "ধীর",
+      "phonetic_focus": "dhīr"
+    },
+    {
+      "question": "Which adjective means 'hot'?",
+      "options": [
+        "ঠান্ডা",
+        "উঁচু",
+        "গরম",
+        "নিচু"
+      ],
+      "correct_answer": 2,
+      "explanation": "গরম (gôrmô) means hot",
+      "bengali_focus": "গরম",
+      "phonetic_focus": "gôrmô"
+    },
+    {
+      "question": "What does ঠান্ডা mean?",
+      "options": [
+        "High",
+        "Low",
+        "Hot",
+        "Cold"
+      ],
+      "correct_answer": 3,
+      "explanation": "ঠান্ডা (ṭhāṅḍā) means cold",
+      "bengali_focus": "ঠান্ডা",
+      "phonetic_focus": "ṭhāṅḍā"
+    },
+    {
+      "question": "Which word means 'high' or 'tall'?",
+      "options": [
+        "নিচু",
+        "চওড়া",
+        "উঁচু",
+        "সরু"
+      ],
+      "correct_answer": 2,
+      "explanation": "উঁচু (uṅchu) means high or tall",
+      "bengali_focus": "উঁচু",
+      "phonetic_focus": "uṅchu"
+    },
+    {
+      "question": "What is the opposite of উঁচু?",
+      "options": [
+        "চওড়া",
+        "সরু",
+        "নিচু",
+        "ভারী"
+      ],
+      "correct_answer": 2,
+      "explanation": "নিচু (nichu) means low or short, the opposite of high",
+      "bengali_focus": "নিচু",
+      "phonetic_focus": "nichu"
+    },
+    {
+      "question": "Which adjective means 'wide'?",
+      "options": [
+        "সরু",
+        "ভারী",
+        "চওড়া",
+        "হালকা"
+      ],
+      "correct_answer": 2,
+      "explanation": "চওড়া (côẇṛā) means wide",
+      "bengali_focus": "চওড়া",
+      "phonetic_focus": "côẇṛā"
+    },
+    {
+      "question": "What does সরু mean?",
+      "options": [
+        "Heavy",
+        "Light",
+        "Wide",
+        "Narrow"
+      ],
+      "correct_answer": 3,
+      "explanation": "সরু (sôru) means narrow or thin",
+      "bengali_focus": "সরু",
+      "phonetic_focus": "sôru"
+    },
+    {
+      "question": "Which word means 'heavy'?",
+      "options": [
+        "হালকা",
+        "মিষ্টি",
+        "ভারী",
+        "ঝাল"
+      ],
+      "correct_answer": 2,
+      "explanation": "ভারী (bhārī) means heavy",
+      "bengali_focus": "ভারী",
+      "phonetic_focus": "bhārī"
+    },
+    {
+      "question": "What is the opposite of ভারী?",
+      "options": [
+        "মিষ্টি",
+        "ঝাল",
+        "হালকা",
+        "তেতো"
+      ],
+      "correct_answer": 2,
+      "explanation": "হালকা (hālôkā) means light, the opposite of heavy",
+      "bengali_focus": "হালকা",
+      "phonetic_focus": "hālôkā"
+    },
+    {
+      "question": "Which adjective means 'sweet'?",
+      "options": [
+        "ঝাল",
+        "তেতো",
+        "মিষ্টি",
+        "টক"
+      ],
+      "correct_answer": 2,
+      "explanation": "মিষ্টি (miṣṭi) means sweet",
+      "bengali_focus": "মিষ্টি",
+      "phonetic_focus": "miṣṭi"
+    },
+    {
+      "question": "What does ঝাল mean?",
+      "options": [
+        "Bitter",
+        "Sour",
+        "Sweet",
+        "Spicy"
+      ],
+      "correct_answer": 3,
+      "explanation": "ঝাল (jhāl) means spicy",
+      "bengali_focus": "ঝাল",
+      "phonetic_focus": "jhāl"
+    },
+    {
+      "question": "Which word means 'bitter'?",
+      "options": [
+        "খাট্টা",
+        "লবণাক্ত",
+        "তেতো",
+        "নরম"
+      ],
+      "correct_answer": 2,
+      "explanation": "তেতো (tētô) means bitter",
+      "bengali_focus": "তেতো",
+      "phonetic_focus": "tētô"
+    },
+    {
+      "question": "What does টক mean?",
+      "options": [
+        "Salty",
+        "Soft",
+        "Sour",
+        "Hard"
+      ],
+      "correct_answer": 2,
+      "explanation": "টক (ṭôk) means sour",
+      "bengali_focus": "টক",
+      "phonetic_focus": "ṭôk"
+    },
+    {
+      "question": "Which adjective means 'salty'?",
+      "options": [
+        "নরম",
+        "শক্ত",
+        "লবণাক্ত",
+        "সহজ"
+      ],
+      "correct_answer": 2,
+      "explanation": "লবণাক্ত (lôbôṇākôt) means salty",
+      "bengali_focus": "লবণাক্ত",
+      "phonetic_focus": "lôbôṇākôt"
+    },
+    {
+      "question": "What does নরম mean?",
+      "options": [
+        "Hard",
+        "Easy",
+        "Soft",
+        "Difficult"
+      ],
+      "correct_answer": 2,
+      "explanation": "নরম (nôrôm) means soft",
+      "bengali_focus": "নরম",
+      "phonetic_focus": "nôrôm"
+    },
+    {
+      "question": "What is the opposite of নরম?",
+      "options": [
+        "সহজ",
+        "কঠিন",
+        "শক্ত",
+        "সহজ"
+      ],
+      "correct_answer": 2,
+      "explanation": "শক্ত (śôktô) means hard, the opposite of soft",
+      "bengali_focus": "শক্ত",
+      "phonetic_focus": "śôktô"
+    },
+    {
+      "question": "Which word means 'easy'?",
+      "options": [
+        "কঠিন",
+        "শক্ত",
+        "সহজ",
+        "নরম"
+      ],
+      "correct_answer": 2,
+      "explanation": "সহজ (sôhôj) means easy",
+      "bengali_focus": "সহজ",
+      "phonetic_focus": "sôhôj"
+    }
+  ]
+}

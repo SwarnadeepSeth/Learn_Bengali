@@ -1,0 +1,500 @@
+{
+  "id": "lesson5-shopping-money",
+  "title": "Shopping and Money",
+  "category": "intermediate",
+  "description": "Learn vocabulary for shopping, money, and commerce in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "টাকা",
+      "english": "money",
+      "phonetic": "ṭākā",
+      "pronunciation_guide": "like 'ta-ka'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "দাম",
+      "english": "price",
+      "phonetic": "dām",
+      "pronunciation_guide": "like 'dam'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "কেনা",
+      "english": "to buy",
+      "phonetic": "kenā",
+      "pronunciation_guide": "like 'ke-na'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "বিক্রি",
+      "english": "to sell",
+      "phonetic": "bikri",
+      "pronunciation_guide": "like 'bik-ri'",
+      "audio_tip": "clear 'k'"
+    },
+    {
+      "bengali": "দোকান",
+      "english": "shop/store",
+      "phonetic": "dōkān",
+      "pronunciation_guide": "like 'do-kan'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "বাজার",
+      "english": "market",
+      "phonetic": "bājār",
+      "pronunciation_guide": "like 'ba-jar'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ক্রেতা",
+      "english": "buyer/customer",
+      "phonetic": "krētā",
+      "pronunciation_guide": "like 'kre-ta'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "বিক্রেতা",
+      "english": "seller",
+      "phonetic": "bikrētā",
+      "pronunciation_guide": "like 'bik-re-ta'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "পণ্য",
+      "english": "goods/product",
+      "phonetic": "pôṇyô",
+      "pronunciation_guide": "like 'pon-yo'",
+      "audio_tip": "aspirated 'ṇyô'"
+    },
+    {
+      "bengali": "মূল্য",
+      "english": "value/price",
+      "phonetic": "mūlyô",
+      "pronunciation_guide": "like 'mul-yo'",
+      "audio_tip": "long 'ū'"
+    },
+    {
+      "bengali": "ছাড়",
+      "english": "discount",
+      "phonetic": "chāṛ",
+      "pronunciation_guide": "like 'char'",
+      "audio_tip": "aspirated 'chāṛ'"
+    },
+    {
+      "bengali": "বিল",
+      "english": "bill/receipt",
+      "phonetic": "bil",
+      "pronunciation_guide": "like 'bil'",
+      "audio_tip": "clear 'l'"
+    },
+    {
+      "bengali": "পরিশোধ",
+      "english": "payment",
+      "phonetic": "pôriśōdh",
+      "pronunciation_guide": "like 'po-ri-shodh'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "নগদ",
+      "english": "cash",
+      "phonetic": "nôgôd",
+      "pronunciation_guide": "like 'no-god'",
+      "audio_tip": "aspirated 'gô'"
+    },
+    {
+      "bengali": "কার্ড",
+      "english": "card",
+      "phonetic": "kārḍ",
+      "pronunciation_guide": "like 'kard'",
+      "audio_tip": "retroflex 'ṛḍ'"
+    },
+    {
+      "bengali": "মুদ্রা",
+      "english": "currency",
+      "phonetic": "mudrā",
+      "pronunciation_guide": "like 'mud-ra'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "খুচরা",
+      "english": "retail",
+      "phonetic": "khucrô",
+      "pronunciation_guide": "like 'khu-chro'",
+      "audio_tip": "aspirated 'kh'"
+    },
+    {
+      "bengali": "পাইকারি",
+      "english": "wholesale",
+      "phonetic": "pāikāri",
+      "pronunciation_guide": "like 'pai-ka-ri'",
+      "audio_tip": "long 'āi'"
+    },
+    {
+      "bengali": "মজুত",
+      "english": "stock/inventory",
+      "phonetic": "môjut",
+      "pronunciation_guide": "like 'mo-jut'",
+      "audio_tip": "aspirated 'j'"
+    },
+    {
+      "bengali": "অর্ডার",
+      "english": "order",
+      "phonetic": "ôrḍār",
+      "pronunciation_guide": "like 'or-dar'",
+      "audio_tip": "retroflex 'ḍār'"
+    },
+    {
+      "bengali": "ডেলিভারি",
+      "english": "delivery",
+      "phonetic": "ḍelivôri",
+      "pronunciation_guide": "like 'de-li-vo-ri'",
+      "audio_tip": "retroflex 'ḍ'"
+    },
+    {
+      "bengali": "রিটার্ন",
+      "english": "return",
+      "phonetic": "riṭārṇ",
+      "pronunciation_guide": "like 'ri-tarn'",
+      "audio_tip": "retroflex 'ṭārṇ'"
+    },
+    {
+      "bengali": "গ্যারান্টি",
+      "english": "guarantee",
+      "phonetic": "gyārāṇṭi",
+      "pronunciation_guide": "like 'gya-ran-ti'",
+      "audio_tip": "aspirated 'ṇṭ'"
+    },
+    {
+      "bengali": "বাজেট",
+      "english": "budget",
+      "phonetic": "bājeṭ",
+      "pronunciation_guide": "like 'ba-jet'",
+      "audio_tip": "retroflex 'jeṭ'"
+    },
+    {
+      "bengali": "সস্তা",
+      "english": "cheap",
+      "phonetic": "sôstā",
+      "pronunciation_guide": "like 'shos-ta'",
+      "audio_tip": "aspirated 'sô'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'money'?",
+      "options": [
+        "টাকা",
+        "দাম",
+        "কেনা",
+        "বিক্রি"
+      ],
+      "correct_answer": 0,
+      "explanation": "টাকা (ṭākā) means money",
+      "bengali_focus": "টাকা",
+      "phonetic_focus": "ṭākā"
+    },
+    {
+      "question": "Which word means 'price'?",
+      "options": [
+        "দোকান",
+        "বাজার",
+        "দাম",
+        "ক্রেতা"
+      ],
+      "correct_answer": 2,
+      "explanation": "দাম (dām) means price",
+      "bengali_focus": "দাম",
+      "phonetic_focus": "dām"
+    },
+    {
+      "question": "What does কেনা mean?",
+      "options": [
+        "To sell",
+        "To buy",
+        "Shop",
+        "Market"
+      ],
+      "correct_answer": 1,
+      "explanation": "কেনা (kenā) means to buy",
+      "bengali_focus": "কেনা",
+      "phonetic_focus": "kenā"
+    },
+    {
+      "question": "Which Bengali word means 'to sell'?",
+      "options": [
+        "ক্রেতা",
+        "বিক্রেতা",
+        "বিক্রি",
+        "পণ্য"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিক্রি (bikri) means to sell",
+      "bengali_focus": "বিক্রি",
+      "phonetic_focus": "bikri"
+    },
+    {
+      "question": "What is দোকান?",
+      "options": [
+        "Market",
+        "Buyer",
+        "Shop",
+        "Seller"
+      ],
+      "correct_answer": 2,
+      "explanation": "দোকান (dōkān) means shop or store",
+      "bengali_focus": "দোকান",
+      "phonetic_focus": "dōkān"
+    },
+    {
+      "question": "Which word means 'market'?",
+      "options": [
+        "পণ্য",
+        "মূল্য",
+        "বাজার",
+        "ছাড়"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাজার (bājār) means market",
+      "bengali_focus": "বাজার",
+      "phonetic_focus": "bājār"
+    },
+    {
+      "question": "What does ক্রেতা mean?",
+      "options": [
+        "Seller",
+        "Goods",
+        "Buyer",
+        "Value"
+      ],
+      "correct_answer": 2,
+      "explanation": "ক্রেতা (krētā) means buyer or customer",
+      "bengali_focus": "ক্রেতা",
+      "phonetic_focus": "krētā"
+    },
+    {
+      "question": "Which Bengali word means 'seller'?",
+      "options": [
+        "ছাড়",
+        "বিল",
+        "বিক্রেতা",
+        "পরিশোধ"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিক্রেতা (bikrētā) means seller",
+      "bengali_focus": "বিক্রেতা",
+      "phonetic_focus": "bikrētā"
+    },
+    {
+      "question": "What is পণ্য?",
+      "options": [
+        "Discount",
+        "Bill",
+        "Goods",
+        "Payment"
+      ],
+      "correct_answer": 2,
+      "explanation": "পণ্য (pôṇyô) means goods or product",
+      "bengali_focus": "পণ্য",
+      "phonetic_focus": "pôṇyô"
+    },
+    {
+      "question": "Which word means 'discount'?",
+      "options": [
+        "নগদ",
+        "কার্ড",
+        "ছাড়",
+        "মুদ্রা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছাড় (chāṛ) means discount",
+      "bengali_focus": "ছাড়",
+      "phonetic_focus": "chāṛ"
+    },
+    {
+      "question": "What does বিল mean?",
+      "options": [
+        "Cash",
+        "Card",
+        "Bill",
+        "Currency"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিল (bil) means bill or receipt",
+      "bengali_focus": "বিল",
+      "phonetic_focus": "bil"
+    },
+    {
+      "question": "Which Bengali word means 'payment'?",
+      "options": [
+        "খুচরা",
+        "পাইকারি",
+        "পরিশোধ",
+        "মজুত"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরিশোধ (pôriśōdh) means payment",
+      "bengali_focus": "পরিশোধ",
+      "phonetic_focus": "pôriśōdh"
+    },
+    {
+      "question": "What is নগদ?",
+      "options": [
+        "Card",
+        "Currency",
+        "Cash",
+        "Retail"
+      ],
+      "correct_answer": 2,
+      "explanation": "নগদ (nôgôd) means cash",
+      "bengali_focus": "নগদ",
+      "phonetic_focus": "nôgôd"
+    },
+    {
+      "question": "Which word means 'card'?",
+      "options": [
+        "Wholesale",
+        "Stock",
+        "কার্ড",
+        "Order"
+      ],
+      "correct_answer": 2,
+      "explanation": "কার্ড (kārḍ) means card",
+      "bengali_focus": "কার্ড",
+      "phonetic_focus": "kārḍ"
+    },
+    {
+      "question": "What does মুদ্রা mean?",
+      "options": [
+        "Delivery",
+        "Return",
+        "Currency",
+        "Guarantee"
+      ],
+      "correct_answer": 2,
+      "explanation": "মুদ্রা (mudrā) means currency",
+      "bengali_focus": "মুদ্রা",
+      "phonetic_focus": "mudrā"
+    },
+    {
+      "question": "Which Bengali word means 'retail'?",
+      "options": [
+        "Budget",
+        "Cheap",
+        "খুচরা",
+        "Stock"
+      ],
+      "correct_answer": 2,
+      "explanation": "খুচরা (khucrô) means retail",
+      "bengali_focus": "খুচরা",
+      "phonetic_focus": "khucrô"
+    },
+    {
+      "question": "What is পাইকারি?",
+      "options": [
+        "Order",
+        "Delivery",
+        "Wholesale",
+        "Return"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাইকারি (pāikāri) means wholesale",
+      "bengali_focus": "পাইকারি",
+      "phonetic_focus": "pāikāri"
+    },
+    {
+      "question": "Which word means 'stock'?",
+      "options": [
+        "Guarantee",
+        "Budget",
+        "মজুত",
+        "Cheap"
+      ],
+      "correct_answer": 2,
+      "explanation": "মজুত (môjut) means stock or inventory",
+      "bengali_focus": "মজুত",
+      "phonetic_focus": "môjut"
+    },
+    {
+      "question": "What does অর্ডার mean?",
+      "options": [
+        "Delivery",
+        "Return",
+        "Order",
+        "Guarantee"
+      ],
+      "correct_answer": 2,
+      "explanation": "অর্ডার (ôrḍār) means order",
+      "bengali_focus": "অর্ডার",
+      "phonetic_focus": "ôrḍār"
+    },
+    {
+      "question": "Which Bengali word means 'delivery'?",
+      "options": [
+        "Return",
+        "Guarantee",
+        "ডেলিভারি",
+        "Budget"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডেলিভারি (ḍelivôri) means delivery",
+      "bengali_focus": "ডেলিভারি",
+      "phonetic_focus": "ḍelivôri"
+    },
+    {
+      "question": "What is রিটার্ন?",
+      "options": [
+        "Guarantee",
+        "Budget",
+        "Return",
+        "Cheap"
+      ],
+      "correct_answer": 2,
+      "explanation": "রিটার্ন (riṭārṇ) means return",
+      "bengali_focus": "রিটার্ন",
+      "phonetic_focus": "riṭārṇ"
+    },
+    {
+      "question": "Which word means 'guarantee'?",
+      "options": [
+        "Budget",
+        "Cheap",
+        "গ্যারান্টি",
+        "Money"
+      ],
+      "correct_answer": 2,
+      "explanation": "গ্যারান্টি (gyārāṇṭi) means guarantee",
+      "bengali_focus": "গ্যারান্টি",
+      "phonetic_focus": "gyārāṇṭi"
+    },
+    {
+      "question": "What does বাজেট mean?",
+      "options": [
+        "Cheap",
+        "Money",
+        "Budget",
+        "Price"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাজেট (bājeṭ) means budget",
+      "bengali_focus": "বাজেট",
+      "phonetic_focus": "bājeṭ"
+    },
+    {
+      "question": "Which Bengali word means 'cheap'?",
+      "options": [
+        "Money",
+        "Price",
+        "সস্তা",
+        "Buy"
+      ],
+      "correct_answer": 2,
+      "explanation": "সস্তা (sôstā) means cheap",
+      "bengali_focus": "সস্তা",
+      "phonetic_focus": "sôstā"
+    }
+  ]
+}

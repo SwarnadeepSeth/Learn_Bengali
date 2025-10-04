@@ -1,0 +1,500 @@
+{
+  "id": "lesson3-weather-seasons",
+  "title": "Weather and Seasons",
+  "category": "intermediate",
+  "description": "Learn vocabulary for weather conditions and seasons in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "20 minutes",
+  "teaching_content": [
+    {
+      "bengali": "বর্ষা",
+      "english": "rainy season",
+      "phonetic": "bôrṣā",
+      "pronunciation_guide": "like 'bor-sha'",
+      "audio_tip": "retroflex 'ṣ'"
+    },
+    {
+      "bengali": "গ্রীষ্ম",
+      "english": "summer",
+      "phonetic": "grīṣmô",
+      "pronunciation_guide": "like 'greesh-mo'",
+      "audio_tip": "retroflex 'ṣ'"
+    },
+    {
+      "bengali": "শীত",
+      "english": "winter",
+      "phonetic": "śīt",
+      "pronunciation_guide": "like 'sheet'",
+      "audio_tip": "long 'ī'"
+    },
+    {
+      "bengali": "বসন্ত",
+      "english": "spring",
+      "phonetic": "bôsôntô",
+      "pronunciation_guide": "like 'bo-shon-to'",
+      "audio_tip": "aspirated 'sô'"
+    },
+    {
+      "bengali": "শরৎ",
+      "english": "autumn",
+      "phonetic": "śôrôt",
+      "pronunciation_guide": "like 'sho-rot'",
+      "audio_tip": "aspirated 'śô'"
+    },
+    {
+      "bengali": "বৃষ্টি",
+      "english": "rain",
+      "phonetic": "br̥ṣṭi",
+      "pronunciation_guide": "like 'brish-ti'",
+      "audio_tip": "retroflex 'ṣṭ'"
+    },
+    {
+      "bengali": "বজ্র",
+      "english": "thunder",
+      "phonetic": "bôjrô",
+      "pronunciation_guide": "like 'bo-jro'",
+      "audio_tip": "aspirated 'jrô'"
+    },
+    {
+      "bengali": "বিদ্যুৎ",
+      "english": "lightning",
+      "phonetic": "bidyut",
+      "pronunciation_guide": "like 'bid-yut'",
+      "audio_tip": "clear 'y'"
+    },
+    {
+      "bengali": "মেঘ",
+      "english": "cloud",
+      "phonetic": "megh",
+      "pronunciation_guide": "like 'megh'",
+      "audio_tip": "aspirated 'gh'"
+    },
+    {
+      "bengali": "রোদ",
+      "english": "sunshine",
+      "phonetic": "rōd",
+      "pronunciation_guide": "like 'rode'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "হাওয়া",
+      "english": "wind",
+      "phonetic": "hāōẇā",
+      "pronunciation_guide": "like 'hao-wa'",
+      "audio_tip": "aspirated 'h'"
+    },
+    {
+      "bengali": "ঝড়",
+      "english": "storm",
+      "phonetic": "jhôṛ",
+      "pronunciation_guide": "like 'jhor'",
+      "audio_tip": "aspirated 'jhô'"
+    },
+    {
+      "bengali": "কুয়াশা",
+      "english": "fog",
+      "phonetic": "kuẇāśā",
+      "pronunciation_guide": "like 'ku-wa-sha'",
+      "audio_tip": "aspirated 'śā'"
+    },
+    {
+      "bengali": "তুষার",
+      "english": "snow",
+      "phonetic": "tuṣār",
+      "pronunciation_guide": "like 'tu-shar'",
+      "audio_tip": "retroflex 'ṣ'"
+    },
+    {
+      "bengali": "শিশির",
+      "english": "dew",
+      "phonetic": "śiśir",
+      "pronunciation_guide": "like 'shi-shir'",
+      "audio_tip": "aspirated 'ś'"
+    },
+    {
+      "bengali": "আর্দ্রতা",
+      "english": "humidity",
+      "phonetic": "ārdrôtā",
+      "pronunciation_guide": "like 'ard-ro-ta'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "তাপমাত্রা",
+      "english": "temperature",
+      "phonetic": "tāpmātrā",
+      "pronunciation_guide": "like 'tap-ma-tra'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "ঝঞ্ঝা",
+      "english": "gale",
+      "phonetic": "jhôñjhā",
+      "pronunciation_guide": "like 'jhon-jha'",
+      "audio_tip": "aspirated 'jhôñ'"
+    },
+    {
+      "bengali": "ঘূর্ণিঝড়",
+      "english": "cyclone",
+      "phonetic": "ghūrṇijhôṛ",
+      "pronunciation_guide": "like 'ghoor-ni-jhor'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "ধূপ",
+      "english": "smoke",
+      "phonetic": "dhūp",
+      "pronunciation_guide": "like 'dhoop'",
+      "audio_tip": "aspirated 'dhū'"
+    },
+    {
+      "bengali": "বন্যা",
+      "english": "flood",
+      "phonetic": "bônyā",
+      "pronunciation_guide": "like 'bon-ya'",
+      "audio_tip": "aspirated 'nyā'"
+    },
+    {
+      "bengali": "খরা",
+      "english": "drought",
+      "phonetic": "khôra",
+      "pronunciation_guide": "like 'kho-ra'",
+      "audio_tip": "aspirated 'khô'"
+    },
+    {
+      "bengali": "আবহাওয়া",
+      "english": "weather",
+      "phonetic": "ābhôẇā",
+      "pronunciation_guide": "like 'ab-ha-wa'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "মৌসুম",
+      "english": "season",
+      "phonetic": "môusum",
+      "pronunciation_guide": "like 'mou-sum'",
+      "audio_tip": "nasal 'ôu'"
+    },
+    {
+      "bengali": "ঋতু",
+      "english": "season",
+      "phonetic": "r̥tu",
+      "pronunciation_guide": "like 'ri-tu'",
+      "audio_tip": "retroflex 'r̥'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'rainy season'?",
+      "options": [
+        "বর্ষা",
+        "গ্রীষ্ম",
+        "শীত",
+        "বসন্ত"
+      ],
+      "correct_answer": 0,
+      "explanation": "বর্ষা (bôrṣā) means rainy season",
+      "bengali_focus": "বর্ষা",
+      "phonetic_focus": "bôrṣā"
+    },
+    {
+      "question": "Which season is গ্রীষ্ম?",
+      "options": [
+        "Winter",
+        "Summer",
+        "Spring",
+        "Autumn"
+      ],
+      "correct_answer": 1,
+      "explanation": "গ্রীষ্ম (grīṣmô) means summer",
+      "bengali_focus": "গ্রীষ্ম",
+      "phonetic_focus": "grīṣmô"
+    },
+    {
+      "question": "What does শীত mean?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "correct_answer": 3,
+      "explanation": "শীত (śīt) means winter",
+      "bengali_focus": "শীত",
+      "phonetic_focus": "śīt"
+    },
+    {
+      "question": "Which Bengali word means 'spring'?",
+      "options": [
+        "শরৎ",
+        "বসন্ত",
+        "বর্ষা",
+        "গ্রীষ্ম"
+      ],
+      "correct_answer": 1,
+      "explanation": "বসন্ত (bôsôntô) means spring",
+      "bengali_focus": "বসন্ত",
+      "phonetic_focus": "bôsôntô"
+    },
+    {
+      "question": "What is শরৎ?",
+      "options": [
+        "Rainy season",
+        "Summer",
+        "Autumn",
+        "Winter"
+      ],
+      "correct_answer": 2,
+      "explanation": "শরৎ (śôrôt) means autumn",
+      "bengali_focus": "শরৎ",
+      "phonetic_focus": "śôrôt"
+    },
+    {
+      "question": "Which word means 'rain'?",
+      "options": [
+        "বজ্র",
+        "বিদ্যুৎ",
+        "বৃষ্টি",
+        "মেঘ"
+      ],
+      "correct_answer": 2,
+      "explanation": "বৃষ্টি (br̥ṣṭi) means rain",
+      "bengali_focus": "বৃষ্টি",
+      "phonetic_focus": "br̥ṣṭi"
+    },
+    {
+      "question": "What does বজ্র mean?",
+      "options": [
+        "Lightning",
+        "Cloud",
+        "Thunder",
+        "Sunshine"
+      ],
+      "correct_answer": 2,
+      "explanation": "বজ্র (bôjrô) means thunder",
+      "bengali_focus": "বজ্র",
+      "phonetic_focus": "bôjrô"
+    },
+    {
+      "question": "Which Bengali word means 'lightning'?",
+      "options": [
+        "মেঘ",
+        "রোদ",
+        "বিদ্যুৎ",
+        "হাওয়া"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিদ্যুৎ (bidyut) means lightning",
+      "bengali_focus": "বিদ্যুৎ",
+      "phonetic_focus": "bidyut"
+    },
+    {
+      "question": "What is মেঘ?",
+      "options": [
+        "Sunshine",
+        "Wind",
+        "Cloud",
+        "Storm"
+      ],
+      "correct_answer": 2,
+      "explanation": "মেঘ (megh) means cloud",
+      "bengali_focus": "মেঘ",
+      "phonetic_focus": "megh"
+    },
+    {
+      "question": "Which word means 'sunshine'?",
+      "options": [
+        "হাওয়া",
+        "ঝড়",
+        "রোদ",
+        "কুয়াশা"
+      ],
+      "correct_answer": 2,
+      "explanation": "রোদ (rōd) means sunshine",
+      "bengali_focus": "রোদ",
+      "phonetic_focus": "rōd"
+    },
+    {
+      "question": "What does হাওয়া mean?",
+      "options": [
+        "Storm",
+        "Fog",
+        "Wind",
+        "Snow"
+      ],
+      "correct_answer": 2,
+      "explanation": "হাওয়া (hāōẇā) means wind",
+      "bengali_focus": "হাওয়া",
+      "phonetic_focus": "hāōẇā"
+    },
+    {
+      "question": "Which Bengali word means 'storm'?",
+      "options": [
+        "কুয়াশা",
+        "তুষার",
+        "ঝড়",
+        "শিশির"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঝড় (jhôṛ) means storm",
+      "bengali_focus": "ঝড়",
+      "phonetic_focus": "jhôṛ"
+    },
+    {
+      "question": "What is কুয়াশা?",
+      "options": [
+        "Dew",
+        "Humidity",
+        "Fog",
+        "Temperature"
+      ],
+      "correct_answer": 2,
+      "explanation": "কুয়াশা (kuẇāśā) means fog",
+      "bengali_focus": "কুয়াশা",
+      "phonetic_focus": "kuẇāśā"
+    },
+    {
+      "question": "Which word means 'snow'?",
+      "options": [
+        "আর্দ্রতা",
+        "তাপমাত্রা",
+        "তুষার",
+        "ঝঞ্ঝা"
+      ],
+      "correct_answer": 2,
+      "explanation": "তুষার (tuṣār) means snow",
+      "bengali_focus": "তুষার",
+      "phonetic_focus": "tuṣār"
+    },
+    {
+      "question": "What does শিশির mean?",
+      "options": [
+        "Humidity",
+        "Temperature",
+        "Dew",
+        "Gale"
+      ],
+      "correct_answer": 2,
+      "explanation": "শিশির (śiśir) means dew",
+      "bengali_focus": "শিশির",
+      "phonetic_focus": "śiśir"
+    },
+    {
+      "question": "Which Bengali word means 'humidity'?",
+      "options": [
+        "তাপমাত্রা",
+        "ঝঞ্ঝা",
+        "আর্দ্রতা",
+        "ঘূর্ণিঝড়"
+      ],
+      "correct_answer": 2,
+      "explanation": "আর্দ্রতা (ārdrôtā) means humidity",
+      "bengali_focus": "আর্দ্রতা",
+      "phonetic_focus": "ārdrôtā"
+    },
+    {
+      "question": "What is তাপমাত্রা?",
+      "options": [
+        "Gale",
+        "Cyclone",
+        "Temperature",
+        "Smoke"
+      ],
+      "correct_answer": 2,
+      "explanation": "তাপমাত্রা (tāpmātrā) means temperature",
+      "bengali_focus": "তাপমাত্রা",
+      "phonetic_focus": "tāpmātrā"
+    },
+    {
+      "question": "Which word means 'gale'?",
+      "options": [
+        "ঘূর্ণিঝড়",
+        "ধূপ",
+        "ঝঞ্ঝা",
+        "বন্যা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঝঞ্ঝা (jhôñjhā) means gale",
+      "bengali_focus": "ঝঞ্ঝা",
+      "phonetic_focus": "jhôñjhā"
+    },
+    {
+      "question": "What does ঘূর্ণিঝড় mean?",
+      "options": [
+        "Smoke",
+        "Flood",
+        "Cyclone",
+        "Drought"
+      ],
+      "correct_answer": 2,
+      "explanation": "ঘূর্ণিঝড় (ghūrṇijhôṛ) means cyclone",
+      "bengali_focus": "ঘূর্ণিঝড়",
+      "phonetic_focus": "ghūrṇijhôṛ"
+    },
+    {
+      "question": "Which Bengali word means 'smoke'?",
+      "options": [
+        "বন্যা",
+        "খরা",
+        "ধূপ",
+        "আবহাওয়া"
+      ],
+      "correct_answer": 2,
+      "explanation": "ধূপ (dhūp) means smoke",
+      "bengali_focus": "ধূপ",
+      "phonetic_focus": "dhūp"
+    },
+    {
+      "question": "What is বন্যা?",
+      "options": [
+        "Drought",
+        "Weather",
+        "Flood",
+        "Season"
+      ],
+      "correct_answer": 2,
+      "explanation": "বন্যা (bônyā) means flood",
+      "bengali_focus": "বন্যা",
+      "phonetic_focus": "bônyā"
+    },
+    {
+      "question": "Which word means 'drought'?",
+      "options": [
+        "আবহাওয়া",
+        "মৌসুম",
+        "খরা",
+        "ঋতু"
+      ],
+      "correct_answer": 2,
+      "explanation": "খরা (khôra) means drought",
+      "bengali_focus": "খরা",
+      "phonetic_focus": "khôra"
+    },
+    {
+      "question": "What does আবহাওয়া mean?",
+      "options": [
+        "Season",
+        "Weather",
+        "Rainy season",
+        "Summer"
+      ],
+      "correct_answer": 1,
+      "explanation": "আবহাওয়া (ābhôẇā) means weather",
+      "bengali_focus": "আবহাওয়া",
+      "phonetic_focus": "ābhôẇā"
+    },
+    {
+      "question": "Which Bengali word means 'season'?",
+      "options": [
+        "ঋতু",
+        "বর্ষা",
+        "গ্রীষ্ম",
+        "শীত"
+      ],
+      "correct_answer": 0,
+      "explanation": "ঋতু (r̥tu) means season",
+      "bengali_focus": "ঋতু",
+      "phonetic_focus": "r̥tu"
+    }
+  ]
+}

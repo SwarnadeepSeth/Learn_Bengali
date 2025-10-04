@@ -1,0 +1,513 @@
+{
+  "id": "lesson9-travel-transport",
+  "title": "Travel and Transportation",
+  "category": "intermediate",
+  "description": "Learn vocabulary for travel, transportation, and journey-related terms in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "ভ্রমণ",
+      "english": "travel",
+      "phonetic": "bhômôṇ",
+      "pronunciation_guide": "like 'bhro-mon'",
+      "audio_tip": "aspirated 'bhômôṇ'"
+    },
+    {
+      "bengali": "যাত্রা",
+      "english": "journey/trip",
+      "phonetic": "yātrā",
+      "pronunciation_guide": "like 'ya-tra'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ট্রেন",
+      "english": "train",
+      "phonetic": "ṭrên",
+      "pronunciation_guide": "like 'tren'",
+      "audio_tip": "retroflex 'ṭrên'"
+    },
+    {
+      "bengali": "বাস",
+      "english": "bus",
+      "phonetic": "bās",
+      "pronunciation_guide": "like 'bas'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ট্যাক্সি",
+      "english": "taxi",
+      "phonetic": "ṭyākṣi",
+      "pronunciation_guide": "like 'tyak-shi'",
+      "audio_tip": "retroflex 'ṭyākṣi'"
+    },
+    {
+      "bengali": "এয়ারপ্লেন",
+      "english": "airplane",
+      "phonetic": "eẏārplên",
+      "pronunciation_guide": "like 'e-yar-plen'",
+      "audio_tip": "aspirated 'ẏārplên'"
+    },
+    {
+      "bengali": "জাহাজ",
+      "english": "ship",
+      "phonetic": "jāhāj",
+      "pronunciation_guide": "like 'ja-haj'",
+      "audio_tip": "aspirated 'hāj'"
+    },
+    {
+      "bengali": "গাড়ি",
+      "english": "car",
+      "phonetic": "gāḍi",
+      "pronunciation_guide": "like 'ga-ri'",
+      "audio_tip": "retroflex 'ḍi'"
+    },
+    {
+      "bengali": "সাইকেল",
+      "english": "bicycle",
+      "phonetic": "sāikêl",
+      "pronunciation_guide": "like 'sai-kel'",
+      "audio_tip": "aspirated 'kêl'"
+    },
+    {
+      "bengali": "রিকশা",
+      "english": "rickshaw",
+      "phonetic": "rikśā",
+      "pronunciation_guide": "like 'rik-sha'",
+      "audio_tip": "retroflex 'kśā'"
+    },
+    {
+      "bengali": "এয়ারপোর্ট",
+      "english": "airport",
+      "phonetic": "eẏārpôṛṭ",
+      "pronunciation_guide": "like 'e-yar-port'",
+      "audio_tip": "retroflex 'pôṛṭ'"
+    },
+    {
+      "bengali": "স্টেশন",
+      "english": "station",
+      "phonetic": "sṭêśôn",
+      "pronunciation_guide": "like 'ste-shon'",
+      "audio_tip": "retroflex 'ṭêśôn'"
+    },
+    {
+      "bengali": "টিকিট",
+      "english": "ticket",
+      "phonetic": "ṭikiṭ",
+      "pronunciation_guide": "like 'ti-kit'",
+      "audio_tip": "retroflex 'ṭikiṭ'"
+    },
+    {
+      "bengali": "পাসপোর্ট",
+      "english": "passport",
+      "phonetic": "pāsôpôṛṭ",
+      "pronunciation_guide": "like 'pa-so-port'",
+      "audio_tip": "retroflex 'pôṛṭ'"
+    },
+    {
+      "bengali": "সুটকেস",
+      "english": "suitcase",
+      "phonetic": "suṭkês",
+      "pronunciation_guide": "like 'sut-kes'",
+      "audio_tip": "retroflex 'ṭkês'"
+    },
+    {
+      "bengali": "ব্যাগ",
+      "english": "bag",
+      "phonetic": "byāg",
+      "pronunciation_guide": "like 'byag'",
+      "audio_tip": "aspirated 'yāg'"
+    },
+    {
+      "bengali": "চেক ইন",
+      "english": "check-in",
+      "phonetic": "cêk in",
+      "pronunciation_guide": "like 'chek in'",
+      "audio_tip": "English phrase"
+    },
+    {
+      "bengali": "বোর্ডিং পাস",
+      "english": "boarding pass",
+      "phonetic": "bôṛḍiṅ pās",
+      "pronunciation_guide": "like 'bor-ding pas'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "ড্রাইভার",
+      "english": "driver",
+      "phonetic": "ḍrāiẇār",
+      "pronunciation_guide": "like 'dry-var'",
+      "audio_tip": "retroflex 'ḍrāiẇār'"
+    },
+    {
+      "bengali": "চালক",
+      "english": "driver",
+      "phonetic": "cālôk",
+      "pronunciation_guide": "like 'cha-lok'",
+      "audio_tip": "aspirated 'lôk'"
+    },
+    {
+      "bengali": "রাস্তা",
+      "english": "road",
+      "phonetic": "rāstā",
+      "pronunciation_guide": "like 'ras-ta'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "মাইল",
+      "english": "mile",
+      "phonetic": "māil",
+      "pronunciation_guide": "like 'mail'",
+      "audio_tip": "long 'āi'"
+    },
+    {
+      "bengali": "কিলোমিটার",
+      "english": "kilometer",
+      "phonetic": "kilômiṭār",
+      "pronunciation_guide": "like 'ki-lo-mi-tar'",
+      "audio_tip": "retroflex 'ṭār'"
+    },
+    {
+      "bengali": "গতি",
+      "english": "speed",
+      "phonetic": "gôti",
+      "pronunciation_guide": "like 'go-ti'",
+      "audio_tip": "aspirated 'gôti'"
+    },
+    {
+      "bengali": "যাত্রী",
+      "english": "passenger",
+      "phonetic": "yātṛi",
+      "pronunciation_guide": "like 'ya-tri'",
+      "audio_tip": "retroflex 'ṛi'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'travel'?",
+      "options": [
+        "ভ্রমণ",
+        "যাত্রা",
+        "ট্রেন",
+        "বাস"
+      ],
+      "correct_answer": 0,
+      "explanation": "ভ্রমণ (bhômôṇ) means travel",
+      "bengali_focus": "ভ্রমণ",
+      "phonetic_focus": "bhômôṇ"
+    },
+    {
+      "question": "Which word means 'journey'?",
+      "options": [
+        "ট্যাক্সি",
+        "এয়ারপ্লেন",
+        "যাত্রা",
+        "জাহাজ"
+      ],
+      "correct_answer": 2,
+      "explanation": "যাত্রা (yātrā) means journey or trip",
+      "bengali_focus": "যাত্রা",
+      "phonetic_focus": "yātrā"
+    },
+    {
+      "question": "What does ট্রেন mean?",
+      "options": [
+        "Bus",
+        "Taxi",
+        "Train",
+        "Airplane"
+      ],
+      "correct_answer": 2,
+      "explanation": "ট্রেন (ṭrên) means train",
+      "bengali_focus": "ট্রেন",
+      "phonetic_focus": "ṭrên"
+    },
+    {
+      "question": "Which Bengali word means 'bus'?",
+      "options": [
+        "Ship",
+        "Car",
+        "বাস",
+        "Bicycle"
+      ],
+      "correct_answer": 2,
+      "explanation": "বাস (bās) means bus",
+      "bengali_focus": "বাস",
+      "phonetic_focus": "bās"
+    },
+    {
+      "question": "What is ট্যাক্সি?",
+      "options": [
+        "Rickshaw",
+        "Airport",
+        "Taxi",
+        "Station"
+      ],
+      "correct_answer": 2,
+      "explanation": "ট্যাক্সি (ṭyākṣi) means taxi",
+      "bengali_focus": "ট্যাক্সি",
+      "phonetic_focus": "ṭyākṣi"
+    },
+    {
+      "question": "Which word means 'airplane'?",
+      "options": [
+        "Car",
+        "Bicycle",
+        "এয়ারপ্লেন",
+        "Rickshaw"
+      ],
+      "correct_answer": 2,
+      "explanation": "এয়ারপ্লেন (eẏārplên) means airplane",
+      "bengali_focus": "এয়ারপ্লেন",
+      "phonetic_focus": "eẏārplên"
+    },
+    {
+      "question": "What does জাহাজ mean?",
+      "options": [
+        "Airport",
+        "Station",
+        "Ship",
+        "Ticket"
+      ],
+      "correct_answer": 2,
+      "explanation": "জাহাজ (jāhāj) means ship",
+      "bengali_focus": "জাহাজ",
+      "phonetic_focus": "jāhāj"
+    },
+    {
+      "question": "Which Bengali word means 'car'?",
+      "options": [
+        "Passport",
+        "Suitcase",
+        "গাড়ি",
+        "Bag"
+      ],
+      "correct_answer": 2,
+      "explanation": "গাড়ি (gāḍi) means car",
+      "bengali_focus": "গাড়ি",
+      "phonetic_focus": "gāḍi"
+    },
+    {
+      "question": "What is সাইকেল?",
+      "options": [
+        "Check-in",
+        "Boarding pass",
+        "Bicycle",
+        "Driver"
+      ],
+      "correct_answer": 2,
+      "explanation": "সাইকেল (sāikêl) means bicycle",
+      "bengali_focus": "সাইকেল",
+      "phonetic_focus": "sāikêl"
+    },
+    {
+      "question": "Which word means 'rickshaw'?",
+      "options": [
+        "Road",
+        "Mile",
+        "রিকশা",
+        "Kilometer"
+      ],
+      "correct_answer": 2,
+      "explanation": "রিকশা (rikśā) means rickshaw",
+      "bengali_focus": "রিকশা",
+      "phonetic_focus": "rikśā"
+    },
+    {
+      "question": "What does এয়ারপোর্ট mean?",
+      "options": [
+        "Speed",
+        "Passenger",
+        "Airport",
+        "Travel"
+      ],
+      "correct_answer": 2,
+      "explanation": "এয়ারপোর্ট (eẏārpôṛṭ) means airport",
+      "bengali_focus": "এয়ারপোর্ট",
+      "phonetic_focus": "eẏārpôṛṭ"
+    },
+    {
+      "question": "Which Bengali word means 'station'?",
+      "options": [
+        "Journey",
+        "Train",
+        "স্টেশন",
+        "Bus"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্টেশন (sṭêśôn) means station",
+      "bengali_focus": "স্টেশন",
+      "phonetic_focus": "sṭêśôn"
+    },
+    {
+      "question": "What is টিকিট?",
+      "options": [
+        "Taxi",
+        "Airplane",
+        "Ticket",
+        "Ship"
+      ],
+      "correct_answer": 2,
+      "explanation": "টিকিট (ṭikiṭ) means ticket",
+      "bengali_focus": "টিকিট",
+      "phonetic_focus": "ṭikiṭ"
+    },
+    {
+      "question": "Which word means 'passport'?",
+      "options": [
+        "Car",
+        "Bicycle",
+        "পাসপোর্ট",
+        "Rickshaw"
+      ],
+      "correct_answer": 2,
+      "explanation": "পাসপোর্ট (pāsôpôṛṭ) means passport",
+      "bengali_focus": "পাসপোর্ট",
+      "phonetic_focus": "pāsôpôṛṭ"
+    },
+    {
+      "question": "What does সুটকেস mean?",
+      "options": [
+        "Airport",
+        "Station",
+        "Suitcase",
+        "Ticket"
+      ],
+      "correct_answer": 2,
+      "explanation": "সুটকেস (suṭkês) means suitcase",
+      "bengali_focus": "সুটকেস",
+      "phonetic_focus": "suṭkês"
+    },
+    {
+      "question": "Which Bengali word means 'bag'?",
+      "options": [
+        "Check-in",
+        "Boarding pass",
+        "ব্যাগ",
+        "Driver"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যাগ (byāg) means bag",
+      "bengali_focus": "ব্যাগ",
+      "phonetic_focus": "byāg"
+    },
+    {
+      "question": "What is চেক ইন?",
+      "options": [
+        "Boarding pass",
+        "Driver",
+        "Check-in",
+        "Road"
+      ],
+      "correct_answer": 2,
+      "explanation": "চেক ইন (cêk in) means check-in",
+      "bengali_focus": "চেক ইন",
+      "phonetic_focus": "cêk in"
+    },
+    {
+      "question": "Which word means 'boarding pass'?",
+      "options": [
+        "Mile",
+        "Kilometer",
+        "বোর্ডিং পাস",
+        "Speed"
+      ],
+      "correct_answer": 2,
+      "explanation": "বোর্ডিং পাস (bôṛḍiṅ pās) means boarding pass",
+      "bengali_focus": "বোর্ডিং পাস",
+      "phonetic_focus": "bôṛḍiṅ pās"
+    },
+    {
+      "question": "What does ড্রাইভার mean?",
+      "options": [
+        "Passenger",
+        "Travel",
+        "Driver",
+        "Journey"
+      ],
+      "correct_answer": 2,
+      "explanation": "ড্রাইভার (ḍrāiẇār) means driver",
+      "bengali_focus": "ড্রাইভার",
+      "phonetic_focus": "ḍrāiẇār"
+    },
+    {
+      "question": "Which Bengali word means 'road'?",
+      "options": [
+        "Train",
+        "Bus",
+        "রাস্তা",
+        "Taxi"
+      ],
+      "correct_answer": 2,
+      "explanation": "রাস্তা (rāstā) means road",
+      "bengali_focus": "রাস্তা",
+      "phonetic_focus": "rāstā"
+    },
+    {
+      "question": "What is মাইল?",
+      "options": [
+        "Kilometer",
+        "Speed",
+        "Mile",
+        "Passenger"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাইল (māil) means mile",
+      "bengali_focus": "মাইল",
+      "phonetic_focus": "māil"
+    },
+    {
+      "question": "Which word means 'kilometer'?",
+      "options": [
+        "Travel",
+        "Journey",
+        "কিলোমিটার",
+        "Train"
+      ],
+      "correct_answer": 2,
+      "explanation": "কিলোমিটার (kilômiṭār) means kilometer",
+      "bengali_focus": "কিলোমিটার",
+      "phonetic_focus": "kilômiṭār"
+    },
+    {
+      "question": "What does গতি mean?",
+      "options": [
+        "Bus",
+        "Taxi",
+        "Speed",
+        "Airplane"
+      ],
+      "correct_answer": 2,
+      "explanation": "গতি (gôti) means speed",
+      "bengali_focus": "গতি",
+      "phonetic_focus": "gôti"
+    },
+    {
+      "question": "Which Bengali word means 'passenger'?",
+      "options": [
+        "Ship",
+        "Car",
+        "যাত্রী",
+        "Bicycle"
+      ],
+      "correct_answer": 2,
+      "explanation": "যাত্রী (yātṛi) means passenger",
+      "bengali_focus": "যাত্রী",
+      "phonetic_focus": "yātṛi"
+    },
+    {
+      "question": "What is চালক?",
+      "options": [
+        "Rickshaw",
+        "Airport",
+        "Driver",
+        "Station"
+      ],
+      "correct_answer": 2,
+      "explanation": "চালক (cālôk) means driver",
+      "bengali_focus": "চালক",
+      "phonetic_focus": "cālôk"
+    }
+  ]
+}

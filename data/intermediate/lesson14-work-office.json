@@ -1,0 +1,513 @@
+{
+  "id": "lesson14-work-office",
+  "title": "Work and Office",
+  "category": "intermediate",
+  "description": "Learn vocabulary for workplace, office environment, and professional terms in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "কাজ",
+      "english": "work/job",
+      "phonetic": "kāj",
+      "pronunciation_guide": "like 'kaj'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "অফিস",
+      "english": "office",
+      "phonetic": "ôphiś",
+      "pronunciation_guide": "like 'of-fish'",
+      "audio_tip": "aspirated 'phiś'"
+    },
+    {
+      "bengali": "কর্মচারী",
+      "english": "employee",
+      "phonetic": "kôrmôcārī",
+      "pronunciation_guide": "like 'kor-mo-cha-ri'",
+      "audio_tip": "aspirated 'rmôcārī'"
+    },
+    {
+      "bengali": "বস",
+      "english": "boss",
+      "phonetic": "bôs",
+      "pronunciation_guide": "like 'boss'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "ম্যানেজার",
+      "english": "manager",
+      "phonetic": "myānējār",
+      "pronunciation_guide": "like 'mya-ne-jar'",
+      "audio_tip": "aspirated 'nējār'"
+    },
+    {
+      "bengali": "সভা",
+      "english": "meeting",
+      "phonetic": "sôbhā",
+      "pronunciation_guide": "like 'sho-bha'",
+      "audio_tip": "aspirated 'bhā'"
+    },
+    {
+      "bengali": "প্রজেক্ট",
+      "english": "project",
+      "phonetic": "prôjêkṭ",
+      "pronunciation_guide": "like 'pro-jekt'",
+      "audio_tip": "retroflex 'jêkṭ'"
+    },
+    {
+      "bengali": "ডেডলাইন",
+      "english": "deadline",
+      "phonetic": "ḍeḍlāin",
+      "pronunciation_guide": "like 'ded-lain'",
+      "audio_tip": "retroflex 'ḍeḍlāin'"
+    },
+    {
+      "bengali": "কম্পিউটার",
+      "english": "computer",
+      "phonetic": "kômpiuṭār",
+      "pronunciation_guide": "like 'kom-piu-tar'",
+      "audio_tip": "aspirated 'mpiuṭār'"
+    },
+    {
+      "bengali": "ইন্টারনেট",
+      "english": "internet",
+      "phonetic": "inṭārnêṭ",
+      "pronunciation_guide": "like 'in-tar-net'",
+      "audio_tip": "retroflex 'ṭārnêṭ'"
+    },
+    {
+      "bengali": "ইমেইল",
+      "english": "email",
+      "phonetic": "imêil",
+      "pronunciation_guide": "like 'i-mail'",
+      "audio_tip": "aspirated 'mêil'"
+    },
+    {
+      "bengali": "ফোন",
+      "english": "phone",
+      "phonetic": "phôn",
+      "pronunciation_guide": "like 'phone'",
+      "audio_tip": "aspirated 'phôn'"
+    },
+    {
+      "bengali": "টেবিল",
+      "english": "table/desk",
+      "phonetic": "ṭêbil",
+      "pronunciation_guide": "like 'te-bil'",
+      "audio_tip": "retroflex 'ṭêbil'"
+    },
+    {
+      "bengali": "চেয়ার",
+      "english": "chair",
+      "phonetic": "cêẏār",
+      "pronunciation_guide": "like 'che-yar'",
+      "audio_tip": "aspirated 'ẏār'"
+    },
+    {
+      "bengali": "কাগজ",
+      "english": "paper",
+      "phonetic": "kāgôj",
+      "pronunciation_guide": "like 'ka-goj'",
+      "audio_tip": "aspirated 'gôj'"
+    },
+    {
+      "bengali": "কলম",
+      "english": "pen",
+      "phonetic": "kôlôm",
+      "pronunciation_guide": "like 'ko-lom'",
+      "audio_tip": "aspirated 'lôm'"
+    },
+    {
+      "bengali": "স্যালারি",
+      "english": "salary",
+      "phonetic": "syālôri",
+      "pronunciation_guide": "like 'sya-lo-ri'",
+      "audio_tip": "aspirated 'lôri'"
+    },
+    {
+      "bengali": "ওভারটাইম",
+      "english": "overtime",
+      "phonetic": "ôbhārṭāim",
+      "pronunciation_guide": "like 'o-bhar-time'",
+      "audio_tip": "aspirated 'bhārṭāim'"
+    },
+    {
+      "bengali": "বিরতি",
+      "english": "break",
+      "phonetic": "birôti",
+      "pronunciation_guide": "like 'bi-ro-ti'",
+      "audio_tip": "aspirated 'rôti'"
+    },
+    {
+      "bengali": "ছুটি",
+      "english": "leave/holiday",
+      "phonetic": "chuti",
+      "pronunciation_guide": "like 'chu-ti'",
+      "audio_tip": "aspirated 'ch'"
+    },
+    {
+      "bengali": "প্রমোশন",
+      "english": "promotion",
+      "phonetic": "prômôśôn",
+      "pronunciation_guide": "like 'pro-mo-shon'",
+      "audio_tip": "aspirated 'môśôn'"
+    },
+    {
+      "bengali": "রিজাইন",
+      "english": "resignation",
+      "phonetic": "rijāin",
+      "pronunciation_guide": "like 'ri-jain'",
+      "audio_tip": "aspirated 'jāin'"
+    },
+    {
+      "bengali": "ইন্টারভিউ",
+      "english": "interview",
+      "phonetic": "inṭārbhiu",
+      "pronunciation_guide": "like 'in-tar-bhiu'",
+      "audio_tip": "retroflex 'ṭārbhiu'"
+    },
+    {
+      "bengali": "রেজুমে",
+      "english": "resume",
+      "phonetic": "rējumê",
+      "pronunciation_guide": "like 're-ju-me'",
+      "audio_tip": "aspirated 'jumê'"
+    },
+    {
+      "bengali": "টিম",
+      "english": "team",
+      "phonetic": "ṭim",
+      "pronunciation_guide": "like 'tim'",
+      "audio_tip": "retroflex 'ṭim'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'work'?",
+      "options": [
+        "অফিস",
+        "কর্মচারী",
+        "কাজ",
+        "বস"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাজ (kāj) means work or job",
+      "bengali_focus": "কাজ",
+      "phonetic_focus": "kāj"
+    },
+    {
+      "question": "Which word means 'office'?",
+      "options": [
+        "ম্যানেজার",
+        "সভা",
+        "অফিস",
+        "প্রজেক্ট"
+      ],
+      "correct_answer": 2,
+      "explanation": "অফিস (ôphiś) means office",
+      "bengali_focus": "অফিস",
+      "phonetic_focus": "ôphiś"
+    },
+    {
+      "question": "What does কর্মচারী mean?",
+      "options": [
+        "Boss",
+        "Manager",
+        "Employee",
+        "Meeting"
+      ],
+      "correct_answer": 2,
+      "explanation": "কর্মচারী (kôrmôcārī) means employee",
+      "bengali_focus": "কর্মচারী",
+      "phonetic_focus": "kôrmôcārī"
+    },
+    {
+      "question": "Which Bengali word means 'boss'?",
+      "options": [
+        "Project",
+        "Deadline",
+        "বস",
+        "Computer"
+      ],
+      "correct_answer": 2,
+      "explanation": "বস (bôs) means boss",
+      "bengali_focus": "বস",
+      "phonetic_focus": "bôs"
+    },
+    {
+      "question": "What is ম্যানেজার?",
+      "options": [
+        "Internet",
+        "Email",
+        "Manager",
+        "Phone"
+      ],
+      "correct_answer": 2,
+      "explanation": "ম্যানেজার (myānējār) means manager",
+      "bengali_focus": "ম্যানেজার",
+      "phonetic_focus": "myānējār"
+    },
+    {
+      "question": "Which word means 'meeting'?",
+      "options": [
+        "Table",
+        "Chair",
+        "সভা",
+        "Paper"
+      ],
+      "correct_answer": 2,
+      "explanation": "সভা (sôbhā) means meeting",
+      "bengali_focus": "সভা",
+      "phonetic_focus": "sôbhā"
+    },
+    {
+      "question": "What does প্রজেক্ট mean?",
+      "options": [
+        "Pen",
+        "Salary",
+        "Project",
+        "Overtime"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রজেক্ট (prôjêkṭ) means project",
+      "bengali_focus": "প্রজেক্ট",
+      "phonetic_focus": "prôjêkṭ"
+    },
+    {
+      "question": "Which Bengali word means 'computer'?",
+      "options": [
+        "Break",
+        "Leave",
+        "কম্পিউটার",
+        "Promotion"
+      ],
+      "correct_answer": 2,
+      "explanation": "কম্পিউটার (kômpiuṭār) means computer",
+      "bengali_focus": "কম্পিউটার",
+      "phonetic_focus": "kômpiuṭār"
+    },
+    {
+      "question": "What is ইন্টারনেট?",
+      "options": [
+        "Resignation",
+        "Interview",
+        "Internet",
+        "Resume"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইন্টারনেট (inṭārnêṭ) means internet",
+      "bengali_focus": "ইন্টারনেট",
+      "phonetic_focus": "inṭārnêṭ"
+    },
+    {
+      "question": "Which word means 'email'?",
+      "options": [
+        "Team",
+        "Work",
+        "ইমেইল",
+        "Office"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইমেইল (imêil) means email",
+      "bengali_focus": "ইমেইল",
+      "phonetic_focus": "imêil"
+    },
+    {
+      "question": "What does ফোন mean?",
+      "options": [
+        "Employee",
+        "Boss",
+        "Phone",
+        "Manager"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফোন (phôn) means phone",
+      "bengali_focus": "ফোন",
+      "phonetic_focus": "phôn"
+    },
+    {
+      "question": "Which Bengali word means 'table'?",
+      "options": [
+        "Meeting",
+        "Project",
+        "টেবিল",
+        "Deadline"
+      ],
+      "correct_answer": 2,
+      "explanation": "টেবিল (ṭêbil) means table or desk",
+      "bengali_focus": "টেবিল",
+      "phonetic_focus": "ṭêbil"
+    },
+    {
+      "question": "What is চেয়ার?",
+      "options": [
+        "Computer",
+        "Internet",
+        "Chair",
+        "Email"
+      ],
+      "correct_answer": 2,
+      "explanation": "চেয়ার (cêẏār) means chair",
+      "bengali_focus": "চেয়ার",
+      "phonetic_focus": "cêẏār"
+    },
+    {
+      "question": "Which word means 'paper'?",
+      "options": [
+        "Phone",
+        "Table",
+        "কাগজ",
+        "Chair"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাগজ (kāgôj) means paper",
+      "bengali_focus": "কাগজ",
+      "phonetic_focus": "kāgôj"
+    },
+    {
+      "question": "What does কলম mean?",
+      "options": [
+        "Salary",
+        "Overtime",
+        "Pen",
+        "Break"
+      ],
+      "correct_answer": 2,
+      "explanation": "কলম (kôlôm) means pen",
+      "bengali_focus": "কলম",
+      "phonetic_focus": "kôlôm"
+    },
+    {
+      "question": "Which Bengali word means 'salary'?",
+      "options": [
+        "Leave",
+        "Promotion",
+        "স্যালারি",
+        "Resignation"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্যালারি (syālôri) means salary",
+      "bengali_focus": "স্যালারি",
+      "phonetic_focus": "syālôri"
+    },
+    {
+      "question": "What is ওভারটাইম?",
+      "options": [
+        "Interview",
+        "Resume",
+        "Overtime",
+        "Team"
+      ],
+      "correct_answer": 2,
+      "explanation": "ওভারটাইম (ôbhārṭāim) means overtime",
+      "bengali_focus": "ওভারটাইম",
+      "phonetic_focus": "ôbhārṭāim"
+    },
+    {
+      "question": "Which word means 'break'?",
+      "options": [
+        "Work",
+        "Office",
+        "বিরতি",
+        "Employee"
+      ],
+      "correct_answer": 2,
+      "explanation": "বিরতি (birôti) means break",
+      "bengali_focus": "বিরতি",
+      "phonetic_focus": "birôti"
+    },
+    {
+      "question": "What does ছুটি mean?",
+      "options": [
+        "Boss",
+        "Manager",
+        "Leave",
+        "Meeting"
+      ],
+      "correct_answer": 2,
+      "explanation": "ছুটি (chuti) means leave or holiday",
+      "bengali_focus": "ছুটি",
+      "phonetic_focus": "chuti"
+    },
+    {
+      "question": "Which Bengali word means 'promotion'?",
+      "options": [
+        "Project",
+        "Deadline",
+        "প্রমোশন",
+        "Computer"
+      ],
+      "correct_answer": 2,
+      "explanation": "প্রমোশন (prômôśôn) means promotion",
+      "bengali_focus": "প্রমোশন",
+      "phonetic_focus": "prômôśôn"
+    },
+    {
+      "question": "What is রিজাইন?",
+      "options": [
+        "Internet",
+        "Email",
+        "Resignation",
+        "Phone"
+      ],
+      "correct_answer": 2,
+      "explanation": "রিজাইন (rijāin) means resignation",
+      "bengali_focus": "রিজাইন",
+      "phonetic_focus": "rijāin"
+    },
+    {
+      "question": "Which word means 'interview'?",
+      "options": [
+        "Table",
+        "Chair",
+        "ইন্টারভিউ",
+        "Paper"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইন্টারভিউ (inṭārbhiu) means interview",
+      "bengali_focus": "ইন্টারভিউ",
+      "phonetic_focus": "inṭārbhiu"
+    },
+    {
+      "question": "What does রেজুমে mean?",
+      "options": [
+        "Pen",
+        "Salary",
+        "Resume",
+        "Overtime"
+      ],
+      "correct_answer": 2,
+      "explanation": "রেজুমে (rējumê) means resume",
+      "bengali_focus": "রেজুমে",
+      "phonetic_focus": "rējumê"
+    },
+    {
+      "question": "Which Bengali word means 'team'?",
+      "options": [
+        "Break",
+        "Leave",
+        "টিম",
+        "Promotion"
+      ],
+      "correct_answer": 2,
+      "explanation": "টিম (ṭim) means team",
+      "bengali_focus": "টিম",
+      "phonetic_focus": "ṭim"
+    },
+    {
+      "question": "What is ডেডলাইন?",
+      "options": [
+        "Resignation",
+        "Interview",
+        "Deadline",
+        "Resume"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডেডলাইন (ḍeḍlāin) means deadline",
+      "bengali_focus": "ডেডলাইন",
+      "phonetic_focus": "ḍeḍlāin"
+    }
+  ]
+}

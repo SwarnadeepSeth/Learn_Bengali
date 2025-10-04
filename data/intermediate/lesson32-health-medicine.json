@@ -1,0 +1,513 @@
+{
+  "id": "lesson32-health-medicine",
+  "title": "Health and Medicine",
+  "category": "intermediate",
+  "description": "Learn vocabulary related to health, medicine, and medical care in Bengali",
+  "type": "vocabulary_learning",
+  "total_items": 25,
+  "estimated_time": "25 minutes",
+  "teaching_content": [
+    {
+      "bengali": "স্বাস্থ্য",
+      "english": "health",
+      "phonetic": "sbāsthyô",
+      "pronunciation_guide": "like 'shwas-thyo'",
+      "audio_tip": "aspirated 'sthyô'"
+    },
+    {
+      "bengali": "চিকিৎসা",
+      "english": "medical treatment",
+      "phonetic": "cikitsā",
+      "pronunciation_guide": "like 'chi-kit-sa'",
+      "audio_tip": "clear 'k'"
+    },
+    {
+      "bengali": "ডাক্তার",
+      "english": "doctor",
+      "phonetic": "ḍākṭār",
+      "pronunciation_guide": "like 'dak-tar'",
+      "audio_tip": "retroflex 'ḍākṭār'"
+    },
+    {
+      "bengali": "রোগী",
+      "english": "patient",
+      "phonetic": "rōgī",
+      "pronunciation_guide": "like 'ro-gi'",
+      "audio_tip": "long 'ō'"
+    },
+    {
+      "bengali": "হাসপাতাল",
+      "english": "hospital",
+      "phonetic": "hāsôpātāl",
+      "pronunciation_guide": "like 'ha-so-pa-tal'",
+      "audio_tip": "aspirated 'sôpātāl'"
+    },
+    {
+      "bengali": "ওষুধ",
+      "english": "medicine",
+      "phonetic": "ôṣudh",
+      "pronunciation_guide": "like 'o-shudh'",
+      "audio_tip": "retroflex 'ṣudh'"
+    },
+    {
+      "bengali": "ব্যথা",
+      "english": "pain",
+      "phonetic": "byôthā",
+      "pronunciation_guide": "like 'byo-tha'",
+      "audio_tip": "aspirated 'thā'"
+    },
+    {
+      "bengali": "জ্বর",
+      "english": "fever",
+      "phonetic": "jbôr",
+      "pronunciation_guide": "like 'jbor'",
+      "audio_tip": "aspirated 'jbôr'"
+    },
+    {
+      "bengali": "কাশি",
+      "english": "cough",
+      "phonetic": "kāśi",
+      "pronunciation_guide": "like 'ka-shi'",
+      "audio_tip": "aspirated 'śi'"
+    },
+    {
+      "bengali": "সর্দি",
+      "english": "cold/common cold",
+      "phonetic": "śôrdi",
+      "pronunciation_guide": "like 'shor-di'",
+      "audio_tip": "aspirated 'śôrdi'"
+    },
+    {
+      "bengali": "মাথাব্যথা",
+      "english": "headache",
+      "phonetic": "māthābyôthā",
+      "pronunciation_guide": "like 'ma-tha-byo-tha'",
+      "audio_tip": "compound word"
+    },
+    {
+      "bengali": "পেটব্যথা",
+      "english": "stomach ache",
+      "phonetic": "pêṭôbyôthā",
+      "pronunciation_guide": "like 'pe-to-byo-tha'",
+      "audio_tip": "retroflex 'ṭôbyôthā'"
+    },
+    {
+      "bengali": "ডায়াবেটিস",
+      "english": "diabetes",
+      "phonetic": "ḍāẏābêṭis",
+      "pronunciation_guide": "like 'da-ya-be-tis'",
+      "audio_tip": "retroflex 'ḍāẏābêṭis'"
+    },
+    {
+      "bengali": "রক্তচাপ",
+      "english": "blood pressure",
+      "phonetic": "rôktôcāp",
+      "pronunciation_guide": "like 'rok-to-chap'",
+      "audio_tip": "aspirated 'ktôcāp'"
+    },
+    {
+      "bengali": "হার্ট",
+      "english": "heart",
+      "phonetic": "hārṭ",
+      "pronunciation_guide": "like 'hart'",
+      "audio_tip": "retroflex 'ṭ'"
+    },
+    {
+      "bengali": "ফুসফুস",
+      "english": "lungs",
+      "phonetic": "phusphus",
+      "pronunciation_guide": "like 'phus-phus'",
+      "audio_tip": "aspirated 'phusphus'"
+    },
+    {
+      "bengali": "চোখ",
+      "english": "eye",
+      "phonetic": "cōkh",
+      "pronunciation_guide": "like 'chokh'",
+      "audio_tip": "aspirated 'kh'"
+    },
+    {
+      "bengali": "কান",
+      "english": "ear",
+      "phonetic": "kān",
+      "pronunciation_guide": "like 'kan'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "দাঁত",
+      "english": "tooth",
+      "phonetic": "dāt",
+      "pronunciation_guide": "like 'dat'",
+      "audio_tip": "long 'ā'"
+    },
+    {
+      "bengali": "ইনজেকশন",
+      "english": "injection",
+      "phonetic": "injêkśôn",
+      "pronunciation_guide": "like 'in-jek-shon'",
+      "audio_tip": "retroflex 'kśôn'"
+    },
+    {
+      "bengali": "অপারেশন",
+      "english": "surgery",
+      "phonetic": "ôpārêśôn",
+      "pronunciation_guide": "like 'o-pa-re-shon'",
+      "audio_tip": "aspirated 'pārêśôn'"
+    },
+    {
+      "bengali": "পরীক্ষা",
+      "english": "test/examination",
+      "phonetic": "pôrīkkhā",
+      "pronunciation_guide": "like 'po-rik-kha'",
+      "audio_tip": "aspirated 'rīkkhā'"
+    },
+    {
+      "bengali": "রক্ত পরীক্ষা",
+      "english": "blood test",
+      "phonetic": "rôktô pôrīkkhā",
+      "pronunciation_guide": "like 'rok-to po-rik-kha'",
+      "audio_tip": "compound phrase"
+    },
+    {
+      "bengali": "সুস্থ",
+      "english": "healthy",
+      "phonetic": "susthô",
+      "pronunciation_guide": "like 'sus-tho'",
+      "audio_tip": "aspirated 'sthô'"
+    },
+    {
+      "bengali": "অসুস্থ",
+      "english": "unhealthy/sick",
+      "phonetic": "ôsusthô",
+      "pronunciation_guide": "like 'o-sus-tho'",
+      "audio_tip": "aspirated 'susthô'"
+    }
+  ],
+  "quiz_questions": [
+    {
+      "question": "What is the Bengali word for 'health'?",
+      "options": [
+        "চিকিৎসা",
+        "ডাক্তার",
+        "স্বাস্থ্য",
+        "রোগী"
+      ],
+      "correct_answer": 2,
+      "explanation": "স্বাস্থ্য (sbāsthyô) means health",
+      "bengali_focus": "স্বাস্থ্য",
+      "phonetic_focus": "sbāsthyô"
+    },
+    {
+      "question": "Which word means 'medical treatment'?",
+      "options": [
+        "হাসপাতাল",
+        "ওষুধ",
+        "চিকিৎসা",
+        "ব্যথা"
+      ],
+      "correct_answer": 2,
+      "explanation": "চিকিৎসা (cikitsā) means medical treatment",
+      "bengali_focus": "চিকিৎসা",
+      "phonetic_focus": "cikitsā"
+    },
+    {
+      "question": "What does ডাক্তার mean?",
+      "options": [
+        "জ্বর",
+        "কাশি",
+        "Doctor",
+        "সর্দি"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডাক্তার (ḍākṭār) means doctor",
+      "bengali_focus": "ডাক্তার",
+      "phonetic_focus": "ḍākṭār"
+    },
+    {
+      "question": "Which Bengali word means 'patient'?",
+      "options": [
+        "মাথাব্যথা",
+        "পেটব্যথা",
+        "রোগী",
+        "ডায়াবেটিস"
+      ],
+      "correct_answer": 2,
+      "explanation": "রোগী (rōgī) means patient",
+      "bengali_focus": "রোগী",
+      "phonetic_focus": "rōgī"
+    },
+    {
+      "question": "What is হাসপাতাল?",
+      "options": [
+        "রক্তচাপ",
+        "হার্ট",
+        "Hospital",
+        "ফুসফুস"
+      ],
+      "correct_answer": 2,
+      "explanation": "হাসপাতাল (hāsôpātāl) means hospital",
+      "bengali_focus": "হাসপাতাল",
+      "phonetic_focus": "hāsôpātāl"
+    },
+    {
+      "question": "Which word means 'medicine'?",
+      "options": [
+        "চোখ",
+        "কান",
+        "ওষুধ",
+        "দাঁত"
+      ],
+      "correct_answer": 2,
+      "explanation": "ওষুধ (ôṣudh) means medicine",
+      "bengali_focus": "ওষুধ",
+      "phonetic_focus": "ôṣudh"
+    },
+    {
+      "question": "What does ব্যথা mean?",
+      "options": [
+        "ইনজেকশন",
+        "অপারেশন",
+        "Pain",
+        "পরীক্ষা"
+      ],
+      "correct_answer": 2,
+      "explanation": "ব্যথা (byôthā) means pain",
+      "bengali_focus": "ব্যথা",
+      "phonetic_focus": "byôthā"
+    },
+    {
+      "question": "Which Bengali word means 'fever'?",
+      "options": [
+        "রক্ত পরীক্ষা",
+        "সুস্থ",
+        "জ্বর",
+        "অসুস্থ"
+      ],
+      "correct_answer": 2,
+      "explanation": "জ্বর (jbôr) means fever",
+      "bengali_focus": "জ্বর",
+      "phonetic_focus": "jbôr"
+    },
+    {
+      "question": "What is কাশি?",
+      "options": [
+        "Health",
+        "Medical treatment",
+        "Cough",
+        "Doctor"
+      ],
+      "correct_answer": 2,
+      "explanation": "কাশি (kāśi) means cough",
+      "bengali_focus": "কাশি",
+      "phonetic_focus": "kāśi"
+    },
+    {
+      "question": "Which word means 'cold'?",
+      "options": [
+        "Patient",
+        "Hospital",
+        "সর্দি",
+        "Medicine"
+      ],
+      "correct_answer": 2,
+      "explanation": "সর্দি (śôrdi) means cold",
+      "bengali_focus": "সর্দি",
+      "phonetic_focus": "śôrdi"
+    },
+    {
+      "question": "What does মাথাব্যথা mean?",
+      "options": [
+        "Pain",
+        "Fever",
+        "Headache",
+        "Cough"
+      ],
+      "correct_answer": 2,
+      "explanation": "মাথাব্যথা (māthābyôthā) means headache",
+      "bengali_focus": "মাথাব্যথা",
+      "phonetic_focus": "māthābyôthā"
+    },
+    {
+      "question": "Which Bengali word means 'stomach ache'?",
+      "options": [
+        "Cold",
+        "Headache",
+        "পেটব্যথা",
+        "Diabetes"
+      ],
+      "correct_answer": 2,
+      "explanation": "পেটব্যথা (pêṭôbyôthā) means stomach ache",
+      "bengali_focus": "পেটব্যথা",
+      "phonetic_focus": "pêṭôbyôthā"
+    },
+    {
+      "question": "What is ডায়াবেটিস?",
+      "options": [
+        "Blood pressure",
+        "Heart",
+        "Diabetes",
+        "Lungs"
+      ],
+      "correct_answer": 2,
+      "explanation": "ডায়াবেটিস (ḍāẏābêṭis) means diabetes",
+      "bengali_focus": "ডায়াবেটিস",
+      "phonetic_focus": "ḍāẏābêṭis"
+    },
+    {
+      "question": "Which word means 'blood pressure'?",
+      "options": [
+        "Eye",
+        "Ear",
+        "রক্তচাপ",
+        "Tooth"
+      ],
+      "correct_answer": 2,
+      "explanation": "রক্তচাপ (rôktôcāp) means blood pressure",
+      "bengali_focus": "রক্তচাপ",
+      "phonetic_focus": "rôktôcāp"
+    },
+    {
+      "question": "What does হার্ট mean?",
+      "options": [
+        "Injection",
+        "Surgery",
+        "Heart",
+        "Test"
+      ],
+      "correct_answer": 2,
+      "explanation": "হার্ট (hārṭ) means heart",
+      "bengali_focus": "হার্ট",
+      "phonetic_focus": "hārṭ"
+    },
+    {
+      "question": "Which Bengali word means 'lungs'?",
+      "options": [
+        "Blood test",
+        "Healthy",
+        "ফুসফুস",
+        "Unhealthy"
+      ],
+      "correct_answer": 2,
+      "explanation": "ফুসফুস (phusphus) means lungs",
+      "bengali_focus": "ফুসফুস",
+      "phonetic_focus": "phusphus"
+    },
+    {
+      "question": "What is চোখ?",
+      "options": [
+        "Health",
+        "Medical treatment",
+        "Eye",
+        "Doctor"
+      ],
+      "correct_answer": 2,
+      "explanation": "চোখ (cōkh) means eye",
+      "bengali_focus": "চোখ",
+      "phonetic_focus": "cōkh"
+    },
+    {
+      "question": "Which word means 'ear'?",
+      "options": [
+        "Patient",
+        "Hospital",
+        "কান",
+        "Medicine"
+      ],
+      "correct_answer": 2,
+      "explanation": "কান (kān) means ear",
+      "bengali_focus": "কান",
+      "phonetic_focus": "kān"
+    },
+    {
+      "question": "What does দাঁত mean?",
+      "options": [
+        "Pain",
+        "Fever",
+        "Tooth",
+        "Cough"
+      ],
+      "correct_answer": 2,
+      "explanation": "দাঁত (dāt) means tooth",
+      "bengali_focus": "দাঁত",
+      "phonetic_focus": "dāt"
+    },
+    {
+      "question": "Which Bengali word means 'injection'?",
+      "options": [
+        "Cold",
+        "Headache",
+        "ইনজেকশন",
+        "Stomach ache"
+      ],
+      "correct_answer": 2,
+      "explanation": "ইনজেকশন (injêkśôn) means injection",
+      "bengali_focus": "ইনজেকশন",
+      "phonetic_focus": "injêkśôn"
+    },
+    {
+      "question": "What is অপারেশন?",
+      "options": [
+        "Diabetes",
+        "Blood pressure",
+        "Surgery",
+        "Heart"
+      ],
+      "correct_answer": 2,
+      "explanation": "অপারেশন (ôpārêśôn) means surgery",
+      "bengali_focus": "অপারেশন",
+      "phonetic_focus": "ôpārêśôn"
+    },
+    {
+      "question": "Which word means 'test'?",
+      "options": [
+        "Lungs",
+        "Eye",
+        "পরীক্ষা",
+        "Ear"
+      ],
+      "correct_answer": 2,
+      "explanation": "পরীক্ষা (pôrīkkhā) means test",
+      "bengali_focus": "পরীক্ষা",
+      "phonetic_focus": "pôrīkkhā"
+    },
+    {
+      "question": "What does রক্ত পরীক্ষা mean?",
+      "options": [
+        "Tooth",
+        "Injection",
+        "Blood test",
+        "Surgery"
+      ],
+      "correct_answer": 2,
+      "explanation": "রক্ত পরীক্ষা (rôktô pôrīkkhā) means blood test",
+      "bengali_focus": "রক্ত পরীক্ষা",
+      "phonetic_focus": "rôktô pôrīkkhā"
+    },
+    {
+      "question": "Which Bengali word means 'healthy'?",
+      "options": [
+        "Test",
+        "Blood test",
+        "সুস্থ",
+        "Unhealthy"
+      ],
+      "correct_answer": 2,
+      "explanation": "সুস্থ (susthô) means healthy",
+      "bengali_focus": "সুস্থ",
+      "phonetic_focus": "susthô"
+    },
+    {
+      "question": "What is অসুস্থ?",
+      "options": [
+        "Health",
+        "Medical treatment",
+        "Unhealthy",
+        "Doctor"
+      ],
+      "correct_answer": 2,
+      "explanation": "অসুস্থ (ôsusthô) means unhealthy",
+      "bengali_focus": "অসুস্থ",
+      "phonetic_focus": "ôsusthô"
+    }
+  ]
+}
