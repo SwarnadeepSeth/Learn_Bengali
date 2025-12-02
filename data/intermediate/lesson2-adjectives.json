@@ -73,9 +73,9 @@
     {
       "bengali": "গরম",
       "english": "hot",
-      "phonetic": "gôrmô",
-      "pronunciation_guide": "like 'gor-mo'",
-      "audio_tip": "nasal 'ô'"
+      "phonetic": "gorom",
+      "pronunciation_guide": "like 'go-rom'",
+      "audio_tip": "nasal 'o'"
     },
     {
       "bengali": "ঠান্ডা",
@@ -101,8 +101,8 @@
     {
       "bengali": "চওড়া",
       "english": "wide",
-      "phonetic": "côẇṛā",
-      "pronunciation_guide": "like 'cho-ra'",
+      "phonetic": "chôẇṛā",
+      "pronunciation_guide": "like 'chow-ra'",
       "audio_tip": "retroflex 'ṛ'"
     },
     {
@@ -122,8 +122,8 @@
     {
       "bengali": "হালকা",
       "english": "light",
-      "phonetic": "hālôkā",
-      "pronunciation_guide": "like 'ha-lo-ka'",
+      "phonetic": "hālkā",
+      "pronunciation_guide": "like 'ha-l-ka'",
       "audio_tip": "aspirated 'h'"
     },
     {
@@ -187,10 +187,10 @@
     {
       "question": "What is the Bengali word for 'beautiful'?",
       "options": [
-        "সুন্দর",
-        "বড়",
-        "ছোট",
-        "নতুন"
+        "সুন্দর (sundôr)",
+        "বড় (bôṛô)",
+        "ছোট (chôṭô)",
+        "নতুন (nôtun)"
       ],
       "correct_answer": 0,
       "explanation": "সুন্দর (sundôr) means beautiful",
@@ -200,10 +200,10 @@
     {
       "question": "Which adjective means 'big'?",
       "options": [
-        "পুরানো",
-        "ভালো",
-        "বড়",
-        "খারাপ"
+        "পুরানো (purānô)",
+        "ভালো (bhālô)",
+        "বড় (bôṛô)",
+        "খারাপ (khārāp)"
       ],
       "correct_answer": 2,
       "explanation": "বড় (bôṛô) means big or large",
@@ -224,12 +224,12 @@
       "phonetic_focus": "chôṭô"
     },
     {
-      "question": "Which Bengali word means 'new'?",
+      "question": "Which Bengali word means 'new' (nôtun)?",
       "options": [
-        "পুরানো",
-        "নতুন",
-        "ভালো",
-        "খারাপ"
+        "পুরানো (purānô)",
+        "নতুন (nôtun)",
+        "ভালো (bhālô)",
+        "খারাপ (khārāp)"
       ],
       "correct_answer": 1,
       "explanation": "নতুন (nôtun) means new",
@@ -237,12 +237,12 @@
       "phonetic_focus": "nôtun"
     },
     {
-      "question": "What is the opposite of নতুন?",
+      "question": "What is the opposite of নতুন (nôtun)?",
       "options": [
-        "বড়",
-        "ছোট",
-        "পুরানো",
-        "ভালো"
+        "বড় (bôṛô)",
+        "ছোট (chôṭô)",
+        "পুরানো (purānô)",
+        "ভালো (bhālô)"
       ],
       "correct_answer": 2,
       "explanation": "পুরানো (purānô) means old, the opposite of new",
@@ -252,10 +252,10 @@
     {
       "question": "Which adjective means 'good'?",
       "options": [
-        "খারাপ",
-        "দ্রুত",
-        "ভালো",
-        "ধীর"
+        "খারাপ (khārāp)",
+        "দ্রুত (drutô)",
+        "ভালো (bhālô)",
+        "ধীর (dhīr)"
       ],
       "correct_answer": 2,
       "explanation": "ভালো (bhālô) means good",
@@ -265,10 +265,10 @@
     {
       "question": "What does খারাপ mean?",
       "options": [
-        "Fast",
-        "Slow",
-        "Good",
-        "Bad"
+        "Sweet (swît)",
+        "Good (gûd)",
+        "Bad (bâd)",
+        "Bitter (bitâr)"
       ],
       "correct_answer": 3,
       "explanation": "খারাপ (khārāp) means bad",
@@ -278,10 +278,10 @@
     {
       "question": "Which word means 'fast'?",
       "options": [
-        "ধীর",
-        "গরম",
-        "দ্রুত",
-        "ঠান্ডা"
+        "ধীর (dhīr)",
+        "গরম (gorom)",
+        "দ্রুত (drutô)",
+        "ঠান্ডা (ṭhāṅḍā)"
       ],
       "correct_answer": 2,
       "explanation": "দ্রুত (drutô) means fast or quick",
@@ -289,12 +289,12 @@
       "phonetic_focus": "drutô"
     },
     {
-      "question": "What is the opposite of দ্রুত?",
+      "question": "What is the opposite of দ্রুত (drutô)?",
       "options": [
-        "গরম",
-        "ঠান্ডা",
-        "ধীর",
-        "উঁচু"
+        "গরম (gorom)",
+        "ঠান্ডা (ṭhāṅḍā)",
+        "ধীর (dhīr)",
+        "উঁচু (uṅchu)"
       ],
       "correct_answer": 2,
       "explanation": "ধীর (dhīr) means slow, the opposite of fast",
@@ -304,23 +304,23 @@
     {
       "question": "Which adjective means 'hot'?",
       "options": [
-        "ঠান্ডা",
-        "উঁচু",
-        "গরম",
-        "নিচু"
+        "ঠান্ডা (ṭhāṅḍā)",
+        "উঁচু (uṅchu)",
+        "গরম (gorom)",
+        "নিচু (nīcu)"
       ],
       "correct_answer": 2,
-      "explanation": "গরম (gôrmô) means hot",
+      "explanation": "গরম (gorom) means hot",
       "bengali_focus": "গরম",
-      "phonetic_focus": "gôrmô"
+      "phonetic_focus": "gorom"
     },
     {
-      "question": "What does ঠান্ডা mean?",
+      "question": "What does ঠান্ডা (ṭhāṅḍā) mean?",
       "options": [
-        "High",
-        "Low",
-        "Hot",
-        "Cold"
+        "High (hai)",
+        "Low (lô)",
+        "Hot (hôt)",
+        "Cold (kôld)"
       ],
       "correct_answer": 3,
       "explanation": "ঠান্ডা (ṭhāṅḍā) means cold",
@@ -330,10 +330,10 @@
     {
       "question": "Which word means 'high' or 'tall'?",
       "options": [
-        "নিচু",
-        "চওড়া",
-        "উঁচু",
-        "সরু"
+        "নিচু (nichu)",
+        "চওড়া (chôẇṛā)",
+        "উঁচু (uṅchu)",
+        "সরু (sôru)"
       ],
       "correct_answer": 2,
       "explanation": "উঁচু (uṅchu) means high or tall",
@@ -341,12 +341,12 @@
       "phonetic_focus": "uṅchu"
     },
     {
-      "question": "What is the opposite of উঁচু?",
+      "question": "What is the opposite of উঁচু (uṅchu)?",
       "options": [
-        "চওড়া",
-        "সরু",
-        "নিচু",
-        "ভারী"
+        "চওড়া (chôẇṛā)",
+        "সরু (sôru)",
+        "নিচু (nichu)",
+        "ভারী (bhārī)"
       ],
       "correct_answer": 2,
       "explanation": "নিচু (nichu) means low or short, the opposite of high",
@@ -356,10 +356,10 @@
     {
       "question": "Which adjective means 'wide'?",
       "options": [
-        "সরু",
-        "ভারী",
-        "চওড়া",
-        "হালকা"
+        "সরু (sôru)",
+        "ভারী (bhārī)",
+        "চওড়া (chôẇṛā)",
+        "হালকা (hālkā)"
       ],
       "correct_answer": 2,
       "explanation": "চওড়া (côẇṛā) means wide",
@@ -367,12 +367,12 @@
       "phonetic_focus": "côẇṛā"
     },
     {
-      "question": "What does সরু mean?",
+      "What does সরু (śôru) mean?",
       "options": [
-        "Heavy",
-        "Light",
-        "Wide",
-        "Narrow"
+        "Heavy (hêvi)",
+        "Light (lait)",
+        "Wide (waid)",
+        "Narrow (nârô)"
       ],
       "correct_answer": 3,
       "explanation": "সরু (sôru) means narrow or thin",
@@ -382,10 +382,10 @@
     {
       "question": "Which word means 'heavy'?",
       "options": [
-        "হালকা",
-        "মিষ্টি",
-        "ভারী",
-        "ঝাল"
+        "হালকা (hālôkā)",
+        "ভারী (bhārī)",
+        "চওড়া (chôwṛā)",
+        "সরু (śôru)"
       ],
       "correct_answer": 2,
       "explanation": "ভারী (bhārī) means heavy",
@@ -393,25 +393,25 @@
       "phonetic_focus": "bhārī"
     },
     {
-      "question": "What is the opposite of ভারী?",
+      "What is the opposite of ভারী (bhārī)?",
       "options": [
-        "মিষ্টি",
-        "ঝাল",
-        "হালকা",
-        "তেতো"
+        "চওড়া (chôẇṛā)",
+        "সরু (sôru)",
+        "হালকা (hālkā)",
+        "ভারী (bhārī)"
       ],
       "correct_answer": 2,
-      "explanation": "হালকা (hālôkā) means light, the opposite of heavy",
+      "explanation": "হালকা (hālkā) means light, the opposite of heavy",
       "bengali_focus": "হালকা",
-      "phonetic_focus": "hālôkā"
+      "phonetic_focus": "hālkā"
     },
     {
       "question": "Which adjective means 'sweet'?",
       "options": [
-        "ঝাল",
-        "তেতো",
-        "মিষ্টি",
-        "টক"
+        "খারাপ (khārāp)",
+        "ভালো (bhālô)",
+        "মিষ্টি (miṣṭi)",
+        "তেতো (tētô)"
       ],
       "correct_answer": 2,
       "explanation": "মিষ্টি (miṣṭi) means sweet",
@@ -421,10 +421,10 @@
     {
       "question": "What does ঝাল mean?",
       "options": [
-        "Bitter",
-        "Sour",
-        "Sweet",
-        "Spicy"
+        "Bad (bâd)",
+        "Good (gûd)",
+        "Sweet (swît)",
+        "Bitter (bitâr)"
       ],
       "correct_answer": 3,
       "explanation": "ঝাল (jhāl) means spicy",
@@ -434,10 +434,10 @@
     {
       "question": "Which word means 'bitter'?",
       "options": [
-        "খাট্টা",
-        "লবণাক্ত",
-        "তেতো",
-        "নরম"
+        "খাট্টা (khāṭṭā)",
+        "লবণাক্ত (lôbôṇākôt)",
+        "তেতো (tētô)",
+        "নরম (nôrôm)"
       ],
       "correct_answer": 2,
       "explanation": "তেতো (tētô) means bitter",
@@ -447,10 +447,10 @@
     {
       "question": "What does টক mean?",
       "options": [
-        "Salty",
-        "Soft",
-        "Sour",
-        "Hard"
+        "Fast (fâst)",
+        "Slow (slô)",
+        "Good (gûd)",
+        "Bad (bâd)"
       ],
       "correct_answer": 2,
       "explanation": "টক (ṭôk) means sour",
@@ -460,10 +460,10 @@
     {
       "question": "Which adjective means 'salty'?",
       "options": [
-        "নরম",
-        "শক্ত",
-        "লবণাক্ত",
-        "সহজ"
+        "নরম (nôrôm)",
+        "শক্ত (śôktô)",
+        "লবণাক্ত (lôbôṇākôt)",
+        "সহজ (sôhôj)"
       ],
       "correct_answer": 2,
       "explanation": "লবণাক্ত (lôbôṇākôt) means salty",
@@ -500,9 +500,9 @@
       "question": "Which word means 'easy'?",
       "options": [
         "কঠিন",
-        "শক্ত",
-        "সহজ",
-        "নরম"
+        "শক্ত (śôktô)",
+        "সহজ (sôhôj)",
+        "নরম (nôrôm)"
       ],
       "correct_answer": 2,
       "explanation": "সহজ (sôhôj) means easy",

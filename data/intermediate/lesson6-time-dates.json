@@ -187,10 +187,10 @@
     {
       "question": "What is the Bengali word for 'time'?",
       "options": [
-        "সময়",
-        "ঘণ্টা",
-        "মিনিট",
-        "সেকেন্ড"
+        "সময় (sômôy)",
+        "ঘণ্টা (ghôṇṭā)",
+        "মিনিট (miniṭ)",
+        "সেকেন্ড (sekênḍ)"
       ],
       "correct_answer": 0,
       "explanation": "সময় (sômôy) means time",
@@ -200,10 +200,10 @@
     {
       "question": "Which word means 'hour'?",
       "options": [
-        "সকাল",
-        "দুপুর",
-        "ঘণ্টা",
-        "বিকাল"
+        "সকাল (sôkāl)",
+        "দুপুর (dupur)",
+        "ঘণ্টা (ghôṇṭā)",
+        "বিকাল (bikāl)"
       ],
       "correct_answer": 2,
       "explanation": "ঘণ্টা (ghôṇṭā) means hour",
@@ -226,10 +226,10 @@
     {
       "question": "Which Bengali word means 'morning'?",
       "options": [
-        "দুপুর",
-        "বিকাল",
-        "সকাল",
-        "সন্ধ্যা"
+        "দুপুর (dupur)",
+        "বিকাল (bikāl)",
+        "সকাল (sôkāl)",
+        "সন্ধ্যা (sôndhyā)"
       ],
       "correct_answer": 2,
       "explanation": "সকাল (sôkāl) means morning",
@@ -252,10 +252,10 @@
     {
       "question": "Which word means 'evening'?",
       "options": [
-        "রাত",
-        "মধ্যরাত",
-        "সন্ধ্যা",
-        "তারিখ"
+        "রাত (rāt)",
+        "মধ্যরাত (môdhyôrāt)",
+        "সন্ধ্যা (sôndhyā)",
+        "তারিখ (tārikh)"
       ],
       "correct_answer": 2,
       "explanation": "সন্ধ্যা (sôndhyā) means evening",
@@ -278,10 +278,10 @@
     {
       "question": "Which Bengali word means 'date'?",
       "options": [
-        "সপ্তাহ",
-        "মাস",
-        "তারিখ",
-        "বছর"
+        "সপ্তাহ (sôptāh)",
+        "মাস (mās)",
+        "তারিখ (tārikh)",
+        "বছর (bôchôr)"
       ],
       "correct_answer": 2,
       "explanation": "তারিখ (tārikh) means date",
@@ -304,10 +304,10 @@
     {
       "question": "Which word means 'month'?",
       "options": [
-        "বছর",
-        "আজ",
-        "মাস",
-        "কাল"
+        "বছর (bôchôr)",
+        "আজ (āj)",
+        "মাস (mās)",
+        "কাল (kāl)"
       ],
       "correct_answer": 2,
       "explanation": "মাস (mās) means month",
@@ -330,10 +330,10 @@
     {
       "question": "Which Bengali word means 'today'?",
       "options": [
-        "কাল",
-        "গতকাল",
-        "আজ",
-        "পরশু"
+        "কাল (kāl)",
+        "গতকাল (gôtôkāl)",
+        "আজ (āj)",
+        "পরশু (pôrôśu)"
       ],
       "correct_answer": 2,
       "explanation": "আজ (āj) means today",
@@ -356,10 +356,10 @@
     {
       "question": "Which word means 'yesterday'?",
       "options": [
-        "পরশু",
-        "আগামীকাল",
-        "গতকাল",
-        "সপ্তাহান্ত"
+        "পরশু (pôrôśu)",
+        "আগামীকাল (āgāmīkāl)",
+        "গতকাল (gôtôkāl)",
+        "সপ্তাহান্ত (sôptāhāntô)"
       ],
       "correct_answer": 2,
       "explanation": "গতকাল (gôtôkāl) means yesterday",
@@ -382,10 +382,10 @@
     {
       "question": "Which Bengali word means 'weekend'?",
       "options": [
-        "ছুটি",
-        "অনুষ্ঠান",
-        "সপ্তাহান্ত",
-        "সময়সূচি"
+        "ছুটি (chuti)",
+        "অনুষ্ঠান (ônusthān)",
+        "সপ্তাহান্ত (sôptāhāntô)",
+        "সময়সূচি (sômôysūci)"
       ],
       "correct_answer": 2,
       "explanation": "সপ্তাহান্ত (sôptāhāntô) means weekend",
@@ -408,10 +408,10 @@
     {
       "question": "Which word means 'event'?",
       "options": [
-        "সময়সূচি",
-        "অ্যাপয়েন্টমেন্ট",
-        "অনুষ্ঠান",
-        "ডেডলাইন"
+        "সময়সূচি (sômôysūci)",
+        "অ্যাপয়েন্টমেন্ট (êpôẏênṭmênṭ)",
+        "অনুষ্ঠান (ônusthān)",
+        "ডেডলাইন (ḍeḍlāin)"
       ],
       "correct_answer": 2,
       "explanation": "অনুষ্ঠান (ônusthān) means event or ceremony",
@@ -434,10 +434,10 @@
     {
       "question": "Which Bengali word means 'appointment'?",
       "options": [
-        "ডেডলাইন",
-        "সময়",
-        "অ্যাপয়েন্টমেন্ট",
-        "ঘণ্টা"
+        "ডেডলাইন (ḍeḍlāin)",
+        "সময় (sômôy)",
+        "অ্যাপয়েন্টমেন্ট (êpôẏênṭmênṭ)",
+        "ঘণ্টা (ghôṇṭā)"
       ],
       "correct_answer": 2,
       "explanation": "অ্যাপয়েন্টমেন্ট (êpôẏênṭmênṭ) means appointment",
@@ -460,10 +460,10 @@
     {
       "question": "Which word means 'second' (time unit)?",
       "options": [
-        "সকাল",
-        "দুপুর",
-        "সেকেন্ড",
-        "বিকাল"
+        "সকাল (sôkāl)",
+        "দুপুর (dupur)",
+        "সেকেন্ড (sekênḍ)",
+        "বিকাল (bikāl)"
       ],
       "correct_answer": 2,
       "explanation": "সেকেন্ড (sekênḍ) means second",
@@ -486,10 +486,10 @@
     {
       "question": "Which Bengali word means 'day after tomorrow'?",
       "options": [
-        "গতকাল",
-        "পরশু",
-        "আগামীকাল",
-        "সপ্তাহান্ত"
+        "গতকাল (gôtôkāl)",
+        "পরশু (pôrôśu)",
+        "আগামীকাল (āgāmīkāl)",
+        "সপ্তাহান্ত (sôptāhāntô)"
       ],
       "correct_answer": 2,
       "explanation": "আগামীকাল (āgāmīkāl) means day after tomorrow",

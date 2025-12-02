@@ -68,7 +68,7 @@
       "english": "police officer",
       "phonetic": "puliś ôphiśār",
       "pronunciation_guide": "like 'poo-lish off-i-sar'",
-      "audio_tip": "stress on 'ôphiśār'"
+      "audio_tip": "stress on 'ophiśār'"
     },
     {
       "bengali": "দমকলকর্মী",
@@ -185,12 +185,12 @@
   ],
   "quiz_questions": [
     {
-      "question": "What is the Bengali word for 'doctor'?",
+      "question": "What is the Bengali word for 'doctor' (ḍākṭār)?",
       "options": [
-        "ডাক্তার",
-        "শিক্ষক",
-        "ইঞ্জিনিয়ার",
-        "উকিল"
+        "ডাক্তার (ḍākṭār)",
+        "শিক্ষক (śikkhôk)",
+        "ইঞ্জিনিয়ার (iñjiniẏār)",
+        "উকিল (ukil)"
       ],
       "correct_answer": 0,
       "explanation": "ডাক্তার (ḍākṭār) means doctor in Bengali",
@@ -224,7 +224,7 @@
       "phonetic_focus": "iñjiniẏār"
     },
     {
-      "question": "Which Bengali word means 'lawyer'?",
+      "question": "Which Bengali word means 'lawyer' (ukil)?",
       "options": [
         "রাঁধুনি",
         "কৃষক",
@@ -263,7 +263,7 @@
       "phonetic_focus": "kr̥ṣôk"
     },
     {
-      "question": "What is the Bengali for 'driver'?",
+      "question": "What is the Bengali for 'driver' (ḍrāiẇār)?",
       "options": [
         "হিসাবরক্ষক",
         "বিজ্ঞানী",
@@ -302,7 +302,7 @@
       "phonetic_focus": "puliś ôphiśār"
     },
     {
-      "question": "Which Bengali word means 'firefighter'?",
+      "question": "Which Bengali word means 'firefighter' (dômkôlkôrmī)?",
       "options": [
         "ইলেকট্রিশিয়ান",
         "প্লাম্বার",
@@ -328,7 +328,7 @@
       "phonetic_focus": "hiśābrôkkhôk"
     },
     {
-      "question": "Which word means 'scientist'?",
+      "question": "Which word means 'scientist' (bijñānī)?",
       "options": [
         "বিজ্ঞানী",
         "শিল্পী",
@@ -341,7 +341,7 @@
       "phonetic_focus": "bijñānī"
     },
     {
-      "question": "What is the Bengali for 'artist'?",
+      "question": "What is the Bengali for 'artist' (śilpī)?",
       "options": [
         "ফটোগ্রাফার",
         "পাইলট",

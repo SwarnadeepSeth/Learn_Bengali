@@ -45,7 +45,7 @@
     {
       "bengali": "বৃষ্টি",
       "english": "rain",
-      "phonetic": "br̥ṣṭi",
+      "phonetic": "br̥iṣṭi",
       "pronunciation_guide": "like 'brish-ti'",
       "audio_tip": "retroflex 'ṣṭ'"
     },
@@ -164,8 +164,8 @@
     {
       "bengali": "আবহাওয়া",
       "english": "weather",
-      "phonetic": "ābhôẇā",
-      "pronunciation_guide": "like 'ab-ha-wa'",
+      "phonetic": "ābohaôẇā",
+      "pronunciation_guide": "like 'abo-hao-wa'",
       "audio_tip": "compound word"
     },
     {
@@ -178,7 +178,7 @@
     {
       "bengali": "ঋতু",
       "english": "season",
-      "phonetic": "r̥tu",
+      "phonetic": "r̥itu",
       "pronunciation_guide": "like 'ri-tu'",
       "audio_tip": "retroflex 'r̥'"
     }
@@ -187,10 +187,10 @@
     {
       "question": "What is the Bengali word for 'rainy season'?",
       "options": [
-        "বর্ষা",
-        "গ্রীষ্ম",
-        "শীত",
-        "বসন্ত"
+        "বর্ষা (bôrṣā)",
+        "গ্রীষ্ম (grīṣmô)",
+        "শীত (śīt)",
+        "বসন্ত (bôsôntô)"
       ],
       "correct_answer": 0,
       "explanation": "বর্ষা (bôrṣā) means rainy season",
@@ -226,10 +226,10 @@
     {
       "question": "Which Bengali word means 'spring'?",
       "options": [
-        "শরৎ",
-        "বসন্ত",
-        "বর্ষা",
-        "গ্রীষ্ম"
+        "শরৎ (śôrôt)",
+        "বসন্ত (bôsôntô)",
+        "বর্ষা (bôrṣā)",
+        "গ্রীষ্ম (grīṣmô)"
       ],
       "correct_answer": 1,
       "explanation": "বসন্ত (bôsôntô) means spring",
@@ -252,10 +252,10 @@
     {
       "question": "Which word means 'rain'?",
       "options": [
-        "বজ্র",
-        "বিদ্যুৎ",
-        "বৃষ্টি",
-        "মেঘ"
+        "বজ্র (bôjrô)",
+        "বিদ্যুৎ (bidyut)",
+        "বৃষ্টি (br̥ṣṭi)",
+        "মেঘ (megh)"
       ],
       "correct_answer": 2,
       "explanation": "বৃষ্টি (br̥ṣṭi) means rain",
@@ -278,10 +278,10 @@
     {
       "question": "Which Bengali word means 'lightning'?",
       "options": [
-        "মেঘ",
-        "রোদ",
-        "বিদ্যুৎ",
-        "হাওয়া"
+        "মেঘ (megh)",
+        "রোদ (rōd)",
+        "বিদ্যুৎ (bidyut)",
+        "হাওয়া (hāōẇā)"
       ],
       "correct_answer": 2,
       "explanation": "বিদ্যুৎ (bidyut) means lightning",
@@ -304,10 +304,10 @@
     {
       "question": "Which word means 'sunshine'?",
       "options": [
-        "হাওয়া",
-        "ঝড়",
-        "রোদ",
-        "কুয়াশা"
+        "হাওয়া (hāōẇā)",
+        "ঝড় (jhôṛ)",
+        "রোদ (rōd)",
+        "কুয়াশা (kuẇāśā)"
       ],
       "correct_answer": 2,
       "explanation": "রোদ (rōd) means sunshine",
@@ -330,10 +330,10 @@
     {
       "question": "Which Bengali word means 'storm'?",
       "options": [
-        "কুয়াশা",
-        "তুষার",
-        "ঝড়",
-        "শিশির"
+        "কুয়াশা (kuẇāśā)",
+        "তুষার (tuṣār)",
+        "ঝড় (jhôṛ)",
+        "শিশির (śiśir)"
       ],
       "correct_answer": 2,
       "explanation": "ঝড় (jhôṛ) means storm",
@@ -356,10 +356,10 @@
     {
       "question": "Which word means 'snow'?",
       "options": [
-        "আর্দ্রতা",
-        "তাপমাত্রা",
-        "তুষার",
-        "ঝঞ্ঝা"
+        "আর্দ্রতা (ārdrôtā)",
+        "তাপমাত্রা (tāpmātrā)",
+        "তুষার (tuṣār)",
+        "ঝঞ্ঝা (jhôñjhā)"
       ],
       "correct_answer": 2,
       "explanation": "তুষার (tuṣār) means snow",
@@ -382,10 +382,10 @@
     {
       "question": "Which Bengali word means 'humidity'?",
       "options": [
-        "তাপমাত্রা",
-        "ঝঞ্ঝা",
-        "আর্দ্রতা",
-        "ঘূর্ণিঝড়"
+        "তাপমাত্রা (tāpmātrā)",
+        "ঝঞ্ঝা (jhôñjhā)",
+        "আর্দ্রতা (ārdrôtā)",
+        "ঘূর্ণিঝড় (ghūrṇijhôṛ)"
       ],
       "correct_answer": 2,
       "explanation": "আর্দ্রতা (ārdrôtā) means humidity",
@@ -408,10 +408,10 @@
     {
       "question": "Which word means 'gale'?",
       "options": [
-        "ঘূর্ণিঝড়",
-        "ধূপ",
-        "ঝঞ্ঝা",
-        "বন্যা"
+        "ঘূর্ণিঝড় (ghūrṇijhôṛ)",
+        "ধূপ (dhūp)",
+        "ঝঞ্ঝা (jhôñjhā)",
+        "বন্যা (bônyā)"
       ],
       "correct_answer": 2,
       "explanation": "ঝঞ্ঝা (jhôñjhā) means gale",
@@ -434,10 +434,10 @@
     {
       "question": "Which Bengali word means 'smoke'?",
       "options": [
-        "বন্যা",
-        "খরা",
-        "ধূপ",
-        "আবহাওয়া"
+        "বন্যা (bônyā)",
+        "খরা (khôra)",
+        "ধূপ (dhūp)",
+        "আবহাওয়া (ābhôẇā)"
       ],
       "correct_answer": 2,
       "explanation": "ধূপ (dhūp) means smoke",
@@ -460,10 +460,10 @@
     {
       "question": "Which word means 'drought'?",
       "options": [
-        "আবহাওয়া",
-        "মৌসুম",
-        "খরা",
-        "ঋতু"
+        "আবহাওয়া (ābhôẇā)",
+        "মৌসুম (môusum)",
+        "খরা (khôra)",
+        "ঋতু (r̥tu)"
       ],
       "correct_answer": 2,
       "explanation": "খরা (khôra) means drought",
@@ -471,7 +471,7 @@
       "phonetic_focus": "khôra"
     },
     {
-      "question": "What does আবহাওয়া mean?",
+      "question": "What does আবহাওয়া (ābohaôẇā) mean?",
       "options": [
         "Season",
         "Weather",
@@ -479,22 +479,22 @@
         "Summer"
       ],
       "correct_answer": 1,
-      "explanation": "আবহাওয়া (ābhôẇā) means weather",
+      "explanation": "আবহাওয়া (ābohaôẇā) means weather",
       "bengali_focus": "আবহাওয়া",
       "phonetic_focus": "ābhôẇā"
     },
     {
       "question": "Which Bengali word means 'season'?",
       "options": [
-        "ঋতু",
-        "বর্ষা",
-        "গ্রীষ্ম",
-        "শীত"
+        "ঋতু (r̥itu)",
+        "বর্ষা (bôrṣā)",
+        "গ্রীষ্ম (grīṣmô)",
+        "শীত (śīt)"
       ],
       "correct_answer": 0,
-      "explanation": "ঋতু (r̥tu) means season",
+      "explanation": "ঋতু (r̥itu) means season",
       "bengali_focus": "ঋতু",
-      "phonetic_focus": "r̥tu"
+      "phonetic_focus": "r̥itu"
     }
   ]
 }

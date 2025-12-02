@@ -143,9 +143,9 @@
     {
       "bengali": "শ্বশুর",
       "english": "father-in-law",
-      "phonetic": "śbôśur",
+      "phonetic": "śôśur",
       "pronunciation_guide": "like 'shosh-ur'",
-      "audio_tip": "aspirated 'śbôśur'"
+      "audio_tip": "aspirated 'śôśur'"
     },
     {
       "bengali": "শাশুড়ি",
@@ -159,7 +159,7 @@
       "english": "relationship",
       "phonetic": "sômpôrkô",
       "pronunciation_guide": "like 'shom-por-ko'",
-      "audio_tip": "aspirated 'mpôrkô'"
+      "audio_tip": "aspirated 'mporko'"
     },
     {
       "bengali": "বন্ধু",
@@ -180,7 +180,7 @@
       "english": "colleague",
       "phonetic": "sôhôkôrmī",
       "pronunciation_guide": "like 'sho-ho-kor-mi'",
-      "audio_tip": "aspirated 'kôrmī'"
+      "audio_tip": "aspirated 'kormī'"
     }
   ],
   "quiz_questions": [
@@ -375,9 +375,9 @@
         "Friend"
       ],
       "correct_answer": 2,
-      "explanation": "শ্বশুর (śbôśur) means father-in-law",
+      "explanation": "শ্বশুর (śôśur) means father-in-law",
       "bengali_focus": "শ্বশুর",
-      "phonetic_focus": "śbôśur"
+      "phonetic_focus": "śôśur"
     },
     {
       "question": "Which Bengali word means 'relationship'?",

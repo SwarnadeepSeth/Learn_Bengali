@@ -58,7 +58,7 @@
     {
       "bengali": "মেয়েটি পড়ে",
       "english": "The girl reads",
-      "phonetic": "meyeṭi poṛe",
+      "phonetic": "meyeṭi pôṛe",
       "pronunciation_guide": "Nominative: subject with definite article -টি"
     },
     {
@@ -94,7 +94,7 @@
     {
       "bengali": "বইটা পড়ি",
       "english": "I read the book",
-      "phonetic": "boiṭā poṛi",
+      "phonetic": "boiṭā pôṛi",
       "pronunciation_guide": "Accusative: inanimate object with -টা"
     },
     {
@@ -112,7 +112,7 @@
     {
       "bengali": "রামের বই",
       "english": "Ram's book",
-      "phonetic": "rāmer boi",
+      "phonetic": "rāmer bôi",
       "pronunciation_guide": "Genitive: consonant + র = রামের"
     },
     {
@@ -220,7 +220,7 @@
     {
       "bengali": "বইয়ে পড়ি",
       "english": "I read in the book",
-      "phonetic": "boiẏe poṛi",
+      "phonetic": "boiẏe pôṛi",
       "pronunciation_guide": "Locative: specific location with -এ = বইয়ে"
     },
     {

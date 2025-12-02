@@ -72,7 +72,7 @@
     {
       "bengali": "স্কুলে পড়ি",
       "english": "I study in school",
-      "phonetic": "śkule poṛi",
+      "phonetic": "śkule pôṛi",
       "pronunciation_guide": "Location: স্কুল + এ = in school"
     },
     {
@@ -120,7 +120,7 @@
     {
       "bengali": "কলকাতা থেকে আসি",
       "english": "I come from Kolkata",
-      "phonetic": "kôlôkātā theke āśi",
+      "phonetic": "kolôkātā theke āśi",
       "pronunciation_guide": "Source: কলকাতা + থেকে = from Kolkata"
     },
     {
@@ -138,7 +138,7 @@
     {
       "bengali": "সকাল থেকে কাজ করি",
       "english": "I work since morning",
-      "phonetic": "śôkāl theke kāj kôri",
+      "phonetic": "śokāl theke kāj kôri",
       "pronunciation_guide": "Source: সকাল + থেকে = since morning"
     },
     {
@@ -156,7 +156,7 @@
     {
       "bengali": "কলম দিয়ে লিখি",
       "english": "I write with pen",
-      "phonetic": "kôlôm diye likhi",
+      "phonetic": "kolôm diye likhi",
       "pronunciation_guide": "Association: কলম + দিয়ে = with pen (instrument)"
     },
     {
@@ -192,19 +192,19 @@
     {
       "bengali": "খাওয়া পরে কাজ করি",
       "english": "I work after eating",
-      "phonetic": "khāoẏā pôre kāj kôri",
+      "phonetic": "khāoẏā pore kāj kôri",
       "pronunciation_guide": "Time: খাওয়া + পরে = after eating"
     },
     {
       "bengali": "পরীক্ষা পরে যাই",
       "english": "I go after exam",
-      "phonetic": "pôrikṣā pôre yāi",
+      "phonetic": "porikṣā pôre yāi",
       "pronunciation_guide": "Time: পরীক্ষা + পরে = after exam"
     },
     {
       "bengali": "রামের বই",
       "english": "Ram's book",
-      "phonetic": "rāmer boi",
+      "phonetic": "rāmer bôi",
       "pronunciation_guide": "Possession: রাম + এর = Ram's"
     },
     {
@@ -222,7 +222,7 @@
     {
       "bengali": "বন্ধুর ঘড়ি",
       "english": "Friend's watch",
-      "phonetic": "bôndhur ghôṛi",
+      "phonetic": "bondhur ghôṛi",
       "pronunciation_guide": "Possession: বন্ধু + র = friend's"
     },
     {
@@ -234,13 +234,13 @@
     {
       "bengali": "ছাত্রের বই",
       "english": "Student's book",
-      "phonetic": "chhātrer boi",
+      "phonetic": "chhātrer bôi",
       "pronunciation_guide": "Possession: ছাত্র + এর = student's"
     },
     {
       "bengali": "পরীক্ষা আগে পড়ি",
       "english": "I study before exam",
-      "phonetic": "pôrikṣā āge poṛi",
+      "phonetic": "porikṣā āge pôṛi",
       "pronunciation_guide": "Time: পরীক্ষা + আগে = before exam"
     },
     {

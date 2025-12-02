@@ -2,39 +2,40 @@
   "id": "lesson11-basic-sentence-structure",
   "title": "Basic Sentence Structure",
   "category": "intermediate",
-  "description": "Learn the fundamental rules of Bengali sentence structure: Subject-Verb-Object order, present tense verbs, and question formation",
+  "description": "Learn the fundamental rules of Bengali sentence structure: Subject-Object-Verb order, present tense verbs, and question formation",
   "type": "grammar_learning",
   "total_items": 30,
   "estimated_time": "25 minutes",
   "grammar_rules": [
     {
-      "rule_title": "Subject-Verb-Object Order",
-      "rule_explanation": "Bengali follows Subject + Verb + Object word order, similar to English. The subject comes first, followed by the verb, then the object. Case markers help distinguish grammatical roles.",
+      "rule_title": "Subject-Object-Verb Order",
+      "rule_explanation": "Bengali follows Subject + Object + Verb word order, which is different from English. The subject comes first, then the object, and finally the verb. Case markers help distinguish grammatical roles. This is a key feature that makes Bengali unique.",
       "key_points": [
-        "Subject comes before the verb",
-        "Verb comes before the object",
-        "Word order can be flexible for emphasis",
-        "Case markers clarify roles when needed"
+        "Subject comes before the object",
+        "Verb comes AFTER the object (not before)",
+        "Case markers clarify roles (nominative, accusative, locative)",
+        "Word order can be flexible for emphasis, but SOV is standard",
+        "This order is typical of many Asian languages"
       ]
     },
     {
       "rule_title": "Present Tense Verbs",
-      "rule_explanation": "Present tense verbs change endings based on person and number. First person uses -ই (-i), second person informal uses -ও (-o), third person uses -য় (-y).",
+      "rule_explanation": "Present tense verbs change endings based on person and number. First person uses -ই (-i) or -ি (-i), second person informal uses -ও (-o), third person uses -ে (-e) or -য় (-y).",
       "key_points": [
-        "First person singular/plural: -ই (-i)",
+        "First person singular/plural: -ই (-i) or -ি (-i)",
         "Second person informal: -ও (-o)",
-        "Third person: -য় (-y)",
-        "Honorific forms exist for respect"
+        "Third person: -ে (-e) or -য় (-y)",
+        "Honorific forms exist for respect (আপনি uses -েন, -ন)"
       ]
     },
     {
       "rule_title": "Question Formation",
-      "rule_explanation": "Questions use কি (ki) after the subject for yes/no questions. Wh-questions place the question word at the beginning. Rising intonation can also indicate questions.",
+      "rule_explanation": "Questions use কি (ki) after the subject for yes/no questions. Wh-questions place the question word at the beginning, maintaining SOV order. Rising intonation can also indicate questions.",
       "key_points": [
-        "কি (ki) makes yes/no questions",
-        "Question words come first",
-        "Subject-Verb-Object order maintained",
-        "Rising intonation indicates questions"
+        "কি (ki) makes yes/no questions after subject",
+        "Question words (কে, কোথায়, কখন, কী) come first",
+        "Subject-Object-Verb order maintained",
+        "Rising intonation emphasizes questions"
       ]
     }
   ],
@@ -43,181 +44,181 @@
       "bengali": "আমি ভাত খাই",
       "english": "I eat rice",
       "phonetic": "āmi bhāt khāi",
-      "pronunciation_guide": "Subject-Verb-Object: āmi (I) + khāi (eat) + bhāt (rice)"
+      "pronunciation_guide": "SOV: āmi (I-subject) + bhāt (rice-object) + khāi (eat-verb)"
     },
     {
       "bengali": "সে বই পড়ে",
       "english": "He/she reads a book",
       "phonetic": "śe boi poṛe",
-      "pronunciation_guide": "Third person singular: śe (he/she) + poṛe (reads) + boi (book)"
+      "pronunciation_guide": "SOV: śe (he/she-subject) + boi (book-object) + poṛe (reads-verb)"
     },
     {
       "bengali": "তুমি কি যাও?",
       "english": "Do you go?",
       "phonetic": "tumi ki yāo?",
-      "pronunciation_guide": "Yes/no question: tumi (you) + ki (question) + yāo (go)"
+      "pronunciation_guide": "Question: tumi (you-subject) + ki (question particle) + yāo (go-verb)"
     },
     {
       "bengali": "আমরা খেলি",
       "english": "We play",
       "phonetic": "āmrā kheli",
-      "pronunciation_guide": "First person plural: āmrā (we) + kheli (play)"
+      "pronunciation_guide": "SOV: āmrā (we-subject) + kheli (play-verb) [no object]"
     },
     {
       "bengali": "সে কোথায় থাকে?",
       "english": "Where does he/she live?",
       "phonetic": "śe kōthāẏ thāke?",
-      "pronunciation_guide": "Question word first: kōthāẏ (where) + śe (he/she) + thāke (lives)"
+      "pronunciation_guide": "Question: śe (subject) + kōthāẏ (where) + thāke (lives-verb)"
     },
     {
       "bengali": "তুমি কি খাও?",
       "english": "Do you eat?",
       "phonetic": "tumi ki khāo?",
-      "pronunciation_guide": "Yes/no question with second person: tumi + ki + khāo"
+      "pronunciation_guide": "Yes/no question: tumi + ki + khāo (eat-verb)"
     },
     {
       "bengali": "আমি জল খাই",
       "english": "I drink water",
       "phonetic": "āmi jôl khāi",
-      "pronunciation_guide": "Simple SVO: āmi (I) + khāi (drink) + jôl (water)"
+      "pronunciation_guide": "SOV: āmi (I-subject) + jôl (water-object) + khāi (drink-verb)"
     },
     {
       "bengali": "সে গান গায়",
       "english": "He/she sings a song",
       "phonetic": "śe gān gāẏ",
-      "pronunciation_guide": "Third person ending -য়: śe + gāẏ (sings) + gān (song)"
+      "pronunciation_guide": "SOV: śe (subject) + gān (song-object) + gāẏ (sings-verb)"
     },
     {
       "bengali": "তুমি কোথায় যাও?",
       "english": "Where do you go?",
       "phonetic": "tumi kōthāẏ yāo?",
-      "pronunciation_guide": "Question word + SVO: kōthāẏ + tumi + yāo"
+      "pronunciation_guide": "Question: tumi (subject) + kōthāẏ (where) + yāo (go-verb)"
     },
     {
-      "bengali": "আমরা দেখি",
-      "english": "We see",
-      "phonetic": "āmrā dekhi",
-      "pronunciation_guide": "First person plural: āmrā + dekhi (see)"
+      "bengali": "আমরা ছবি দেখি",
+      "english": "We see pictures",
+      "phonetic": "āmrā chbi dekhi",
+      "pronunciation_guide": "SOV: āmrā (we-subject) + chbi (picture-object) + dekhi (see-verb)"
     },
     {
       "bengali": "সে কি করে?",
       "english": "What does he/she do?",
       "phonetic": "śe ki kôre?",
-      "pronunciation_guide": "Question with কি: ki (what) + śe + kôre (does)"
+      "pronunciation_guide": "Content question: śe (subject) + ki (what) + kôre (does-verb)"
     },
     {
       "bengali": "তুমি কখন আসো?",
       "english": "When do you come?",
       "phonetic": "tumi kôkhôn āśo?",
-      "pronunciation_guide": "Time question: kôkhôn (when) + tumi + āśo (come)"
+      "pronunciation_guide": "Time question: tumi (subject) + kôkhôn (when) + āśo (come-verb)"
     },
     {
-      "bengali": "আমি বই পড়ি",
-      "english": "I read a book",
-      "phonetic": "āmi boi poṛi",
-      "pronunciation_guide": "Present tense: āmi + poṛi (read) + boi"
+      "bengali": "আমি চা খাই",
+      "english": "I drink tea",
+      "phonetic": "āmi chā khāi",
+      "pronunciation_guide": "SOV: āmi (I) + chā (tea-object) + khāi (drink)"
     },
     {
       "bengali": "সে কে দেখে?",
       "english": "Whom does he/she see?",
       "phonetic": "śe ke dekhe?",
-      "pronunciation_guide": "কে question: ke (whom) + śe + dekhe (sees)"
+      "pronunciation_guide": "Person question: śe (subject) + ke (whom) + dekhe (sees-verb)"
     },
     {
       "bengali": "তুমি কি জানো?",
       "english": "Do you know?",
       "phonetic": "tumi ki jāno?",
-      "pronunciation_guide": "Yes/no with জানো: tumi + ki + jāno (know)"
+      "pronunciation_guide": "Yes/no question: tumi + ki + jāno (know-verb)"
     },
     {
-      "bengali": "আমরা যাই",
-      "english": "We go",
-      "phonetic": "āmrā yāi",
-      "pronunciation_guide": "Plural verb: āmrā + yāi (go)"
+      "bengali": "আমরা স্কুল যাই",
+      "english": "We go to school",
+      "phonetic": "āmrā śkul yāi",
+      "pronunciation_guide": "SOV: āmrā (we) + śkul (school-object) + yāi (go-verb)"
     },
     {
       "bengali": "সে কোথায় যায়?",
       "english": "Where does he/she go?",
       "phonetic": "śe kōthāẏ yāẏ?",
-      "pronunciation_guide": "Location question: kōthāẏ + śe + yāẏ"
+      "pronunciation_guide": "Location question: śe (subject) + kōthāẏ (where) + yāẏ (goes-verb)"
     },
     {
       "bengali": "তুমি কি বলো?",
       "english": "Do you say?",
       "phonetic": "tumi ki bôlo?",
-      "pronunciation_guide": "Question formation: tumi + ki + bôlo (say)"
+      "pronunciation_guide": "Yes/no question: tumi + ki + bôlo (say-verb)"
     },
     {
-      "bengali": "আমি কি করি?",
-      "english": "What do I do?",
-      "phonetic": "āmi ki kôri?",
-      "pronunciation_guide": "Self-question: āmi + ki + kôri (do)"
+      "bengali": "আমি একটা বই পড়ি",
+      "english": "I read a book",
+      "phonetic": "āmi ekta boi poṛi",
+      "pronunciation_guide": "SOV: āmi (I) + ekta boi (a book-object) + poṛi (read-verb)"
     },
     {
-      "bengali": "সে খায়",
-      "english": "He/she eats",
-      "phonetic": "śe khāẏ",
-      "pronunciation_guide": "Third person simple: śe + khāẏ (eats)"
+      "bengali": "সে দুধ খায়",
+      "english": "He/she drinks milk",
+      "phonetic": "śe dudh khāẏ",
+      "pronunciation_guide": "SOV: śe (subject) + dudh (milk-object) + khāẏ (drinks-verb)"
     },
     {
       "bengali": "তুমি কোথায় থাকো?",
       "english": "Where do you live?",
       "phonetic": "tumi kōthāẏ thāko?",
-      "pronunciation_guide": "Location question: kōthāẏ + tumi + thāko"
+      "pronunciation_guide": "Location question: tumi (subject) + kōthāẏ (where) + thāko (live-verb)"
     },
     {
-      "bengali": "আমরা কি দেখি?",
-      "english": "Do we see?",
-      "phonetic": "āmrā ki dekhi?",
-      "pronunciation_guide": "Plural question: āmrā + ki + dekhi"
+      "bengali": "আমরা সিনেমা দেখি",
+      "english": "We watch movies",
+      "phonetic": "āmrā śinema dekhi",
+      "pronunciation_guide": "SOV: āmrā (we) + śinema (movies-object) + dekhi (watch-verb)"
     },
     {
       "bengali": "সে কখন আসে?",
       "english": "When does he/she come?",
       "phonetic": "śe kôkhôn āśe?",
-      "pronunciation_guide": "Time question: kôkhôn + śe + āśe"
+      "pronunciation_guide": "Time question: śe (subject) + kôkhôn (when) + āśe (comes-verb)"
     },
     {
       "bengali": "তুমি কে দেখো?",
       "english": "Whom do you see?",
       "phonetic": "tumi ke dekho?",
-      "pronunciation_guide": "Object question: ke + tumi + dekho"
+      "pronunciation_guide": "Person question: tumi (subject) + ke (whom) + dekho (see-verb)"
     },
     {
-      "bengali": "আমি যাই",
-      "english": "I go",
-      "phonetic": "āmi yāi",
-      "pronunciation_guide": "First person: āmi + yāi (go)"
+      "bengali": "আমি ফুল ভালোবাসি",
+      "english": "I love flowers",
+      "phonetic": "āmi phul bhālōbāsi",
+      "pronunciation_guide": "SOV: āmi (I) + phul (flowers-object) + bhālōbāsi (love-verb)"
     },
     {
       "bengali": "সে কি বলে?",
       "english": "What does he/she say?",
       "phonetic": "śe ki bôle?",
-      "pronunciation_guide": "Content question: ki + śe + bôle"
+      "pronunciation_guide": "Content question: śe (subject) + ki (what) + bôle (says-verb)"
     },
     {
       "bengali": "তুমি কখন যাও?",
       "english": "When do you go?",
       "phonetic": "tumi kôkhôn yāo?",
-      "pronunciation_guide": "Time question: kôkhôn + tumi + yāo"
+      "pronunciation_guide": "Time question: tumi (subject) + kôkhôn (when) + yāo (go-verb)"
     },
     {
-      "bengali": "আমরা কে দেখি?",
-      "english": "Whom do we see?",
-      "phonetic": "āmrā ke dekhi?",
-      "pronunciation_guide": "Plural object question: ke + āmrā + dekhi"
+      "bengali": "আমরা সঙ্গীত শুনি",
+      "english": "We listen to music",
+      "phonetic": "āmrā sôngit śuni",
+      "pronunciation_guide": "SOV: āmrā (we) + sôngit (music-object) + śuni (listen-verb)"
     },
     {
       "bengali": "সে কোথায় থাকে?",
       "english": "Where does he/she live?",
       "phonetic": "śe kōthāẏ thāke?",
-      "pronunciation_guide": "Location question: kōthāẏ + śe + thāke"
+      "pronunciation_guide": "Location question: śe (subject) + kōthāẏ (where) + thāke (lives-verb)"
     },
     {
       "bengali": "তুমি কি করো?",
       "english": "What do you do?",
       "phonetic": "tumi ki kôro?",
-      "pronunciation_guide": "Activity question: ki + tumi + kôro"
+      "pronunciation_guide": "Activity question: tumi (subject) + ki (what) + kôro (do-verb)"
     }
   ],
   "quiz_questions": [
@@ -225,20 +226,20 @@
       "question": "What is the correct Bengali sentence structure?",
       "options": [
         "Verb + Subject + Object",
-        "Object + Subject + Verb",
+        "Subject + Object + Verb",
         "Subject + Verb + Object",
-        "Subject + Object + Verb"
+        "Object + Verb + Subject"
       ],
-      "correct_answer": 2,
-      "explanation": "Bengali follows Subject + Verb + Object order, similar to English"
+      "correct_answer": 1,
+      "explanation": "Bengali follows Subject + Object + Verb order, which is different from English"
     },
     {
       "question": "Which verb ending is used for 'I' in present tense?",
       "options": [
         "-ও (-o)",
-        "-য় (-y)",
+        "-ে (-e)",
         "-ই (-i)",
-        "-ে (-e)"
+        "-া (-a)"
       ],
       "correct_answer": 2,
       "explanation": "First person singular uses -ই (-i) ending"
@@ -266,92 +267,26 @@
       "explanation": "আমি = I, ভাত = rice, খাই = eat (present tense)"
     },
     {
-      "question": "Which sentence is a correct Bengali question?",
-      "options": [
-        "সে খায় ভাত",
-        "ভাত খায় সে",
-        "সে কি খায়?",
-        "খায় সে ভাত"
-      ],
-      "correct_answer": 2,
-      "explanation": "সে কি খায়? follows proper question formation with কি"
-    },
-    {
-      "question": "What is the verb ending for 'you' in present tense?",
-      "options": [
-        "-ই (-i)",
-        "-ও (-o)",
-        "-য় (-y)",
-        "-া (-a)"
-      ],
-      "correct_answer": 1,
-      "explanation": "Second person uses -ও (-o) ending"
-    },
-    {
-      "question": "Which word order is most common in Bengali sentences?",
-      "options": [
-        "Object-Subject-Verb",
-        "Verb-Subject-Object",
-        "Subject-Object-Verb",
-        "Subject-Verb-Object"
-      ],
-      "correct_answer": 3,
-      "explanation": "Subject-Verb-Object is the standard word order"
-    },
-    {
-      "question": "How do you say 'Where do you live?' in Bengali?",
-      "options": [
-        "তুমি কোথায় থাকো?",
-        "কোথায় তুমি থাকো?",
-        "থাকো তুমি কোথায়?",
-        "তুমি থাকো কোথায়?"
-      ],
-      "correct_answer": 0,
-      "explanation": "Question word comes first, then Subject-Verb-Object"
-    },
-    {
-      "question": "What does the verb ending -য় indicate?",
-      "options": [
-        "First person",
-        "Second person",
-        "Third person",
-        "Plural"
-      ],
-      "correct_answer": 2,
-      "explanation": "-য় (-y) is used for third person singular"
-    },
-    {
       "question": "Which sentence follows correct Bengali structure?",
       "options": [
         "খাই আমি ভাত",
-        "ভাত আমি খাই",
+        "ভাত খাই আমি",
         "আমি ভাত খাই",
         "খাই ভাত আমি"
       ],
       "correct_answer": 2,
-      "explanation": "আমি ভাত খাই follows Subject-Verb-Object order"
+      "explanation": "আমি ভাত খাই follows Subject-Object-Verb order"
     },
     {
-      "question": "What does 'তুমি কি যাও?' mean?",
+      "question": "What is the verb ending for 'you' (informal) in present tense?",
       "options": [
-        "I go",
-        "Do you go?",
-        "He goes",
-        "We go"
+        "-ই (-i)",
+        "-ও (-o)",
+        "-ে (-e)",
+        "-া (-a)"
       ],
       "correct_answer": 1,
-      "explanation": "কি after subject makes it a yes/no question"
-    },
-    {
-      "question": "Which is the correct first person plural verb ending?",
-      "options": [
-        "-ই",
-        "-ও",
-        "-য়",
-        "-ি"
-      ],
-      "correct_answer": 3,
-      "explanation": "First person plural uses -ি (-i) ending"
+      "explanation": "Second person informal uses -ও (-o) ending"
     },
     {
       "question": "In 'সে কোথায় থাকে?', what type of question is this?",
@@ -365,6 +300,62 @@
       "explanation": "কোথায় (kōthāẏ) indicates a location/place question"
     },
     {
+      "question": "How do you say 'Where do you live?' in Bengali?",
+      "options": [
+        "তুমি কোথায় থাকো?",
+        "কোথায় তুমি থাকো?",
+        "থাকো তুমি কোথায়?",
+        "তুমি থাকো কোথায়?"
+      ],
+      "correct_answer": 0,
+      "explanation": "Question word comes first, then Subject-Object-Verb order"
+    },
+    {
+      "question": "What does the verb ending -ে indicate in third person?",
+      "options": [
+        "First person",
+        "Second person",
+        "Third person",
+        "Plural"
+      ],
+      "correct_answer": 2,
+      "explanation": "-ে (-e) is commonly used for third person singular in present tense"
+    },
+    {
+      "bengali": "আমি জল খাই",
+      "question": "Which word is the object in 'আমি জল খাই'?",
+      "options": [
+        "আমি",
+        "জল",
+        "খাই",
+        "None of these"
+      ],
+      "correct_answer": 1,
+      "explanation": "জল (water) is the object; it comes after the subject (আমি) and before the verb (খাই)"
+    },
+    {
+      "question": "What does 'তুমি কি যাও?' mean?",
+      "options": [
+        "I go",
+        "Do you go?",
+        "He goes",
+        "We go"
+      ],
+      "correct_answer": 1,
+      "explanation": "কি after subject makes it a yes/no question"
+    },
+    {
+      "question": "In Bengali SOV order, where should the verb be placed?",
+      "options": [
+        "Before the subject",
+        "After the object",
+        "Before the object",
+        "At the beginning of the sentence"
+      ],
+      "correct_answer": 1,
+      "explanation": "The verb comes after the object in the Subject-Object-Verb structure"
+    },
+    {
       "question": "What does 'আমরা খেলি' demonstrate?",
       "options": [
         "Third person verb",
@@ -373,18 +364,29 @@
         "Object placement"
       ],
       "correct_answer": 2,
-      "explanation": "আমরা (we) is plural subject with খেলি (play)"
+      "explanation": "আমরা (we) is plural subject with খেলি (play-verb)"
     },
     {
-      "question": "Which question word means 'what' in Bengali?",
+      "question": "Which question word means 'when' in Bengali?",
       "options": [
         "কে",
         "কোথায়",
         "কখন",
         "কি"
       ],
-      "correct_answer": 3,
-      "explanation": "কি (ki) means 'what' and is used for content questions"
+      "correct_answer": 2,
+      "explanation": "কখন (kôkhôn) means 'when' and is used for time questions"
+    },
+    {
+      "question": "How is Bengali sentence structure different from English?",
+      "options": [
+        "Bengali uses VSO order",
+        "Bengali uses SOV order instead of SVO",
+        "Bengali has no fixed word order",
+        "Bengali uses OVS order"
+      ],
+      "correct_answer": 1,
+      "explanation": "Bengali uses Subject-Object-Verb (SOV) order, while English uses Subject-Verb-Object (SVO)"
     }
   ]
 }

@@ -60,7 +60,7 @@
     {
       "bengali": "সে পড়ে কিন্তু বোঝে না",
       "english": "He reads but doesn't understand",
-      "phonetic": "śe poṛe kintu bōjhena",
+      "phonetic": "śe pôṛe kintu bōjhena",
       "pronunciation_guide": "Compound: কিন্তু shows contrast between clauses"
     },
     {
@@ -78,19 +78,19 @@
     {
       "bengali": "যখন বৃষ্টি হয় তখন থাকি",
       "english": "When it rains, I stay",
-      "phonetic": "yôkhôn br̥ṣṭi hōẏ tôkhôn thāki",
+      "phonetic": "yokhon br̥ṣṭi hōẏ tokhôn thāki",
       "pronunciation_guide": "Complex: যখন...তখন for time relationship"
     },
     {
       "bengali": "যদি টাকা থাকে তাহলে যাব",
       "english": "If I have money, I will go",
-      "phonetic": "yôdi ṭākā thāke tāhole yāb",
+      "phonetic": "yodi ṭākā thāke tāhôle yāb",
       "pronunciation_guide": "Complex: যদি...তাহলে for conditional"
     },
     {
       "bengali": "কারণ অসুস্থ তাই আসিনি",
       "english": "Because I was sick, I didn't come",
-      "phonetic": "kārôn ôśusthô tāi āśini",
+      "phonetic": "kāron ośusthô tāi āśini",
       "pronunciation_guide": "Complex: কারণ...তাই for reason and result"
     },
     {
@@ -114,13 +114,13 @@
     {
       "bengali": "যদি বৃষ্টি হয় তাহলে যাব না",
       "english": "If it rains, I won't go",
-      "phonetic": "yôdi br̥ṣṭi hōẏ tāhole yāb na",
+      "phonetic": "yodi br̥ṣṭi hōẏ tāhôle yāb na",
       "pronunciation_guide": "Conditional: Real condition with present tense"
     },
     {
       "bengali": "যদি টাকা থাকত তাহলে যেতাম",
       "english": "If I had money, I would go",
-      "phonetic": "yôdi ṭākā thāktô tāhole yetām",
+      "phonetic": "yodi ṭākā thākto tāhôle yetām",
       "pronunciation_guide": "Conditional: Hypothetical with past tense"
     },
     {
@@ -138,37 +138,37 @@
     {
       "bengali": "চা খাও অথবা কফি খাও",
       "english": "Drink tea or drink coffee",
-      "phonetic": "chā khāo othôbā kôphi khāo",
+      "phonetic": "chā khāo othobā kophi khāô",
       "pronunciation_guide": "Compound: অথবা offers alternatives"
     },
     {
       "bengali": "সে ভালো পড়ে তাই ভালো নম্বর পায়",
       "english": "He studies well so gets good marks",
-      "phonetic": "śe bhālō poṛe tāi bhālō nômbôr pāẏ",
+      "phonetic": "śe bhālō poṛe tāi bhālō nombôr pāẏ",
       "pronunciation_guide": "Compound: তাই connects cause and effect"
     },
     {
       "bengali": "যখন সন্ধ্যা হয় তখন বাড়ি ফিরি",
       "english": "When evening comes, I return home",
-      "phonetic": "yôkhôn śôndhā hōẏ tôkhôn bāṛi phiri",
+      "phonetic": "yokhon śondhā hōẏ tokhôn bāṛi phiri",
       "pronunciation_guide": "Complex: Time conjunction যখন"
     },
     {
       "bengali": "যদি সময় থাকে তাহলে দেখা করব",
       "english": "If I have time, I will meet",
-      "phonetic": "yôdi śômôẏ thāke tāhole dekhā kôrbô",
+      "phonetic": "yodi śomoẏ thāke tāhole dekhā korbô",
       "pronunciation_guide": "Complex: Conditional with future result"
     },
     {
       "bengali": "কারণ বৃষ্টি হচ্ছে তাই ভিজছি",
       "english": "Because it's raining, I'm getting wet",
-      "phonetic": "kārôn br̥ṣṭi hôchche tāi bhijchhi",
+      "phonetic": "kāron br̥ṣṭi hôchche tāi bhijchhi",
       "pronunciation_guide": "Complex: Reason conjunction কারণ"
     },
     {
       "bengali": "আমি মনে করি যে এটা ঠিক",
       "english": "I think that this is correct",
-      "phonetic": "āmi mône kôri ye eṭā ṭhik",
+      "phonetic": "āmi mone kôri ye eṭā ṭhik",
       "pronunciation_guide": "Complex: 'That' clause after verb of thinking"
     },
     {
@@ -180,19 +180,19 @@
     {
       "bengali": "খাবার যে তুমি রান্না করেছ সেটা সুস্বাদু",
       "english": "The food that you cooked is delicious",
-      "phonetic": "khābār ye tumi rānnā kôrechô śeṭā śuśbādu",
+      "phonetic": "khābār ye tumi rānnā korechô śeṭā śuśbādu",
       "pronunciation_guide": "Relative: Modifies the food"
     },
     {
       "bengali": "যদি পরীক্ষা না থাকত তাহলে বের হতাম",
       "english": "If there was no exam, I would go out",
-      "phonetic": "yôdi pôrikṣā nā thāktô tāhole ber hôtām",
+      "phonetic": "yodi porikṣā nā thākto tāhole ber hôtām",
       "pronunciation_guide": "Conditional: Contrary to fact"
     },
     {
       "bengali": "যদি সাহায্য চাও তাহলে বল",
       "english": "If you want help, say so",
-      "phonetic": "yôdi śāhāyyô chāo tāhole bôl",
+      "phonetic": "yodi śāhāyyo chāo tāhole bôl",
       "pronunciation_guide": "Conditional: Real possibility"
     },
     {
@@ -210,25 +210,25 @@
     {
       "bengali": "যখন শীত পড়ে তখন ঠাণ্ডা লাগে",
       "english": "When winter comes, I feel cold",
-      "phonetic": "yôkhôn śīt poṛe tôkhôn ṭhāṅḍā lāge",
+      "phonetic": "yokhon śīt poṛe tokhôn ṭhāṅḍā lāge",
       "pronunciation_guide": "Complex: Seasonal time reference"
     },
     {
       "bengali": "যে গানটা শুনছি সেটা সুন্দর",
       "english": "The song that I'm listening to is beautiful",
-      "phonetic": "ye gānṭā śunôchhi śeṭā śundôr",
+      "phonetic": "ye gānṭā śunochhi śeṭā śundôr",
       "pronunciation_guide": "Relative: Describes the song"
     },
     {
       "bengali": "কারণ দেরি হয়েছে তাই দুঃখিত",
       "english": "Because I'm late, I'm sorry",
-      "phonetic": "kārôn deri hôẏeche tāi duḥkhitô",
+      "phonetic": "kāron deri hoẏeche tāi duḥkhitô",
       "pronunciation_guide": "Complex: Reason for apology"
     },
     {
       "bengali": "যদি জানতাম তাহলে বলতাম",
       "english": "If I knew, I would tell",
-      "phonetic": "yôdi jāntām tāhole bôltām",
+      "phonetic": "yodi jāntām tāhole bôltām",
       "pronunciation_guide": "Conditional: Past hypothetical"
     }
   ],

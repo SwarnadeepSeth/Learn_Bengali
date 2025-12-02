@@ -31,7 +31,7 @@
     {
       "bengali": "পশ্চিম",
       "english": "west",
-      "phonetic": "pôścim",
+      "phonetic": "pôśchim",
       "pronunciation_guide": "like 'posh-chim'",
       "audio_tip": "aspirated 'śc'"
     },
@@ -59,7 +59,7 @@
     {
       "bengali": "পিছনে",
       "english": "behind",
-      "phonetic": "pichne",
+      "phonetic": "pichone",
       "pronunciation_guide": "like 'pich-ne'",
       "audio_tip": "clear 'ch'"
     },
@@ -80,8 +80,8 @@
     {
       "bengali": "ভিতরে",
       "english": "inside",
-      "phonetic": "bhitrô",
-      "pronunciation_guide": "like 'bhi-tro'",
+      "phonetic": "bhitore",
+      "pronunciation_guide": "like 'bhi-tore'",
       "audio_tip": "aspirated 'bh'"
     },
     {
@@ -115,7 +115,7 @@
     {
       "bengali": "চারপাশে",
       "english": "around",
-      "phonetic": "cārpāśe",
+      "phonetic": "chārpāśe",
       "pronunciation_guide": "like 'char-pa-she'",
       "audio_tip": "aspirated 'pāś'"
     },
@@ -187,10 +187,10 @@
     {
       "question": "What is the Bengali word for 'north'?",
       "options": [
-        "উত্তর",
-        "দক্ষিণ",
-        "পূর্ব",
-        "পশ্চিম"
+        "উত্তর (uttôr)",
+        "দক্ষিণ (dôkṣiṇ)",
+        "পূর্ব (pūrbô)",
+        "পশ্চিম (pôśchim)"
       ],
       "correct_answer": 0,
       "explanation": "উত্তর (uttôr) means north",
@@ -226,15 +226,15 @@
     {
       "question": "Which Bengali word means 'west'?",
       "options": [
-        "উত্তর",
-        "দক্ষিণ",
-        "পশ্চিম",
-        "পূর্ব"
+        "উত্তর (uttôr)",
+        "দক্ষিণ (dôkṣiṇ)",
+        "পশ্চিম (pôśchim)",
+        "পূর্ব (pūrbô)"
       ],
       "correct_answer": 2,
-      "explanation": "পশ্চিম (pôścim) means west",
+      "explanation": "পশ্চিম (pôśchim) means west",
       "bengali_focus": "পশ্চিম",
-      "phonetic_focus": "pôścim"
+      "phonetic_focus": "pôśchim"
     },
     {
       "question": "What is ডান?",
@@ -252,10 +252,10 @@
     {
       "question": "Which word means 'left'?",
       "options": [
-        "সামনে",
-        "পিছনে",
-        "বাম",
-        "উপরে"
+        "সামনে (sāmne)",
+        "পিছনে (pichone)",
+        "বাম (bām)",
+        "উপরে (upôre)"
       ],
       "correct_answer": 2,
       "explanation": "বাম (bām) means left",
@@ -278,15 +278,15 @@
     {
       "question": "Which Bengali word means 'behind'?",
       "options": [
-        "উপরে",
-        "নিচে",
-        "পিছনে",
-        "ভিতরে"
+        "উপরে (upôre)",
+        "নিচে (niche)",
+        "পিছনে (pichone)",
+        "ভিতরে (bhitore)"
       ],
       "correct_answer": 2,
-      "explanation": "পিছনে (pichne) means behind",
+      "explanation": "পিছনে (pichone) means behind",
       "bengali_focus": "পিছনে",
-      "phonetic_focus": "pichne"
+      "phonetic_focus": "pichone"
     },
     {
       "question": "What is উপরে?",
@@ -304,10 +304,10 @@
     {
       "question": "Which word means 'below'?",
       "options": [
-        "ভিতরে",
-        "বাইরে",
-        "নিচে",
-        "কাছে"
+        "ভিতরে (bhitore)",
+        "বাইরে (bāire)",
+        "নিচে (niche)",
+        "কাছে (kāche)"
       ],
       "correct_answer": 2,
       "explanation": "নিচে (niche) means below or down",
@@ -323,17 +323,17 @@
         "Far"
       ],
       "correct_answer": 2,
-      "explanation": "ভিতরে (bhitrô) means inside",
+      "explanation": "ভিতরে (bhitore) means inside",
       "bengali_focus": "ভিতরে",
-      "phonetic_focus": "bhitrô"
+      "phonetic_focus": "bhitore"
     },
     {
       "question": "Which Bengali word means 'outside'?",
       "options": [
-        "কাছে",
-        "দূরে",
-        "বাইরে",
-        "মাঝখানে"
+        "কাছে (kāche)",
+        "দূরে (dūre)",
+        "বাইরে (bāire)",
+        "মাঝখানে (mājhkhāne)"
       ],
       "correct_answer": 2,
       "explanation": "বাইরে (bāire) means outside",
@@ -356,10 +356,10 @@
     {
       "question": "Which word means 'far'?",
       "options": [
-        "চারপাশে",
-        "সোজা",
-        "দূরে",
-        "বাঁকা"
+        "চারপাশে (chārpāśe)",
+        "সোজা (sōjā)",
+        "দূরে (dūre)",
+        "বাঁকা (bāṅkā)"
       ],
       "correct_answer": 2,
       "explanation": "দূরে (dūre) means far",
@@ -382,15 +382,15 @@
     {
       "question": "Which Bengali word means 'around'?",
       "options": [
-        "সোজা",
-        "বাঁকা",
-        "চারপাশে",
-        "ক্রসিং"
+        "সোজা (sōjā)",
+        "বাঁকা (bāṅkā)",
+        "চারপাশে (chārpāśe)",
+        "ক্রসিং (krôsiṅ)"
       ],
       "correct_answer": 2,
-      "explanation": "চারপাশে (cārpāśe) means around",
+      "explanation": "চারপাশে (chārpāśe) means around",
       "bengali_focus": "চারপাশে",
-      "phonetic_focus": "cārpāśe"
+      "phonetic_focus": "chārpāśe"
     },
     {
       "question": "What is সোজা?",
@@ -408,10 +408,10 @@
     {
       "question": "Which word means 'curved'?",
       "options": [
-        "ক্রসিং",
-        "সিগন্যাল",
-        "বাঁকা",
-        "রাস্তা"
+        "ক্রসিং (krôsiṅ)",
+        "সিগন্যাল (signāl)",
+        "বাঁকা (bāṅkā)",
+        "রাস্তা (rāstā)"
       ],
       "correct_answer": 2,
       "explanation": "বাঁকা (bāṅkā) means curved or bent",
@@ -434,10 +434,10 @@
     {
       "question": "Which Bengali word means 'traffic signal'?",
       "options": [
-        "মোড়",
-        "ব্রিজ",
-        "সিগন্যাল",
-        "টানেল"
+        "মোড় (mōṛ)",
+        "ব্রিজ (brij)",
+        "সিগন্যাল (signāl)",
+        "টানেল (ṭānel)"
       ],
       "correct_answer": 2,
       "explanation": "সিগন্যাল (signāl) means traffic signal",
@@ -460,10 +460,10 @@
     {
       "question": "Which word means 'turn'?",
       "options": [
-        "ব্রিজ",
-        "টানেল",
-        "মোড়",
-        "ম্যাপ"
+        "ব্রিজ (brij)",
+        "টানেল (ṭānel)",
+        "রাস্তা (rāstā)",
+        "মোড় (mōṛ)"
       ],
       "correct_answer": 2,
       "explanation": "মোড় (mōṛ) means turn or corner",
@@ -486,10 +486,10 @@
     {
       "question": "Which Bengali word means 'tunnel'?",
       "options": [
-        "ম্যাপ",
-        "রাস্তা",
-        "টানেল",
-        "মোড়"
+        "ম্যাপ (myāp)",
+        "রাস্তা (rāstā)",
+        "টানেল (ṭānel)",
+        "মোড় (mōṛ)"
       ],
       "correct_answer": 2,
       "explanation": "টানেল (ṭānel) means tunnel",

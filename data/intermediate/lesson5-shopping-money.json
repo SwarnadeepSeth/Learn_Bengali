@@ -187,10 +187,10 @@
     {
       "question": "What is the Bengali word for 'money'?",
       "options": [
-        "টাকা",
-        "দাম",
-        "কেনা",
-        "বিক্রি"
+        "টাকা (ṭākā)",
+        "দাম (dām)",
+        "কেনা (kenā)",
+        "বিক্রি (bikri)"
       ],
       "correct_answer": 0,
       "explanation": "টাকা (ṭākā) means money",
@@ -200,10 +200,10 @@
     {
       "question": "Which word means 'price'?",
       "options": [
-        "দোকান",
-        "বাজার",
-        "দাম",
-        "ক্রেতা"
+        "দোকান (dōkān)",
+        "বাজার (bājār)",
+        "দাম (dām)",
+        "ক্রেতা (krētā)"
       ],
       "correct_answer": 2,
       "explanation": "দাম (dām) means price",
@@ -226,10 +226,10 @@
     {
       "question": "Which Bengali word means 'to sell'?",
       "options": [
-        "ক্রেতা",
-        "বিক্রেতা",
-        "বিক্রি",
-        "পণ্য"
+        "ক্রেতা (krētā)",
+        "বিক্রেতা (bikrētā)",
+        "বিক্রি (bikri)",
+        "পণ্য (pôṇyô)"
       ],
       "correct_answer": 2,
       "explanation": "বিক্রি (bikri) means to sell",
@@ -252,10 +252,10 @@
     {
       "question": "Which word means 'market'?",
       "options": [
-        "পণ্য",
-        "মূল্য",
-        "বাজার",
-        "ছাড়"
+        "পণ্য (pôṇyô)",
+        "মূল্য (mūlyô)",
+        "বাজার (bājār)",
+        "ছাড় (chāṛ)"
       ],
       "correct_answer": 2,
       "explanation": "বাজার (bājār) means market",
@@ -278,10 +278,10 @@
     {
       "question": "Which Bengali word means 'seller'?",
       "options": [
-        "ছাড়",
-        "বিল",
-        "বিক্রেতা",
-        "পরিশোধ"
+        "ছাড় (chāṛ)",
+        "বিল (bil)",
+        "বিক্রেতা (bikrētā)",
+        "পরিশোধ (pôriśōdh)"
       ],
       "correct_answer": 2,
       "explanation": "বিক্রেতা (bikrētā) means seller",
@@ -304,10 +304,10 @@
     {
       "question": "Which word means 'discount'?",
       "options": [
-        "নগদ",
-        "কার্ড",
-        "ছাড়",
-        "মুদ্রা"
+        "নগদ (nôgôd)",
+        "কার্ড (kārḍ)",
+        "ছাড় (chāṛ)",
+        "মুদ্রা (mudrā)"
       ],
       "correct_answer": 2,
       "explanation": "ছাড় (chāṛ) means discount",
@@ -330,10 +330,10 @@
     {
       "question": "Which Bengali word means 'payment'?",
       "options": [
-        "খুচরা",
-        "পাইকারি",
-        "পরিশোধ",
-        "মজুত"
+        "খুচরা (khucrô)",
+        "পাইকারি (pāikāri)",
+        "পরিশোধ (pôriśōdh)",
+        "মজুত (môjut)"
       ],
       "correct_answer": 2,
       "explanation": "পরিশোধ (pôriśōdh) means payment",
@@ -358,7 +358,7 @@
       "options": [
         "Wholesale",
         "Stock",
-        "কার্ড",
+        "কার্ড (kārḍ)",
         "Order"
       ],
       "correct_answer": 2,
@@ -384,7 +384,7 @@
       "options": [
         "Budget",
         "Cheap",
-        "খুচরা",
+        "খুচরা (khucrô)",
         "Stock"
       ],
       "correct_answer": 2,
@@ -410,7 +410,7 @@
       "options": [
         "Guarantee",
         "Budget",
-        "মজুত",
+        "মজুত (môjut)",
         "Cheap"
       ],
       "correct_answer": 2,
@@ -436,7 +436,7 @@
       "options": [
         "Return",
         "Guarantee",
-        "ডেলিভারি",
+        "ডেলিভারি (ḍelivôri)",
         "Budget"
       ],
       "correct_answer": 2,
@@ -462,7 +462,7 @@
       "options": [
         "Budget",
         "Cheap",
-        "গ্যারান্টি",
+        "গ্যারান্টি (gyārāṇṭi)",
         "Money"
       ],
       "correct_answer": 2,
