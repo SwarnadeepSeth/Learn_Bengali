@@ -12,11 +12,11 @@
     { "bengali": "কিন্তু", "english": "but", "phonetic": "kintu", "note": "Used to show contrast." },
     { "bengali": "অথবা", "english": "or", "phonetic": "othoba", "note": "Formal, used for choices." },
     { "bengali": "বা", "english": "or", "phonetic": "ba", "note": "Informal, very common in speech." },
-    { "example_bengali": "আমি ভাত এবং ডাল খাই।", "example_english": "I eat rice and lentils.", "phonetic": "Ami bhat ebong dal khai." },
-    { "example_bengali": "চা আর বিস্কুট।", "example_english": "Tea and biscuits.", "phonetic": "Cha aar biskut." },
-    { "example_bengali": "আমি যাব কিন্তু সে যাবে না।", "example_english": "I will go but he will not go.", "phonetic": "Ami jabo kintu she jabe na." },
-    { "example_bengali": "তুমি চা অথবা কফি চাও?", "example_english": "Do you want tea or coffee?", "phonetic": "Tumi cha othoba coffee chao?" },
-    { "example_bengali": "লাল বা নীল।", "example_english": "Red or blue.", "phonetic": "Lal ba neel." }
+    { "bengali": "আমি ভাত এবং ডাল খাই।", "english": "I eat rice and lentils.", "phonetic": "Ami bhat ebong dal khai." },
+    { "bengali": "চা আর বিস্কুট।", "english": "Tea and biscuits.", "phonetic": "Cha aar biskut." },
+    { "bengali": "আমি যাব কিন্তু সে যাবে না।", "english": "I will go but he will not go.", "phonetic": "Ami jabo kintu she jabe na." },
+    { "bengali": "তুমি চা অথবা কফি চাও?", "english": "Do you want tea or coffee?", "phonetic": "Tumi cha othoba coffee chao?" },
+    { "bengali": "লাল বা নীল।", "english": "Red or blue.", "phonetic": "Lal ba neel." }
   ],
   "quiz_questions": [
     { "question": "Which word means 'but'?", "options": ["এবং (ebong)", "কিন্তু (kintu)", "অথবা (othoba)", "আর (aar)"], "correct_answer": 1, "explanation": "'কিন্তু' (kintu) is used to show contrast, meaning 'but'." },
